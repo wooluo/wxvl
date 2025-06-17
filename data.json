@@ -15286,5 +15286,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=2&sn=d3e035c89c35c26ad0a1cad90861ac97": "CISA 将TP-Link 路由器高危漏洞纳入KEV",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497741&idx=1&sn=c95ab3ad8c90379ea5e19a191a4afed0": "AI大模型漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485905&idx=1&sn=bde9c0b7742a30ff31614872d63a3cbd": "【漏洞复现】契约锁远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=4&sn=bdd8e81bf4090a9661e5fabf07d8ef15": "CVE-2025-49596：MCP Inspector 严重远程代码执行漏洞威胁AI开发环境安全"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=4&sn=bdd8e81bf4090a9661e5fabf07d8ef15": "CVE-2025-49596：MCP Inspector 严重远程代码执行漏洞威胁AI开发环境安全",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501194&idx=2&sn=37f99ddcaa7215ce29f34e62e2ac5eda": "【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=1&sn=50e822ff30e5cc7f931139cb1a288b2c": "华硕 Armoury Crate漏洞可导致攻击者获取Windows 管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492841&idx=1&sn=35527e48f4ac1c111cbc002aa26d6bb8": "【已复现】泛微 E-cology SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491309&idx=1&sn=6178a36525fbb6268e0ad09a12e1a80f": "Docker Registry 5000端口漏洞图形化利用工具实战指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷"
 }
