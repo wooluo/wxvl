@@ -15273,5 +15273,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611086&idx=4&sn=4dc6be3b6793503ac045fc0d6f0219ac": "Wavely | 高效便捷的图形化Nuclei GUI POC管理工具",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530953&idx=1&sn=e656629e8557b107087e25b60413ad2c": "【威胁】GreyNoise 发现针对多个国家的Zyxel设备进行 CVE-2023-28771 的漏洞利用尝试",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795449&idx=2&sn=404c6ef81f1ab1d5139b13e0918bb13b": "SinoTrack GPS 漏洞可能允许攻击者跟踪和控制车辆",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247520768&idx=1&sn=5d38e98a33103bbc9c386a357f878f50": "《2025年攻防演练必修高危漏洞合集》"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247520768&idx=1&sn=5d38e98a33103bbc9c386a357f878f50": "《2025年攻防演练必修高危漏洞合集》",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488631&idx=1&sn=0959127aeca102138d0d93b25dd5dc17": "AstrBot get_file接口存在任意文件读取漏洞CVE-2025-48957 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283293&idx=1&sn=43a759909d993732d05e4f089c10dfbe": "渗透测试工程师（高级）证书（终身有效）靶场+CTF赛题双演练，SQL注入∕XSS∕反序列化漏洞实战，网渗透（隧道∕提权∕免杀）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096336&idx=2&sn=c3e591e98ec6f4b4800be540858e1ccc": "针对 Windows 磁盘清理提升漏洞的 PoC 漏洞揭晓",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=1&sn=ea5a04de3ac9f9e781c22bd8c4965af3": "Apache Tomcat 漏洞允许绕过身份验证和 DoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485947&idx=1&sn=ba767dba115ee2c0bbfec4ae94498e0c": "CVE-2025-49001 Dataease JWT 认证绕过导致未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070217&idx=3&sn=95c2556df13add7b94e2b92ec3ea503d": "【安全圈】“微软修复 Windows Hello 欺骗漏洞：黑暗中人脸识别功能被禁用”",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494025&idx=1&sn=c65c31ec37d498ceaebb43aa278a3646": "【在野利用】Windows WebDAV 远程代码执行漏洞(CVE-2025-33053)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070217&idx=4&sn=24357525bac3eedf8eb46ebe78022a55": "【安全圈】“Grafana Ghost”漏洞曝光，近四成公网实例仍未修复",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484894&idx=1&sn=ce166fe89794c77dc20e0a9e1cb74fe1": "【复现】泛微E-cology9 前台SQL注入漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=2&sn=d3e035c89c35c26ad0a1cad90861ac97": "CISA 将TP-Link 路由器高危漏洞纳入KEV",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497741&idx=1&sn=c95ab3ad8c90379ea5e19a191a4afed0": "AI大模型漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485905&idx=1&sn=bde9c0b7742a30ff31614872d63a3cbd": "【漏洞复现】契约锁远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=4&sn=bdd8e81bf4090a9661e5fabf07d8ef15": "CVE-2025-49596：MCP Inspector 严重远程代码执行漏洞威胁AI开发环境安全"
 }
