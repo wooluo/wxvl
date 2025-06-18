@@ -15327,5 +15327,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488450&idx=1&sn=34b5434a55a02c05bb35ebef8f08aa3c": "CVE-2025-33073！Microsoft SMB 客户端特权提升漏洞 漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487229&idx=1&sn=0ce71172eb185b6cb55ce2ff4dcbb9f0": "用友NC importTemplate方法XXE漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583016&idx=1&sn=3779c200d5b53c656dd00799324e1aea": "超过84000个Roundcube网络邮件安装受到RCE漏洞影响",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499832&idx=6&sn=369107d65d8d91b7d758baecb6c1c41a": "Apple：多个操作系统中的安全漏洞正遭受攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499832&idx=6&sn=369107d65d8d91b7d758baecb6c1c41a": "Apple：多个操作系统中的安全漏洞正遭受攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523322&idx=1&sn=33329d3ec49e0f180be0dcedb8cd70a4": "谷歌 Gerrit 代码平台漏洞可用于供应链攻击，18个谷歌项目受影响",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483899&idx=1&sn=bfa971e99ccf2de2cca3003ba7451dbc": "车联网安全进阶之GB∕T 45496漏洞风险等级计算器发布",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490265&idx=2&sn=fbdfd14e660079cd2400bb3ddf8f2342": "【高危漏洞预警】Windows SMB 权限提升漏洞(CVE-2025-33073)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519484&idx=1&sn=7bbad01455dcf564a7f70052be340777": "微软漏洞赏金TOP教你攻击网络协议",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483900&idx=1&sn=be8d8fa3454a2c1ca471da2c0492a994": "URL跳转漏洞-原理到实战",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490423&idx=1&sn=36a82489f3056c2530dd2906ac91c352": "【已复现】泛微E-cology9存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524831&idx=3&sn=aa81460de131a6a4c34d00340246d498": "XDSpy组织利用Windows LNK零日漏洞窃取敏感信息",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523322&idx=2&sn=347204929358f8a4c82b2634e62774cd": "Veeam RCE漏洞导致域用户入侵备份服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499843&idx=1&sn=4586afaa6722de8983da0a1c104db042": "Chrome 漏洞让攻击者执行任意代码 - 立即更新！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=1&sn=9761f150a71b2c5fb70b38b9a089006c": "【已复现】泛微 E-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503510&idx=1&sn=709598245f5b6c9c5d897727f106c25b": "【已复现】泛微E-cology9 SQL注入漏洞(QVD-2025-23834)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484906&idx=1&sn=f34099f37ed06bb9ba3ccb49e3fe7bd5": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第24期，总第42期]"
 }
