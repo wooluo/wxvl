@@ -28,43 +28,12 @@ jobs:
          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         python run.py today | tee /tmp/update.log
-    - name: Generate doc/index.md
-      run: |
-        # 创建文档目录（如果不存在）
-        mkdir -p doc
-        
-        # 生成文档列表头部
-        echo "# 文档列表" > doc/index.md
-        echo "" >> doc/index.md
-        
-        # 查找doc目录下的所有.md文件并生成链接
-        find doc -type f -name "*.md" | while read -r file; do
-          # 移除doc/前缀
-          relative_path="${file#doc/}"
-          
-          # 获取文件标题（第一行以#开头的内容）
-          title=$(head -n 1 "$file" | grep '^#' | sed 's/^#* //')
-          
-          # 如果没有标题，使用文件名
-          if [ -z "$title" ]; then
-            title=$(basename "$file" .md)
-          fi
-          
-          # URL编码路径
-          encoded_path=$(echo "$relative_path" | python -c 'import sys, urllib.parse as ul; print(ul.quote(sys.stdin.read().strip()))')
-          
-          # 添加到index.md
-          echo "- [$title]($encoded_path)" >> doc/index.md
-        done
-        
-        # 显示生成的内容
-        cat doc/index.md
     - name: Commit and push if changed
       run: |
         git config --global user.email "test"
         git config --global user.name "test"
         git add .
         MESSAGE=$(cat /tmp/update.log)
-        COMMIT_MESSAGE="Update doc/index.md with latest file list\n\n$MESSAGE"
+        COMMIT_MESSAGE="$MESSAGE"
         git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
         git push
