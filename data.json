@@ -15316,5 +15316,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507803&idx=1&sn=86dc1cb7aa276652b00ba6cfc10b35ff": "漏洞通告 | 泛微E-cology9 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463187&idx=1&sn=b6fce76866b61fca2a9d4d739e5dadc3": "信息安全漏洞周报（2025年第24期）",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795462&idx=2&sn=f95519494af0be8a5c1008929290892b": "Team46 APT组织积极利用 Chrome 0day漏洞（CVE-2025-2783）针对俄罗斯目标",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492478&idx=1&sn=f7c44f86be38638134d679e6fb3b8ffd": "ChkApi - API漏洞安全检测自动化工具、解析Swagger规范Bypass未授权检测等|漏洞探测"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492478&idx=1&sn=f7c44f86be38638134d679e6fb3b8ffd": "ChkApi - API漏洞安全检测自动化工具、解析Swagger规范Bypass未授权检测等|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491850&idx=1&sn=db77a285148d62fa2e546f05b9fb823e": "Apache Kafka Connect 任意文件读取漏洞(CVE-2025-27817)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490784&idx=1&sn=03b9839ecd75272e21510ef54162c9c9": "众测攻防技术深度剖析：突破WAF、框架漏洞利用与新型攻击面",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512840&idx=1&sn=25320ff14a997f0602c48762a5463d3b": "外网打点、专项漏洞、云上攻防、内网横向",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512481&idx=1&sn=d403af9b610a2084cd79b961b4835b40": "佳能imageCLASS打印机RCE漏洞分析"
 }
