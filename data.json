@@ -15323,5 +15323,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512481&idx=1&sn=d403af9b610a2084cd79b961b4835b40": "佳能imageCLASS打印机RCE漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611105&idx=3&sn=44818c48fdb0f6d90c788f8898b09b6f": "记一次AMD漏洞挖掘：从文件权限配置错误到驱动权限提升",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499890&idx=1&sn=03ae7202852a3f6cd511140924332eac": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488048&idx=1&sn=c22d6a5bbf0f8be3bc37e5f2f52c71ef": "基于OSI模型来挖洞的思想转变来找到那些被忽略的漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488048&idx=1&sn=c22d6a5bbf0f8be3bc37e5f2f52c71ef": "基于OSI模型来挖洞的思想转变来找到那些被忽略的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488450&idx=1&sn=34b5434a55a02c05bb35ebef8f08aa3c": "CVE-2025-33073！Microsoft SMB 客户端特权提升漏洞 漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487229&idx=1&sn=0ce71172eb185b6cb55ce2ff4dcbb9f0": "用友NC importTemplate方法XXE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583016&idx=1&sn=3779c200d5b53c656dd00799324e1aea": "超过84000个Roundcube网络邮件安装受到RCE漏洞影响",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499832&idx=6&sn=369107d65d8d91b7d758baecb6c1c41a": "Apple：多个操作系统中的安全漏洞正遭受攻击"
 }
