@@ -15305,5 +15305,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486874&idx=1&sn=1bd11f18b1b91e3584adad042b203501": "漏洞变现金：我的31500美元Facebook漏洞赏金之旅 0x2",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323227&idx=3&sn=8d510d5113b805e0f18388a6539e982a": "MCP Inspector严重远程代码执行漏洞威胁AI开发环境安全",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497566&idx=1&sn=7ca3acd12c46d02b2e700204922bc7c2": "【漏洞通告】Apache Tomcat安全约束绕过漏洞安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=2&sn=3fc5387da9750f0124a0ec66bb9729e0": "漏洞预警 | 用友NC任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=2&sn=3fc5387da9750f0124a0ec66bb9729e0": "漏洞预警 | 用友NC任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247520801&idx=1&sn=2013891b7fd924d8bbd7bd68b0992527": "《2025HW必修高危漏洞集合（3.0版）》",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499897&idx=1&sn=649c7f9c9def0da85b8b2c0a01565914": ".NET 基于 MachineKey 一键维持权限，通过 ViewState 反序列化工具实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491590&idx=1&sn=6bfe24a76d37d4ec6e48d96ef743b047": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月17日",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283404&idx=1&sn=187c7df781065431e5dee9a956eb72ae": "2025年攻防演练必修高危漏洞合集",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486221&idx=1&sn=529cec00a3ba14d99ac6e06d6724c586": "工具集：VIte_ExpTools【vite任意文件读取一键利用工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484455&idx=1&sn=8bf8fbd3974c9a431d5598daf4fca49d": "域内大杀器 CVE-2025-33073 漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492348&idx=1&sn=3459eb764f6bc4eef3a045f28ea47745": "【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507803&idx=1&sn=86dc1cb7aa276652b00ba6cfc10b35ff": "漏洞通告 | 泛微E-cology9 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463187&idx=1&sn=b6fce76866b61fca2a9d4d739e5dadc3": "信息安全漏洞周报（2025年第24期）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795462&idx=2&sn=f95519494af0be8a5c1008929290892b": "Team46 APT组织积极利用 Chrome 0day漏洞（CVE-2025-2783）针对俄罗斯目标",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492478&idx=1&sn=f7c44f86be38638134d679e6fb3b8ffd": "ChkApi - API漏洞安全检测自动化工具、解析Swagger规范Bypass未授权检测等|漏洞探测"
 }

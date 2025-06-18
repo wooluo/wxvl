@@ -1,5 +1,5 @@
 #  【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘  
-原创 C@ig0  菜狗安全   2025-06-12 00:31  
+ 实战安全研究   2025-06-18 02:00  
   
 ![](https://mmbiz.qpic.cn/mmbiz_gif/QtaE6uFmibPlPBODMGcLpNt9QBAWypThblPVAndvyTpQFwq1A0r1dWhvB7eMS9aib6BWewwHCOepINib6su4KMIibw/640?wx_fmt=gif&from=appmsg "")  
   
