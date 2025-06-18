@@ -15291,5 +15291,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=1&sn=50e822ff30e5cc7f931139cb1a288b2c": "华硕 Armoury Crate漏洞可导致攻击者获取Windows 管理员权限",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492841&idx=1&sn=35527e48f4ac1c111cbc002aa26d6bb8": "【已复现】泛微 E-cology SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491309&idx=1&sn=6178a36525fbb6268e0ad09a12e1a80f": "Docker Registry 5000端口漏洞图形化利用工具实战指南",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519127&idx=1&sn=ecea8dcd3f921a456ccbddba527c8ba0": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484672&idx=1&sn=5f9214cd934f0842aa5278e163286f38": "契约锁电子签章系统dbtest RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=1&sn=cc65bcd8f82f0fd1b46fd746ecbba41e": "漏洞预警 | Windows SMB权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488122&idx=1&sn=7dd4a081bf219591dd2dbc6b337abe09": "硬编码密码“b”引发重大风险！Sitecore XP漏洞威胁全球企业安全",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491094&idx=1&sn=a014710ea7216eacadbc94c61f81151b": "漏洞管理玩法已变",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485912&idx=1&sn=b776dcd81faed5bbc387e6e9a4b0332f": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486337&idx=1&sn=69f06f964a96e30b88d63f2d5a4e5f2e": "【工具分享】OSS漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494039&idx=1&sn=d9948d421667300e7aeab6bf61748a1b": "攻击者利用Zyxel远程代码执行漏洞CVE-2023-28771发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=3&sn=08058cf5a01e256b72d5aef1908c5172": "漏洞预警 | 四信通信科技有限公司设备管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489430&idx=4&sn=f3902e0390467757e2b77e6939daebb2": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486874&idx=1&sn=1bd11f18b1b91e3584adad042b203501": "漏洞变现金：我的31500美元Facebook漏洞赏金之旅 0x2",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323227&idx=3&sn=8d510d5113b805e0f18388a6539e982a": "MCP Inspector严重远程代码执行漏洞威胁AI开发环境安全",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497566&idx=1&sn=7ca3acd12c46d02b2e700204922bc7c2": "【漏洞通告】Apache Tomcat安全约束绕过漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=2&sn=3fc5387da9750f0124a0ec66bb9729e0": "漏洞预警 | 用友NC任意文件读取漏洞"
 }
