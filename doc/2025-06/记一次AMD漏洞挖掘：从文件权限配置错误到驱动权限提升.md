@@ -1,9 +1,7 @@
 #  记一次AMD漏洞挖掘：从文件权限配置错误到驱动权限提升  
-Ba1_Ma0  李白你好   2025-06-16 00:01  
+ 黑白之道   2025-06-18 02:02  
   
-**免责声明：**  
-由于传播、利用本公众号李白你好所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号李白你好及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 文章作者：先知社区（Ba1_Ma0）  
   
@@ -27,7 +25,7 @@ Ba1_Ma0  李白你好   2025-06-16 00:01
   
 在使用PrivescCheck工具收集信息时，发现AMD目录可以被用户修改  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaiaUzI8OCHJgibnwwk6XbLRnFMkoE1BOMTht8WjuiakcjshVO5eUDotJeg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLia2roc5DvZDKkUpjYD4ng9TKV0SAuSBpib7fGeR376cwDiazxL6yPPyC7w/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic&watermark=1 "")  
   
   
 虽然用户权限只能读取和执行，但Authenticated Users是可以对此文件夹进行修改的  
@@ -46,22 +44,22 @@ Authenticated Users（已认证用户） 是Windows操作系统中的一个安�
 在AMD文件内有两个子文件夹  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLianmb0QGFHibMkjO0Z4ppesagocyd3L6TDEQQuL9FcSpaV3U7kDP3w5kA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiamTZPw0iajGwVEwRFtlezMImPprSA64BxO3pLF4ibl6Ow4pv2uibSjJQZA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 经研究，AMD-Software-Installer文件夹只是Software程序的安装包目录，不重要，重要的是Chipset_Software文件夹  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiao2WEPZVAf1WBozAhYWMv75cbwb76XvFkcahQrtRk1pgP7kibZ9AkDUw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiastQszxseZ3aG16t20fW7I88HHhIiaKLIYdPckv1rjp5JpGSXuBOwe9w/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 其内部为AMD驱动安装配置文件，包括驱动inf安装配置文件，驱动sys程序，驱动msi安装  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaPd70FQq3IQpWVTWCcgic9zTyloeQ2b66hXGW1gcIInFKfdhE6R8bMIw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaEITmyUPDiaRnVMCRia2y8WA1W8ds6d7qibGlAhLHBoibT466rpxr5nFtRw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaCXSc0sq2lrsR8wjicsde9Q7ZOwib5BoOqWFnuibsSXaRz4ezODYG1RRzg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLia5DErluFNPyYzV1LYzz1Aq62IKqIAWZkWP4VnRMrTQQa0h4h5fQ8A2Q/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 普通用户对此文件夹内所有文件均可访问、执行与修改，最重要的是'修改'这个权限，代表用户可以无条件修改驱动的安装配置文件（.inf），也可以利用msi文件安装恶意程序  
@@ -77,31 +75,31 @@ C:\AMD\Chipset_Software\Binaries\PSP Driver\W11x64
 使用文本编辑器打开amdpsp.inf  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaiciaV6libQwJGvrsRicvPc7KdfXpplL32icAD6uq5245DHB3Ific0kGJRqkg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaTic04jicKpVPqPjz5Q4oNjATD6ibwggJqEk8SquRsicpx4p1EclVXNtEWg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 INF DestinationDirs Section 是 Windows 驱动程序安装文件（.inf）中的一个重要部分，用于定义文件在目标系统上的安装路径，它指定了驱动程序和相关文件应该被复制到哪个系统目录中，文件默认是从system32drivers目录下导入dll，可以修改配置文件，让它导入用户指定目录下的dll  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiajDfKzYpZraNBBqKQJIK4mBR8tUK1W1BFB15mpw1WGDfF8jRs6HA0yA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaxvftPCIetk4osV6UZZxMbVunMzM902XEg0usPIjRqYgiagriblIm1S4g/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 修改至从AMDChipset_SoftwareBinariesPSP DriverW11x64目录下导入dll，这个目录可控，能写入恶意dll  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaAohRzicI3KicuOs1UiaGd0KLW8sjJDD47yIvB9iaS4TAqjiaGuZ5ticpfZuA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaZkYLZ6XljpK7ZwHOJMV7rTWEFGfFiapksmAbo8uG93icj1icFv3icrFVXA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 这里是安装的sys程序，和移动system32目录下的dll，作用是将指定目录下的amdtee_api64.dll，amdtee_api32.dll移动到system32目录下  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiazOBibSXqcLuJTD7VdRbEOkRshNdXhQsMJkHogtPpWpseDX5AsqIMlkQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaL6OptgnVPpfpBy3Z5qjcw6Ob6rTwYwPicf48wc0DEv5JUNZPKwQTic8g/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 这里通过前面修改的文件夹，可以将AMDChipset_SoftwareBinariesPSP DriverW11x64目录下名为amdtee_api64.dll移动至system32目录下  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaElxmwmGCqFt3XhzXlhxibBH6TC2kPicNy4KsrH7YzxwwvvQtzEicUPmxw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaRhe5lPY0Ddk4s9J3rJNYwPLLRYWRBMhRpfkiaFXGWibuMmncNGj6KrfQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 为了区分，移动后的文件名改为了777.dll  
@@ -112,37 +110,37 @@ INF DestinationDirs Section 是 Windows 驱动程序安装文件（.inf）中的
 打开计算机管理，依次选择系统工具-设备管理器-安全设备-AMD PSP 11.0 Device，右击选择更新驱动程序  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaSNPZtKYiarqUVKibGIegqaaSwbJiaPpCgWr8DMtP66YI0j7swtYOSRHmA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiae2C8Kjpkqpd0DzvZC5OBJsnEibYPiccUM3MGOxkfF0iaY3Sfsibx4CLk7w/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 选择手动查找并安装驱动  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaFKUKric1KXDbzJLUREChcM6niamJza6yOJ16DiaPkQticFbTVXxibXibzLJg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaSUoNn2yDzkrpKY84WGoW8aHt2WmV394229ibT6G1JcKmWfL2ic7NOuibQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 选择从本地获取  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiadANTQfclmdKN9TIHEOmDoIDYYvx6jvDT470YuYKy2giaIQvla36UEWw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaPu0h82rhfrk5ov9OgbE9Rs18Qq7mSzlFINl2ondTKwnbOibsprSvsUQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 找到AMDChipset_SoftwareBinariesPSP DriverW11x64目录下的amdpsp.inf并点击确定  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaroyKXibEyD5YLagpIKP1HrBRhs76SCjVjEXjA0WIfHWXEgRqlUyeo2Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiazwkzBLEfnwAUy4icAy0MMWF7m0CKqT9dhNibAeJhiadtPyLjvAlJePvUA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaGGPXDwE4Y6BicsZnTm2QJCd4Y95SFu1q64ExSCXdkYyk65qujicrVX4Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLia18pWeePIJ1iaS1OfrZRqVggIBfcGUGyApvG5rrYkqd37BPuEqosMibfg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiabQGuDZz6r6iaCUl84S0wSbvl7CCbjkU2Uia6CkY5yUJe6DyeKLYDiaHvg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLialsUtqSPCTKmPIGiamYF8WLiczicZmeKFic3wib666sMkJRozpm6XibmcIeSQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 打开system32文件夹，成功将恶意文件移动至此目录  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaPGqrmHuvia63pMQ2UxgkB6g0ARmMPMmxfzudvP7zL395KZMaDSiaUIIw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaV3vtC5WxuEmCwXNicIfmee2dribibV41z9a7gmucNyZveNDeCck7M6GCg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 这里只是验证其中的一个文件移动操作。  
@@ -160,53 +158,53 @@ INF DestinationDirs Section 是 Windows 驱动程序安装文件（.inf）中的
 遗憾的是，正在运行的驱动文件夹也可以被修改  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaLmgNumA28RvoiaE0s9lay9JYtAcGHy2c9NJfbIQkA4PreJL7eohhshg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiau4AjiciaxRYdbdfwz2C3gCVxsbPTiadzXSIsyt6TlnV0ZHQH2d33pwnIg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 下图是其他正常驱动目录的配置权限，只有system权限才能完全控制  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiawd8iacpjunScI0AOaVQHAYCp0HhficamGcmmBHpQoHpXibFOFfdrwfRsw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaDiawU8Q9hDvv8eDgrXZagPIvxPsaIkZPZkScaJmWM01sicSxsFYMdUQg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 AMD External Events Service Module 存在一个权限提升漏洞，其中 atiesrxx.exe 会从当前目录加载一个不存在的 DLL（MSASN1.dll）到程序栈中执行。需要注意的是，由于用户可以修改驱动程序文件夹，而该文件夹中的内容会以系统权限执行，攻击者可利用此漏洞在本地机器上获取系统权限。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaDhf5m7giaosE9x67GrHx6aZIagNXTyib6Yyh0nJ13CG8hMPcAycibghFg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaThSiaMQgnXUwEtmGWibS2eqo4KUc5IMLMrSibQK4hiaXgqRykqLvpaMibuQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaKicsSiaK19vt3QZ2OL6AImu8rIkA8CY98ia9VxdmHNmkibMA89z9heOMbQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiamPc9EFaib0Hta9BpLzldYHXJtkTcEogib8ibGuibibQEAdiaH9tu6DdT87KQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 当 AMD External Events Service Module（atiesrxx.exe）运行时，它会从当前目录加载一个不存在的 DLL（MSASN1.dll）并在栈中执行。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLia0rsAomkj2SJWeoLtouWUyOJWx0wLnSAfySwzhURMMBTmHQGW1cj5xA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaOKw1RUvpb9ZkT5BknGQAhBiaAfQ5cQALv79jibW5gGw3xo6mPefp8jag/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 编写一个用于验证漏洞的 DLL，并将其重命名为 MSASN1.dll。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiavlicHwibtKKrtxx2rxiaJMzf6fMnb872IVEXHlMG8S8f2KrGibhtLB2sfA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiawXlXnD6G6vmu1dQEAibkd1A2IzSmKNYy08atOeQN8uEDjsGV4mviavTQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaZDXaMK5b5P8Psp0MdGHLrHtlns9ajARaDmHibx7bnI2suibxGXhhqCdw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiay3N7dibTMZshMASgJaO1q5CjI722U0JVYXotGZnodtnRxUCrcpYRMsg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 将 MSASN1.dll 移动到 AMD External Events Service Module 的驱动程序文件夹中。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaMycGx0brAmXib5v5ibnxG5z0zuzibcmAY4XL9ASO0D39LKppgyUdBZ78Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaX4uj5vgYWLkfT57ynYhgGf3HX6bD4kOAp28pNlyTC1Sqt5CibSZpiaicg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLial5cPlL61xnCZ2Qzr5AEHVMZOUB1N5v04qJia6ciaA3zGWibfUhtowj8qQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLia16vs1AlFycVJ4etKaFetmx2YQKIlfCff0pRmUTYFiarAPuqibw36TvLg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 重启服务后，  
 恶意 DLL 成功以系统权限加载并执行。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaLjVsiaicAsv7Xiaicf6wEBoyqbJYnOfsxCXyLZIZnwH8D5UA6g0Tb4G6sg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaJiaiaTuu9FABNutFnZJOOicXg2QUL3h29Byz8eHPxYticfpdMNm0Avu2tQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 因为服务是开机自启动的，所以还可用作权限维持  
@@ -218,24 +216,15 @@ AMD External Events Service Module 存在一个权限提升漏洞，其中 aties
 更新会发布安全公告或简报  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiac3Ac8a47nCtUicZEyDMhQxicoXkK6ez5z7ptceRyBzM6YQz6t47r5Plg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLia8l66aO04u27ZLxIxkrlk9zriacKnUvFUzpick50bAzpOegxYI5rnorwg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
   
-**4**  
-►  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
   
-**网安资源社区**  
+如侵权请私聊我们删文  
   
   
-李白你好VIP社区-  
-网络安全资源社区  
-  
-https://www.libaisec.com/  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUBEokcBtic8V9SHP89CYeDLiaUNPLXJ2hWqGFsGdc7KrRIj2S5PAw97VgGZ8KvVe2prvvQsV5xOiaUEQ/640?wx_fmt=png&from=appmsg "")  
-  
-[情报 | 攻防 | 渗透 | 线索 | 资源社区](http://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247511326&idx=1&sn=78f9ccdbc0ea7a06e0f4ab368d5a89f3&chksm=c09ade4ef7ed5758fde517714213faadcd67e5e7c55eda452d581da294a8c396bb1db889042f&scene=21#wechat_redirect)  
-  
+**END**  
   
   

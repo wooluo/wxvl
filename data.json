@@ -15320,5 +15320,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491850&idx=1&sn=db77a285148d62fa2e546f05b9fb823e": "Apache Kafka Connect 任意文件读取漏洞(CVE-2025-27817)",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490784&idx=1&sn=03b9839ecd75272e21510ef54162c9c9": "众测攻防技术深度剖析：突破WAF、框架漏洞利用与新型攻击面",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512840&idx=1&sn=25320ff14a997f0602c48762a5463d3b": "外网打点、专项漏洞、云上攻防、内网横向",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512481&idx=1&sn=d403af9b610a2084cd79b961b4835b40": "佳能imageCLASS打印机RCE漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512481&idx=1&sn=d403af9b610a2084cd79b961b4835b40": "佳能imageCLASS打印机RCE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611105&idx=3&sn=44818c48fdb0f6d90c788f8898b09b6f": "记一次AMD漏洞挖掘：从文件权限配置错误到驱动权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499890&idx=1&sn=03ae7202852a3f6cd511140924332eac": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488048&idx=1&sn=c22d6a5bbf0f8be3bc37e5f2f52c71ef": "基于OSI模型来挖洞的思想转变来找到那些被忽略的漏洞"
 }
