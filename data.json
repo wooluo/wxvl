@@ -15398,5 +15398,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908313&idx=1&sn=87a20fea7a0c6a7945693d4bea825696": "Chrome N-Day漏洞利用工程指南",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524855&idx=1&sn=391abd98577d6ef93a97caf66c01a1b9": "开源项目中的GitHub Actions安全隐患：MITRE与Splunk揭露关键漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261308&idx=1&sn=f169299b08c451fc44c011aaa602aaea": "​​iPhone “玻璃笼”：利用两枚零日漏洞的国家级攻击链揭秘​​",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323331&idx=3&sn=fb387b84ee719ca1c647d97b1ce9fed3": "Linux两大漏洞可串联，无需特殊手段即可获取root权限"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323331&idx=3&sn=fb387b84ee719ca1c647d97b1ce9fed3": "Linux两大漏洞可串联，无需特殊手段即可获取root权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492539&idx=1&sn=250730046fc1116e0a28c8ea9e77bbb5": "Burp新利器解决请求包加密问题 CloudX自动化解密AES、SM4、DES等加密方式的接口|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489427&idx=1&sn=7f1e28621d60874665996bfed2a5abbb": "关于漏洞“宝塔Linux面板存在任意命令执行”的说明",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531081&idx=1&sn=52089fe73bfabf713e03710a33a396ce": "CVE-2025-2783 谷歌Chrome零日漏洞（沙盒逃逸）的攻击分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "关于漏洞“宝塔Linux面板存在任意命令执行”的说明",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491061&idx=1&sn=3773fa7a546c57d53836cf0d764ac999": "漏洞管理平台VulnArk 紧急删除，备份速下！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486412&idx=1&sn=be56a747f065aecc4f7aff884f151e2b": "漏洞赏金工具 - BBtool",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531136&idx=2&sn=71883f588c565f53ef733bcfcb8c5c13": "Linux 内核 OverlayFS 漏洞 (CVE-2023-0386) 被利用来提升 Root 权限"
 }
