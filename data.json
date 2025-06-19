@@ -15373,5 +15373,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=1&sn=824b2b262ccd14013ff47b1150ee5f2e": "Veeam修复了Backup & Replication产品中的一个新关键漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488131&idx=1&sn=47a1bd3f6af2b827fd64537d32891151": "Linux核心转存漏洞：CVE-2025-5054（POC）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=2&sn=80bc42dcca795e773ef2680f5648afa7": "Flodrix僵尸网络正攻击存在漏洞的Langflow服务器",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491912&idx=1&sn=74dd7b8a525955965457628ed711e635": "浅谈常见EDU漏洞，逻辑漏洞、越权、接管、getshell，小白如何快速找准漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491912&idx=1&sn=74dd7b8a525955965457628ed711e635": "浅谈常见EDU漏洞，逻辑漏洞、越权、接管、getshell，小白如何快速找准漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499903&idx=1&sn=bd4cd23c26aac01c8dcc6ce1bab5ba63": "双漏洞链一击拿下 Root：CVE-2025-6018∕CVE-2025-6019 横扫主流 Linux",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494067&idx=1&sn=ea202b33e7e5e356f3c3a9afc1ed2750": "【已复现】Linux 本地提权漏洞(CVE-2025-6018、CVE-2025-6019)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491611&idx=1&sn=0b21c2a749ea93545160bb4db9c15ccc": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月18日",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjkxMg==&mid=2247484021&idx=1&sn=b6f49af4c972818f134a3a18872a4d20": "契约锁RCE分析",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550512&idx=1&sn=600847a31bfec631b59a0c1a2a8073d3": "一次前端泄露密码送来的赏金漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500547&idx=1&sn=19b2ea57a06109e6873e5553a867518d": "微软2025年6月份于周二补丁日针对67漏洞发布安全补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500901&idx=1&sn=2ab5b540e69020a048884ea095ed11a2": "绞尽脑汁的宝塔漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512487&idx=1&sn=9d79e4b58281b6f0282d45507656343c": "微软2025年6月补丁日重点漏洞安全预警"
 }
