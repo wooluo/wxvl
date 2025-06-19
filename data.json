@@ -15381,5 +15381,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550512&idx=1&sn=600847a31bfec631b59a0c1a2a8073d3": "一次前端泄露密码送来的赏金漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500547&idx=1&sn=19b2ea57a06109e6873e5553a867518d": "微软2025年6月份于周二补丁日针对67漏洞发布安全补丁",
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500901&idx=1&sn=2ab5b540e69020a048884ea095ed11a2": "绞尽脑汁的宝塔漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512487&idx=1&sn=9d79e4b58281b6f0282d45507656343c": "微软2025年6月补丁日重点漏洞安全预警"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512487&idx=1&sn=9d79e4b58281b6f0282d45507656343c": "微软2025年6月补丁日重点漏洞安全预警",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524855&idx=2&sn=d172a2662ecccc74a4853c320e8e45bf": "串联两个本地提权漏洞获取root权限：多数Linux发行版受影响（CVE-2025-6018、CVE-2025-6019）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=1&sn=d48bf4bef564819f0e7b48beb5277bbd": "【高危漏洞预警】SUSE 15 PAM本地提权漏洞（CVE-2025-6018）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501204&idx=2&sn=585b4c138848a45286cf7890b854cc55": "【漏洞通告】Veeam Backup & Replication 远程代码执行漏洞 (CVE-2025-23121)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523333&idx=2&sn=23cefe4214956d3fbac95c79c5396243": "udisks 漏洞可用于获得Linux 主要发行版本的root权限",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070247&idx=4&sn=a9da49b7c850012e89fbee85c39fe677": "【安全圈】CISA警告攻击者利用Linux漏洞进行攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523333&idx=1&sn=7293c7dd1145ab18fd71d834ad208fe0": "BeyondTrust：注意远程支持软件中的预认证RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=2&sn=905d7c05651aefdf13d886cdeddad3e9": "【高危漏洞预警】 libblockdev权限提升漏洞（CVE-2025-6019）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDc1MjY5Ng==&mid=2247493030&idx=1&sn=52d68896765ce5a16a09e99d394507b2": "CVE-2025-33073：域内大杀器（附复现环境）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488862&idx=1&sn=672add026f3f250b4406a9a23d277c9e": "CVE-2025-6019: 从 allow_active 到 root 的本地提权漏洞 (LPE)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484912&idx=1&sn=231332522ccc8edc4d7cd46df1c75b8c": "初识安全漏洞防治SOP",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjczNzEyMw==&mid=2247484535&idx=1&sn=8820fba10b35b6b69e053beab3552640": "宝塔RCE完整说明",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595995&idx=2&sn=74286f4ec1648653625dda192d21c28f": "CVE-2025-6018 & CVE-2025-6019：双漏洞链致 root 权限轻易失守",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523724&idx=1&sn=ea5d6bc9db61ae096d4660bdf0d5a676": "CVE-2025-33073：域内大杀器（附复现环境）",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908313&idx=1&sn=87a20fea7a0c6a7945693d4bea825696": "Chrome N-Day漏洞利用工程指南",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524855&idx=1&sn=391abd98577d6ef93a97caf66c01a1b9": "开源项目中的GitHub Actions安全隐患：MITRE与Splunk揭露关键漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261308&idx=1&sn=f169299b08c451fc44c011aaa602aaea": "​​iPhone “玻璃笼”：利用两枚零日漏洞的国家级攻击链揭秘​​",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323331&idx=3&sn=fb387b84ee719ca1c647d97b1ce9fed3": "Linux两大漏洞可串联，无需特殊手段即可获取root权限"
 }
