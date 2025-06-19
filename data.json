@@ -15349,5 +15349,21 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489365&idx=2&sn=c4c745e3b68fe39fddc6bb157e321d50": "红队终极指南：“A-poc∕RedTeam-Tools”",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=2&sn=434cc36cf0d74dc86fc89af3d189743f": "【已复现】Windows SMB 权限提升漏洞（CVE-2025-33073）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492488&idx=1&sn=7c1e6f59ac98e6a9ef8a0a714166ab45": "渗透必备工具箱V9(更新) 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527275&idx=1&sn=128c0b0612fe1c9346fec2741ef0b702": "上千家政企网站沦为黑产跳板：子域名接管与文件上传漏洞深度分析"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527275&idx=1&sn=128c0b0612fe1c9346fec2741ef0b702": "上千家政企网站沦为黑产跳板：子域名接管与文件上传漏洞深度分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086501&idx=1&sn=ebe5f79b15dd82355295f3316ec6e9f6": "起亚厄瓜多尔车型钥匙系统存在严重漏洞，数千辆车面临被盗风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493007&idx=1&sn=b20a374d3ca3b7006b0efb5ae5029fd5": "英特尔 CPU 新漏洞导致特权内存中的敏感数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487483&idx=1&sn=3f27f6c0814b247a8d5872fbd336bbb6": "100 个 Web 应用漏洞类型挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=1&sn=bb7af1bdae0d924f2df258a74cea48e5": "漏洞预警 | Apache Tomcat安全约束绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjU2Nzc1Mg==&mid=2247484633&idx=1&sn=991d4d622e93851617f7e085b3c8e2b8": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=3&sn=020fd34cd86d6d9c3aca858459a45f32": "医疗保健服务公司Episource数据泄露事件影响540万人",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116640&idx=2&sn=dc4751da96a5482b4b5684916508100a": "医疗服务公司Episource数据泄露，影响540万人",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=2&sn=1cc5b2e1e376e2d93d5bd3bd41d1c1b0": "漏洞预警 | 信呼OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499911&idx=3&sn=f75d5f4ae14d450acb3ecd640947682c": ".NET 基于 MachineKey 一键维持权限，反序列化工具实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494556&idx=1&sn=c79aa1a66057f879b6885cd60d3cbd62": "Nuclei POC 漏洞验证可视化工具 | 更新V3.0.0",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283656&idx=3&sn=641843bbd3df3792d39ce6ef902c63a7": "HVV（红队蓝队资料、威胁情报、技战法）、渗透测试、漏洞、代码审计、APT、DDOS、勒索病毒、CTF、逆向",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492959&idx=1&sn=9a1942dcd47e3a68c948162ff496ec37": "一个高性能的目录遍历漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546563&idx=2&sn=e3b299fc15a136e45ca0efdd0cbaf3b9": "Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795477&idx=1&sn=c8cc84db69bc662ea39715896bbf0262": "Qualys 研究人员发现允许 root 权限攻击的严重 Linux 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489255&idx=1&sn=6aeab11cfe4dc3b1215c81d03177d2af": "美国CISA将苹果与TP-Link产品高危漏洞列入已知利用清单",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488127&idx=1&sn=af0c6e44a295d4d99022dd201048fc66": "紧急！泛微E-cology9高危漏洞来袭，数据库大门洞开！(QVD-2025-23834)"
 }
