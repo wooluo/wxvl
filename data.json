@@ -15406,5 +15406,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491061&idx=1&sn=3773fa7a546c57d53836cf0d764ac999": "漏洞管理平台VulnArk 紧急删除，备份速下！",
     "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486412&idx=1&sn=be56a747f065aecc4f7aff884f151e2b": "漏洞赏金工具 - BBtool",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531136&idx=2&sn=71883f588c565f53ef733bcfcb8c5c13": "Linux 内核 OverlayFS 漏洞 (CVE-2023-0386) 被利用来提升 Root 权限",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488656&idx=1&sn=0f20df860f2ce3b09498578185b5795d": "GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488656&idx=1&sn=0f20df860f2ce3b09498578185b5795d": "GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484863&idx=1&sn=b145230e60dec073587ed6e332e57aa7": "【漏洞复现】泛微e-cology 未授权SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=3&sn=2cdc99e9e47e8c90eb4982049120fb5b": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908325&idx=2&sn=06326aff0db92eb3b0cf94102cdbec84": "Chrome N-Day漏洞利用工程指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491616&idx=1&sn=d9208bcf88762ece0d2666bed4216fed": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月19日",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484679&idx=1&sn=ccaffdcd00b07f198b98052823993e9f": "用友nc saveProDefServlet SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=1&sn=c23bc486899927649e2245662abfb383": "漏洞预警 | 宏景eHR SQL注入和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486886&idx=1&sn=be075071b89d614263149e7ac7ab9ecb": "从SOAP到Shell：利用SOAP服务实现完全管理员账户接管（近乎RCE的漏洞）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484866&idx=1&sn=65eb8293ccb79f02d72c47f620a51d97": "【攻防利器】Tomcat漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900786&idx=1&sn=069433e028f0bbb9d5457c0d6caab415": "Linux内核提权漏洞(CVE-2023-0386)在野利用：从技术原理到业务风险与防御策略",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=2&sn=a9ce4a72601e6e8f80da0bd87561e974": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485953&idx=1&sn=8c198027b4a8441d92fc0ca20bdcc39d": "CVE-2025-48957 AstrBot get_file接口存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484613&idx=1&sn=81017eb66ae71f551de7318bddcf1826": "fastjson 1.2.80 springboot下rce利用链学习"
 }

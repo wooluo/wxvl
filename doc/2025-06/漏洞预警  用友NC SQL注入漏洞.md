@@ -1,5 +1,5 @@
 #  漏洞预警 | 用友NC SQL注入漏洞  
-浅安  浅安安全   2025-06-16 00:01  
+浅安  浅安安全   2025-06-20 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -23,9 +23,7 @@ SQL注入
 窃取敏感信息  
   
 **简述：**  
-用友NC的  
-/ebvp/register/qrySubPurchaseOrgByParentPk  
-接口存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
+用友NC的/portal/pt/oacoSchedulerEvents/changeEvent接口存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  
 - 用友NC  
