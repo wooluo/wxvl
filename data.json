@@ -15418,5 +15418,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900786&idx=1&sn=069433e028f0bbb9d5457c0d6caab415": "Linux内核提权漏洞(CVE-2023-0386)在野利用：从技术原理到业务风险与防御策略",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=2&sn=a9ce4a72601e6e8f80da0bd87561e974": "漏洞预警 | 用友NC SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485953&idx=1&sn=8c198027b4a8441d92fc0ca20bdcc39d": "CVE-2025-48957 AstrBot get_file接口存在任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484613&idx=1&sn=81017eb66ae71f551de7318bddcf1826": "fastjson 1.2.80 springboot下rce利用链学习"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484613&idx=1&sn=81017eb66ae71f551de7318bddcf1826": "fastjson 1.2.80 springboot下rce利用链学习",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142691&idx=1&sn=8aa8493bec0e7681c003aaac23cdbeaa": "IoT漏洞分析之模拟环境搭建",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491869&idx=1&sn=2af23c0d3c462b35a2bc5c70e4d5fc16": "用友U8 CRM SelectDMJE.jsp SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491984&idx=1&sn=754ef28c3e4c30173207a484f66ddf13": "【众测】分享某SRC众测高危逻辑漏洞一枚",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248129&idx=1&sn=b8aaeffedeb8b15bdb3ee6ab715b111d": "MCP服务泄露客户敏感数据，知名企业紧急下线修补| Linux两大漏洞可串联，无需特殊手段即可获取root权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488137&idx=1&sn=e07f4a50cf1f03d17bac8b2800bd37b4": "Windows惊现致命权限漏洞！普通员工1分钟变管理员，数亿设备暴露风险(CVE-2025-24286)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611124&idx=3&sn=697642233fb6fa80291f9cbac0fbf12b": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489083&idx=1&sn=4b87915e617cdedc45e35e07bd5e2862": "一键获取上万资料、漏洞库"
 }

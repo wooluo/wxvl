@@ -1,6 +1,7 @@
 #  记某众测Fastjson<=1.2.68反序列化RCE过程  
-脚*猪  HACK之道   2025-06-18 00:40  
+ 黑白之道   2025-06-20 01:59  
   
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
 # 原文首发在：先知社区  
   
 https://xz.aliyun.com/news/17489  
@@ -15,16 +16,16 @@ https://xz.aliyun.com/news/17489
 在渗透过程中，如果遇到一些部署了很久的老站点（比如zf、edu），利用搜索引擎和网站时光机(web.archive.org)可以发现大量历史资产。下面以百度为例，使用过程中感觉必应搜集到的信息比谷歌要多  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9Aticg97kUYx5qXhmaA4s0oWo6M5nib8leN3POaI2sK8nrKZ6icEo8lbIwVw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBfxfohDBbf7lLWJllfjibQaksJMGegEF44TCCDYw409xiaYibRicm3ibZnfQ/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic&watermark=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9At7VNL8mYWd82f96nHCEQeIyeyE44vIuop6nGn2ERyo0Bxb1nZ4PAPew/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBLe8AibOJsaoibzWMy2L8ChDLGjM3vhZNgrrRNvefXRw876lOuGtiaeSdg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 这个过程中我使用必应找到了xx系统，然后对js进行分析，找到了xxx/checkTokenByUrl接口，由于是键值对的形式，直接搜索键值xxx_CANENTER就能找到对应的参数。（漏洞修复在前端将这些接口都删了没图~~哈哈）  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtG38Sdx20mOic9gibP3kC14C7icjJaIlPpSBIej1dOalUFiaOYiao0Fa9s4g/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBaNEGRfGPJ0Tz4HWAFibPaW5mkfaX56Wc7PsObly1ibCsB17tlcN6RurQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 ## SSRF漏洞  
   
@@ -35,22 +36,22 @@ https://xz.aliyun.com/news/17489
 orgId=&accessToken=&callBackUrl=  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtkbpBRPWibxYTbSyw9qAcqLD8EicsuLdgAxXN6tUdoTudAd0ZQpicUPtlg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBsson9TQ2HytRHiamgta8j4rPVQUQcWtsrqsMc4zrK8Ipe1CdLknhqUA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9At70gdlMr9OMCdPoym07sibXNDHTicHu6phBbsu4P73yapxI77ez8adX2Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBKofvRenuNkCuiaiazZX3ZjDBuQcDnomOU1IOynX9ibtpLBPpZyYq7w3fQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 到此基本可以判断此处存在SSRF了，再将url地址指向一个内网IP，根据响应时间判断通内网  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9Atkz4k5ld9CLnb4BMITbhiayN3p4ILKt8R2CxZe4PJ3vNoTeicEIaicZ5fg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBc56A3hIN3Tyv9fA4UB6XFX5pTJTyibsXnYicVMSWr9QmdAXQAQzDDnVg/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 根据响应包报错提示可以发现，服务端远程获取数据时，返回的数据不是map类型，也就是json。然后在VPS中，控制返回数据为json，服务端响应token失效  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtOJUpcricFrSNwvKhgD8GawusQw86TlGBOF4Xupc2w8y4ITicEtuPsLjg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBLXtqJjpibvowanLUqQ8Axg2KLeKF8AwicqEefyNOF6wzxY1VWKcNdRyw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 既然这里解析json那么就测试一下是使用jackson还是fastjson  
@@ -67,7 +68,7 @@ orgId=&accessToken=&callBackUrl=
 服务端直接报错返回fastjson版本（补图）  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9At0Q3ib8lj0qtjjkOcvzThoFp8riaj2Wq34EXEoCeuE37mO1GkvgcIDWfw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBZHAK0csfGKicPQ5zx7FwXsibGibQdgdRc3PGG9kkI0OEsEGGuxwBz9LRA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 fastjson<=1.2.68一般使用JDBC相关利用链，但是这里我没有进行利用，直接提交报告。我赌他肯定不会完完全全修复的，果然等了几天后漏洞确认并进行了修复，但是没有完全修复。hahahaha~~  
@@ -78,10 +79,10 @@ fastjson<=1.2.68一般使用JDBC相关利用链，但是这里我没有进行利
 上面提到，漏洞被修复了，然后我就查看它是如何进行修复的，经过一番测试发现，传入的url地址不能为ip地址，从传入域名没有进行限制。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtHz2b7XANUxs7xypWA4or6XJngOpIYaNIa6UIFbIs1D0wlWmETyAnGg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBYiba0MSZ37P72bGic4g5kPJicrpRA4QmG7iclYqPIP4bekuTMMsl07fFEw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtLibhfOAdyibnuDyIq7tSOxQjqrSdGEic0N9h042TQce8o3FzxpWIC3ricg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBviaWWd7OYtV3eQGoLBnJvqAblDT3LSWqBn6UNLTAGNx1gD0evG67loQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 这要怎么利用呢？可以使用**DNS重绑定**  
@@ -90,7 +91,7 @@ http://dnslog.pw/
 就有这个功能  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9At8MOxoYhW1Yn9zlfN72lbib3y2P3k9QWVWuqIMd2Sq3XniaD5PXtkXK7g/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOB0QkS0AHwB6iblp0icet5LbkAGPTgnXCqAKjcsxCnthyV9KjCco4NFRicw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 这里可以自己申请一个域名或者使用DNS重绑定的IP指向自己的VPS（国内VPS要备案）  
@@ -164,7 +165,7 @@ python3.8+用这个https://github.com/clown1ay/MySQL_Fake_Server
 mysql-connector-java为5.1.47  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtK7icfEZJNzMAWOkvRQZCTpRJfW3LxicjDOhe7AHfia3hod03gI4xDDlXQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOByuZOuwMaT5MFawD7LkHQZ9ehERU7wL4y6QPIguZwClTeR7UNhRCHcA/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 转战反序列化，先进行DNSURL利用链探测，反序列化操作是否成功  
@@ -176,10 +177,10 @@ mysql-connector-java为5.1.47
 本地演示  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9At5p3aBh9VbibLnuicoowsd73dLkQaYabnpibHErkibZbClEEtPgrkcqbLvg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBylOLcL2MRhtQvibiaR7JYZibhcCiaFSptsIDNTtUicnoDM9b0Wlafu9bGBw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9Atbibibgt2smVggoVpIBqKruQicZJBUjl1nrJxk5ibpfY82J4hdbuB5DVorg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBpDvxpkkQ89VicRIBTLaaJVA6TaEE0YASHmyGYedY2eic2ic6KUe1hMeVQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 既然能正常执行反序列化操作，那么下一步就需要测试命令执行。这里使用到了@Y4tacker大佬给出的利用链  
@@ -188,7 +189,7 @@ mysql-connector-java为5.1.47
 https://paper.seebug.org/2067/  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtyvU1gAmVfvXxcDCr28hvqVdgr6lmA3D2OibzqSJjf5CjCLRIxXLTjIw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBO92Ny1oFvnhvVMXmDy2Rka4ibZdAHhShO44cLPMoGWGq80ISDSXc40A/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 ## 代码微调  
   
@@ -199,7 +200,7 @@ https://paper.seebug.org/2067/
 ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("fastjson1268.bin"));oos.writeObject(hashMap);oos.close();
 ```  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9Atxoia1V4MLevsT5zPvsUCeLezUofwuibictR7ADaXblA6g3WicfAiczYKYVA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBWIhLU7EsWMNUyTEW5vibo3Ba1NG0GhTxt19JXFQdqMApGJEV2xksVOQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 还要修改MySQL_Fake_Server  
@@ -209,7 +210,7 @@ ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("fastjson12
 with open(r'fastjson1268.bin','rb') as f:    file_content = f.read()return file_content
 ```  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtFbwNzJOqItzic7niaCtFAgmSw4iaGVHdSvEPZa1m526ygksPnk6J0R3Qw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBZiaciaPtaf8uMgj2b6onicXRJqrFXLRycx2iaauYKhic6za5Kj7Qibrqnc5g/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 将生成的fastjson1268.bin放到server.py文件同级目录中，运行server.py文件  
@@ -235,12 +236,21 @@ TemplatesImpl
 _bytecodes中  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9AtsExjutGp5W4XUOk5AzzrQic7jRbQdEHlEKXPcf4OrFeR1Co6PR32DibQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBjuqicFaC4pCcupwZKbbicPuhQYibhrzo3uZlcK7V5kicpof5ahb2ymVPXQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrjY2CXMIwO0vYH4OATP9Atq1lzuGBGIyfAuglHKcsfxA0iaB9qDX1lcFiaobicibddOm5Fzt8let78Gg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0UZ7s6fyUx7RZ5YvxX2icOBRFYY9hR9zNrKCUN7phRDvRKytSCnpCRaSUsM2mY0lpp6BKFfmXY43Q/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
+  
+> **文章来源：Hack之道**  
   
   
   
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
+  
+  
+**END**  
   
   
