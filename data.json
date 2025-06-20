@@ -15447,5 +15447,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503518&idx=1&sn=09e0cab29a0bf5cf22e300e719f2aab2": "【已复现】Linux 本地提权漏洞利用链(CVE-2025-6018、CVE-2025-6019)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116686&idx=2&sn=6528b7da213e0895a48a14ee1b8e27b4": "Veeam备份和复制中CVSS评级为9.9的严重RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490279&idx=1&sn=444e48ca2685746c17e8e59f2255a436": "【漏洞预警】DedeCMS命令执行漏洞(CVE-2025-6335)",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=4&sn=9d9e9b842c97da2e355156fcff3f36eb": "Apache SeaTunnel 漏洞允许未经授权的用户进行反序列化攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=4&sn=9d9e9b842c97da2e355156fcff3f36eb": "Apache SeaTunnel 漏洞允许未经授权的用户进行反序列化攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485970&idx=1&sn=1c7e97d2e1a8c9348506e82951046672": "【漏洞复现】泛微e-cology 未授权SQL注入漏洞"
 }
