@@ -15425,5 +15425,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248129&idx=1&sn=b8aaeffedeb8b15bdb3ee6ab715b111d": "MCP服务泄露客户敏感数据，知名企业紧急下线修补| Linux两大漏洞可串联，无需特殊手段即可获取root权限",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488137&idx=1&sn=e07f4a50cf1f03d17bac8b2800bd37b4": "Windows惊现致命权限漏洞！普通员工1分钟变管理员，数亿设备暴露风险(CVE-2025-24286)",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611124&idx=3&sn=697642233fb6fa80291f9cbac0fbf12b": "记某众测Fastjson<=1.2.68反序列化RCE过程",
-    "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489083&idx=1&sn=4b87915e617cdedc45e35e07bd5e2862": "一键获取上万资料、漏洞库"
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489083&idx=1&sn=4b87915e617cdedc45e35e07bd5e2862": "一键获取上万资料、漏洞库",
+    "https://mp.weixin.qq.com/s?__biz=MzU1ODk1MzI1NQ==&mid=2247492274&idx=1&sn=e9ecde35f94e0fc28479875b6aab3b29": "LLM驱动的UEFI固件漏洞智能分析实践",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491147&idx=1&sn=96cbaf8867e8cb3d1a5dd586995a4966": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4ODQzMzk3MA==&mid=2247490272&idx=1&sn=e976730cb96428843b889f6b33280d58": "美国DARPA宣布将与各军种开展武器系统漏洞红队评估",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064207&idx=1&sn=fa2366eac8519eb7a23aefb690c81d82": "信息安全漏洞周报【第027期】",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583172&idx=2&sn=ba838828e94a76da83b0d79076a0969e": "DanaBleed新漏洞使 DanaBot恶意软件即服务平台浮出水面",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493212&idx=1&sn=26b628127785f2cd24f839e5d6fdd527": "JS 动态解析漏洞挖掘巧技 | 正则表达式「捕获」的未授权漏洞之门",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488885&idx=1&sn=c956b0f537a856ca365551087420ceee": "NTLM 反射已死，NTLM 反射长存！——深入分析 CVE-2025-33073",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485521&idx=1&sn=134e927a37122d16d95fa35deabe69b0": "漏洞扫描神器AWVS最新版2025.4"
 }
