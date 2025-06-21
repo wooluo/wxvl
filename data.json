@@ -15453,5 +15453,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506752&idx=1&sn=a2fd5586e60447195a589c1eab942ce2": "破解 JWT：漏洞赏金猎人指南（第一部分）",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484463&idx=1&sn=be78ef79f3a2b6e50fd0c36ea7e5a912": "高价值漏洞采集&推送工具",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521110&idx=1&sn=0b4031953de11bc1668753da586d4e3a": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485966&idx=1&sn=502623af4e680d22ab43973a413eee69": "【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817)"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485966&idx=1&sn=502623af4e680d22ab43973a413eee69": "【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTg3ODYxNg==&mid=2247485837&idx=1&sn=8c2e6dd6f88f7ce536eca4c50b85d3c8": "某米路由器漏洞挖掘分享",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519137&idx=1&sn=f34320074a73be0fb12aebfe9de74d94": "记一次实战小程序漏洞测试到严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142703&idx=1&sn=5c22b3c4912ba8eea137c2328a707b36": "某米路由器漏洞挖掘分享",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486368&idx=1&sn=593e0636fcc4db1bee46051ad2903fdf": "【工具分享】BurpSuite新插件-CloudX自动化解密AES、SM4、DES等加密接口助力漏洞探测"
 }
