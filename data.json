@@ -15470,5 +15470,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492201&idx=1&sn=3a6c575e0bba0f8d05cc8af88125a412": "CVE-2025-27817 Apache Kafka Connect 任意文件读取漏洞分析与复现",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488147&idx=1&sn=b7dcde65044806a8c881b16e905637ee": "高危预警：Linux本地提权漏洞链（CVE-2025-6018、CVE-2025-6019）可秒获Root权限（含POC）",
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550528&idx=1&sn=9e081c065b2c99467ad8f4486d7fe6c6": "记新手小白初挖到的第一个越权漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484465&idx=1&sn=d7f9a4567cfd52ae2a3cd15067b1838c": "【漏洞复现】ActiveMQ中间件漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484465&idx=1&sn=d7f9a4567cfd52ae2a3cd15067b1838c": "【漏洞复现】ActiveMQ中间件漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900798&idx=1&sn=f544a5fc8f6bc1f5eccb9d9001634c4f": "从LNK到Chrome零日漏洞，揭秘高级间谍组织TaxOff的狩猎进化史",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491896&idx=1&sn=c52b969d0b012a6773d7ef3681533d09": "畅捷通T+ Load SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497759&idx=1&sn=76d5def436c5e13a8d11a9514cce189b": "一个 $9000 的漏洞"
 }
