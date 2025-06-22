@@ -15475,5 +15475,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491896&idx=1&sn=c52b969d0b012a6773d7ef3681533d09": "畅捷通T+ Load SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497759&idx=1&sn=76d5def436c5e13a8d11a9514cce189b": "一个 $9000 的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491904&idx=1&sn=18ff4be2062e7c1b0a44bbe77e253c32": "畅捷通T+ GLSyncService.asmx SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611137&idx=4&sn=c96596b23eeaad179dcc02c1869813a2": "一款专为安全研究人员和白帽子设计的漏洞赏金工具"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611137&idx=4&sn=c96596b23eeaad179dcc02c1869813a2": "一款专为安全研究人员和白帽子设计的漏洞赏金工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485825&idx=1&sn=63bc1d9d12159ac55bcba9ff7c7f35f2": "某证书站邮箱轰炸漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494081&idx=1&sn=a1421640c4cb4056f1d971c7730e3d2f": "Linux漏洞链致使主流发行版均可获取Root权限"
 }
