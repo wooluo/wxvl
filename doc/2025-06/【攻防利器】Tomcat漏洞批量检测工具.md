@@ -1,10 +1,7 @@
 #  【攻防利器】Tomcat漏洞批量检测工具  
- 跟着斯叔唠安全   2025-06-19 23:04  
+ 黑白之道   2025-06-23 01:56  
   
-免责声明  
-：  
-请勿利用文章内的相关技术从事非法测试，由于传播、利用此文所提供的信息或者工具而造成的任何直接或者间接的后果及损失，均由使用者本人负责，所产生的一切不良后果与文章作者无关。该文章仅供学习用途使用。  
-  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 1  
   
@@ -28,6 +25,7 @@ Action
  和 passwd.txt  
 。  
   
+1.   
 1. urls.txt  
  中的格式为：https://127.0.0.1/  
  或 https://127.0.0.1/manager/html  
@@ -43,30 +41,19 @@ Action
 python TomcatScanPro.py
 ```  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/pKCicPnn24UbwLgAVFlIibicg3ibWA1SU5UnJHLjRls9WhmiaZz6g9w1HONqDiacQoK0oMVpBdT6RZqYHdlqhhM9dOwg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/pKCicPnn24UbwLgAVFlIibicg3ibWA1SU5UnKiaZ17j1dOU7wWBBl3zs0gDeD2fVWiagSrPnHrfOocOjpfvticHwhpyJQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
-3  
   
-End  
-  
-🚀 **新圈子上线 | 高质量安全内容持续更新中！**  
-  
-我最近在纷传上建立了一个全新的安全技术圈子，主要聚焦于 **WEB安全、APP安全、代码审计、漏洞分享**  
- 等核心方向。目前圈子刚刚建立，内容还不算多，但会**持续高频更新**  
-，只分享真正有价值、有深度的干货文章。  
-  
-📚 圈子中包含：  
-- 高质量原创或精选的安全技术文章  
-  
-- 公众号历史付费内容免费查看（如：小程序RPC、APP抓包解决方案）  
-  
-- 一些只在圈子内分享的独家思路和实战经验  
-  
-- 不定期分享0/1day  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/pKCicPnn24UaQw8cfe5zo87XFXicicayuia9gvdmBnX6lOnSygn4NFJlzqeyxyes0uIYicDwGwh3rbAYicdwYFhK3Ang/640?wx_fmt=png&from=appmsg "")  
+> **文章来源：跟着斯叔唠安全**  
   
   
+  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
+  
+  
+**END**  
   
   

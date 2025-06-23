@@ -15477,5 +15477,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491904&idx=1&sn=18ff4be2062e7c1b0a44bbe77e253c32": "畅捷通T+ GLSyncService.asmx SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611137&idx=4&sn=c96596b23eeaad179dcc02c1869813a2": "一款专为安全研究人员和白帽子设计的漏洞赏金工具",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485825&idx=1&sn=63bc1d9d12159ac55bcba9ff7c7f35f2": "某证书站邮箱轰炸漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494081&idx=1&sn=a1421640c4cb4056f1d971c7730e3d2f": "Linux漏洞链致使主流发行版均可获取Root权限"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494081&idx=1&sn=a1421640c4cb4056f1d971c7730e3d2f": "Linux漏洞链致使主流发行版均可获取Root权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493465&idx=3&sn=dfdc54e9f0b7b572c6489842ee4ed79c": "漏洞预警 | 宏景eHR SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493465&idx=2&sn=9ae4f5cba0b14ebc31b98aebdf846040": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件读取和任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485445&idx=1&sn=740e9d7bfd4478e164e11b9f3ded08c2": "分析某oa历史漏洞中捡到CNVD证书",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611143&idx=4&sn=7272666d2f3b722d3e6e8273a0263842": "【攻防利器】Tomcat漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486694&idx=1&sn=19f82016f2b04dd34318b52c856da802": "聊聊我眼中的\"Web漏洞挖掘\"",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493465&idx=1&sn=cecbfaeeb6c4bdf692ee8c983321b6c9": "漏洞预警 | 泛微e-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507810&idx=1&sn=5b5bc67803b368fcd38c1d67a75c6dbd": "双倍奖金！X 夏日漏洞悬赏计划启动！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795507&idx=2&sn=81a8c861f8f003d76e97b754da52a2e9": "以色列间谍软件利用WhatsApp新0day漏洞攻击传播",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488154&idx=1&sn=274b1d3fcc232865ba2005697c186e54": "紧急安全通告！RuoYi-AI框架曝任意文件上传漏洞(CVE-2025-6466)，可导致服务器沦陷（含POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521147&idx=1&sn=091b2248906de288c8b678376f60cf3a": "shiro反序列化漏洞原理分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492040&idx=1&sn=7f72175ba35b8530f51964e1090b84c9": "渗透测试｜某单位从敏感三要素泄露到接管管理员的漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487241&idx=1&sn=059239f7b395a167f4feb24698627aec": "什么是HOST头部攻击？那个让网站“送错外卖”的危险漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512888&idx=1&sn=070ad5128c82043ed0e7ff0ead954060": "SRC | 一次从0到1的逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484688&idx=1&sn=266aba204fedbfcfeb75f0291b0e9cea": "【应急响应】记修复某品牌打印机FTP匿名访问漏洞"
 }
