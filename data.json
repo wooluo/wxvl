@@ -15491,5 +15491,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492040&idx=1&sn=7f72175ba35b8530f51964e1090b84c9": "渗透测试｜某单位从敏感三要素泄露到接管管理员的漏洞挖掘之旅",
     "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487241&idx=1&sn=059239f7b395a167f4feb24698627aec": "什么是HOST头部攻击？那个让网站“送错外卖”的危险漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512888&idx=1&sn=070ad5128c82043ed0e7ff0ead954060": "SRC | 一次从0到1的逻辑漏洞挖掘之旅",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484688&idx=1&sn=266aba204fedbfcfeb75f0291b0e9cea": "【应急响应】记修复某品牌打印机FTP匿名访问漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484688&idx=1&sn=266aba204fedbfcfeb75f0291b0e9cea": "【应急响应】记修复某品牌打印机FTP匿名访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491618&idx=1&sn=695f849907e60da17dc2e08e2f6e54e4": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月20~22日",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788722&idx=1&sn=de75400767615e978695a98613796da8": "OpenVPN驱动曝严重漏洞，可致Windows系统崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247487193&idx=1&sn=c8a311487502fac2a3ce23003a19ecb1": "BAZZAFL：通过面向漏洞的种子分组将模糊测试活动导向漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261337&idx=1&sn=2603bb64b679c5fdc5abe41a21b86361": "【$10,000】Arc 浏览器：UXSS+本地文件窃取+任意文件写入，路径穿越直通RCE！​​",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535298&idx=2&sn=ef61c442d5a8cbb8da9894162f54ec2e": "安利：Tomcat漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499937&idx=2&sn=be359f4df9c01e75d99bf6c17a5a38c9": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485564&idx=1&sn=d11fe321c143617955c81b04f4a8ad3a": "HTB Artificial 靶场：从AI模型的RCE到NAS备份系统提权",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504723&idx=1&sn=c50a22432595f3381a3d022f5f0a8136": "渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入"
 }

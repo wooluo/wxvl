@@ -1,5 +1,22 @@
 #  渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入  
-原创 有恒  有恒安全   2025-06-13 02:59  
+ 听风安全   2025-06-23 03:04  
+  
+#   
+  
+**免责声明**  
+  
+由于传播、利用本公众号听风安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号听风安全及作者不为**此**  
+承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
+  
+公众号现在只对常读和星标的公众号才展示大图推送，  
+  
+建议大家把  
+听风安全  
+  
+设为**星标**  
+，否则可能就看不到啦！  
+  
+----------------------------------------------------------------------  
   
 前言  
   
@@ -115,4 +132,28 @@ e. 使用相同的AES密钥加密该JSON字符串得到签名
 证明存在sql注入  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/fp1zrrz1UibiclibNHBwZ9eDAFyF8lHcCCQwyPiboRsNBelba30YFIJmAKFPPrn5ejJibLnO2sTLfRicXYdXQebaricIQ/640?wx_fmt=png&from=appmsg "")  
+  
+不可错过的往期推荐哦  
+  
+  
+```
+```  
+  
+  
+点击下方名片，关注我们  
+  
+  
+  
+觉得内容不错，就点下  
+“**赞**  
+”  
+和  
+“**在看**  
+”  
+  
+  
+如果不想错过新的内容推送可以设为**星标**  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Yv6ic9zgr5hTYyCkc91euAiaGULJSbiaHricFHs2dd2sib20WTJKwHYD90Jia9HCKxnmJUwnkicGU7rVP3EYCVh3dMnng/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
   
