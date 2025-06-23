@@ -15517,5 +15517,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMDM2MjY5NA==&mid=2247484336&idx=1&sn=be05aaff95bac7ab6b6560a3a207d01c": "chrome “0day”讲解一二",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485036&idx=1&sn=ee3a749d2edcc53ccbb3bdbbfbb4733f": "hackerone之看着大佬的漏洞流口水",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485256&idx=1&sn=856da5d054aa072ae0a0a8ab75da3390": "记一次另类项目测试经历||近源测绘+知名oa漏洞审计(上)",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485985&idx=1&sn=77e197ee7c913ad96cdc2f038191fd99": "【漏洞复现】Apache Tomcat 命令执行漏洞（CVE-2025-24813)"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485985&idx=1&sn=77e197ee7c913ad96cdc2f038191fd99": "【漏洞复现】Apache Tomcat 命令执行漏洞（CVE-2025-24813)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTQyMzkyMg==&mid=2247484088&idx=1&sn=f13ac7cd62bbe9b5e73a0f561c8dd6f3": "CVE-2020-9484 Tomcat Session 反序列化复现",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490284&idx=1&sn=397ddf62437511be1e9a9bb1e49c0d6e": "【高危漏洞预警】Veeam Backup & Replication 远程代码执行漏洞 (CVE-2025-23121)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655284631&idx=1&sn=0f2b418860e8c2dc075739e21e9ca0cb": "DeepSeek R1技术复现和大模型的治理与安全"
 }
