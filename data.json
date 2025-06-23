@@ -15499,5 +15499,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535298&idx=2&sn=ef61c442d5a8cbb8da9894162f54ec2e": "安利：Tomcat漏洞批量检测工具",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499937&idx=2&sn=be359f4df9c01e75d99bf6c17a5a38c9": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485564&idx=1&sn=d11fe321c143617955c81b04f4a8ad3a": "HTB Artificial 靶场：从AI模型的RCE到NAS备份系统提权",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504723&idx=1&sn=c50a22432595f3381a3d022f5f0a8136": "渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504723&idx=1&sn=c50a22432595f3381a3d022f5f0a8136": "渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500057&idx=1&sn=d9dafaa4313fafd159cc06fb1835f095": "CNVD漏洞周报2025年第23期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=1&sn=d3362c4570a2fa20dd6265ff8fe16d5a": "CNVD漏洞周报2025年第23期",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070304&idx=4&sn=d05ca470ff70ce11963e9e3c7ec01d72": "【安全圈】严重安全警报：OpenVPN Windows 驱动曝缓冲区溢出漏洞，可致系统崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548695&idx=1&sn=a5c45ee0f5d80898eee21d5ee699f031": "Trustwave报告：酒店业成网络攻击重灾区 勒索钓鱼WIFI漏洞齐发",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523354&idx=2&sn=8ef63c9db7a5e73748eab7c71b2b5595": "WordPress Motors 主题漏洞被大规模用于劫持管理员账号",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323631&idx=1&sn=cb216be48b37bb3942f40f1b6f0af4b8": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497761&idx=1&sn=73936ace07b08f709da2ace40fdf3933": "由403所发现的SSRF高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487469&idx=1&sn=969aa08661d0f26aeb3b4f8d5321b200": "代码审计系列-基础篇-SSTI-Thymeleaf模版注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487755&idx=1&sn=69879fcde1e30553652dfd6060bc11cb": "今日起，每周更新2+基础学习文章哦！今天是CSRF漏洞学习",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323631&idx=4&sn=3fb024a33be11f2119bc8047de77f846": "逾10万个WordPress网站因MCP漏洞面临权限提升攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555215&idx=1&sn=6a2811d84935bd770fb0fab5ac10eb48": "渗透进阶，玩转网络漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494256&idx=1&sn=bff4aabc6caa8aea8b732f3fbe017516": "窃密器数据如何“点燃”CVE-2025-49113：RoundCube的漏洞利用"
 }
