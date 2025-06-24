@@ -15562,5 +15562,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484380&idx=1&sn=b7fa367d77e1483cb8a5a87d1478e578": "【漏洞复现】一次不一样的逻辑绕过",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247500804&idx=1&sn=90ea09bbfd5425c07de64038416c6ec8": "【紧急补丁】Veeam 12.3.2 发布，修复 CVE‑2025‑23121（9.9分 RCE）及两项高危权限滥用漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625266&idx=1&sn=7d747f1cb8f470b24f724c87fde28ece": "使用 UDS 自动发现 ECU - UDS是否是一个安全漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625266&idx=1&sn=7d747f1cb8f470b24f724c87fde28ece": "使用 UDS 自动发现 ECU - UDS是否是一个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NDEzMDgzNw==&mid=2247485180&idx=1&sn=67de912aaaff345f53ddce1ec5491e9f": "CVE-2025-33053 网络快捷方式文件远程代码执行漏洞"
 }
