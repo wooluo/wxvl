@@ -15534,5 +15534,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=2&sn=7928bf75a665a3f3f2320e3eae44f879": "漏洞预警 | JimuReport信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492621&idx=1&sn=480d4244338efa136786fb91bf7d0dad": "2025最新AWVS∕Acunetix V25.4高级版更新( AI∕ML预测功能)漏洞扫描器Windows下载",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486827&idx=1&sn=a25724a950ba87c0352ab769c3f88bb2": "CVE-2021-41773 漏洞复现：从失败到成功的探索",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497672&idx=1&sn=aa31b65773592f3618573abad3603b67": "F5 BIG-IP RCE：重温解析差异导致的身份认证绕过"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497672&idx=1&sn=aa31b65773592f3618573abad3603b67": "F5 BIG-IP RCE：重温解析差异导致的身份认证绕过",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486298&idx=1&sn=44fa8b1202c28d403d448d9a89a29654": "工具集：泛微E-cology9 SQL 注入漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=2&sn=53f5863b82d57df201da83c7c6919937": "WinRAR 存在目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491914&idx=1&sn=35337886d7201b34709bbf6689a8a30c": "安科瑞环保用电监管云平台 UpLoadPic 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=1&sn=ada8dcbff73f3fb9ecd263cc0d15448f": "Notepad++ 存严重提权漏洞,PoC 已流出",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484700&idx=1&sn=3975752bd19d84f8561d610262fd94e2": "【技术分享】MQTT未授权访问漏洞利用方式",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NjU5MTIxMg==&mid=2650575572&idx=1&sn=b474aa1f66643dded82ef017e74f10cc": "上线前还在修漏洞？告别救火模式，试试边开发边找漏洞的国舜方案！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611158&idx=3&sn=ded70f18ec0a6f9ca8caba82488f97e3": "SRC | 一次从0到1的逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=1&sn=9c590617818f23d89234775a6c23dac4": "漏洞预警 | Veeam Backup & Replication远程代码执行漏洞"
 }
