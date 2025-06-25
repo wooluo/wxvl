@@ -15598,5 +15598,17 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137321&idx=2&sn=3b273292ef01a662bff4e7e856dd6634": "美国遭遇黑客活动分子大规模DDoS攻击，与伊朗轰炸事件相关；小米互联互通应用严重漏洞允许黑客未授权访问用户设备| 牛览",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596252&idx=3&sn=3870fcc4fac639f2b1fa7dc71dcbdf97": "NVIDIA Megatron LM 重大漏洞曝光，攻击者可注入恶意代码，用户需立即升级",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463199&idx=1&sn=8b9360adb7f25f9377ced0a8e8e8eda8": "信息安全漏洞周报（2025年第25期）",
-    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908373&idx=1&sn=809508815394b08b8abbad379888a7f0": "微软MSRC的漏洞情报“剽窃”策略"
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908373&idx=1&sn=809508815394b08b8abbad379888a7f0": "微软MSRC的漏洞情报“剽窃”策略",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501227&idx=2&sn=6dd4eb38653a88948107ed6a38964031": "【漏洞通告】WinRAR 路径处理漏洞导致远程代码执行 (CVE-2025-6218)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555247&idx=1&sn=a7196eceb681af8cdcbd0cb4df87f1b9": "nps之Socks流量分析以及未授权复现",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323714&idx=3&sn=e66361c25b0dba9cb07f228b450a60c9": "WinRAR目录遍历漏洞允许通过恶意文件执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490307&idx=2&sn=6df93de7148487ec4029f4396726754d": "【高危漏洞预警】Pterodactyl代码执行漏洞(CVE-2025-49132)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521326&idx=1&sn=eee5b7db26999c41ad137213d0d90a1c": "记录某企业存储型XSS漏洞从发现到数据外泄全路径分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492658&idx=1&sn=083e602f09f084017608fce4fb9b60d5": "VulnCrawler v2.0- 漏洞情报拉取工具 一键抓取最新漏洞|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555247&idx=2&sn=7d638163f3ed98a098b2e44a47e27120": "【免费领】社会工程权威资料：解密安全体系中的人性漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573676&idx=1&sn=e886de4de4e7bab19b5e175e478473af": "6款较流行的开源漏洞扫描工具推荐及特点分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641086&idx=2&sn=7947f21af9546a6522db29daeb6323b0": "直播预告 | 攻防演练季应急自救指南-0Day∕NDay来袭，传统防护失效下该如何破局?",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489523&idx=1&sn=7a64c5b7c5c623d232ed0a4980cf9f10": "渗透测试｜某单位从敏感三要素泄露到接管管理员的漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483910&idx=1&sn=213863db5a9b86c813db99bade0660e1": "Java代码审计第七章-任意文件上传漏洞（上）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494089&idx=1&sn=b9ada1dbf29cb740174d1194b7b4262d": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)"
 }
