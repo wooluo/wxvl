@@ -15647,5 +15647,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484900&idx=1&sn=987e33d854d2403c3a6e423aa4282b73": "【复现】Gogs 远程命令注入漏洞风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489137&idx=1&sn=e53ef16afa60551407e420378ec99419": "漏洞预警|兄弟牌（Brother）打印机曝八个新漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485638&idx=1&sn=2e701999599c57e242d403014afbaa96": "[CVE-2025-49144] 超详细复现notepad++提权漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494922&idx=1&sn=dae4e1652fe33e93bb6fd09926535156": "抖音生活服务专测上线！单个漏洞奖金15万元！"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494922&idx=1&sn=dae4e1652fe33e93bb6fd09926535156": "抖音生活服务专测上线！单个漏洞奖金15万元！",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490313&idx=1&sn=c59808dd4135c7a6d4d434f5cca727d5": "【高危漏洞预警】Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25012)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490324&idx=2&sn=6b58eb496b8f53f932cd48a07884c4e1": "【高危AI漏洞预警】Llama-Factory vhead_file代码执行漏洞（CVE-2025-53002）",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490428&idx=1&sn=4b291e73cec6a04e68da263a63257cd4": "【AI风险通告】LLaMA-Factory存在远程代码执行漏洞（CVE-2025-53002）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484434&idx=1&sn=fdcc1421f4fe465e4fa8104b5e7ccb6f": "【漏洞预警】Gogs远程命令执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137338&idx=2&sn=2b54725eb21fda1feeedac82b273d938": "ChainIQ遭网络攻击，影响UBS和KPMG等知名企业；IBM WebSphere高危RCE漏洞允许攻击者完全控制系统 |牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491156&idx=1&sn=fdb314b078bfabfc5a402e5bc50f233b": "阿迪达斯数据泄露事件：第三方服务商漏洞致客户信息外泄",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581004&idx=1&sn=2f71cde362d2e5dec4e3585e1ac450be": "当分公司突遭漏洞通报……如何揪出安全管理“暗礁”？"
 }
