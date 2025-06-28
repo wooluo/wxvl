@@ -15668,5 +15668,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492693&idx=1&sn=f912973994e379d3c80bed9b2187214b": "中山大学｜FORGE：驱动大语言模型自动化构建大规模智能合约漏洞数据集",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486706&idx=1&sn=d9e5d1e4447758f5410a1fed8c43be42": "【漏洞预警】IBM WebSphere Application Server 远程代码执行漏洞(CVE-2025-36038)",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484481&idx=1&sn=12f6a7fef44109a965c102f35130580b": "【已复现】用Notepad++提权漏洞社工钓鱼控制系统最高权限",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=1&sn=83ab8c76ec0db3d5080561c57c2fb5f3": "CVE-2025-4123｜Grafana SSRF漏洞（POC）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=1&sn=83ab8c76ec0db3d5080561c57c2fb5f3": "CVE-2025-4123｜Grafana SSRF漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=1&sn=4673c140780854d180246684f5bfb049": "WinRAR目录遍历漏洞允许通过恶意文件执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=2&sn=fece77b24bc457dda583f0c57bc5b5ec": "CVE-2025-36038｜WebSphere Application Server远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531421&idx=2&sn=1d5a42294204b71b9c78d6eeb6e30e77": "区块幽灵：以太坊共识漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070405&idx=1&sn=afb3be158a42d504cf141b47db4215dc": "【安全圈】兄弟等742款打印机被曝存在安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=3&sn=a5a5c6016886294629d6e3236bd45cf4": "CVE-2025-33073｜Windows SMB权限提升漏洞"
 }

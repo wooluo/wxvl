@@ -1,13 +1,14 @@
 #  WinRAR目录遍历漏洞允许通过恶意文件执行任意代码  
- FreeBuf   2025-06-25 11:01  
+ 网络安全与人工智能研究中心   2025-06-28 02:39  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/ezpQRXtYHibykdgfR7Bfd3D5gQ9smYkhUSicwuicfUyAydJhQTRo5N6XPD9LxvGALWdC7ZZVI2R6skN0r8WUhrjcA/640?wx_fmt=gif&from=appmsg "")  
   
   
-![WinRAR漏洞允许通过恶意文件执行任意代码](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibeEzGHicGrfDkL0C5buG56XdDHdQUkavhK1ZCV45r4J7un8ic3nEhGxcG0gRdquiciakz1FE74iaTpdxg/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/ezpQRXtYHibwpXMNl16ibj6lYK4CFmqtsXcwZovoW6PnutFxkjSMaNkibTfRCg1JpPlLo6uv0icNyZIauKhv0tibSUA/640?wx_fmt=jpeg&from=appmsg "")  
   
   
 **Part01**  
+  
 ### 漏洞概述  
   
   
@@ -24,7 +25,10 @@
   
   
 **Part02**  
+  
 ### 漏洞详情  
+  
+  
 ###   
   
 RARLAB公司的WinRAR压缩软件中发现了一个严重安全漏洞，远程攻击者可通过恶意压缩文件执行任意代码。该漏洞编号为CVE-2025-6218，CVSS评分为7.8分，影响这款广泛使用的文件压缩工具处理压缩包内目录路径的方式。  
@@ -43,6 +47,7 @@ RARLAB公司的WinRAR压缩软件中发现了一个严重安全漏洞，远程�
   
   
 **Part03**  
+  
 ### 技术分析  
   
   
@@ -53,14 +58,18 @@ RARLAB公司的WinRAR压缩软件中发现了一个严重安全漏洞，远程�
   
   
 **Part04**  
+  
 ### 风险因素  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibeEzGHicGrfDkL0C5buG56XfBexmKuB3sdLCjA4CfPG1jZiaB2m6xcCIeZpD2xBD8kmLTvulIXTibmw/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/ezpQRXtYHibwpXMNl16ibj6lYK4CFmqtsXg5aCia0ovw4BE4lJstXyX1rppW2phVRavicsoiakO6SNAicLGcpyRdZxhA/640?wx_fmt=png&from=appmsg "")  
   
   
 **Part05**  
+  
 ### 缓解措施  
+  
   
   
 RARLAB已迅速响应这一关键安全问题，发布了WinRAR更新版本。建议用户升级至WinRAR 7.11版本，该版本具有更快的速度、改进的可用性和新的自定义选项。  
@@ -72,23 +81,17 @@ RARLAB已迅速响应这一关键安全问题，发布了WinRAR更新版本。�
 **参考来源：**  
   
 WinRAR Directory Vulnerability Allows Arbitrary Code Execution Using a Malicious File  
-  
 https://cybersecuritynews.com/winrar-vulnerability/  
   
   
-###   
-###   
-###   
   
-**推荐阅读**  
+![](https://mmbiz.qpic.cn/mmbiz_png/ezpQRXtYHibykdgfR7Bfd3D5gQ9smYkhUMk71re53Z8Xju62nS9agGCNgUNjPibQP7YZthr22UXppftxLN0kp97A/640?wx_fmt=png&from=appmsg "")  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323665&idx=1&sn=15875d40f858538184006215073544fb&scene=21#wechat_redirect)  
+来源｜“FreeBuf”微信公众号  
   
-### 电台讨论  
+编辑｜音叶泽  
   
-****  
+审核｜秦川原  
   
   
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   
