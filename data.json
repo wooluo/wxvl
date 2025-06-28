@@ -15661,5 +15661,6 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207187&idx=1&sn=f804f0e6e0e4ab61c441089cc007d237": "TSRC盛夏众测开启！4倍奖励+单个漏洞最高10+万赏金，挑战心跳夏天",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323993&idx=4&sn=a39d5181504a9caeda8bbcff989ef625": "IBM WebSphere应用服务器曝高危远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486414&idx=1&sn=0a30583b5f6863c054c3cc7d338ec2c7": "目录遍历漏洞扫描工具 - Directory-Traversal-Scanner",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070394&idx=4&sn=aeed87696ea8fe6444b8b1cb9444bf8e": "【安全圈】Open VSX Registry 爆出严重漏洞，数百万开发者面临供应链攻击风险"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070394&idx=4&sn=aeed87696ea8fe6444b8b1cb9444bf8e": "【安全圈】Open VSX Registry 爆出严重漏洞，数百万开发者面临供应链攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开"
 }
