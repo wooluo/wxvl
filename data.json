@@ -15664,5 +15664,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070394&idx=4&sn=aeed87696ea8fe6444b8b1cb9444bf8e": "【安全圈】Open VSX Registry 爆出严重漏洞，数百万开发者面临供应链攻击风险",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486555&idx=1&sn=28d1773e6d7afa6a083204bcfa8f7416": "Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复",
-    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788736&idx=1&sn=d928c3059c6a5c78864232be6184cb05": "Open VSX 漏洞重创扩展生态，数百万开发者面临供应链劫持"
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788736&idx=1&sn=d928c3059c6a5c78864232be6184cb05": "Open VSX 漏洞重创扩展生态，数百万开发者面临供应链劫持",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492693&idx=1&sn=f912973994e379d3c80bed9b2187214b": "中山大学｜FORGE：驱动大语言模型自动化构建大规模智能合约漏洞数据集",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486706&idx=1&sn=d9e5d1e4447758f5410a1fed8c43be42": "【漏洞预警】IBM WebSphere Application Server 远程代码执行漏洞(CVE-2025-36038)",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484481&idx=1&sn=12f6a7fef44109a965c102f35130580b": "【已复现】用Notepad++提权漏洞社工钓鱼控制系统最高权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=1&sn=83ab8c76ec0db3d5080561c57c2fb5f3": "CVE-2025-4123｜Grafana SSRF漏洞（POC）"
 }
