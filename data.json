@@ -15682,5 +15682,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096358&idx=2&sn=0bdd6716511352a19ae6a051668361dd": "思科 ISE 漏洞允许远程攻击者执行恶意命令",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486065&idx=1&sn=2b17d4f5f226e587c16f63c58cafc874": "【安全风险通告】Roundcube Webmail后台代码执行漏洞 (CVE-2025-49113)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487516&idx=1&sn=0022a5911bd065644f71a5821e3a10df": "WinRAR 缺陷（CVE-2025-6218）：通过目录遍历执行远程代码",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096358&idx=1&sn=a32f0dc44801024ee9a611408348ce40": "IBM WebSphere Application Server 允许执行任意代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492295&idx=1&sn=0bd0632f2c051e01cc92f30b83828cfc": "漏洞挖掘Trips | Next.js 路由快速提取",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521429&idx=1&sn=dd050c73cd8db8d9b702b190136ec88a": "shiro反序列化漏洞原理分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506847&idx=1&sn=4272d6c554696334581739689d4dadd8": "破解 JWT：漏洞赏金猎人指南（第六部分"
 }
