@@ -15690,5 +15690,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503251&idx=1&sn=4348ac59de6d6181d46ee70e3fb46e97": "【攻防实战】实战中的某钉RCE",
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247489259&idx=1&sn=289b70216c1df342d2d2f5405f38c0f1": "有限路径遍历 RCE 之旅，赏金 40,000 美元！",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490817&idx=1&sn=ed22afb84906586ab151f012d376f7b3": "若依Vue漏洞检测工具",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络",
+    "https://mp.weixin.qq.com/s?__biz=MzIxODQ0NDEyNg==&mid=2247483975&idx=1&sn=d8c9debe6b2aa8ce6465872cba70a70e": "【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487436&idx=1&sn=be143102d776f443d8512a4f3d8684c6": "如何在日常渗透中实现通杀漏洞挖掘"
 }
