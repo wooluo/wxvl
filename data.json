@@ -15692,5 +15692,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490817&idx=1&sn=ed22afb84906586ab151f012d376f7b3": "若依Vue漏洞检测工具",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络",
     "https://mp.weixin.qq.com/s?__biz=MzIxODQ0NDEyNg==&mid=2247483975&idx=1&sn=d8c9debe6b2aa8ce6465872cba70a70e": "【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125)",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487436&idx=1&sn=be143102d776f443d8512a4f3d8684c6": "如何在日常渗透中实现通杀漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487436&idx=1&sn=be143102d776f443d8512a4f3d8684c6": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499565&idx=1&sn=34fc51e56817b871ded40c91db6234c1": "记一次从登录框到前台rce",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487518&idx=1&sn=43c1e5869cec472b93e9aaac6f0fc0ba": "代码审计|SpringKill如何用CodeAuditAssistant挖掘0day教程公布",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493534&idx=1&sn=1c90f3038da9a0abacd8adee20d5b5d9": "漏洞预警 | Notepad++特权提权漏洞"
 }
