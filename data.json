@@ -15711,5 +15711,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490329&idx=1&sn=7a5a2c55b2fbbb3fa44d710232beeb33": "【高危漏洞预警】Apache Seata反序列化漏洞(CVE-2025-32897)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=1&sn=cb7aa62c4cda3c38d7fe2d23d4d77b49": "【漏洞复现】CVE-2025-33073｜Windows SMB 权限提升漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500070&idx=1&sn=9cb23c555cc9c7543e717b2bda925227": "CNVD漏洞周报2025年第24期",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=2&sn=a3d57d6619d987a8d64a725f1bc82373": "CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=2&sn=a3d57d6619d987a8d64a725f1bc82373": "CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503538&idx=1&sn=5439ec7c9b1446ac237be77feab8fcd0": "【已复现】WinRAR 目录穿越漏洞(CVE-2025-6218)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494660&idx=1&sn=aa557759e534cc95f47181c56432377b": "PassGuard是一个轻量级安全工具，专为防护Linux系统中的脏牛(Dirty COW)内核漏洞而设计。",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788743&idx=1&sn=e35ebfc8a2f78e9033198fdd30536501": "拖拉机也能被黑？全球4.6 万台农机曝远程操控漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486072&idx=1&sn=1d149c024fede423c27c5d8d8fa8371a": "【漏洞复现】Apache Axis2弱口令（附测试靶机）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499979&idx=1&sn=e62c7b512a2e3f57f702c815e19235da": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486072&idx=2&sn=d8ec0d298fa5cdf2eec24a47363cad59": "网络摄像头漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485814&idx=1&sn=acfd188c5b16ac14d54620d554ba829f": "数百款 Brother 打印机型号存在无法修补的漏洞 | 来看看你们公司的打印机有中招的吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493546&idx=2&sn=83c2447b992df23e90763e24e1aa844a": "漏洞预警 | 绿盟网络入侵防护系统信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070451&idx=4&sn=1ae1f2640c97ff21fa27bdfc9eefb3dd": "【安全圈】危险警告！D-Link 多款路由器曝出严重漏洞，建议立即停用"
 }
