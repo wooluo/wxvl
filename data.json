@@ -15720,5 +15720,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486072&idx=2&sn=d8ec0d298fa5cdf2eec24a47363cad59": "网络摄像头漏洞扫描工具",
     "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485814&idx=1&sn=acfd188c5b16ac14d54620d554ba829f": "数百款 Brother 打印机型号存在无法修补的漏洞 | 来看看你们公司的打印机有中招的吗？",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493546&idx=2&sn=83c2447b992df23e90763e24e1aa844a": "漏洞预警 | 绿盟网络入侵防护系统信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070451&idx=4&sn=1ae1f2640c97ff21fa27bdfc9eefb3dd": "【安全圈】危险警告！D-Link 多款路由器曝出严重漏洞，建议立即停用"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070451&idx=4&sn=1ae1f2640c97ff21fa27bdfc9eefb3dd": "【安全圈】危险警告！D-Link 多款路由器曝出严重漏洞，建议立即停用",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjM2NTc0MQ==&mid=2247484432&idx=1&sn=ff12bb9a1afc24ef0ebd40dc8f6dfc6b": "CVE-2025-32462 Sudo chroot本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=2&sn=35dbec1ac12ce977cb52bd37b9d9860a": "MongoDB 服务器预认证漏洞可用于触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490334&idx=1&sn=40afc24425c4f95b1e789f6645fa2295": "【高危漏洞预警】 Akamai CloudTest soap XXE漏洞（CVE-2025-49493）"
 }
