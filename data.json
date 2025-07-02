@@ -15723,5 +15723,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070451&idx=4&sn=1ae1f2640c97ff21fa27bdfc9eefb3dd": "【安全圈】危险警告！D-Link 多款路由器曝出严重漏洞，建议立即停用",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjM2NTc0MQ==&mid=2247484432&idx=1&sn=ff12bb9a1afc24ef0ebd40dc8f6dfc6b": "CVE-2025-32462 Sudo chroot本地提权漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=2&sn=35dbec1ac12ce977cb52bd37b9d9860a": "MongoDB 服务器预认证漏洞可用于触发 DoS 条件",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490334&idx=1&sn=40afc24425c4f95b1e789f6645fa2295": "【高危漏洞预警】 Akamai CloudTest soap XXE漏洞（CVE-2025-49493）"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490334&idx=1&sn=40afc24425c4f95b1e789f6645fa2295": "【高危漏洞预警】 Akamai CloudTest soap XXE漏洞（CVE-2025-49493）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496737&idx=1&sn=370c593f1bce328f065b2ee3561a83bb": "【论文速读】| FuncVul——基于LLM与代码块的高效函数级漏洞检测模型",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=1&sn=7bf65d26e4d8ee07d1bb79a849c00f27": "【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463)"
 }
