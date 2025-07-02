@@ -15730,5 +15730,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=3&sn=23330a41d753210c404f022f9a91115e": "谷歌紧急修复已被利用的Chrome高危零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503447&idx=1&sn=2a7f45d6621139fb1c9bb7364fe7dce5": "雷神众测漏洞周报2025.6.23-2025.6.29",
     "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "Chrome在野CVE-2025-6554漏洞poc公布",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "记一次某大厂csrf漏洞通过蠕虫从低危到高危"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "记一次某大厂csrf漏洞通过蠕虫从低危到高危",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=1&sn=3291d434ce662ab723d4ae8346bdd9fb": "sudo chroot权限提升漏洞(CVE-2025-32463)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=2&sn=7eaa7a233328d3b766efc96d6a7e7cb5": "sudo权限提升漏洞(CVE-2025-32462)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488213&idx=1&sn=f1b96aaae6ec3f0f1f99c4414b63ea61": "紧急！Chrome零日漏洞遭黑客利用，Google发布高危补丁（CVE-2025-6554）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543)"
 }
