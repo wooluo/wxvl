@@ -15734,5 +15734,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=1&sn=3291d434ce662ab723d4ae8346bdd9fb": "sudo chroot权限提升漏洞(CVE-2025-32463)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=2&sn=7eaa7a233328d3b766efc96d6a7e7cb5": "sudo权限提升漏洞(CVE-2025-32462)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488213&idx=1&sn=f1b96aaae6ec3f0f1f99c4414b63ea61": "紧急！Chrome零日漏洞遭黑客利用，Google发布高危补丁（CVE-2025-6554）",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506883&idx=1&sn=a804d3cfee44d12ed64fb529af00d8f3": "终极漏洞赏金猎人清单：从侦察到报告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486372&idx=1&sn=acde1e9a58f0d96700cec463b162ab2f": "工具集：z0scan【新发布：Web 与全版本服务漏洞检测的主、被动扫描工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490527&idx=1&sn=38615bfc7507a4ef985d194745d2df4c": "广联达远程代码执行代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712371&idx=1&sn=7f8436b06ea91d58fe0d1e3ca12933f2": "CVE-2025-32462&CVE-2025-32463",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489169&idx=1&sn=12e8f36dd27a550376215017f2cf31bd": "漏洞通告：Sudo Host 选项本地权限提升漏洞（Elevation of Privilege）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=1&sn=af483917f833027e64a5dc3b05e6f56a": "谷歌紧急修复已遭利用的 Chrome 0day漏洞"
 }
