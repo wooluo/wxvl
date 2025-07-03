@@ -15757,5 +15757,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486422&idx=1&sn=1950ae508c495b4f902accb605b1908e": "从0到1大模型MCP自动化漏洞挖掘实践",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795612&idx=1&sn=bd2ec5afa78de18935e0be3b142b5f54": "Houken 黑客组织利用 Ivanti 0day漏洞安装 Linux Rootkit",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=2&sn=d6e9b21552f7237cbd8e87489840aae7": "【漏洞通告】Wing FTP Server 远程代码执行漏洞(CVE-2025-47812)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492002&idx=1&sn=b6880866102aa41c8fbb56a6d73544e8": "Optilink upgrade.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490802&idx=1&sn=102c4f427b3434196bc45fac750ee05e": "插件前台任意文件读取漏洞复现与分析 (CVE-2025-2294)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488217&idx=1&sn=c37e1bd4e8179e029ebf65dbab89e0b8": "HW（2025-7-2）漏洞信息收集汇总"
 }
