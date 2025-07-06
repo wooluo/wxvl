@@ -15792,5 +15792,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzcxMDQwMg==&mid=2247487105&idx=1&sn=fc2288177dd8544ef2ccab2411d6bd15": "从路径遍历到远程命令执行（RCE）",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488236&idx=1&sn=a8f7fb7621b343fe140d88427c4468ff": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491280&idx=1&sn=86a1cb364f0a376f612cac439af73f16": "一次JDBC反序列化漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070509&idx=1&sn=6cf6b923bca528cc5cc03d57ebcc2bf6": "【安全圈】你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070509&idx=1&sn=6cf6b923bca528cc5cc03d57ebcc2bf6": "【安全圈】你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521558&idx=1&sn=8ace6c1b9ba3c75bd1d77c68810fd128": "护网 | xxl-job漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485869&idx=1&sn=6fe90b43d2b3ed6b8eeb7c8c28826e86": "【福利】漏洞挖掘文档！推荐下载",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515053&idx=1&sn=f675480d14e309b4e61f55e56bd32b66": "蓝牙零日漏洞大揭秘"
 }
