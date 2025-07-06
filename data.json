@@ -15787,5 +15787,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488225&idx=1&sn=1bf7dd73258baf423d4e685039f30d5c": "HW（2025-7-4）漏洞信息收集汇总",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514637&idx=1&sn=fa07c6d1743943a472d11181a4524966": "微软云身份曝严重漏洞：对低级别用户过度授权，导致客户VPN密钥泄露",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487623&idx=1&sn=1d8479b2fa702e596e21d8f2015d7ac4": "第128篇：Struts2全版本漏洞检测工具19.68版本更新"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487623&idx=1&sn=1d8479b2fa702e596e21d8f2015d7ac4": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486277&idx=2&sn=888640822418c3ba152b62a62e185814": "742款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士、理光等品牌",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzcxMDQwMg==&mid=2247487105&idx=1&sn=fc2288177dd8544ef2ccab2411d6bd15": "从路径遍历到远程命令执行（RCE）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488236&idx=1&sn=a8f7fb7621b343fe140d88427c4468ff": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491280&idx=1&sn=86a1cb364f0a376f612cac439af73f16": "一次JDBC反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070509&idx=1&sn=6cf6b923bca528cc5cc03d57ebcc2bf6": "【安全圈】你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷"
 }
