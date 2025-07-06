@@ -15798,5 +15798,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515053&idx=1&sn=f675480d14e309b4e61f55e56bd32b66": "蓝牙零日漏洞大揭秘",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497813&idx=1&sn=c778ad6a4bffd7a0a72a900144ea90ca": "如何利用ai辅助挖漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457389175&idx=1&sn=b8a393aea1447997a2db250a2aefcf59": "不容小觑的威胁：CVE-2025-32463 Linux提权漏洞，轻松利用却要紧急修复"
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457389175&idx=1&sn=b8a393aea1447997a2db250a2aefcf59": "不容小觑的威胁：CVE-2025-32463 Linux提权漏洞，轻松利用却要紧急修复",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486452&idx=1&sn=4a801e396583f602f9a3802e920392a6": "RCE 漏洞(上)：远程代码和命令执行的致命威胁",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=1&sn=a5a6d0f5b93f52732649237949b05bd9": "夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域"
 }
