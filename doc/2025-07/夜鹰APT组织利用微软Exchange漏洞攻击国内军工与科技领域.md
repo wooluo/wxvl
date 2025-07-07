@@ -1,16 +1,10 @@
 #  夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域  
- FreeBuf   2025-07-05 11:01  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibAnU4vEr36WbU2bsWK319vloQ6I9pmVhooC97RsiaQtcHEN9DWkvWWdBOPOucSJ3QDtlQNDQ8U2Hw/640?wx_fmt=png&from=appmsg "")  
-  
+freebuf  商密君   2025-07-06 14:00  
   
 网络安全研究人员近日披露了一个名为夜鹰（NightEagle，又称APT-Q-95）的未记录威胁组织，该组织利用微软Exchange服务器漏洞实施攻击，其攻击链包含零日漏洞利用，主要针对我国国内的政府、国防和科技部门。  
   
   
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibAnU4vEr36WbU2bsWK319v1Y0JM0gjq7tocz5gwjtNVTiab9EzMgXyWgnMK9mZTibBgrKUxQj2hkuw/640?wx_fmt=jpeg&from=appmsg "")  
+![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibAnU4vEr36WbU2bsWK319v1Y0JM0gjq7tocz5gwjtNVTiab9EzMgXyWgnMK9mZTibBgrKUxQj2hkuw/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 **Part01**  
@@ -31,7 +25,7 @@
 奇安信表示，调查始于在某客户终端发现定制版的Go语言工具Chisel。该工具被配置为计划任务，每四小时自动启动一次。  
   
   
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibAnU4vEr36WbU2bsWK319vOHnd4jzht8fsjg4WuHjWkj2N5g4eyHmiatF8euHhzM1ia7QWtU8MrI8Q/640?wx_fmt=jpeg&from=appmsg "")  
+![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibAnU4vEr36WbU2bsWK319vOHnd4jzht8fsjg4WuHjWkj2N5g4eyHmiatF8euHhzM1ia7QWtU8MrI8Q/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 报告指出：攻击者修改了开源内网穿透工具Chisel的源代码，硬编码执行参数，使用指定用户名密码，与指定C&C地址的443端口建立socks连接，并映射到C&C主机的指定端口实现内网穿透功能。  
@@ -51,28 +45,42 @@
 Exchange服务器漏洞问题发表回复。  
   
   
-**参考来源：**  
+编辑：陈十九  
   
-NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and Tech Sectors  
+审核：商密君  
   
-https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html  
+**征文启事**  
   
-  
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324107&idx=1&sn=f89429997e0347cfe1580cc8ca6e858b&scene=21#wechat_redirect)  
-  
-### 电台讨论  
-  
-****  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
   
   
+[](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633989&idx=1&sn=cd6647451cec618b20dd28533702603b&scene=21#wechat_redirect)  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   
-   
+点击购买《2023-2024中国商用密码产业发展报告》  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
+  
+来源：  
+freebuf  
+  
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点分享  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点点赞  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点在看  
   
