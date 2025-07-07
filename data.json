@@ -15808,5 +15808,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497815&idx=1&sn=2e590228585b24abbfe047e87ea21252": "赏金15000美元的 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486299&idx=1&sn=3b0933c297885d6e78d8e0b8ec2a5f3b": "Jeecg-boot常见漏洞汇总",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636489&idx=4&sn=2133ab4c53798a33591c247a0492d1d0": "夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=1&sn=aa9233641ab5de3a299f4d20e0b510ea": "多个 PHP 支持 SQLi 和 DoS 攻击漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=1&sn=aa9233641ab5de3a299f4d20e0b510ea": "多个 PHP 支持 SQLi 和 DoS 攻击漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=1&sn=45861fae4709fa33d3f7e3009fc75254": "漏洞预警 | Wing FTP服务器远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324515&idx=1&sn=e502828a52cb7663487c30f07c064387": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494179&idx=3&sn=6c419f9b311ba4f048b788aa40f20465": "猫眼监控间谍软件漏洞致超6.2万用户登录凭证泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=3&sn=85a8466b2d752154d97df30291f0c2f8": "漏洞预警 | Linux sudo本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900878&idx=1&sn=0628d7321b119b7ef88e12c8bf037f86": "深度剖析CVE-2025-49596：一次网页浏览，如何让你的AI开发环境彻底沦陷？",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489906&idx=3&sn=dcaf44d993e23b254f5a23de058b4a9b": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现"
 }
