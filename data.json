@@ -15822,5 +15822,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=1&sn=a0eb976580ef5924a6411c6055618526": "CNVD漏洞周报2025年第25期",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "【7∕7特辑】今日捕获大量漏洞！",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494698&idx=1&sn=47fe75c62630836696f6a32f42bef890": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df": "Redis被曝三大严重安全漏洞，PoC代码已公开"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df": "Redis被曝三大严重安全漏洞，PoC代码已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484703&idx=1&sn=cef647655b1d164daa9a84854dc90034": "Prometheus 未授权访问漏洞处理",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555393&idx=1&sn=32e7a89822c88d2a315eae8ebc22f827": "精准定位文件包含漏洞：代码审计中的实战思维",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503557&idx=1&sn=b46dcfec1d66e735b4c53d7ae9633c0c": "安全热点周报：超过 1,200 个 Citrix 服务器未针对关键身份验证绕过漏洞进行修补",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521663&idx=1&sn=1a7aa58916d280391fd2526ffe2c169f": "护网情报 ｜汉王e脸通综合管理平台SQL注入漏洞"
 }
