@@ -15818,5 +15818,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795636&idx=1&sn=000d2e7e424e164f95c2e9ad3f81c1e4": "“CitrixBleed 2”漏洞 PoC 被公开",
     "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886107&idx=1&sn=64ce6fbcbe83c971d3046d082da081fb": "思科修复统一通信管理器静态SSH root凭证高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486451&idx=1&sn=85289abd84dae9df3d188dd36d5d7e55": "RCE 漏洞(下)：绕过防御，直达核心的艺术与科学",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494179&idx=1&sn=1997151095977260707894ec476cabe6": "严重Sudo漏洞使主流Linux发行版面临本地提权攻击风险"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494179&idx=1&sn=1997151095977260707894ec476cabe6": "严重Sudo漏洞使主流Linux发行版面临本地提权攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=1&sn=a0eb976580ef5924a6411c6055618526": "CNVD漏洞周报2025年第25期",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "【7∕7特辑】今日捕获大量漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494698&idx=1&sn=47fe75c62630836696f6a32f42bef890": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df": "Redis被曝三大严重安全漏洞，PoC代码已公开"
 }
