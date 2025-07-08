@@ -15829,5 +15829,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521663&idx=1&sn=1a7aa58916d280391fd2526ffe2c169f": "护网情报 ｜汉王e脸通综合管理平台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596945&idx=3&sn=ce5a42d0da3011db31e51a6b4c67cb24": "Redis曝高危漏洞，认证客户端可致服务中断",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503454&idx=1&sn=4a486edbf229f8614fc4bfaa37270d4a": "雷神众测漏洞周报2025.6.30-2025.7.6",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492233&idx=1&sn=6972c3d85da8e41bb31f6f59be71350b": "Prometheus 未授权访问漏洞处理"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492233&idx=1&sn=6972c3d85da8e41bb31f6f59be71350b": "Prometheus 未授权访问漏洞处理",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500089&idx=1&sn=34735acc4543857c99268d52e2e5b501": "2025年人工智能大模型产品漏洞众测活动启动公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546998&idx=1&sn=c3077c2a50dfec80de8f9e21b507ae53": "25HVV最新0day更新，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070540&idx=4&sn=6fe8ab50588c2035d0ee523bcf26b3ea": "【安全圈】Cisco 紧急修复 Unified CM 中存在的严重 Root 账户漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "Web服务器面临认证前RCE与管理员接管风险，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491714&idx=1&sn=2703eddc7e90fc058235bae0286ecc9b": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月07日"
 }
