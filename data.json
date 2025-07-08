@@ -15841,5 +15841,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500084&idx=1&sn=38b270f2be6c4a876c14b613950e4899": "CNVD漏洞周报2025年第25期",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519635&idx=2&sn=d1cb62c4e47b738de4b25b0c546c8072": "EDUSRC | 证书站小程序漏洞挖掘思路及方法",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503563&idx=1&sn=09169a0ba263b129a115d0fa708b0d02": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484416&idx=1&sn=d4ca2b0c863b7ac03f1c479a4455648d": "【漏洞复现】锐捷 RG-EW120路由器存在密码重置漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484416&idx=1&sn=d4ca2b0c863b7ac03f1c479a4455648d": "【漏洞复现】锐捷 RG-EW120路由器存在密码重置漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492498&idx=1&sn=3ea95ef3ff9e6b9f97bfcd9b2a1a756b": "用友NC最新SQL注入 | CNVD-2025-06710漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547053&idx=1&sn=ab425df27b630dfa1c1d59759bf1ad37": "【更！】25HVV热点攻击漏洞含0day，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484501&idx=1&sn=d382e52bf88d07f6596b7426acf7f730": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486439&idx=1&sn=7933cffc8933c2ce2452dba21bc125eb": "Ingram【网络摄像头漏洞扫描工具】",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484421&idx=1&sn=5c3724f0c2d78efe44c29769c0a54860": "【漏洞复现】南昊网上阅卷系统∕exam∕monitor∕index.jsp接口未授权访问",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486239&idx=1&sn=8e885ab19cba7e27c6d24a33dcb6de17": "某堡垒机 set_port 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Mzg4OTIyMA==&mid=2247485898&idx=1&sn=6159060cdb84760163b161be61b31d42": "【工具推荐】0Day挖掘机-“Rotor Goddess”",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500929&idx=1&sn=dee2bdaa182554616ea85ceef4775672": "汉王e脸通综合管理平台SQL注入漏洞"
 }
