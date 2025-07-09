@@ -1,20 +1,7 @@
 #  一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。  
-JaveleyQAQ  夜组安全   2025-07-07 08:05  
+点击关注👉  马哥网络安全   2025-07-08 09:00  
   
-免责声明  
-  
-由于传播、利用本公众号夜组安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号夜组安全及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-**所有工具安全性自测！！！VX：**  
-**baobeiaini_ya**  
-  
-朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把  
-**夜组安全**  
-“**设为星标**  
-”，  
-否则可能就看不到了啦！  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2WrOMH4AFgkSfEFMOvvFuVKmDYdQjwJ9ekMm4jiasmWhBicHJngFY1USGOZfd3Xg4k3iamUOT5DcodvA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAk1nlByTOFiahZKGHekfZGC1V0p6QaXc4CnbPBMZQuFGAnW00CX43Xk9JXONUTxeqYxActf31UiajMg/640?wx_fmt=png&from=appmsg "")  
   
 ## 工具介绍  
   
@@ -129,44 +116,35 @@ SQL Injection Scout 是一个用于 Burp Suite 的扩展，专为帮助安全研
   
 1. 根据需要调整参数和模式设置。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UoMfH0BInAJyGYB6oXJvzPcxW0MhVJ2IHBpKsENC63NlDand0FCiahYfpkr6snibqwE9rDItTlHR6A/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UoMfH0BInAJyGYB6oXJvzPFFEemicNOax6rVtaxezdMcDuD49BZgJhnluX2yfv30JZSibxp0vdMe0A/640?wx_fmt=png&from=appmsg&watermark=1 "")  
 1. 使用 Burp Suite 的代理、扫描器等功能进行测试，SQL Injection Scout 将自动应用配置并提供结果。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UoMfH0BInAJyGYB6oXJvzPVVz05ia2LVSibFN4Ocu0RzcI9RlEJ3IafbInicHzXfmSmAmicPuia7T6fCQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UoMfH0BInAJyGYB6oXJvzP0zLBpEIINtqN9jDUYHibb04cPYkpTZFib5qd7uZV1jicMG5vTyRhAoIicg/640?wx_fmt=png&from=appmsg&watermark=1 "")  
   
   
-## 工具获取  
+文章转自夜组安全，侵删  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/c8mTq8UGcvM0O1nf88S0kYk2Ew2rJkORTISWF6KWULcibXibwcAOoY07QP57wXgaLoU6olFZlC3abMNP6uxRlYgA/640?wx_fmt=gif&from=appmsg "")  
   
   
+今日阅读福利  
   
-点击关注下方名片  
-进入公众号  
+为了更多师傅们能学好网络安全，我会不定时的寻找各类学习资源，免费分享给大家。  
   
-回复关键字【  
-250707  
-】获取  
-下载链接  
+今天分享一份 渗透测试 笔记，一共355页。这次的**图文并茂，也很实用**  
+。不需要转发，只需文末扫码即可直接免费领到。  
   
+下面是 部分的PDF截屏，**内容详实，真的不错：**  
   
-## 往期精彩  
-  
-  
-往期推荐  
-  
-[十款免费的恶意样本分析工具](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494690&idx=1&sn=32c119203374701411a8d9572174b5dc&chksm=c36ba8daf41c21cc7ec7d636f92bfbaaab079f8a55292cb65b31395bfbe9b79d2ae45613ec0d&scene=21#wechat_redirect)  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlC3wUCbBr0e6WeOZxy5XvcrpvDbRsMvVRRtTUpicRwVgYSOmwDNLU9YNEpgfKsSc1HTUQaykxTDnw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
-[一个专为数字钱包助记词本地安全备份设计的加密工具。助记词数据加密 & 解密](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494661&idx=1&sn=347e22606381188baf5cf640a969e519&chksm=c36ba8fdf41c21eb792672415d86141a93ad6e8a9abbd9b0b852a7cddd966b2cf40db99d8e4d&scene=21#wechat_redirect)  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlC3wUCbBr0e6WeOZxy5XvcD8RLCly0HzDkqW7A6PrBDibz4ias8kIh4blQ50HYibYjicNS54eScdUD6g/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
+笔记源自网络，仅用于免费交流分享，版权归原作者所有，如有侵权请联系删除  
   
-[PassGuard是一个轻量级安全工具，专为防护Linux系统中的脏牛(Dirty COW)内核漏洞而设计。](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494660&idx=1&sn=aa557759e534cc95f47181c56432377b&chksm=c36ba8fcf41c21ea800497d928fd66778c5f035328a0f138321d4624c7ae409129e60997c5bc&scene=21#wechat_redirect)  
+需要的朋友扫描下方二维码，备注：【355页渗透测试笔记】，免费领取  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAkwcjtOtVXODCkPibWO4Py9FP1ESE26vHHMLwfyYA6zWj96VL7AsPYcyvHL43536JMIDNWibIdicAjRw/640?wx_fmt=png&from=appmsg "")  
   
-[为渗透测试工程师设计的纯前端工具集，专注于信息收集和文本处理，提供 URL 处理、路径分析、信息收集等功能。](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494659&idx=1&sn=cc30a929b1d60d6cf79279fd545f7e77&chksm=c36ba8fbf41c21edc6aa3c62eaddc47d292c113b1f0c662bbe2b42a71da842914ab6b5e5c529&scene=21#wechat_redirect)  
-  
-  
-[一个专为渗透测试人员、红队工程师打造的浏览器插件，便于快速保存当前所有打开的网页 URL，避免在测试过程中遗漏关键目标。](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494647&idx=1&sn=eb97224ab6ac83686e2b8a7928fa425f&chksm=c36baf0ff41c2619ac886d3b93a5d0256b4c16386eb58df5bc1a1483f5b98bf0a95fbcf2403d&scene=21#wechat_redirect)  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/OAmMqjhMehrtxRQaYnbrvafmXHe0AwWLr2mdZxcg9wia7gVTfBbpfT6kR2xkjzsZ6bTTu5YCbytuoshPcddfsNg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&random=0.8399406679299557&tp=webp "")  
   

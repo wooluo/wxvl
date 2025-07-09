@@ -15856,5 +15856,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367)",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487568&idx=1&sn=62f811d92aedb814bb4509ba9bd3abb3": "用友NC最新SQL注入 | CNVD-2025-06710漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488244&idx=1&sn=01a64335c638438a54a0ead3790c9789": "HW（2025-7-8）护网漏洞信息收集汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245296&idx=1&sn=9a5b71c761dc2b049f6fa30dde2ff1cc": "专题·人工智能安全 | 大型推理模型的安全性：挑战、漏洞与未来"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245296&idx=1&sn=9a5b71c761dc2b049f6fa30dde2ff1cc": "专题·人工智能安全 | 大型推理模型的安全性：挑战、漏洞与未来",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=1&sn=d16d119a7e4c6b4d16fe0e3570c1b46f": "CVE-2024-0582 内核提权详细分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573910&idx=2&sn=ca0beb1967b43d9d39bca8eeb7715732": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252169&idx=1&sn=47e985b033077e98cd528abb15e1a47f": "国际刑事法院遭零日漏洞网络攻击，敏感数据岌岌可危"
 }
