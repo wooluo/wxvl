@@ -15887,5 +15887,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500813&idx=1&sn=6c8d8bd1fa20374d7dc2b54b56bc22ab": "西门子、施耐德、菲尼克斯电气修复漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506956&idx=1&sn=0eabbf9ec218e72492a0ffd882042cce": "你能获得的最简单的漏洞赏金（2025）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517276&idx=1&sn=9b8a010e8e6aa70f7ddb9d4bf58ba335": "漏洞通告｜Git 远程代码执行漏洞（CVE-2025-48384)",
-    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788773&idx=1&sn=55305289f7f57f30bee8bcac340fbe90": "某电动汽车充电控制器曝严重漏洞，可被远程控制"
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788773&idx=1&sn=55305289f7f57f30bee8bcac340fbe90": "某电动汽车充电控制器曝严重漏洞，可被远程控制",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795670&idx=2&sn=5a43c62fd78188c6e942755268c937ef": "微软修复 Windows 和服务器中可蠕虫的远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=1&sn=df2ccc1c3c4a214c1b1a95b51694da62": "微软7月补丁星期二值得关注的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492090&idx=1&sn=d3730d112f227a6e2220302b76ba7ea4": "金盘移动图书馆图书管理系统 tabShow 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486099&idx=1&sn=cd70d35575862813b29e724bd02777a8": "【0day】Telegram私密群组∕频道未授权访问",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500814&idx=1&sn=7dc32fc5611f0cfae355379c1dddc4c6": "微软2025年7月份于周二补丁日针对130漏洞发布安全补丁",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507834&idx=1&sn=cb2a5fffe56db189abdb84f8cf483df4": "酌情处置 | Redis hyperloglog 命令远程代码执行漏洞利用条件较多",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d": "【已复现】泛微e-cology 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484550&idx=1&sn=916706ae74c77a46e7133677977c6cf3": "影响近两年所有 Linux 的提权漏洞？CVE-2025-32463 POC & 快速复现环境公布",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=3&sn=fef11090d9dfd6c566185dcf5f5af6c0": "一个集成的BurpSuite漏洞扫描插件"
 }
