@@ -15881,5 +15881,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=1&sn=b0353fe95161dbbe5a133dd5fa564d22": "【已复现】Git 远程代码执行漏洞(CVE-2025-48384)",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490463&idx=1&sn=1b48b2ce233b26f5a8ec414b28fce49b": "【已复现】泛微E-cology9存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492081&idx=1&sn=894a554f87721dca1ce2c4cbcb622ae2": "信呼OA uploawAction.php SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=7&sn=88d1aad32efce95a42eff434157efe29": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=7&sn=88d1aad32efce95a42eff434157efe29": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611380&idx=3&sn=fbba26992af78ca4efce43478a5d8c65": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500813&idx=1&sn=6c8d8bd1fa20374d7dc2b54b56bc22ab": "西门子、施耐德、菲尼克斯电气修复漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506956&idx=1&sn=0eabbf9ec218e72492a0ffd882042cce": "你能获得的最简单的漏洞赏金（2025）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517276&idx=1&sn=9b8a010e8e6aa70f7ddb9d4bf58ba335": "漏洞通告｜Git 远程代码执行漏洞（CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788773&idx=1&sn=55305289f7f57f30bee8bcac340fbe90": "某电动汽车充电控制器曝严重漏洞，可被远程控制"
 }
