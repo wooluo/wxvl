@@ -15897,5 +15897,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d": "【已复现】泛微e-cology 前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484550&idx=1&sn=916706ae74c77a46e7133677977c6cf3": "影响近两年所有 Linux 的提权漏洞？CVE-2025-32463 POC & 快速复现环境公布",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=3&sn=fef11090d9dfd6c566185dcf5f5af6c0": "一个集成的BurpSuite漏洞扫描插件"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=3&sn=fef11090d9dfd6c566185dcf5f5af6c0": "一个集成的BurpSuite漏洞扫描插件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484406&idx=1&sn=cc21c7d4733df7215388225c8617beb3": "25HVV最新0day 建议暂停使用...",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8"
 }
