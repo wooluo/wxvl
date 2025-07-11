@@ -1,20 +1,17 @@
 #  微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统  
- FreeBuf   2025-07-10 10:30  
+ 网络安全与人工智能研究中心   2025-07-11 01:41  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibzavJNKq3vfiaQIbcHJwllkBmsaN0sWURVNPf6K4uKcFp1en22IzQ6031aq43dhg37RhXbCNzGmfQ/640?wx_fmt=png&from=appmsg "")  
-  
+![](https://mmbiz.qpic.cn/mmbiz_gif/ezpQRXtYHibztA3hfhcEV95uic15Gs4MXFtGRmT68AQosiap9UZk1YOLno7GV99zz9Zx881BWfGtNGibjSXONSSKPQ/640?wx_fmt=gif&from=appmsg "")  
   
 微软已发布关键安全更新，修复编号为CVE-2025-47981的高危漏洞。该漏洞存在于SPNEGO扩展协商(NEGOEX)安全机制中，属于基于堆的缓冲区溢出漏洞，影响多个Windows和Windows Server版本。  
   
   
 该漏洞CVSS评分为9.8分(满分10分)，属于最高危级别，可在无需用户交互的情况下实现远程代码执行。  
   
-  
 **Part01**  
+  
 ## 核心要点  
+  
   
   
 1. Windows SPNEGO中存在基于堆的缓冲区溢出漏洞，CVSS评分9.8/10，可实现远程代码执行  
@@ -31,8 +28,8 @@
   
 该漏洞允许未经授权的攻击者通过网络连接执行任意代码，对企业环境构成严重威胁。  
   
-  
 **Part02**  
+  
 ## 可蠕虫传播的RCE漏洞  
   
   
@@ -52,13 +49,16 @@ CVE-2025-47981被归类为CWE-122，属于可远程利用的基于堆的缓冲�
   
   
 **Part03**  
+  
 ## 风险因素  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibzavJNKq3vfiaQIbcHJwllknS7gPBxytEzyvddKEzOdLeCvO0cogDZ2PzTs5g5dTOlkibx6VHsbvyg/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/ezpQRXtYHibztA3hfhcEV95uic15Gs4MXFtm3icicENQhSGezMAKd1YsjyHXNmCXrrziabahEPibvhFnWW3JlGeibcuWQ/640?wx_fmt=png&from=appmsg "")  
   
   
 **Part04**  
+  
 ## 补丁部署  
   
   
@@ -75,21 +75,16 @@ Microsoft Patches Wormable RCE Vulnerability in Windows and Windows Server
 https://cybersecuritynews.com/microsoft-patches-wormable-rce-vulnerability/  
   
   
-###   
-###   
-###   
+![](https://mmbiz.qpic.cn/mmbiz_png/ezpQRXtYHibztA3hfhcEV95uic15Gs4MXFae1JNZratOb7hv2vCDFNDIus3YhTLk5OrNjWJnY0Qu1Bsn0cicoduRw/640?wx_fmt=png&from=appmsg "")  
   
-**推荐阅读**  
+编辑：席沐沂  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df&scene=21#wechat_redirect)  
+审核：秦川原  
   
-### 电台讨论  
+来源：FreeBuf  
+  
   
 ****  
   
   
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-   
   
