@@ -15952,5 +15952,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497974&idx=2&sn=ed4f47f1e5616b011ef2b5371b1c1566": "你的服务器在裸奔吗？高危漏洞、端口和弱口令，哪个才是压死骆驼的最后一根稻草？",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=1&sn=3cf79ed603597648e4ebc012f1dd387d": "【暴】麦当劳招聘平台 | 安全漏洞致 6400 万份求职申请信息暴露",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491912&idx=1&sn=17f6f3f0b90b29e022a81ea8c8b28cdb": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=1&sn=b6dc54a7100f76968a25f6db47d5e0eb": "【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484711&idx=1&sn=c2c06fac608791fac01832eab95ab674": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）"
 }
