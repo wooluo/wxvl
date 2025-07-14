@@ -15983,5 +15983,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494731&idx=1&sn=e8b10030b95eeeb908be3ace5b5a2b04": "xxl-job漏洞综合利用工具",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493065&idx=1&sn=a81d56cc98a5e170e167459c7a00a7fa": "仲夏狂欢！指定类型漏洞翻倍奖励、加成奖励buff叠满！",
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485223&idx=1&sn=7cadef856d0360ed2983ea9bd473a955": "Solrs搜索&Shrio鉴权&Log4j日志&CVE历史漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=1&sn=d95257c858f5e767abdabe510f3bac8d": "黑客正在利用 Wing FTP 服务器中的关键 RCE 漏洞(CVE-2025-47812)"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=1&sn=d95257c858f5e767abdabe510f3bac8d": "黑客正在利用 Wing FTP 服务器中的关键 RCE 漏洞(CVE-2025-47812)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=2&sn=3cc3fd02d7bb4c8d993138dce7afa3f6": "Wing FTP严重漏洞已遭在野利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490431&idx=1&sn=1413a05f807dd28e1228256420189b24": "【高危漏洞预警】Apache Jackrabbit XXE漏洞CVE-2025-53689",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkyMjUxMA==&mid=2247483689&idx=1&sn=0aa653b5743553d1825b5947385aed22": "一个面板的RCE方式",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=1&sn=bb6888cc84ad4eba9d87a3ed0137acd8": "APP_KEYs遭暴露，超600款Laravel应用易遭RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573973&idx=1&sn=ecf5cfbabe7a1b50a40ab8d6aa8a0324": "整理一些挖SRC必须知道的漏洞提交平台",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070655&idx=3&sn=7ccd92ac4dd522bb9216323ef93d3402": "【安全圈】Google Gemini 被曝安全漏洞：AI 邮件摘要功能可被诱导生成钓鱼信息"
 }
