@@ -15992,5 +15992,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070655&idx=3&sn=7ccd92ac4dd522bb9216323ef93d3402": "【安全圈】Google Gemini 被曝安全漏洞：AI 邮件摘要功能可被诱导生成钓鱼信息",
     "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788788&idx=1&sn=c7fa538499e5b03daa0e74f470f92434": "3.5亿辆汽车、10亿设备暴露于一键蓝牙RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247556779&idx=1&sn=e40f6561075f5bc2dd2ef0f94ccf1a3b": "3.5亿辆汽车、10亿设备暴露于一键蓝牙RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490640&idx=1&sn=da5d674ee073569e95a71021aadb5e17": "2025-7-14日漏洞情报汇总"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490640&idx=1&sn=da5d674ee073569e95a71021aadb5e17": "2025-7-14日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247503982&idx=1&sn=0b4f5d87ce51350878b046afc4d40c31": "挖SRC必须知道的25个漏洞提交平台",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070655&idx=4&sn=376e25a95b8df163247e3bc4e44ec424": "【安全圈】Kigen eUICC 卡 eSIM 漏洞暴露数十亿物联网设备，攻击者可潜入监控与操控通信",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=3&sn=7a22c6935abca7bdf46bf166aa5bb5d8": "技嘉UEFI固件SMM漏洞使系统面临固件植入和持久控制风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492236&idx=1&sn=8d8564b4b92621d0ce1783198a801077": "手把手教你如何挖洞：CVE-2025-25257 Fortinet FortiWeb 匿名 SQL 注入漏洞动态调试实战"
 }
