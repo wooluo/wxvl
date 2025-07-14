@@ -15971,5 +15971,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498069&idx=2&sn=90e786cab169095418610266a01f981a": "日本新日铁公司遭零日漏洞攻击致数据泄露",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=1&sn=79828c12688c4daf8723f32f2877dc05": "CVE-2025-5777｜Citrix NetScaler ADC和NetScaler Gateway内存泄漏漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487565&idx=1&sn=1f8f19fa59f52f8098ffe19d836e1b57": "JS扫描与漏洞挖掘利器推荐—Rotor Goddess"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487565&idx=1&sn=1f8f19fa59f52f8098ffe19d836e1b57": "JS扫描与漏洞挖掘利器推荐—Rotor Goddess",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=1&sn=5cad6d83900ca87d24afd6ee9fb80ce4": "漏洞预警 | Redis远程代码执行和未认证连接漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489437&idx=1&sn=1e4298f03de6ef16d2e8a61fd667f0ef": "网络安全周刊#7: Fortinet FortiWeb 严重SQL注入漏洞剖析",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117105&idx=1&sn=a12c60fab95520633a959552231df442": "Apache HTTP Server 2.4.64发布，修复8个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487511&idx=1&sn=31c9128519d42fc51852c35363dc061f": "记一次另类的任意登录漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483898&idx=1&sn=479ca01aab6c21e9d19081497f01a809": "孚盟云 Getlcon.aspx 接口存在SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=2&sn=b06c26e63d5694cb6383efb350fb9f34": "【漏洞复现】CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=3&sn=56851215cf8e0bbdc548118a45078332": "漏洞预警 | ZKTime熵基智能考勤管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=3&sn=7db531b9433fd791810acb9fb8c3bdef": "Fortinet FortiWeb 面临全面接管风险 (CVE-2025-25257)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494731&idx=1&sn=e8b10030b95eeeb908be3ace5b5a2b04": "xxl-job漏洞综合利用工具"
 }
