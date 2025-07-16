@@ -16021,5 +16021,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503607&idx=1&sn=44581e3d24968215d02fb7b63ed254d6": "安全热点周报：Fortinet 公开 FortiWeb 中的严重预身份验证 RCE 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650470013&idx=1&sn=bd91de134dcbad0a5c5482ada536bff4": "配置错误与大模型应用漏洞交织，云上数据安全防线持续承压｜全球云上数据泄露风险分析简报 （第六期）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=1&sn=cfef3d7b85d52177a5027daf3e4fabf8": "【已复现】Linux Kernel AF_UNIX UAF漏洞(CVE-2025-38236)",
-    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506973&idx=1&sn=d258cb8eb078305c2c2e3a6e9ac1b51a": "RXSS! on Mercedes-Benz"
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506973&idx=1&sn=d258cb8eb078305c2c2e3a6e9ac1b51a": "RXSS! on Mercedes-Benz",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555471&idx=1&sn=70206928fcf4dcff0f7d8c7eb7aa9e46": "浅谈代码审计+漏洞批量一把梭哈思路",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=2&sn=b8f964af67c9b2e67292e2498926bc29": "【已复现】用友U9 Cloud远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490018&idx=1&sn=ec2976fde305b530d4b85fb570f334aa": "【神器合集】漏洞挖掘效率翻倍！武装你的burpSuite"
 }
