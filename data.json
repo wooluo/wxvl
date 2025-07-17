@@ -16039,5 +16039,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463268&idx=1&sn=f292317a857be98a451da959791ca294": "信息安全漏洞周报（2025年第28期）",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTQ4MzQ4Ng==&mid=2247484210&idx=1&sn=522f16f64c49ddd7f300f95fd8b33ef4": "【0day挖掘】怎么用“Rotor Goddess”轻松出洞",
     "https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501021&idx=1&sn=ca90cd9a93aad8fd1b4b7503096a3457": "企业攻击面管理盲区：那些“隐身”的资产正在引爆漏洞风险",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493489&idx=1&sn=d3ef10a1ae3b8c161d7174cb42702fac": "【宝典】针对若依系统nday的常见各种姿势利用"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493489&idx=1&sn=d3ef10a1ae3b8c161d7174cb42702fac": "【宝典】针对若依系统nday的常见各种姿势利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492170&idx=1&sn=b71974709e0cb99c066a0d128b3a0849": "WordPress Ads-pro 本地文件包含漏洞 (CVE-2025-4380)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490445&idx=1&sn=d31f158d701b9c31fcc7c33cc05b2c61": "【高危漏洞预警】LaRecipe服务器端模板注入漏洞CVE-2025-53833",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507850&idx=1&sn=92e3b86bb828888ef9f72653adc6c80c": "漏洞通告 | 用友YonBIP（R6旗舰版）任意用户密码重置漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484350&idx=1&sn=aa3db900309caf2a179befd3484960f2": "GeoServer存在默认口令admin:geoserver 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488103&idx=1&sn=a56fa96efb3c33bba24c7ae3261ce6e7": "web安全 - SQL注入漏洞深度详解"
 }
