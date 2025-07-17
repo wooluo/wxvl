@@ -16063,5 +16063,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483901&idx=1&sn=584c0ed15e48cd1b6b2844170a747f22": "【CVE-2024–31317】提权漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490163&idx=1&sn=b3f45daec1576c19d9cd94b0751a9bda": "记一次有趣的逻辑漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503624&idx=1&sn=efb918e1db57c9ad9b7deb875cb26da5": "【已复现】LaRecipe 服务器端模板注入漏洞(CVE-2025-53833)安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485014&idx=1&sn=b1a1d176fc53260b695a2462ac585079": "【吃瓜】内推\"红队\"当内鬼 | 网传wps漏洞为Nday | HV奖励吃大粪",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=3&sn=73d9b37152bd0c34f1e681d9675bc126": "【漏洞通告】Google Chrome 沙箱逃逸漏洞(CVE-2025-6558)"
 }
