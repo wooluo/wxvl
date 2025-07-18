@@ -16065,5 +16065,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503624&idx=1&sn=efb918e1db57c9ad9b7deb875cb26da5": "【已复现】LaRecipe 服务器端模板注入漏洞(CVE-2025-53833)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485014&idx=1&sn=b1a1d176fc53260b695a2462ac585079": "【吃瓜】内推\"红队\"当内鬼 | 网传wps漏洞为Nday | HV奖励吃大粪",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=3&sn=73d9b37152bd0c34f1e681d9675bc126": "【漏洞通告】Google Chrome 沙箱逃逸漏洞(CVE-2025-6558)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=3&sn=73d9b37152bd0c34f1e681d9675bc126": "【漏洞通告】Google Chrome 沙箱逃逸漏洞(CVE-2025-6558)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494298&idx=1&sn=94da07edbc63634f6c0231aa043a663f": "【首发复现】Windows NEGOEX 蠕虫级高危远程代码执行漏洞(CVE-2025-47981)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490661&idx=1&sn=bdb612384cfb0e926f9418a23abe4ea4": "2025-7-17日漏洞情报汇总"
 }
