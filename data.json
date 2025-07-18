@@ -16069,5 +16069,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494298&idx=1&sn=94da07edbc63634f6c0231aa043a663f": "【首发复现】Windows NEGOEX 蠕虫级高危远程代码执行漏洞(CVE-2025-47981)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490661&idx=1&sn=bdb612384cfb0e926f9418a23abe4ea4": "2025-7-17日漏洞情报汇总",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872029&idx=1&sn=3f2cad8fa6bfba155a6765e8608d58d1": "高危漏洞预警！私有化部署的WPS云文档系统存在远程命令执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531828&idx=3&sn=ec3d214c56ba8b74d11fd852ec1a4271": "CVE-2025-1729 - 使用 TPQMAssistant.exe 进行权限提升"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531828&idx=3&sn=ec3d214c56ba8b74d11fd852ec1a4271": "CVE-2025-1729 - 使用 TPQMAssistant.exe 进行权限提升",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247485291&idx=1&sn=c4ef9194100a6ad35d5dcbe136d6ae64": "微信3.9 RCE漏洞 听说已有受害者",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487706&idx=1&sn=9349f46f0975d7d1ea8b8a818f6e839c": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583845&idx=1&sn=c90ced34d21a579bc3a5cc0f1a4541ff": "谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173841&idx=3&sn=c3cb03f8fe3770b9b6ce0283b205d676": "CNNVD通报Oracle多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463279&idx=1&sn=ed9a3d6766250120a7b315fdcbf9a117": "CNNVD关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496792&idx=1&sn=1a89dc1a57debe1bcc662fc35fb66c99": "中科天齐团队参加FSE 2025，提出基于多对象类型状态分析的重复漏洞检测新方法",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493756&idx=1&sn=c5f1d485ea481a455c165639d4d5e646": "漏洞预警 | Citrix NetScaler ADC和Gateway内存泄漏漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487730&idx=1&sn=e6f35ea23151afee71d5af3cfe7380a9": "用友U8Cloud漏洞 | FilterCondAction SQL注入分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494291&idx=1&sn=d82033fb3b45f8ee834fa7a4aecc2221": "思科修复身份服务引擎中CVSS 10分高危漏洞CVE-2025-20337",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486564&idx=1&sn=3c6d11aaa73f5a56d9dc96c0b1c03c73": "代码审计-ASP.NET项目-文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485836&idx=1&sn=4b0f85e591199fb6b48f4f133b53af19": "shiro反序列化漏洞简介以及利用工具"
 }
