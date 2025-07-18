@@ -16080,5 +16080,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487730&idx=1&sn=e6f35ea23151afee71d5af3cfe7380a9": "用友U8Cloud漏洞 | FilterCondAction SQL注入分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494291&idx=1&sn=d82033fb3b45f8ee834fa7a4aecc2221": "思科修复身份服务引擎中CVSS 10分高危漏洞CVE-2025-20337",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486564&idx=1&sn=3c6d11aaa73f5a56d9dc96c0b1c03c73": "代码审计-ASP.NET项目-文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485836&idx=1&sn=4b0f85e591199fb6b48f4f133b53af19": "shiro反序列化漏洞简介以及利用工具"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485836&idx=1&sn=4b0f85e591199fb6b48f4f133b53af19": "shiro反序列化漏洞简介以及利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTUyMzUwOQ==&mid=2247483842&idx=1&sn=69c0b569ec4687a0bf953ab0268817eb": "微信 3.9 版本RCE漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=2&sn=c7cc15872799f6b7c9dcee62f1ced6e6": "谷歌AI “Big Sleep” 提前阻止严重的SQLite 漏洞遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514705&idx=2&sn=ed3298db2e4591a6131808dc09a0ecb4": "CNCERT：关于Google Chrome V8存在类型混淆漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485300&idx=1&sn=12af35651ea2aa886ca0cb33d243f0b1": "【LYSRC漏洞挖掘大赛】夏日攻坚行动，双倍积分+现金奖励等你拿！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247512056&idx=1&sn=e29889fe4453e306377f1c01eee7b7ea": "暗网出售某加油站自动化系统零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=1&sn=65722e141134d410b44b7a3bb6536ff5": "【高危漏洞预警】Oracle WebLogic Server 未授权访问漏洞(CVE-2025-30762)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=2&sn=45995d7633ae08c6ed2c67558e2810f8": "安卓旧系统 OTA 包分析与漏洞提权适配"
 }
