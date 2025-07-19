@@ -16105,5 +16105,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492628&idx=1&sn=6328dbcbf1e55c176f7181178a068c63": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247485298&idx=1&sn=3d314c96442d84fd8ec632d9e5fa0288": "微信3.9 RCE - 补档",
     "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487834&idx=1&sn=ab354dd326ae72b7c8f31e4dc3c183e7": "新手练习向——基于文件上传漏洞获得网站shell权限",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487737&idx=1&sn=cbb6a1cb0b5f83638f71454a5ffba8d4": "用友OA系统U8Cloud FilterCondAction SQL注入漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487737&idx=1&sn=cbb6a1cb0b5f83638f71454a5ffba8d4": "用友OA系统U8Cloud FilterCondAction SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485850&idx=1&sn=f495ab99b95b02c18a410789c7a25244": "nacos漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524382&idx=1&sn=b3949b61e1b5f733191292af2213769c": "OSWE = 白盒审计 + 漏洞武器化",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493495&idx=1&sn=791bebc6faa651cc3c585c2f5f481d21": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=1&sn=a96d58d36336bf2c82920a7e1f872749": "NVIDIA Container Toolkit漏洞可导致权限提升任意代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490046&idx=1&sn=3e3b0e6e437b0c67ab0fee641495004c": "WX RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=2&sn=18fd68348f0aa5ac8cf42fe1d25cfe00": "CVE-2025-30762｜Oracle WebLogic Server存在未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484497&idx=1&sn=e16cdc5c6ab692d33c57e2a5ae01e722": "某信RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=1&sn=3ec9fd59b332276a13eb21d88cdd9217": "Vmware 修复 Pwn2Own 柏林大赛上遭利用的四个 ESXi 0day漏洞"
 }
