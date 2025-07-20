@@ -16128,5 +16128,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581322&idx=1&sn=baf9027c193bf64dd369e81724d98582": "无需升级！360终端安全智能体全面防护微信PC端路径穿越漏洞威胁",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491976&idx=1&sn=f20af65d96b6110fb508b76ef107652e": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070725&idx=3&sn=0ed096ca126a498dcb6caff13372e355": "【安全圈】黑客利用 Apache HTTP 服务器漏洞，部署 Linuxsys 加密货币挖矿程序",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494392&idx=1&sn=7ee67506322648e0494c2c8f39467044": "【稳定复现】微信客户端目录穿越漏洞 (可导致远程代码执行)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494392&idx=1&sn=7ee67506322648e0494c2c8f39467044": "【稳定复现】微信客户端目录穿越漏洞 (可导致远程代码执行)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247504063&idx=1&sn=3862aedb5fdb4ae21a2600a1dbbfb8e7": "Kernelhub，一个聚合了linux、windows、macOS的提权漏洞合集，带复现过程",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485443&idx=1&sn=b0fc551b2ab431110e845fb515357e84": "中科汇联Easysite反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=2&sn=04105f8ddc32460791073712282f5bbf": "【安全圈】黑客正在利用 Wing FTP 服务器的关键 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500946&idx=3&sn=c5bbf571b7151ad4830b959d09210954": "SharePoint 服务器漏洞正遭受大规模利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=1&sn=ce2b54456146391c0e5277a33022645d": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488334&idx=1&sn=3a054f59101088cae6b4a5ff415533fb": "紧急安全通告 Microsoft SharePoint 反序列化远程代码执行漏洞 (CVE-2025-53770) 风险预警",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483941&idx=1&sn=2d0124416fb498dc8f044ec3f1ce3919": "MetaCRM 客户关系管理系统 download-new.jsp 任意文件读取漏洞"
 }
