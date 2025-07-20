@@ -16125,5 +16125,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492816&idx=1&sn=6eb49110f0c5c62383b27221af9580ae": "Oracle云代码编辑器曝RCE漏洞，允许攻击者上传恶意文件",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489623&idx=1&sn=35978a7efb9a7ed2dffcccade99bc7e2": "你从未听说过的最流行调查软件中的远程代码执行漏洞 (RCE)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485894&idx=1&sn=537a76c2aafc5a26acbaa4f8e9d500bf": "【翻译】严重 NVIDIA AI 漏洞：NVIDIA 容器工具包中的三行容器逃逸 (CVE-2025-23266)",
-    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581322&idx=1&sn=baf9027c193bf64dd369e81724d98582": "无需升级！360终端安全智能体全面防护微信PC端路径穿越漏洞威胁"
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581322&idx=1&sn=baf9027c193bf64dd369e81724d98582": "无需升级！360终端安全智能体全面防护微信PC端路径穿越漏洞威胁",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491976&idx=1&sn=f20af65d96b6110fb508b76ef107652e": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070725&idx=3&sn=0ed096ca126a498dcb6caff13372e355": "【安全圈】黑客利用 Apache HTTP 服务器漏洞，部署 Linuxsys 加密货币挖矿程序",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494392&idx=1&sn=7ee67506322648e0494c2c8f39467044": "【稳定复现】微信客户端目录穿越漏洞 (可导致远程代码执行)"
 }
