@@ -1,16 +1,17 @@
 {
-  "rewrites": [
+  "version": 2,
+  "public": true,
+  "routes": [
+    { "handle": "filesystem" },
     {
-      "source": "/",
-      "destination": "/index.html"
+      "src": "/api/(.*)",
+      "dest": "/api/index.js"
     },
     {
-      "source": "/api/:path*",
-      "destination": "/api/index.js"
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ],
-  "cleanUrls": true,
-  "trailingSlash": false,
   "functions": {
     "api/index.js": {
       "runtime": "nodejs20.x"
