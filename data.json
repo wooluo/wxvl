@@ -19140,5 +19140,12 @@
     "https://mp.weixin.qq.com/s/0uzwKQ7ShKY1py9C-FSdKQ": "预警丨防范思科Catalyst SD-WAN管理软件多个漏洞",
     "https://mp.weixin.qq.com/s/K2XGRMr0VeG3o-L46fOnhQ": "Ubuntu Desktop 24.04及更高版本存在本地权限提升漏洞，可导致未授权用户获取root权限",
     "https://mp.weixin.qq.com/s/dQbk0U4tKff9YEWafydQKQ": "网站漏洞源码合集（附链接）",
-    "https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A": "某CMS XSS漏洞代码审计"
+    "https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A": "某CMS XSS漏洞代码审计",
+    "https://mp.weixin.qq.com/s/UAyR0_DookhFv7410uG07A": "挖洞实战｜接口FUZZ+日志泄漏导致大量密码泄漏漏洞",
+    "https://mp.weixin.qq.com/s/mToIusqcH7pS_vv0r9mNWw": "集成 15 000+ PoC 的“万能扫描怪兽”",
+    "https://mp.weixin.qq.com/s/f9fMt-fHjroXXkzheRz7Vg": "【WebSocket漏洞漫谈-第一章】别再傻傻只改HTTP包了，WebSocket才是真正的富矿",
+    "https://mp.weixin.qq.com/s/6RRZ2MQ_-XvrcR-qr3roQg": "Linux内核的“贴身保镖”：LKRG 1.0如何让零日漏洞无处遁形",
+    "https://mp.weixin.qq.com/s/Ju3JvUI3f7FQtB4iEgi4NA": "快普M6 GetPositionOfStaff接口存在sql注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA": "CVE-2026-25803：3DP-MANAGER 硬编码默认凭据导致 VPN 管理后台完全接管",
+    "https://mp.weixin.qq.com/s/BNXSFGGtcEqHMZwbxwUjTw": "武装你的浏览器-漏洞检测"
 }
