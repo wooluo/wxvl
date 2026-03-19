@@ -4,31 +4,40 @@
 name: update
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 */4 * * *'
+  issues:
+    types: [opened]
 permissions:
   contents: write
+# 强制启用 Node.js 24，彻底消除所有警告
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v4  # 配合 env 自动使用 Node.js 24
     - name: Set up Python 3.10
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v5  # 配合 env 自动使用 Node.js 24
       with:
         python-version: "3.10"
+
+    - name: Write Issue Content to Temp File
+      run: |
+        issue_body=$(jq -r ".issue.body" "$GITHUB_EVENT_PATH")
+        echo "$issue_body" > /tmp/issue_content.txt
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+
     - name: update
-      env: 
+      env:
          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        python run.py today | tee /tmp/update.log
+        python run.py issue | tee /tmp/update.log
+
     - name: Commit and push if changed
       run: |
         git config --global user.email "test"
@@ -38,3 +47,10 @@ jobs:
         COMMIT_MESSAGE="$MESSAGE"
         git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
         git push
+
+    - name: Close Issue
+      run: |
+        TOKEN=${{ secrets.GH_TOKEN }}
+        ISSUE_NUMBER=$(jq -r ".issue.number" "$GITHUB_EVENT_PATH")
+        API_URL="https://api.github.com/repos/${GITHUB_REPOSITORY}/issues/${ISSUE_NUMBER}"
+        curl -X PATCH -H "Authorization: token $TOKEN" -d '{"state":"closed"}' $API_URL
