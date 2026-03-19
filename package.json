@@ -1,6 +1,7 @@
 {
-  "name": "dir-traverse-demo",
-  "version": "1.0.0",
+  "name": "wxvl",
+  "version": "2.0.0",
+  "description": "微信公众号安全漏洞文章归档",
   "engines": {  
     "node": "20.x"
   },

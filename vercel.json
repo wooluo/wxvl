@@ -1,12 +1,28 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/api/dir-traverse.js"
+      "source": "/api/stats",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/api/months",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/api/list",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/api/search",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/api/article",
+      "destination": "/api/index.js"
     }
   ],
   "functions": {
-    "api/dir-traverse.js": {
+    "api/index.js": {
       "runtime": "nodejs20.x"
     }
   },
