@@ -2,17 +2,27 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/api/dir-traverse"
+      "destination": "/api/dir-traverse.js"
     }
   ],
-  "outputDirectory": ".",
   "headers": [
     {
-      "source": "**/*",
+      "source": "/(.*)",
       "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "*" },
-        { "key": "Charset", "value": "utf-8" }
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        }
       ]
     }
-  ]
+  ],
+  "functions": {
+    "api/dir-traverse.js": {
+      "runtime": "edge"
+    }
+  }
 }
