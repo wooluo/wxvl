@@ -1,14 +1,22 @@
 {
-  "public": "doc",          // 指定 Vercel 对外发布的根目录为 doc
-  "cleanUrls": false,       // 保留 .md 后缀（如 /2025-04/xxx.md）
-  "trailingSlash": false,   // 关闭自动添加尾斜杠
-  "headers": [              // 可选：让浏览器正确识别 Markdown 类型（优化展示）
+  "rewrites": [
     {
-      "source": "**/*.md",
+      "source": "/(.*).md",
+      "destination": "/api/render"
+    }
+  ],
+  "outputDirectory": "doc",
+  "headers": [
+    {
+      "source": "**/*",
       "headers": [
         {
-          "key": "Content-Type",
-          "value": "text/markdown; charset=utf-8"
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        },
+        {
+          "key": "Charset",
+          "value": "utf-8"
         }
       ]
     }
