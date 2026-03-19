@@ -19179,5 +19179,6 @@
     "https://mp.weixin.qq.com/s/m2Sp7S3Zkkb1hyTo-yVMbg": "美国网络安全和基础设施安全局 (CISA) 警告：微软 SharePoint 漏洞已被攻击者利用",
     "https://mp.weixin.qq.com/s/MWInOqfmcoFngNO9YRbAxg": "CVE-2026-2441：Chrome CSSFontFeatureValuesMap 释放后重用漏洞解析",
     "https://mp.weixin.qq.com/s/_AbUh_jcUJIxKeIOGfNKqw": "严重的 Telnetd 漏洞允许远程攻击者通过 23 端口执行任意代码",
-    "https://mp.weixin.qq.com/s/7ynSFvfJvzkViHbjPd9pxA": "【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击"
+    "https://mp.weixin.qq.com/s/7ynSFvfJvzkViHbjPd9pxA": "【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击",
+    "https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw": "Windows RCE漏洞EXP - CVE-2025-29969"
 }
