@@ -5,24 +5,17 @@
       "destination": "/api/dir-traverse.js"
     }
   ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Access-Control-Allow-Origin",
-          "value": "*"
-        },
-        {
-          "key": "Content-Type",
-          "value": "text/html; charset=utf-8"
-        }
-      ]
-    }
-  ],
   "functions": {
     "api/dir-traverse.js": {
-      "runtime": "edge"
+      "runtime": "nodejs24.x",
+      "nodejs": {
+        "version": "24.x" 
+      }
+    }
+  },
+  "build": {
+    "env": {
+      "NODE_VERSION": "24.x"
     }
   }
 }
