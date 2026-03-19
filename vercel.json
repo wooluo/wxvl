@@ -7,10 +7,7 @@
   ],
   "functions": {
     "api/dir-traverse.js": {
-      "runtime": "nodejs24.x",
-      "nodejs": {
-        "version": "24.x" 
-      }
+      "runtime": "nodejs24.x"
     }
   },
   "build": {
