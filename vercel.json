@@ -1,34 +1,13 @@
 {
   "rewrites": [
     {
-      "source": "/api/stats",
-      "destination": "/api/index.js"
-    },
-    {
-      "source": "/api/months",
-      "destination": "/api/index.js"
-    },
-    {
-      "source": "/api/list",
-      "destination": "/api/index.js"
-    },
-    {
-      "source": "/api/search",
-      "destination": "/api/index.js"
-    },
-    {
-      "source": "/api/article",
+      "source": "/api/:path*",
       "destination": "/api/index.js"
     }
   ],
   "functions": {
     "api/index.js": {
       "runtime": "nodejs20.x"
-    }
-  },
-  "build": {
-    "env": {
-      "NODE_VERSION": "20.x"
     }
   }
 }
