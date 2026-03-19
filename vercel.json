@@ -1,18 +1,13 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/api/dir-traverse.js"
+      "source": "/(.*)",  // 匹配所有路径请求
+      "destination": "/api/dir-traverse.js"  // 转发到接口文件
     }
   ],
   "functions": {
     "api/dir-traverse.js": {
-      "runtime": "nodejs24.x"
-    }
-  },
-  "build": {
-    "env": {
-      "NODE_VERSION": "24.x"
+      "runtime": "nodejs20.x"  // 用 20.x 稳定版，避免 24.x 兼容性问题
     }
   }
 }
