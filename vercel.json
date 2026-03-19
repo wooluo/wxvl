@@ -1,13 +1,13 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",  // 匹配所有路径请求
-      "destination": "/api/dir-traverse.js"  // 转发到遍历接口
+      "source": "/(.*)",
+      "destination": "/api/dir-traverse.js"
     }
   ],
   "functions": {
     "api/dir-traverse.js": {
-      "runtime": "nodejs20.x"  // 稳定版 Node 运行时
+      "runtime": "nodejs20.x"
     }
   },
   "build": {
