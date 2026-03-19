@@ -9,13 +9,12 @@ on:
     - cron: '0 */4 * * *'
 permissions:
   contents: write
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   
 jobs:
   build:
-
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # 写在这里才生效！
 
     steps:
     - uses: actions/checkout@v4
