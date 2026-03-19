@@ -8,17 +8,21 @@ on:
     types: [opened]
 permissions:
   contents: write
-# 强制启用 Node.js 24，彻底消除所有警告
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v4  # 配合 env 自动使用 Node.js 24
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 拉取完整代码，解决推送失败
+        token: ${{ secrets.GH_TOKEN }} # 用有权限的token推送
+
     - name: Set up Python 3.10
-      uses: actions/setup-python@v5  # 配合 env 自动使用 Node.js 24
+      uses: actions/setup-python@v5
       with:
         python-version: "3.10"
 
@@ -42,6 +46,8 @@ jobs:
       run: |
         git config --global user.email "test"
         git config --global user.name "test"
+        # 先同步远程最新代码，防止冲突
+        git pull origin main --no-rebase --allow-unrelated-histories
         git add .
         MESSAGE=$(cat /tmp/update.log)
         COMMIT_MESSAGE="$MESSAGE"
