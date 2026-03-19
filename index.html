@@ -607,7 +607,7 @@
         // Load Statistics
         async function loadStats() {
             try {
-                const res = await fetch(`${API_BASE}/stats`);
+                const res = await fetch(`${API_BASE}?action=stats`);
                 const data = await res.json();
                 if (data.code === 200) {
                     document.getElementById('totalArticles').textContent = data.data.totalArticles;
@@ -621,7 +621,7 @@
         // Load Months
         async function loadMonths() {
             try {
-                const res = await fetch(`${API_BASE}/months`);
+                const res = await fetch(`${API_BASE}?action=months`);
                 const data = await res.json();
                 if (data.code === 200) {
                     renderMonths(data.data);
@@ -671,7 +671,7 @@
             grid.innerHTML = '<div class="loading"><div class="spinner"></div>加载中...</div>';
             
             try {
-                const res = await fetch(`${API_BASE}/list?month=${month}`);
+                const res = await fetch(`${API_BASE}?action=list&month=${month}`);
                 const data = await res.json();
                 if (data.code === 200) {
                     renderArticles(data.data);
@@ -686,7 +686,7 @@
         // Load All Articles
         async function loadAllArticles() {
             try {
-                const res = await fetch(`${API_BASE}/list`);
+                const res = await fetch(`${API_BASE}?action=list`);
                 const data = await res.json();
                 if (data.code === 200) {
                     allArticles = data.data;
@@ -738,7 +738,7 @@
             document.getElementById('articleContent').innerHTML = '<div class="loading"><div class="spinner"></div>加载中...</div>';
             
             try {
-                const res = await fetch(`${API_BASE}/article?path=${encodeURIComponent(path)}`);
+                const res = await fetch(`${API_BASE}?action=article&path=${encodeURIComponent(path)}`);
                 const data = await res.json();
                 if (data.code === 200) {
                     document.getElementById('articleTitle').textContent = data.data.title;
@@ -769,7 +769,7 @@
         
         async function performSearch(query) {
             try {
-                const res = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`);
+                const res = await fetch(`${API_BASE}?action=search&q=${encodeURIComponent(query)}`);
                 const data = await res.json();
                 if (data.code === 200) {
                     renderSearchResults(data.data);
