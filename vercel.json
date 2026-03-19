@@ -1,10 +1,6 @@
 {
-  "rewrites": [
-    {
-      "source": "/api/:path*",
-      "destination": "/api/index.js"
-    }
-  ],
+  "cleanUrls": true,
+  "trailingSlash": false,
   "functions": {
     "api/index.js": {
       "runtime": "nodejs20.x"
