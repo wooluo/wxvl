@@ -19147,5 +19147,9 @@
     "https://mp.weixin.qq.com/s/6RRZ2MQ_-XvrcR-qr3roQg": "Linux内核的“贴身保镖”：LKRG 1.0如何让零日漏洞无处遁形",
     "https://mp.weixin.qq.com/s/Ju3JvUI3f7FQtB4iEgi4NA": "快普M6 GetPositionOfStaff接口存在sql注入漏洞 附POC",
     "https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA": "CVE-2026-25803：3DP-MANAGER 硬编码默认凭据导致 VPN 管理后台完全接管",
-    "https://mp.weixin.qq.com/s/BNXSFGGtcEqHMZwbxwUjTw": "武装你的浏览器-漏洞检测"
+    "https://mp.weixin.qq.com/s/BNXSFGGtcEqHMZwbxwUjTw": "武装你的浏览器-漏洞检测",
+    "https://mp.weixin.qq.com/s/hHkKZaDS307Ba70ECPkjDg": "关于防范思科Catalyst SD-WAN管理软件多个漏洞的风险提示",
+    "https://mp.weixin.qq.com/s/WAnamfuN5TwPfg8WcHDDlQ": "Coruna：神秘而强大的iOS漏洞利用工具包分析",
+    "https://mp.weixin.qq.com/s/Nopw3lLbAQXejyIxBOIhTg": "AK47 | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块",
+    "https://mp.weixin.qq.com/s/LussY3HOrmqzuhANF6bJag": "漏洞复现 | 用友U8cloud NCCloudGatewayServlet接口存在任意文件上传漏洞"
 }
