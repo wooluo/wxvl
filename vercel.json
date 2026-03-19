@@ -1,17 +1,4 @@
 {
-  "version": 2,
-  "public": true,
-  "routes": [
-    { "handle": "filesystem" },
-    {
-      "src": "/api/(.*)",
-      "dest": "/api/index.js"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ],
   "functions": {
     "api/index.js": {
       "runtime": "nodejs20.x"

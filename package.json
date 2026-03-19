@@ -1,10 +1,6 @@
 {
   "name": "wxvl",
   "version": "2.0.0",
-  "description": "微信公众号安全漏洞文章归档",
-  "engines": {  
-    "node": "20.x"
-  },
   "dependencies": {
     "marked": "^12.0.1",
     "highlight.js": "^11.9.0"
