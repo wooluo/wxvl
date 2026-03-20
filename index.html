@@ -709,7 +709,7 @@
             
             grid.innerHTML = articles.map(article => {
                 const tags = extractTags(article.name);
-                const timeDisplay = article.publishTime || formatDateTime(article.mtime);
+                const timeDisplay = formatDateTime(article.mtime);
                 return `
                     <div class="article-card" onclick="viewArticle('${article.path}')">
                         <div class="article-card-title">${escapeHtml(article.name.replace('.md', ''))}</div>
@@ -732,24 +732,28 @@
             return tags;
         }
         
-                const article = readArticle(articlePath);
-                if (!article) {
-                    document.getElementById('articleContent').innerHTML = '<div class="empty-state">加载失败</div>';
-                    return;
+        // View Article
+        async function viewArticle(path) {
+            document.getElementById('articleList').style.display = 'none';
+            document.getElementById('articleView').classList.add('active');
+            document.getElementById('articleContent').innerHTML = '<div class="loading"><div class="spinner"></div>加载中...</div>';
+            
+            try {
+                const res = await fetch(`${API_BASE}?action=article&path=${encodeURIComponent(path)}`);
+                const data = await res.json();
+                if (data.code === 200) {
+                    const timeDisplay = formatDateTime(data.data.publishTime || data.data.mtime);
+                    document.getElementById('articleTitle').textContent = data.data.title;
+                    document.getElementById('articleMeta').innerHTML = `
+                        <span>📅 ${timeDisplay}</span>
+                        <span>${formatSize(data.data.size)}</span>
+                    `;
+                    document.getElementById('articleContent').innerHTML = data.data.html;
+                    // Apply syntax highlighting
+                    document.querySelectorAll('#articleContent pre code').forEach(block => {
+                        hljs.highlightElement(block);
+                    });
                 }
-                
-                const timeDisplay = formatDateTime(data.data.publishTime || data.data.mtime);
-                document.getElementById('articleMeta').innerHTML = `
-                    <span>📅 ${timeDisplay}</span>
-                    <span>${formatSize(data.data.size)}</span>
-                `;
-                
-                document.getElementById('articleTitle').textContent = data.data.title;
-                document.getElementById('articleContent').innerHTML = data.data.html;
-                // Apply syntax highlighting
-                document.querySelectorAll('#articleContent pre code').forEach(block => {
-                    hljs.highlightElement(block);
-                });
             } catch (e) {
                 console.error('Failed to load article:', e);
                 document.getElementById('articleContent').innerHTML = '<div class="empty-state">加载失败</div>';
@@ -826,7 +830,9 @@
             const year = date.getFullYear();
             const month = String(date.getMonth() + 1).padStart(2, '0');
             const day = String(date.getDate()).padStart(2, '0');
-            return `${year}-${month}-${day}`;
+            const hours = String(date.getHours()).padStart(2, '0');
+            const minutes = String(date.getMinutes()).padStart(2, '0');
+            return `${year}-${month}-${day} ${hours}:${minutes}`;
         }
         
         function escapeHtml(text) {
