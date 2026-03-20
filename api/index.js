@@ -15,6 +15,31 @@ marked.setOptions({
     }
 });
 
+// Extract publish time from filename or content
+function extractPublishTime(filename, content, monthDir) {
+    // 1. Try to extract date from filename (e.g., "2026-03-19 最新CVE...")
+    const filenameDateMatch = filename.match(/(\d{4}-\d{2}-\d{2})/);
+    if (filenameDateMatch) {
+        return filenameDateMatch[1];
+    }
+    
+    // 2. Try to extract date from content (first 500 chars)
+    const headerContent = content.substring(0, 500);
+    
+    // Match patterns like "2026-03-19" or "2026年03月19日"
+    const contentDateMatch = headerContent.match(/(\d{4})[-年](\d{2})[-月](\d{2})/);
+    if (contentDateMatch) {
+        return `${contentDateMatch[1]}-${contentDateMatch[2]}-${contentDateMatch[3]}`;
+    }
+    
+    // 3. Fallback to month directory name (e.g., "2026-03")
+    if (monthDir && /^\d{4}-\d{2}$/.test(monthDir)) {
+        return monthDir + '-01'; // Use first day of month
+    }
+    
+    return null;
+}
+
 // Helper functions
 function getMonths() {
     if (!fs.existsSync(DOC_DIR)) return [];
@@ -40,15 +65,18 @@ function getArticlesInMonth(month) {
         .map(f => {
             const filePath = path.join(monthPath, f);
             const stat = fs.statSync(filePath);
+            const content = fs.readFileSync(filePath, 'utf8');
+            const publishTime = extractPublishTime(f, content, month);
             return {
                 name: f,
                 path: `${month}/${f}`,
                 month: month,
                 size: stat.size,
-                mtime: stat.mtime.toISOString()
+                mtime: stat.mtime.toISOString(),
+                publishTime: publishTime
             };
         })
-        .sort((a, b) => b.mtime.localeCompare(a.mtime));
+        .sort((a, b) => (b.publishTime || '').localeCompare(a.publishTime || ''));
 }
 
 function getAllArticles() {
@@ -63,7 +91,8 @@ function searchArticles(query) {
         .map(a => ({
             title: a.name.replace('.md', ''),
             path: a.path,
-            month: a.month
+            month: a.month,
+            publishTime: a.publishTime
         }));
 }
 
@@ -77,13 +106,16 @@ function readArticle(articlePath) {
     const titleMatch = content.match(/^#\s+(.+)$/m);
     if (titleMatch) title = titleMatch[1].trim();
     
+    const publishTime = extractPublishTime(path.basename(articlePath), content, path.dirname(articlePath));
+    
     return {
         title,
         html: marked.parse(content),
         content,
         month: path.dirname(articlePath),
         size: stat.size,
-        mtime: stat.mtime.toISOString()
+        mtime: stat.mtime.toISOString(),
+        publishTime: publishTime
     };
 }
 
