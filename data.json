@@ -19190,5 +19190,11 @@
     "https://mp.weixin.qq.com/s/MUnHA4_jalwGsz2_C5tMBw": "记一次某大型oa前台0day挖掘",
     "https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/uzkQMCYHN7oIcYQjeiXIrA": "“ AI 刺客”漏洞披露：小字等方式伪装实现执行恶意代码",
-    "https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ": "俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰"
+    "https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ": "俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰",
+    "https://mp.weixin.qq.com/s/UQjpB35iOt8oltRLiHNlSA": "BMC FootPrints 预认证远程代码执行漏洞链分析",
+    "https://mp.weixin.qq.com/s/82blCxBUzkpCsxmSUU1cHA": "Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017∕33309已复现",
+    "https://mp.weixin.qq.com/s/eEN_SMBebETV-8mDGK8AJA": "OpenClaw 安全全景分析：从公开漏洞、利用链到最安全安装基线",
+    "https://mp.weixin.qq.com/s/LrbuTbY9aTMhhqaXUL8RVA": "工信部：关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示；AI 加持新型社工攻击 浏览器权限滥用致生物信息泄露 | 牛览",
+    "https://mp.weixin.qq.com/s/AWLWH1U6RY8-iwXu_6qMIw": "监控系统反被监控?Glances曝严重凭证泄露漏洞 CVE-2026-32633",
+    "https://mp.weixin.qq.com/s/Hz9X_dmj59luAIlaYOmOhQ": "ChurchCRM SQL注入漏洞（CNVD-2026-12565、CVE-2026-24854）"
 }
