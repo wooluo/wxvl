@@ -19212,5 +19212,9 @@
     "https://mp.weixin.qq.com/s/54WuHiHsYfJcUjigkWbqdA": "活动邀请 | 2026 FORCE LINK AI 创新巡展（武汉站）",
     "https://mp.weixin.qq.com/s/iOo55KslDM-YbSZs4-xmXQ": "人工智能重要漏洞通报（2026年第三期）",
     "https://mp.weixin.qq.com/s/tLwt4cFmsrQkoDPOnXlBrg": "Jenkins 严重漏洞导致CI∕CD服务器易受RCE攻击",
-    "https://mp.weixin.qq.com/s/PNM5EemF1d70AiRq1iuNYg": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)安全风险通告"
+    "https://mp.weixin.qq.com/s/PNM5EemF1d70AiRq1iuNYg": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)安全风险通告",
+    "https://mp.weixin.qq.com/s/zEH372PgAIz9V_TWNJSo_A": "Amazon Bedrock、LangSmith和SGLang的AI漏洞可致数据泄露与远程代码执行",
+    "https://mp.weixin.qq.com/s/G8ORVsB112woiwnc_2No3Q": "俄罗斯APT组织利用Zimbra XSS漏洞，在“幽灵邮件行动”中攻击乌克兰政府",
+    "https://mp.weixin.qq.com/s/boaZpS8pf1lawqWlSrUEKw": "CVE-2026-3888：Snap 存在重要漏洞，可导致本地权限提升至 root",
+    "https://mp.weixin.qq.com/s/4MzCSMQlTGU_14UcDpue3w": "【安全圈】请装 3 月 Win11 更新：高危漏洞被修复，黑客利用能掌控你的电脑"
 }
