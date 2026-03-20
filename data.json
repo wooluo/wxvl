@@ -19181,5 +19181,14 @@
     "https://mp.weixin.qq.com/s/_AbUh_jcUJIxKeIOGfNKqw": "严重的 Telnetd 漏洞允许远程攻击者通过 23 端口执行任意代码",
     "https://mp.weixin.qq.com/s/7ynSFvfJvzkViHbjPd9pxA": "【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击",
     "https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw": "Windows RCE漏洞EXP - CVE-2025-29969",
-    "https://mp.weixin.qq.com/s/lsJhmUUjdJ_qnMZ1CtXe1Q": "通过攻陷合法网站传播的新型iOS漏洞利用工具包DarkSword"
+    "https://mp.weixin.qq.com/s/lsJhmUUjdJ_qnMZ1CtXe1Q": "通过攻陷合法网站传播的新型iOS漏洞利用工具包DarkSword",
+    "https://mp.weixin.qq.com/s/WKKqHMW_QzFQAKUmBj7gNw": "漏洞预警 | TOA操作系统命令注入漏洞",
+    "https://mp.weixin.qq.com/s/AX-nvo_bgzgEo7xaEBBI2g": "恒丰银行AI编码助手项目POC测试供应商征集",
+    "https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w": "【案例分享】某SRC SSRF漏洞分享",
+    "https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg": "Jenkins 的严重缺陷使 CI∕CD 服务器面临远程代码执行的风险",
+    "https://mp.weixin.qq.com/s/acJRu18qzQ_nJdWtbOCRBA": "OpenClaw AI高危漏洞速查、全自动漏洞安全基线检测工具",
+    "https://mp.weixin.qq.com/s/MUnHA4_jalwGsz2_C5tMBw": "记一次某大型oa前台0day挖掘",
+    "https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/uzkQMCYHN7oIcYQjeiXIrA": "“ AI 刺客”漏洞披露：小字等方式伪装实现执行恶意代码",
+    "https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ": "俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰"
 }

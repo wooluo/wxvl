@@ -1,6 +1,5 @@
 #  【案例分享】某SRC SSRF漏洞分享  
-原创 EnhancerSec
-                    EnhancerSec  EnhancerSec   2026-03-03 04:05  
+ C4安全   2026-03-20 01:06  
   
 # 【案例分享】某SRC SSRF漏洞分享  
 >   
