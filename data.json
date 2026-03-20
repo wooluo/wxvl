@@ -19197,5 +19197,20 @@
     "https://mp.weixin.qq.com/s/LrbuTbY9aTMhhqaXUL8RVA": "工信部：关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示；AI 加持新型社工攻击 浏览器权限滥用致生物信息泄露 | 牛览",
     "https://mp.weixin.qq.com/s/AWLWH1U6RY8-iwXu_6qMIw": "监控系统反被监控?Glances曝严重凭证泄露漏洞 CVE-2026-32633",
     "https://mp.weixin.qq.com/s/Hz9X_dmj59luAIlaYOmOhQ": "ChurchCRM SQL注入漏洞（CNVD-2026-12565、CVE-2026-24854）",
-    "https://mp.weixin.qq.com/s/Ifz76zCGmlgnHMEZiFF4OQ": "【蓝队】一套面向企业级的漏洞全生命周期管理平台"
+    "https://mp.weixin.qq.com/s/Ifz76zCGmlgnHMEZiFF4OQ": "【蓝队】一套面向企业级的漏洞全生命周期管理平台",
+    "https://mp.weixin.qq.com/s/NzrZtU3VMV3udIkbLr3_uw": "【已复现】Langflow ≤1.8.1 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/prty6lNtE5r8St2X2eD-xg": "威胁通缉令 · 方块6丨DragonForce（调整）",
+    "https://mp.weixin.qq.com/s/R7jIDiG9m6DbB_hrbIYmyw": "【漏洞通告】Langflow 任意文件创建漏洞 CVE-2026-33309",
+    "https://mp.weixin.qq.com/s/O6TD0nHPnSQyyArWV5kaQA": "顶级iPhone黑客工具“DarkSword”曝光：六连环漏洞，多国用户数据遭窃",
+    "https://mp.weixin.qq.com/s/KLD3svu2RUUC-ACtZZUsZw": "安全热点周报：谷歌修复了两个在攻击中被利用的 Chrome 零日漏洞",
+    "https://mp.weixin.qq.com/s/Z-JzjkjTYRxwI0fs_73y6A": "别让“养虾”变“养险”：基础环境漏洞有多危险？",
+    "https://mp.weixin.qq.com/s/FedbrPsNBO9rpUZCPuvqjw": "【漏洞通告】Spring Boot 认证绕过漏洞(CVE-2026-22733)",
+    "https://mp.weixin.qq.com/s/57V-86JPnQDLzuv8kgV0VA": "OpenClaw最新完整漏洞，实时可查！（附高危列表）",
+    "https://mp.weixin.qq.com/s/H-1a8dxRSJHIvuOpatN1Tw": "信息安全漏洞周报【第066期】",
+    "https://mp.weixin.qq.com/s/mvpqQVlOM6OYuwk3F4zT5w": "CNNVD | 人工智能重要漏洞通报（2026年第三期）",
+    "https://mp.weixin.qq.com/s/IFDiovAzxF0SyPVSGpyyrw": "Atlassian Bamboo 高危RCE漏洞威胁 CI∕CD 环境安全",
+    "https://mp.weixin.qq.com/s/54WuHiHsYfJcUjigkWbqdA": "活动邀请 | 2026 FORCE LINK AI 创新巡展（武汉站）",
+    "https://mp.weixin.qq.com/s/iOo55KslDM-YbSZs4-xmXQ": "人工智能重要漏洞通报（2026年第三期）",
+    "https://mp.weixin.qq.com/s/tLwt4cFmsrQkoDPOnXlBrg": "Jenkins 严重漏洞导致CI∕CD服务器易受RCE攻击",
+    "https://mp.weixin.qq.com/s/PNM5EemF1d70AiRq1iuNYg": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)安全风险通告"
 }
