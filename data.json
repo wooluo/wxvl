@@ -19224,5 +19224,8 @@
     "https://mp.weixin.qq.com/s/C5qIfAuv8-YoCnZBf55q5w": "【已复现】漏洞通告 | Langflow任意文件写入漏洞(CVE-2026-33309)",
     "https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)",
     "https://mp.weixin.qq.com/s/lefaZES6jJKSW6jGy4OEIw": "Kanboard SQL注入 CVE-2026-33058 漏洞分析",
-    "https://mp.weixin.qq.com/s/RDLbaD-8EFLcOHlrxDp99Q": "每周漏洞情报速览｜2026.03.14–03.20"
+    "https://mp.weixin.qq.com/s/RDLbaD-8EFLcOHlrxDp99Q": "每周漏洞情报速览｜2026.03.14–03.20",
+    "https://mp.weixin.qq.com/s/qhm5dEgosDaKhL20o7Sj6Q": "第100天-Java安全攻防：从SQL注入到RCE，常见漏洞一网打尽！",
+    "https://mp.weixin.qq.com/s/578hkpnejm0E0Ppfernemw": "不要测无意义的并发漏洞",
+    "https://mp.weixin.qq.com/s/Io5H5vBbGTLCrtgw9QuBxA": "【WebSocket漏洞漫谈-第三章】上集玩转WebSocket XSS，这集直接绕过防火墙！3000元高危漏洞实战复盘"
 }
