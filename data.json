@@ -19222,5 +19222,7 @@
     "https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA": "Langflow高危漏洞CVE-2026-33309深度分析：一键拿Token到远程代码执行",
     "https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ": "[漏洞预警]Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017∕33309",
     "https://mp.weixin.qq.com/s/C5qIfAuv8-YoCnZBf55q5w": "【已复现】漏洞通告 | Langflow任意文件写入漏洞(CVE-2026-33309)",
-    "https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)"
+    "https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)",
+    "https://mp.weixin.qq.com/s/lefaZES6jJKSW6jGy4OEIw": "Kanboard SQL注入 CVE-2026-33058 漏洞分析",
+    "https://mp.weixin.qq.com/s/RDLbaD-8EFLcOHlrxDp99Q": "每周漏洞情报速览｜2026.03.14–03.20"
 }
