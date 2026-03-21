@@ -19218,5 +19218,9 @@
     "https://mp.weixin.qq.com/s/boaZpS8pf1lawqWlSrUEKw": "CVE-2026-3888：Snap 存在重要漏洞，可导致本地权限提升至 root",
     "https://mp.weixin.qq.com/s/4MzCSMQlTGU_14UcDpue3w": "【安全圈】请装 3 月 Win11 更新：高危漏洞被修复，黑客利用能掌控你的电脑",
     "https://mp.weixin.qq.com/s/ONH4oamY0YmycruWtfu2Kg": "九年未被发现的漏洞影响1260万个企业级Linux系统",
-    "https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ": "【高危AI漏洞预警】Langflow远程代码执行漏洞(CVE-2026-33017)"
+    "https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ": "【高危AI漏洞预警】Langflow远程代码执行漏洞(CVE-2026-33017)",
+    "https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA": "Langflow高危漏洞CVE-2026-33309深度分析：一键拿Token到远程代码执行",
+    "https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ": "[漏洞预警]Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017∕33309",
+    "https://mp.weixin.qq.com/s/C5qIfAuv8-YoCnZBf55q5w": "【已复现】漏洞通告 | Langflow任意文件写入漏洞(CVE-2026-33309)",
+    "https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q": "【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)"
 }
