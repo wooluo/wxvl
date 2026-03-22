@@ -19250,5 +19250,7 @@
     "https://mp.weixin.qq.com/s/PM22Bx6Pnvgj3KSC4gNPJg": "Oracle修复影响身份和Web服务平台的高危远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/wBtMqU_knqPFSu3gVUVc4w": "百易云资产管理系统SQL注入漏洞 附POC",
     "https://mp.weixin.qq.com/s/wgYnN_0NT0_9pM95GxFD9A": "用 GitHub Security Lab 的开源 AI 框架做漏洞扫描，我们发现了什么",
-    "https://mp.weixin.qq.com/s/I6l-7dUemwNhQ1lTd1cYAg": "OpenClaw远程代码执行漏洞（CVE-2026-30741）！"
+    "https://mp.weixin.qq.com/s/I6l-7dUemwNhQ1lTd1cYAg": "OpenClaw远程代码执行漏洞（CVE-2026-30741）！",
+    "https://mp.weixin.qq.com/s/j8WQLe4JNp9WdLyz1KUjCA": "第101天-Java安全攻防：从SPEL、SSTI注入到SpringBoot框架漏洞，一篇通关！",
+    "https://mp.weixin.qq.com/s/-FS6jJn89xraKydRh4G7Kw": "第102天-Java反序列化漏洞：从入门到精通，一篇带你彻底搞懂！"
 }
