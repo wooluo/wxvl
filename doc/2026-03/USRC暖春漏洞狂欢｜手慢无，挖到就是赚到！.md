@@ -1,8 +1,7 @@
 #  USRC暖春漏洞狂欢｜手慢无，挖到就是赚到！  
- 银联安全应急响应中心   2026-03-23 09:53  
+ 漏洞盒子VulBox   2026-03-23 11:06  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/o6sMTic4lpboRITPQmXo9ib0VJKf6ywPDtRMorooROXHWn14cMqJKOTxOO2yJEpbyWZR1aCNAFI2Q4785RElg3QZxlyWS7JZsrcCSQ7zy0a5s/640?wx_fmt=png&from=appmsg "")  
-  
+![](https://mmbiz.qpic.cn/mmbiz_png/w8U6kERPHGZACa3Egnjhic4K116ia7hy9krvKib4cOkHBDIcc2PoiajVIO9SODK6CaTel7aCtwiaiaqECZ4vqtLUTf9v7SUGOMp4YAZU9nXdUonzo/640?wx_fmt=png&from=appmsg "")  
   
   
 枝头冒绿，暖风撩人  
@@ -25,7 +24,7 @@ USRC 暖春漏洞狂欢，正式炸场！
   
 猎手冲榜赛，战幕拉起！  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/o6sMTic4lpbqJFFAnMia9icd9QibOpGrUNA4V6iaic9XZK9uusUVFjJiaEL0icXfa3ntmlXOBAticWImV7ibMEtLuF3icMqXYRJnfBqNWTOrSHKf2ahXd8/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/w8U6kERPHGYib2VyVNc8c9APU35AjhW5meT7dKYt0vyE4IiaCRibMLtYmNtYZGKYtiaT1plGm1Gf6mnypfpYACiaAMRZxsCZxEdhsVUXQEjUpVXo/640?wx_fmt=png&from=appmsg "")  
   
 **PART.01**  
   
@@ -40,7 +39,7 @@ USRC 暖春漏洞狂欢，正式炸场！
 活动奖励  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/o6sMTic4lpbrutnnoauN4lcFwibiaBLABwu3cATZTLMzicwoOCxsRyt2PDobDkibcqNSS7po6ggfIZYuvF3FfrWCRhH13TYC023iclcyDZibibfsZoA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/w8U6kERPHGaMWkDz4icut7fSU2nIHrfkadqfYAKDZ6gGuCGvicZacFJe50xQwCmcFK29TaMzlQuvxPVEVibicQ7qF8gDFeMdv33qIyaKjdzTcpY/640?wx_fmt=png&from=appmsg "")  
   
   
 豪礼不重样，全部带回家！  
@@ -65,8 +64,7 @@ USRC 暖春漏洞狂欢，正式炸场！
 活动规则  
   
   
-  
-活动一  
+**活动一**  
   
 漏洞奖励加码  
   
@@ -90,7 +88,7 @@ USRC 暖春漏洞狂欢，正式炸场！
 800  
 兑换币奖励  
   
-活动二  
+**活动二**  
   
 猎手冲榜赛  
   
@@ -151,7 +149,7 @@ USRC 暖春漏洞狂欢，正式炸场！
   
 至少3个高危  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/Q3auHgzwzM6kI8lPBqBkSp5nLmQG93H8vic4xd9oRccueIjLYq2iaJ23nlOjjWvyeiaICZAQjibFGOzusRoYZsiajib2APdG9RWWps1ckq1iaRn36I2qE56N691Ug/640?wx_fmt=svg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_svg/Q3auHgzwzM6uDPOOx1GugCok7cBNbSS8VvBDmFibkkuPdB3aEuRia0heIWn8qst6XM5MNiaWhnhgORHxxx9lgHQVpIBWMCZlequicicqD2mUGrRQdQw8VUh7wBA/640?wx_fmt=svg&from=appmsg "")  
   
   
 王者猎手  
@@ -197,8 +195,8 @@ USRC黄金猎手
 ”证书；  
   
 黄金猎手可获得  
-300兑换币  
-专属奖励；  
+300  
+兑换币专属奖励；  
   
   
 钻石猎手  
@@ -211,7 +209,7 @@ USRC钻石猎手
 800兑换币  
 专属奖励；  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/Q3auHgzwzM7y9eglOj7y6PuZfNZdvQ69Ga25fyBkMANLCu74CTeZl5CdGPdZX9h5PKbHzpibf3g5xO0GV9p2DQf3ziasOhPxoXpKweTyS8H2t53x7ibOok7dw/640?wx_fmt=svg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_svg/Q3auHgzwzM6aawqf0PRV9Rd6A3wXiaL49icFCPfdLJtZ9ia5tiaAibY1qibNELPkGxbZu4QhB0ufUCKXTCFs3CNfutseG12k9hZddrr6ax8jlWC74yox2sIiciaQ6Q/640?wx_fmt=svg&from=appmsg "")  
   
   
 王者猎手  
@@ -226,7 +224,7 @@ USRC王者猎手
 1000兑换币  
 专属奖励；  
   
-活动三  
+**活动三**  
   
 新人有礼奖励  
   
@@ -235,7 +233,7 @@ USRC王者猎手
 （台灯/音箱/充电宝/价值100元京东卡）一份。  
 （限前20名）  
   
-活动四  
+**活动四**  
   
 老带新推荐奖励  
   
@@ -267,7 +265,7 @@ https://security.unionpay.com/
   
 2.每个新用户仅可领取一次“新人有礼”礼品。  
   
-3.上述活动可同时参与，活动一、活动二漏洞收集范围仅限银联产权域名，且同一应用越权漏洞、未授权类漏洞仅收录前 3 个。  
+3.上述活动可同时参与，活动一、活动二漏洞收集范围仅限银联产权域名，且同一应用越权漏洞、未授权类漏洞仅收录前 3 个  
   
 4.兑换币仅可用于在本次活动中兑换奖品，活动结束后清零。  
   
@@ -278,6 +276,6 @@ https://security.unionpay.com/
   
 **扫码关注官微，获取最新消息**  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/o6sMTic4lpbqfUIOxpMqaicDIKyicOuzsYyia8XhxPpGGNAcnvbt7bH9icSskYFWiameJTJwiczFsgpStOCPWUvmcFcZVtdsSKCFWicU4HSorjO8Z5s/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/w8U6kERPHGbDia7Udwv7icGxwW2Burbgb6NiaTGC3r23whVTtHaKcS9pkibzxIicmWSzud2uJtmaicyseZ9NEjm7wicaUCGhicnqFRXfibQud15N8XN0/640?wx_fmt=png&from=appmsg "")  
   
   
