@@ -19267,5 +19267,17 @@
     "https://mp.weixin.qq.com/s/LvglH-z2uEZoaHFnvrbH3Q": "【0day】深科特 LEAN MES系统 ChooseLineAndRes.ashx SQL注入漏洞",
     "https://mp.weixin.qq.com/s/41KwMKw7Z0cbJIFIevRL-Q": "漏洞预警 | TOTOLINK A7000R命令注入漏洞",
     "https://mp.weixin.qq.com/s/7dDD6FJ5GYWKWzr_XowZJQ": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/PyepoFSuQ63E3RnpQa9nsA": "漏洞复现 | 三汇SMG网关管理软件 9-2radius.php 存在远程命令执行漏洞"
+    "https://mp.weixin.qq.com/s/PyepoFSuQ63E3RnpQa9nsA": "漏洞复现 | 三汇SMG网关管理软件 9-2radius.php 存在远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/5HfawGWrG4T4oVpRI6GNAg": "2026年AI安全攻防战：从Agent漏洞到深度伪造",
+    "https://mp.weixin.qq.com/s/f8MmkHhkHGgMANz78r7Qqg": "实战：我如何用AI分析Coruna iOS漏洞利用工具包？",
+    "https://mp.weixin.qq.com/s/sArNXjFuoHCh3TQYZ0cqNA": "某火cai票娱乐城系统存在前台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/Uk5u5N03_89Hzp2L67j0eQ": "红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+    "https://mp.weixin.qq.com/s/EjQI8lwxwiFwUcxG601XTQ": "AK47 | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块",
+    "https://mp.weixin.qq.com/s/Xh1p9_R2EKNAEotgHBgZHg": "绕过 Tomcat 证书吊销：CVE-2026-24734 详解（含实战 PoC）",
+    "https://mp.weixin.qq.com/s/z2jMS1OyYuGeqrXtLzX85w": "金和OA-C6系统SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/T-hht3kxX0WRogDTIDyR0Q": "Docker Remote API未授权访问与逃逸RCE 分析",
+    "https://mp.weixin.qq.com/s/jIsj7HbpYxkK9MYGcOhOCA": "AI渗透 | 重塑渗透测试与漏洞挖掘新策略！",
+    "https://mp.weixin.qq.com/s/mKng7Qpf_oeHouYmvybWTw": "孚盟云 upload.ashx showImgss SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/wa46FgQ5AnYYGsv7OSbAJw": "CVE-2026-22812：我是如何在一个 7.1 万 Star 的 AI 编码工具上实现“零认证 RCE”的",
+    "https://mp.weixin.qq.com/s/vGTlvT3kOjaPbNf_UBxYRQ": "2026-03-23 最新CVE漏洞情报和技术资讯头条"
 }

