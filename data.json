@@ -19304,5 +19304,13 @@
     "https://mp.weixin.qq.com/s/ITWq_FOZzXyVzc7VwrpK3g": "新型AI漏洞“Shadow Escape”曝光：零点击窃取企业核心数据",
     "https://mp.weixin.qq.com/s/0K1oqzJZnmVPQJ7GGo2IcA": "【已复现】漏洞通告 | 泛微E-cology10 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/80hW-zevE2Tf5-ACEl13PA": "一次渗透测试纪实：利用 AI 发掘 Profile Builder Pro 插件 PHP 对象注入漏洞",
-    "https://mp.weixin.qq.com/s/YIseUePt6Svi97YxdL37eg": "SolarWinds Serv-U 的关键漏洞可导致服务器获得 root 访问权限"
+    "https://mp.weixin.qq.com/s/YIseUePt6Svi97YxdL37eg": "SolarWinds Serv-U 的关键漏洞可导致服务器获得 root 访问权限",
+    "https://mp.weixin.qq.com/s/AmAWksvws7DIaK3z_kD99w": "2026-03-24 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s/Nz-VdwuUXV1AG3jWvVPglw": "langflow 命令执行 无回显小思路",
+    "https://mp.weixin.qq.com/s/HsTTkZQpAZPEiqm6e3Wbog": "【赠书2本】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+    "https://mp.weixin.qq.com/s/ucKOBZDxTOcgEbV9CavOvQ": "泛微E-cology10存在远程代码执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s/PVuNbrbr8xzAu7-UH69D7A": "第106天-Shiro 王国探秘：从反序列化漏洞到攻防实战，守护你的 Java 应用！",
+    "https://mp.weixin.qq.com/s/uDM_bGrC6ax5p6ZUk_kJqw": "Chamilo存在SQL注入漏洞（CNVD-2026-13257，CVE-2025-50190）",
+    "https://mp.weixin.qq.com/s/vRlhXDnBmvPw5xEcet1lBw": "从入门到封神：AI 红队渗透 + 漏洞挖掘完整实战手册",
+    "https://mp.weixin.qq.com/s/K4IAbYjSxWWYKjvcn39ajA": "漏洞复现 | 用友NC ContactsQueryServiceServlet 反序列化代码执行RCE漏洞"
 }
