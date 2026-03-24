@@ -19321,5 +19321,8 @@
     "https://mp.weixin.qq.com/s/yzJtnx1rEdOVKvFCCco4Yg": "【成功复现】Langflow 远程代码执行漏洞(CVE-2026-33017)",
     "https://mp.weixin.qq.com/s/59sCVVXzG_GA8mfNpczNBA": "孚盟云 upload.ashx deletefile SQL注入漏洞",
     "https://mp.weixin.qq.com/s/DIeVE7qcwq6bYJovhqKAhA": "雷神众测漏洞周报2026.3.16-2026.3.22",
-    "https://mp.weixin.qq.com/s/P7CzIurhBXGC8oSxrwKgCg": "QNAP QVR Pro 严重漏洞可导致系统遭远程访问"
+    "https://mp.weixin.qq.com/s/P7CzIurhBXGC8oSxrwKgCg": "QNAP QVR Pro 严重漏洞可导致系统遭远程访问",
+    "https://mp.weixin.qq.com/s/OqS-aKp03ywBJczQmq6BPA": "泛微 E-cology 10 未授权远程代码执行漏洞分析与安全风险解读",
+    "https://mp.weixin.qq.com/s/bA4QfIlrLyvFjG_n8ZO0Jg": "Langflow 远程代码执行漏洞(CVE-2026-33017) 复现",
+    "https://mp.weixin.qq.com/s/yW1ud59ubiztZK-PMKDiBQ": "PHP代码审计Skill 【0day杀手】"
 }
