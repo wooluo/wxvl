@@ -1,11 +1,5 @@
 #  手把手拆解：小程序/Web端加密鉴权绕过案例全复现  
- 黑白之道   2026-03-24 01:29  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
-  
-原文首发在：奇安信攻防社区  
-  
-https://forum.butian.net/share/4664  
+ Z2O安全攻防   2026-03-24 13:06  
   
 本文通过六个真实渗透测试案例，深入剖析小程序与Web端常见的加密鉴权机制，手把手演示如何通过反编译、动态调试、JS逆向与脚本复现，精准定位加密逻辑、还原签名算法，并最终实现越权访问、信息遍历与账号接管  
   
@@ -369,16 +363,18 @@ js逆向动态调试的好处就是可以修改数值，它也会自动生成密
 。无论是Hawk协议中的动态签名、MD5时间戳校验，还是RSA/AES等标准加密算法，其安全性高度依赖于密钥管理、参数时效性与实现细节。一旦密钥泄露、nonce可预测、ts未严格校验，或加密逻辑被完整逆向，整个鉴权体系将形同虚设。  
   
   
-> **文章来源：亿人安全**  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/JnmoqeNZZwSRCicgveAzTnLfJFDTkosPdhFPJvCa6iaC4y7gDucSAXia1yxmrjuwrn2Ha0wvpIgI6MBDAo7aVUIf5diaeCUz9KiaOGJGZFfu3UsY/640?wx_fmt=jpeg "")  
   
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/JnmoqeNZZwT22BJWiavS7LicBa1ZFBTBcb8Jq71ntabRF70GYFnwemRubkzkFG09vQFomETITA0UtDTVg7lVOatmErp5GJvvYrbYtjNk5mO1o/640?wx_fmt=jpeg "")  
   
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/JnmoqeNZZwRZYeEUU5I24BCYF5xrAfzmTPnOXZiaRDWApKO8hcWOiaC5wZAgdBbz666zxLENBRBgDicR0qpcBhd6nKfbWRgic76Q9icX9HI5kqJ0/640?wx_fmt=jpeg "")  
   
-黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/JnmoqeNZZwSia6vDEsgiauFlzWiaOvPysPykiaLVeuicgNwZgUNEdRW9azk3Qm3SMnpWZsqhScOI9JSo6s6O3rqU3Z7h9lO4C0lqsa7mCPsbCx6c/640?wx_fmt=jpeg "")  
   
-如侵权请私聊我们删文  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/JnmoqeNZZwQCtqnkC10uSqh2HX46ZRjQXJ6TC1ibOLw8KydDiacND9ibUzsxDVibLXU40cKnVM9j37VrcVPvdhPdDvbLBK9Ztx48r0h1nOPRkbA/640?wx_fmt=jpeg "")  
   
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/JnmoqeNZZwSWv7xwd6ziaDg17D4DD3YnkkOtFAS0Pvx0uPCL3e5ia0eY3PpNxnXkcH7gXjwsa7sHfdMq4D7bRuGs8hARSSic8ia5jw6NYbtXZK4/640?wx_fmt=jpeg "")  
   
-**END**  
-  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/JnmoqeNZZwRXoX1m8u8z5JibIV0qjrtpDx8VM53pgpwbOtqiajPSN0nXSLnUJmEllFgrjBYTYk6ickBzLAoQmedvG3xMsAok97mwPExlPoKOqc/640?wx_fmt=jpeg "")  
   
   
