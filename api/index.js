@@ -27,6 +27,7 @@ function extractPublishTime(filename, content, monthDir) {
     const headerContent = content.substring(0, 500);
     
     // Match patterns like "2026-03-19" or "2026年03月19日"
+    // Updated regex to match both formats
     const contentDateMatch = headerContent.match(/(\d{4})[-年](\d{2})[-月](\d{2})/);
     if (contentDateMatch) {
         return `${contentDateMatch[1]}-${contentDateMatch[2]}-${contentDateMatch[3]}`;
@@ -35,6 +36,16 @@ function extractPublishTime(filename, content, monthDir) {
     // 3. Fallback to month directory name (e.g., "2026-03")
     if (monthDir && /^\d{4}-\d{2}$/.test(monthDir)) {
         return monthDir + '-01'; // Use first day of month
+    }
+    
+    // 4. If still no date found, use file modification time as fallback
+    try {
+        const stat = fs.statSync(path.join(DOC_DIR, monthDir, filename));
+        const mtime = stat.mtime.toISOString();
+        // Extract only date part (YYYY-MM-DD)
+        return mtime.split('T')[0];
+    } catch {
+        return null;
     }
     
     return null;
@@ -78,11 +89,9 @@ function getArticlesInMonth(month) {
         })
         .sort((a, b) => (b.publishTime || '').localeCompare(a.publishTime || ''));
 }
-
 function getAllArticles() {
     return getMonths().flatMap(m => getArticlesInMonth(m.name));
 }
-
 function searchArticles(query) {
     const queryLower = query.toLowerCase();
     return getAllArticles()
@@ -95,7 +104,6 @@ function searchArticles(query) {
             publishTime: a.publishTime
         }));
 }
-
 function readArticle(articlePath) {
     const fullPath = path.join(DOC_DIR, articlePath);
     if (!fullPath.startsWith(DOC_DIR) || !fs.existsSync(fullPath)) return null;
@@ -118,7 +126,6 @@ function readArticle(articlePath) {
         publishTime: publishTime
     };
 }
-
 // API Handler
 module.exports = async (req, res) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
