@@ -19367,5 +19367,7 @@
     "https://mp.weixin.qq.com/s/VRT-KXKSzwWupH6JdqQIUA": "基于Firefox的Claude Code Security实测漏洞发掘",
     "https://mp.weixin.qq.com/s/JCDXK_QtzQelqJtxqCEXRA": "第108天-Shiro安全攻防：从JRMP到CC1，揭秘无利用链下的RCE新思路",
     "https://mp.weixin.qq.com/s/2MjqRDp3BHZEn4x5Hpzhjw": "第107天-Shiro 550 漏洞深度解析：无 CC 依赖？CB 链一招制敌！",
-    "https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg": "红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘"
+    "https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg": "红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘",
+    "https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg": "Kali Code Executor：三层Agent驱动的Kali容器渗透代码执行平台",
+    "https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ": "泛微E-cology10 getEmDsList接口存在敏感信息泄露 附POC"
 }
