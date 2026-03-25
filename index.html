@@ -709,7 +709,7 @@
             
             grid.innerHTML = articles.map(article => {
                 const tags = extractTags(article.name);
-                const timeDisplay = formatDateTime(article.mtime);
+                const timeDisplay = formatDate(article.publishTime || article.mtime);
                 return `
                     <div class="article-card" onclick="viewArticle('${article.path}')">
                         <div class="article-card-title">${escapeHtml(article.name.replace('.md', ''))}</div>
@@ -742,7 +742,7 @@
                 const res = await fetch(`${API_BASE}?action=article&path=${encodeURIComponent(path)}`);
                 const data = await res.json();
                 if (data.code === 200) {
-                    const timeDisplay = formatDateTime(data.data.publishTime || data.data.mtime);
+                    const timeDisplay = formatDate(data.data.publishTime || data.data.mtime);
                     document.getElementById('articleTitle').textContent = data.data.title;
                     document.getElementById('articleMeta').innerHTML = `
                         <span>📅 ${timeDisplay}</span>
@@ -833,6 +833,20 @@
             const hours = String(date.getHours()).padStart(2, '0');
             const minutes = String(date.getMinutes()).padStart(2, '0');
             return `${year}-${month}-${day} ${hours}:${minutes}`;
+        }
+        
+        function formatDate(dateString) {
+            if (!dateString) return '';
+            // If already in YYYY-MM-DD format, return as-is
+            if (/^\d{4}-\d{2}-\d{2}$/.test(dateString)) {
+                return dateString;
+            }
+            // Otherwise parse and format
+            const date = new Date(dateString);
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
         }
         
         function escapeHtml(text) {
