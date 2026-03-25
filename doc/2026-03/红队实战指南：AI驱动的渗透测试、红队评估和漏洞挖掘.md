@@ -1,35 +1,28 @@
 #  红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘  
- ChaMd5安全团队   2026-03-23 01:54  
+新书速递→
+                    新书速递→  Z2O安全攻防   2026-03-25 15:30  
   
 红队评估和安全测试的技术与理论正在与人工智能（AI）等新兴技术深度融合。网络安全领域已经不再局限于识别缓冲区溢出或SQL注入漏洞。当前，安全专业人员正致力于探索一个全新的领域：具有推理、适应和学习能力的智能系统。  
   
-  
 传统安全工具和技术发生了重大变革。人工智能防御系统能够以毫秒级的速度实现威胁检测与响应，机器学习和生成式人工智能模型可以快速分析大量行为模式，完成原本需要分析师耗时数月才能完成的工作。这场技术革命在推动进步的同时，也带来了新的漏洞和攻击面。  
-  
   
 《红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘》  
 重点介绍攻击性安全测试领域正在发生的重大变化，为读者提供必要的专业知识。随着各种组织广泛使用人工智能驱动的防护系统，传统的红队评估、渗透测试和漏洞挖掘活动需要进行相应调整。在这一新时代，  
 红队成员  
 必须掌握适应当前技术环境的专业技能，而漏洞赏金猎人也需要优化工具和方法，以应对具备预测和实时响应能力的智能防御系统。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDMmyP5zUHcict9REFf2Pe90ZGEiaGRY3WVtEph38jRcdou32vIZHj9hnJnOdBSas6Cn46ibOEsCXLCyIsa6K5yFhDE4dnTMgmicXNM/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDMmyP5zUHcict9REFf2Pe90ZGEiaGRY3WVtEph38jRcdou32vIZHj9hnJnOdBSas6Cn46ibOEsCXLCyIsa6K5yFhDE4dnTMgmicXNM/640?wx_fmt=jpeg&from=appmsg#imgIndex=0 "")  
   
 希望每一位读者都能从这本书中找到属于自己的答案：如何在AI与安全的博弈中，既成为规则的挑战者，也成为规则的塑造者。这本书不仅仅是一本技术手册，它更像是一面镜子，映射出我们这个行业的现状与未来。当AI开始具备推理和学习能力时，攻击与防御的边界正在逐渐模糊。而这本书的意义就在于，它为我们提供了重新定义攻击艺术的可能性。  
-  
-  
   
   
 全书聚  
 焦人工智能与安全测试  
 的交叉创新，系统性地介绍了从AI辅助信息收集到漏洞利用开发等前沿技术。通过结合传统安全方法论和新兴技术，本书为读者构建了一幅完整的现代安全测试知识图谱，帮助读者在这一新兴领域开展探索之旅。  
   
-  
 欢迎探索道德黑客的未来！  
   
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDOa58TI2Ac9g2N3dL8rwhxIxUJUlmcmzvZUicSzYaheib5cRqNdicTjwVU3NoyQMapWwNJVSI3QwoRpffGUvtbpiaq521ibvQCK8UJw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1 "")  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDOa58TI2Ac9g2N3dL8rwhxIxUJUlmcmzvZUicSzYaheib5cRqNdicTjwVU3NoyQMapWwNJVSI3QwoRpffGUvtbpiaq521ibvQCK8UJw/640?wx_fmt=jpeg&from=appmsg#imgIndex=1 "")  
   
 读者对象  
   
@@ -710,35 +703,10 @@ API  342
 附录　选择题答案  433  
   
   
-  
 了解更多  
   
   
   
   
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDNtTVdd5TvOE13I6QZlibdxqN8Ql7feJUpbfn36uUWFVs7vpS1Jick8AY5zB1jGRHrTt5UAJwcuCZTJsO1gAiahozlModpZC2wxTA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
-  
-  
-**互动有礼**  
-  
-  
-  
-**抽奖条件**  
-:2026年3月23日前关注本公众号  
-  
-**抽奖方式**  
-:**转发本文至朋友圈**  
-并保留至开奖日,禁止开启分组，长按下图二维码即可  
-  
-**开奖时间:**  
-2026年3月26日8时  
-  
-开奖后，直接向公众号  
-发送中奖截图+朋友圈转发记录截图  
-  
-（超过24小时未领取视为自动放弃~）  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/jvwqHfehg2Poup2wLSKby5xbfLgnraiaKt2icibMgibI5wdudRPKwWwibEIXXhzAHHEKxBnR6kdzAjj3FeibeR7MF4nmEe4GBABBEFIoIL5dwsa2k/640?wx_fmt=jpeg&from=appmsg "")  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDNtTVdd5TvOE13I6QZlibdxqN8Ql7feJUpbfn36uUWFVs7vpS1Jick8AY5zB1jGRHrTt5UAJwcuCZTJsO1gAiahozlModpZC2wxTA/640?wx_fmt=jpeg&from=appmsg#imgIndex=2 "")  
   
