@@ -19349,5 +19349,10 @@
     "https://mp.weixin.qq.com/s/jO06HSXds2LQm7B-7ZTpQw": "谷歌15年累计发放了8160万美元漏洞赏金",
     "https://mp.weixin.qq.com/s/hbcmKhk_PnqPK4gb3xEEBw": "CNVD漏洞周报2026年第11期",
     "https://mp.weixin.qq.com/s/Pta7hBxwT6nUrNy3UO_LaA": "深科特 LEAN MES 任意文件上传漏洞分析（从逻辑缺陷到 RCE）",
-    "https://mp.weixin.qq.com/s/YLy70EnLub_ehTH_teogOg": "3月社区投稿活动 | 漏洞挖掘"
+    "https://mp.weixin.qq.com/s/YLy70EnLub_ehTH_teogOg": "3月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw": "【漏洞预警】Litellm 2026.3.24 供应链投毒事件",
+    "https://mp.weixin.qq.com/s/FVmbZs3bnfvNfIYFwmAFaQ": "CVE-2026-23673 ReFS 越界读分析",
+    "https://mp.weixin.qq.com/s/MOouM8QlEOg7U8YFMh7fsQ": "[被忽略的漏洞]sqli-labs之Less-29的另一种玩法",
+    "https://mp.weixin.qq.com/s/k7BAkFlQ4C19aZ_bXVmoHA": "苹果警告旧款iphone易受Coruna和DarkSword漏洞工具包攻击",
+    "https://mp.weixin.qq.com/s/aT359r9Ym7VQvBUbG-t0sg": "命令执行：突破Shell命令过滤限制"
 }
