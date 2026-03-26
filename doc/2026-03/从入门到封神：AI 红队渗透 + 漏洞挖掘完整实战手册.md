@@ -1,6 +1,5 @@
 #  从入门到封神：AI 红队渗透 + 漏洞挖掘完整实战手册  
-菜狗
-                    菜狗  只会看监控的实习生   2026-03-24 04:00  
+ 亿人安全   2026-03-26 06:20  
   
 红队评估和安全测试的技术与理论正在与人工智能（AI）等新兴技术深度融合。网络安全领域已经不再局限于识别缓冲区溢出或SQL注入漏洞。当前，安全专业人员正致力于探索一个全新的领域：具有推理、适应和学习能力的智能系统。  
   
@@ -13,7 +12,7 @@
 红队成员  
 必须掌握适应当前技术环境的专业技能，而漏洞赏金猎人也需要优化工具和方法，以应对具备预测和实时响应能力的智能防御系统。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDMmyP5zUHcict9REFf2Pe90ZGEiaGRY3WVtEph38jRcdou32vIZHj9hnJnOdBSas6Cn46ibOEsCXLCyIsa6K5yFhDE4dnTMgmicXNM/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/Pled5HYvsFHiaDPOibJXPxcLyPv2NdZTWsbZb6thg9hGPvpdYicwEice0dsBnicS1epwjJWgxWFgf2aU03CdtPHvmgueUl2743VRqPvFgrus9pnM/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=0 "")  
   
   
 希望每一位读者都能从这本书中找到属于自己的答案：如何在AI与安全的博弈中，既成为规则的挑战者，也成为规则的塑造者。这本书不仅仅是一本技术手册，它更像是一面镜子，映射出我们这个行业的现状与未来。当AI开始具备推理和学习能力时，攻击与防御的边界正在逐渐模糊。而这本书的意义就在于，它为我们提供了重新定义攻击艺术的可能性。  
@@ -28,7 +27,7 @@
 欢迎探索道德黑客的未来！  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDOa58TI2Ac9g2N3dL8rwhxIxUJUlmcmzvZUicSzYaheib5cRqNdicTjwVU3NoyQMapWwNJVSI3QwoRpffGUvtbpiaq521ibvQCK8UJw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1 "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/Pled5HYvsFGO9vbV5DMTh13GGQPB2mjh2xRXjeMeIwIZGAhXIcwCV1FLGZTq0VSGlW5mld0dK97cgbAJB7uEOMEflGrUIicTscn22U8ZTuJQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=1 "")  
   
   
 读者对象  
@@ -717,7 +716,7 @@ API  342
   
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lFDuP33dcDNtTVdd5TvOE13I6QZlibdxqN8Ql7feJUpbfn36uUWFVs7vpS1Jick8AY5zB1jGRHrTt5UAJwcuCZTJsO1gAiahozlModpZC2wxTA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/Pled5HYvsFGBRF6YjIfalCPyQFA8Pzv2dJxvSG4AOqFhooaPwbsXQyUr3cxEr19qZcHbhKb9pVzaKicKoydkXy0LVH1LI9y6caQrINgtfSOE/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&watermark=1#imgIndex=2 "")  
   
 - 本文来源：  
 原创  
