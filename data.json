@@ -19407,5 +19407,14 @@
     "https://mp.weixin.qq.com/s/py1hnY9cfJw3_smzaJ2uXw": "CVE-2026-20817 - Windows错误报告中缺失授权检查的分析 POC",
     "https://mp.weixin.qq.com/s/oJnKz91e1sHvQhkWDH5LxA": "CVE-2026-20079 - Cisco FMC 身份验证绕过远程代码执行分析",
     "https://mp.weixin.qq.com/s/KCnE2dubNtqqbyduSud_DA": "私有内容IDOR漏洞",
-    "https://mp.weixin.qq.com/s/ft8s_vuxIVocovRvyjIEOw": "CVE-2010-1870"
+    "https://mp.weixin.qq.com/s/ft8s_vuxIVocovRvyjIEOw": "CVE-2010-1870",
+    "https://mp.weixin.qq.com/s/qOvzcnmIu8NPL-PEcPYJzw": "孚盟云 upload.ashx image SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/jJrwgDN6rC3q2beEG-LhpQ": "OpenAI 发布AI安全漏洞奖励计划",
+    "https://mp.weixin.qq.com/s/e21rnLoFSnTUmf4WloRqDQ": "当Linux服务器扫出iis漏洞",
+    "https://mp.weixin.qq.com/s/jnk0D6FlxLlVohP2gQ9oDw": "信息安全漏洞预警（2026年3月23日-3月27日）",
+    "https://mp.weixin.qq.com/s/fhPtLqJLKbzQMhtR-K9yYg": "龙王 claw 自动化审计 0day 挑战直播来袭！",
+    "https://mp.weixin.qq.com/s/WaIPXsW3f201ppHlgvsaSA": "20小时即被武器化！Langflow致命漏洞CVE-2026-33017",
+    "https://mp.weixin.qq.com/s/4QPl-M9RnQuufeTdA5FX-A": "AI用户务必关注，Langflow未授权RCE分析（CVE-2026-33017）",
+    "https://mp.weixin.qq.com/s/wtOi3gVf0JYSZ-GIkcjT5Q": "Stackfield 桌面应用任意文件写入导致远程代码执行漏洞分析 (CVE-2026-28373)",
+    "https://mp.weixin.qq.com/s/Z0Szj4BBrPIeAHVh0ZucRw": "OpenAI重金悬赏AI滥用漏洞，50%复现即算有效"
 }
