@@ -19440,5 +19440,7 @@
     "https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ": "灾难公式：串联EspoCRM脚本引擎实现远程代码执行",
     "https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA": "反思您的分层模型：CVE-2025-33073 和单跳问题",
     "https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg": "【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管",
-    "https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA": "【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA": "【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA": "把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘",
+    "https://mp.weixin.qq.com/s/sIoF8S4hq0m39nLz-6hcdA": "二开MDUT-Pro数据库综合漏洞利用工具，新增Redis CVE-2025-49844和CVE-2022-0543利用，Mssql的Godpotato等提权，MongoDB类型数据库利用"
 }
