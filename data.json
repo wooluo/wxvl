@@ -19422,5 +19422,10 @@
     "https://mp.weixin.qq.com/s/4gQuOELNxWHLo839uL37MQ": "信息安全漏洞周报【第067期】",
     "https://mp.weixin.qq.com/s/ujz2zjQP_hb6drRwCi6i5g": "Claude浏览器扩展漏洞允许通过任意网站实现零点击XSS提示注入",
     "https://mp.weixin.qq.com/s/iINM32Qqy-AX0CDdTouFIw": "思科安全防火墙漏洞可导致攻击者以root权限远程执行代码",
-    "https://mp.weixin.qq.com/s/FYOdgoWKCIrGWMO4CZja_A": "Burpsuite-MCP，使用大模型挖漏洞做赛题，最详细教学来了"
+    "https://mp.weixin.qq.com/s/FYOdgoWKCIrGWMO4CZja_A": "Burpsuite-MCP，使用大模型挖漏洞做赛题，最详细教学来了",
+    "https://mp.weixin.qq.com/s/fIijPpB5VIKTytqdVO8mCQ": "2026 红队终极渗透指南：漏洞利用 + 权限维持 + EDR 绕过，全程干货 | 打点 | 撕口子 | 渗透测试 | Web安全",
+    "https://mp.weixin.qq.com/s/iuRyip2HuthovZU1gEhCJA": "2026年Q1网络安全威胁深度分析：AI驱动攻击、供应链漏洞与防御策略升级",
+    "https://mp.weixin.qq.com/s/MHsaEIAjpdlSDyrgGsK8Ww": "OpenClaw 近期安全漏洞修复汇总",
+    "https://mp.weixin.qq.com/s/5VrsFyU97ncLC0bXY9dDGg": "漏洞复现 | Tosei自助洗衣机 network_test.php 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s/uNiKLvCRAEjtL5KnLn0BsA": "你配置的AI白名单一文不值：CVE-2026-28363让OpenClaw授权控制全面失效"
 }
