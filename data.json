@@ -19437,5 +19437,7 @@
     "https://mp.weixin.qq.com/s/g_9aQ8gTTFotM_z0W09NhQ": "Coruna漏洞工具包升级攻击框架，威胁数百万未打补丁的iOS设备",
     "https://mp.weixin.qq.com/s/p0RnEz3kbzArFt-QAz6C2w": "WordPress CMS Commander 插件SQL漏洞 | CVE-2026-3334概念复现&研究",
     "https://mp.weixin.qq.com/s/3-fMzl70tqasCcq04dikyg": "ClawHub漏洞可致恶意skill登顶；Claude Code允许AI自主选择操作权限 | FreeBuf周报",
-    "https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ": "灾难公式：串联EspoCRM脚本引擎实现远程代码执行"
+    "https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ": "灾难公式：串联EspoCRM脚本引擎实现远程代码执行",
+    "https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA": "反思您的分层模型：CVE-2025-33073 和单跳问题",
+    "https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg": "【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管"
 }
