@@ -19456,5 +19456,10 @@
     "https://mp.weixin.qq.com/s/TTrtjFmQAgsRsLr_1wJXdg": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛，Linux内核也未能幸免",
     "https://mp.weixin.qq.com/s/KVCBM9ozbhMak8PaXSPsDw": "分享druid通用漏洞nday利用姿势",
     "https://mp.weixin.qq.com/s/CMTONs0DYNaV3w-KZwfoGg": "Magento PolyShell 漏洞分析：从任意文件上传到远程代码执行",
-    "https://mp.weixin.qq.com/s/6iA6sknfVQhvjKA9HojMJw": "美国网络安全和基础设施安全局 (CISA) 警告：F5 BIG-IP 漏洞已被积极用于攻击"
+    "https://mp.weixin.qq.com/s/6iA6sknfVQhvjKA9HojMJw": "美国网络安全和基础设施安全局 (CISA) 警告：F5 BIG-IP 漏洞已被积极用于攻击",
+    "https://mp.weixin.qq.com/s/RVb-ai_ZrfWTyWdY6jjl0g": "手把手CNVD从资产收集到通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s/06Wx8xZAZJSBfcrdg2ZktA": "SQL 到 SSH：Grafana 中存在严重 CVSS 9.1 级远程代码执行漏洞，可将监控变成远程劫持",
+    "https://mp.weixin.qq.com/s/00ZeX0Ks8aGMBwcjtvuItw": "Supermap iServer历史漏洞浅析(上)",
+    "https://mp.weixin.qq.com/s/6o24iCVMgFntuACVFOLzcg": "苹果 DarkSword 漏洞工具公开，数亿 iPhone 面临窃密风险",
+    "https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg": "【漏洞复现】Langflow 未授权远程代码执行（CVE-2026-33017）"
 }
