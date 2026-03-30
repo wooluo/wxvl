@@ -19464,5 +19464,7 @@
     "https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg": "【漏洞复现】Langflow 未授权远程代码执行（CVE-2026-33017）",
     "https://mp.weixin.qq.com/s/cXyy1DJEUyJgoYke87id7w": "【漏洞通告】Citrix NetScaler ADC和NetScaler Gateway越界读取漏洞 CVE-2026-3055",
     "https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA": "【高危漏洞预警】Grafana SQL表达式任意文件写入导致RCE（CVE-2026-27876）",
-    "https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ": "记母校漏洞测试一次waf绕过经历"
+    "https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ": "记母校漏洞测试一次waf绕过经历",
+    "https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ": "AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法",
+    "https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA": "工具推荐 | UploadRanger专业级文件上传漏洞检测：全面支持263种绕过技术、代理抓包与动态深度扫描"
 }
