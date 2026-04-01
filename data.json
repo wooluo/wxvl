@@ -19521,5 +19521,6 @@
     "https://mp.weixin.qq.com/s/i1AJHN9Kx_a3bHAI41PH2w": "4月社区投稿活动 | 漏洞挖掘",
     "https://mp.weixin.qq.com/s/bfHI4LsGicJiSJKGVq9RrA": "【在野利用】Google Chrome Dawn 释放后重用漏洞(CVE-2026-5281)安全风险通告",
     "https://mp.weixin.qq.com/s/44s-ls6WCYqzm36akr3wYw": "【附POC及复现环境】Vim 1-click代码执行漏洞复现 (CVE-2026-34714)",
-    "https://mp.weixin.qq.com/s/VdSos730ImjZLFc25x-ucQ": "【安全圈】请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑"
+    "https://mp.weixin.qq.com/s/VdSos730ImjZLFc25x-ucQ": "【安全圈】请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑",
+    "https://mp.weixin.qq.com/s/Y8lidlMnLlL1uwsEUGaxzw": "Smart Slider 3 WordPress 插件任意文件读取漏洞 | CVE-2026-3098复现&研究"
 }
