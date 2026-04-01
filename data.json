@@ -19513,5 +19513,6 @@
     "https://mp.weixin.qq.com/s/zwkRUQjlC1rJ8KgY3chrUw": "威胁通缉令 · 红桃5丨CitrixBleed 2漏洞（新增）",
     "https://mp.weixin.qq.com/s/AZk9_JfUMYkTQrgvtZ8WWg": "【高危漏洞预警】Vim代码执行漏洞CVE-2026-34714",
     "https://mp.weixin.qq.com/s/pv7IH5r9BT-FL48oow1tPw": "MAD Bugs：Claude 编写了一个完整的 FreeBSD 远程内核 RCE 漏洞，并获得了 Root Shell 权限 (CVE-2026-4747)",
-    "https://mp.weixin.qq.com/s/SEZhf7OjWFFYsairfgCD8Q": "畅捷通T+ DownLoadBlockFile 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s/SEZhf7OjWFFYsairfgCD8Q": "畅捷通T+ DownLoadBlockFile 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ": "【CVE-2026-4747】疯了！Claude 直接写内核 RCE，成功获得 Root Shell！"
 }
