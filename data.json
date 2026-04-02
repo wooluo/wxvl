@@ -19554,5 +19554,6 @@
     "https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg": "Cisco IMC 存在严重漏洞，攻击者可绕过身份验证",
     "https://mp.weixin.qq.com/s/ho2ScK7cCBbPWGEAyhZmeQ": "Claude Code 30分钟挖出Vim用了三十年的0Day，收到陌生文件先别急着打开",
     "https://mp.weixin.qq.com/s/7xvF8PsPGCEZMRPm4W8V-Q": "[漏洞播报]你的电脑主板也在变的不安全，技嘉控制中心曝9.2分高危漏洞",
-    "https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ": "赛门铁克DLP代理漏洞允许攻击者提升权限"
+    "https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ": "赛门铁克DLP代理漏洞允许攻击者提升权限",
+    "https://mp.weixin.qq.com/s/8F1C__iMIqun-IwfSiYBSw": "黑客的蜜罐：针对近期 CVE-2026-21962 及其他关键 WebLogic 漏洞在高度交互式 Oracle 蜜罐上的攻击研究"
 }
