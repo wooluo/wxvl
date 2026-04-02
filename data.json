@@ -19550,5 +19550,9 @@
     "https://mp.weixin.qq.com/s/srC7Md79V2wmLMBg4Dj4CA": "Chrome 0Day漏洞遭野外利用，谷歌紧急更新修复21项高危漏洞",
     "https://mp.weixin.qq.com/s/_7UCIkcTUwXKUMKfXUSq5Q": "Telegram零日漏洞可零点击接管设备，官方否认存在",
     "https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg": "【高危漏洞预警】Vim代码执行漏洞CVE-2026-34982",
-    "https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg": "Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统"
+    "https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg": "Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统",
+    "https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg": "Cisco IMC 存在严重漏洞，攻击者可绕过身份验证",
+    "https://mp.weixin.qq.com/s/ho2ScK7cCBbPWGEAyhZmeQ": "Claude Code 30分钟挖出Vim用了三十年的0Day，收到陌生文件先别急着打开",
+    "https://mp.weixin.qq.com/s/7xvF8PsPGCEZMRPm4W8V-Q": "[漏洞播报]你的电脑主板也在变的不安全，技嘉控制中心曝9.2分高危漏洞",
+    "https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ": "赛门铁克DLP代理漏洞允许攻击者提升权限"
 }
