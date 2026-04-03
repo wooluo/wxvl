@@ -1,6 +1,6 @@
 #  人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞  
-原创 CNNVD
-                    CNNVD  CNNVD安全动态   2026-04-03 03:07  
+CNNVD
+                    CNNVD  CISP   2026-04-03 07:01  
   
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JjlMnGl5z2XiaAQGZdFulYs0vsE3icB8RUiawPqDSb5lvm8G0drb7iaw7sQ/640?wx_fmt=gif&from=appmsg "")  
   
@@ -39,4 +39,12 @@ CNNVD将继续跟踪上述漏洞的相关情况，及时发布相关信息。如
   
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JMd8aMOqNkic25xydKvYcCVEsHXvm506icfXiaFep4AfohjraUj3F2jMfg/640?wx_fmt=gif&from=appmsg "")  
   
+  
+**更多资讯信息**  
+  
+**长按二维码关注**  
+  
+**注册信息安全专业人员（CISP）官方公众账号**  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/W7ntkMUKVmOcIoYkdLbZChMGLacww8ZZ00ibYcibibRWpvFmhZMeU909QKEwT658LmXIXCKKsicyW26YJ1R5M7RnSA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp#imgIndex=0 "")  
   
