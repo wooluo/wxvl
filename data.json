@@ -19610,5 +19610,7 @@
     "https://mp.weixin.qq.com/s/GMm9Kggk-68BhwVkT0XLqQ": "14000余台F5 BIG-IP暴露，高危RCE漏洞正遭活跃利用",
     "https://mp.weixin.qq.com/s/4kk8UKGglxXTCOfHI3Rncw": "工信部提醒：苹果用户警惕网络攻击，及时升级版本、修复漏洞",
     "https://mp.weixin.qq.com/s/sG5deE3tbzja_ok-ulZemA": "WEB安全手册（红队安全技能栈），漏洞理解，漏洞利用，代码审计和渗透测试总结",
-    "https://mp.weixin.qq.com/s/4UER9vNsWEmErEh_WR3Hyg": "多维度漏洞挖掘突破与实践探索"
+    "https://mp.weixin.qq.com/s/4UER9vNsWEmErEh_WR3Hyg": "多维度漏洞挖掘突破与实践探索",
+    "https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg": "漏洞复现 | Arris VAP2500 diag_s 存在命令注入漏洞",
+    "https://mp.weixin.qq.com/s/fJ5n5v1IxYSeRxyfgzJOFw": "从沙箱逃逸到系统主宰：解析 2026 年首个重大 Windows 内核提权漏洞-华盟网"
 }
