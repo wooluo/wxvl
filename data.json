@@ -19622,5 +19622,11 @@
     "https://mp.weixin.qq.com/s/R6Dnc2CW_OlxVTv-t1vg1g": "大模型在漏洞挖掘中的“逻辑跳跃”问题与解决方案",
     "https://mp.weixin.qq.com/s/toUWdwleS-4MT-LMKnM9og": "Apache 流量服务器漏洞使攻击者能够触发拒绝服务攻击",
     "https://mp.weixin.qq.com/s/hhvbv9yEs72Xk6ZgZojkHw": "OpenSSH 10.3 发布，修复 Shell 注入及其他安全漏洞",
-    "https://mp.weixin.qq.com/s/2_iivzfMZppd9n-9r8JyoQ": "FortiClient EMS 重大零日漏洞已被在野利用"
+    "https://mp.weixin.qq.com/s/2_iivzfMZppd9n-9r8JyoQ": "FortiClient EMS 重大零日漏洞已被在野利用",
+    "https://mp.weixin.qq.com/s/rULYChYHUKd8TZJW8nBFfQ": "CVE-2026-24291-Windows权限提升漏洞“RegPwn”复现分析",
+    "https://mp.weixin.qq.com/s/4XBkiguahhoy1ma2tRzRgA": "Dgraph 数据库存在严重漏洞，攻击者可绕过身份验证",
+    "https://mp.weixin.qq.com/s/VPTSmhTbEABYInFZ89HCVg": "漏洞#13 CORS 泄露 Token 结合 CSRF 实现无感账号接管",
+    "https://mp.weixin.qq.com/s/3VnNNmAzmDz0zyLb7YW3SQ": "图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞",
+    "https://mp.weixin.qq.com/s/u6ILXE87wjp1d1Kbj0Oo8Q": "今日（2026年4月6日）热点网络安全漏洞动态",
+    "https://mp.weixin.qq.com/s/_4YOGdCUyrrkAqzG72ovHw": "AI 大模型越狱语句自动化生成，覆盖金融测试 ∕ 底层对抗，精准挖掘模型防御漏洞"
 }
