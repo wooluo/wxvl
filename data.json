@@ -19628,5 +19628,16 @@
     "https://mp.weixin.qq.com/s/VPTSmhTbEABYInFZ89HCVg": "漏洞#13 CORS 泄露 Token 结合 CSRF 实现无感账号接管",
     "https://mp.weixin.qq.com/s/3VnNNmAzmDz0zyLb7YW3SQ": "图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞",
     "https://mp.weixin.qq.com/s/u6ILXE87wjp1d1Kbj0Oo8Q": "今日（2026年4月6日）热点网络安全漏洞动态",
-    "https://mp.weixin.qq.com/s/_4YOGdCUyrrkAqzG72ovHw": "AI 大模型越狱语句自动化生成，覆盖金融测试 ∕ 底层对抗，精准挖掘模型防御漏洞"
+    "https://mp.weixin.qq.com/s/_4YOGdCUyrrkAqzG72ovHw": "AI 大模型越狱语句自动化生成，覆盖金融测试 ∕ 底层对抗，精准挖掘模型防御漏洞",
+    "https://mp.weixin.qq.com/s/ONVBz36WILWupIL-pLS-ow": "漏洞预警 | Vim代码执行漏洞",
+    "https://mp.weixin.qq.com/s/Jwsz4e0aRIfTV13MEjXqXA": "RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸",
+    "https://mp.weixin.qq.com/s/mrdpoDQFZFsaBLzJ3eLUUA": "CVE-2026-1207｜Django SQL注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s/3mHXT8nMT3JmsoetyTcl5w": "攻击者利用RCE漏洞，14,000台F5 BIG-IP APM实例仍暴露在线",
+    "https://mp.weixin.qq.com/s/z34baGGKsZvnqRf15NEAWw": "CVE-2026-33032｜Nginx-UI高危漏洞，MCP端点未做身份验证，攻击者可直接远程接管！",
+    "https://mp.weixin.qq.com/s/QtqNTuAU0IEXTmM13jFZeQ": "AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化",
+    "https://mp.weixin.qq.com/s/27zoS0yf3b5P2xcjY7ZgjQ": "零基础到实战：Java 代码审计从入门到独立挖掘高价值漏洞",
+    "https://mp.weixin.qq.com/s/y9dVYQfxTVWVaeN8-jzfcw": "苹果用户注意！及时更新iOS特定版本 防范漏洞攻击利用风险",
+    "https://mp.weixin.qq.com/s/rjJwKq3qcgxmtzW1dzVGsw": "Cisco修复关键和高严重性漏洞",
+    "https://mp.weixin.qq.com/s/aHbNtj0vL69vvODLitUwHA": "CVE-2026-35616：Fortinet修复被积极利用的高严重性漏洞",
+    "https://mp.weixin.qq.com/s/qjYH83QoPZZ78b0bMBX-7A": "漏洞预警 | LEAN MES系统文件上传漏洞"
 }
