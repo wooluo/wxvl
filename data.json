@@ -19688,5 +19688,12 @@
     "https://mp.weixin.qq.com/s/n9v0k1n39j4uxHCDaWGvuQ": "OpenAI Codex漏洞允许攻击者窃取GitHub访问令牌",
     "https://mp.weixin.qq.com/s/M27qr99dUFTlymu9YuTiXA": "零基础到实战：Java 代码审计从入门到独立挖掘高价值漏洞",
     "https://mp.weixin.qq.com/s/dHf1AMS1VAHD255mjNIgLA": "雷神众测漏洞周报2026.3.30-2026.4.6",
-    "https://mp.weixin.qq.com/s/vrhxZnQ72uofsffBw5wZvQ": "【视频】CVE-2026-32746，CVSS 评分高达 9.8"
+    "https://mp.weixin.qq.com/s/vrhxZnQ72uofsffBw5wZvQ": "【视频】CVE-2026-32746，CVSS 评分高达 9.8",
+    "https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg": "【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439）",
+    "https://mp.weixin.qq.com/s/63yJUkiNWR_K1eVh1-poyA": "[工具推荐]BurpSuite 多漏洞自动化探测插件xia_tan (瞎探)",
+    "https://mp.weixin.qq.com/s/vT_UWVZBSLn6YgMinZRTjw": "1.2万Flowise实例遭高危RCE漏洞攻击，AI平台面临沦陷风险",
+    "https://mp.weixin.qq.com/s/JAHknlm0Vg6xu_0Be-zd4A": "【支付漏洞】金额溢出导致的0元购-网络安全",
+    "https://mp.weixin.qq.com/s/FlHyynSyUwdpVZMIxQiB-A": "Nacos 漏洞大起底：你的微服务可能正在\"裸奔\"！",
+    "https://mp.weixin.qq.com/s/m_G7JWMM5zxhx8EB0WA4iw": "OpenBSD黑客回应Anthropic发现的漏洞，“往事重现，令人不安”",
+    "https://mp.weixin.qq.com/s/O-67Av9QgLXzdL56rddHUg": "AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化"
 }
