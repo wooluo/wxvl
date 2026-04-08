@@ -19695,5 +19695,13 @@
     "https://mp.weixin.qq.com/s/JAHknlm0Vg6xu_0Be-zd4A": "【支付漏洞】金额溢出导致的0元购-网络安全",
     "https://mp.weixin.qq.com/s/FlHyynSyUwdpVZMIxQiB-A": "Nacos 漏洞大起底：你的微服务可能正在\"裸奔\"！",
     "https://mp.weixin.qq.com/s/m_G7JWMM5zxhx8EB0WA4iw": "OpenBSD黑客回应Anthropic发现的漏洞，“往事重现，令人不安”",
-    "https://mp.weixin.qq.com/s/O-67Av9QgLXzdL56rddHUg": "AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化"
+    "https://mp.weixin.qq.com/s/O-67Av9QgLXzdL56rddHUg": "AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化",
+    "https://mp.weixin.qq.com/s/eQqEBMIGW3MNcoGWiuVKEw": "Docker授权绕过漏洞使主机暴露于潜在攻击者之下",
+    "https://mp.weixin.qq.com/s/UWMkSyAAoM00d4-SPSV4XQ": "【漏洞通告】Vite WebSocket 任意文件读取漏洞 CVE-2026-39363",
+    "https://mp.weixin.qq.com/s/OS0_2yiZBzLXuoiFdjv2pw": "【已复现】漏洞预警 | Apache ActiveMQ 远程代码执行漏洞(CVE-2026-34197)",
+    "https://mp.weixin.qq.com/s/V_g-AuLrA_ouHPjFIFhm5w": "OpenSSL 多个漏洞暴露 RSA KEM 处理中的敏感数据",
+    "https://mp.weixin.qq.com/s/Wxubco1gpR9_ESvdn3g3YA": "CUPS漏洞链使远程攻击者能够以root用户身份执行恶意代码",
+    "https://mp.weixin.qq.com/s/AM5CJPwUKEyprQzXK4mvJg": "【漏洞通告】Apache ActiveMQ Classic 远程代码执行漏洞 CVE-2026-34197",
+    "https://mp.weixin.qq.com/s/4SbRrtlHO_k9z6m9fe9RLg": "Anthropic的Claude Mythos在主要系统中发现了数千个0day",
+    "https://mp.weixin.qq.com/s/q9ORxsure0LM3CLr-zThIg": "我利用阿里云的JVS Claw自动化完成漏洞发现、利用、验证和专业报告生成"
 }
