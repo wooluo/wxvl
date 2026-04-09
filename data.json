@@ -19728,5 +19728,8 @@
     "https://mp.weixin.qq.com/s/6s5_ToRJsBk7ucJEgZ8hYQ": "【漏洞通告】WWBN AVideo存在信息泄露漏洞(CVE-2026-35452)",
     "https://mp.weixin.qq.com/s/nalcvjCOaT3h_WMEwOSGfQ": "关于漏洞学习的一些反思",
     "https://mp.weixin.qq.com/s/EF1FgSMD2GnrxFUbTg87ZQ": "【漏洞通告】goshs存在目录遍历漏洞(CVE-2026-35471)",
-    "https://mp.weixin.qq.com/s/3W1BpWJNOfAoBoqmqyW41A": "Meta发布Muse Spark，多智能体架构与隐私风险引行业关注；CNNVD 2026 年第14 周漏洞周报：新增 1298 个漏洞，超危 82 个需紧急修复| 牛览"
+    "https://mp.weixin.qq.com/s/3W1BpWJNOfAoBoqmqyW41A": "Meta发布Muse Spark，多智能体架构与隐私风险引行业关注；CNNVD 2026 年第14 周漏洞周报：新增 1298 个漏洞，超危 82 个需紧急修复| 牛览",
+    "https://mp.weixin.qq.com/s/K0ZLejy8jTW9PGXKbsMt0Q": "【漏洞通告】Vite Dev Server WebSocket 任意文件读取漏洞(CVE-2026-39363)",
+    "https://mp.weixin.qq.com/s/JTqZMKwLI1a3slzKqC-Kcw": "Claude Mythos 模型：已发现数千零日漏洞，还能自己逃离沙箱",
+    "https://mp.weixin.qq.com/s/8YQq5LvZMRev-1atVQfW3w": "【已复现】Claude Mythos最新发现的Linux内核0day漏洞"
 }
