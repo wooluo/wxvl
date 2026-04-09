@@ -19708,5 +19708,10 @@
     "https://mp.weixin.qq.com/s/r5C-C2E0OZZci8BwAQICPw": "【高危漏洞预警】Vite WebSocket任意文件读取漏洞(CVE-2026-39363)",
     "https://mp.weixin.qq.com/s/1244Ya5UrHHuWAs6KXnw2g": "J.a.k.o.b -如何更好的进行漏洞和**研究？",
     "https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg": "迅饶科技X2Modbus网关GetConfig接口存在敏感信息泄露漏洞 附POC",
-    "https://mp.weixin.qq.com/s/397gOgvOHojuVcXDeq-zjA": "Vite 任意文件读取漏洞 | CVE-2026-39363复现&研究"
+    "https://mp.weixin.qq.com/s/397gOgvOHojuVcXDeq-zjA": "Vite 任意文件读取漏洞 | CVE-2026-39363复现&研究",
+    "https://mp.weixin.qq.com/s/huBv9N2DXDkmr9yta1Vr0w": "10分钟，让Claude挖出一个隐藏13年的ActiveMQ严重漏洞（CVE-2026-34197）",
+    "https://mp.weixin.qq.com/s/pK3SdwSJ7XsH9gXktHZScQ": "拿捏1.8万台设备！从CVE-2023-50224看APT组织如何玩转边缘设备渗透",
+    "https://mp.weixin.qq.com/s/qs0OwDbf46dyPuLRjNcNQA": "Windows Defender 0Day漏洞PoC曝光，攻击者可获取系统最高权限",
+    "https://mp.weixin.qq.com/s/dO64AcLjKPMlKAgPT6IJEA": "Anthropic发布Claude Mythos模型并启动“玻璃翼计划”强化漏洞防御",
+    "https://mp.weixin.qq.com/s/5iuI337gGe4VkI0pdyyu7g": "被动式检测水平越权漏洞"
 }
