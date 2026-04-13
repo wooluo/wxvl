@@ -19822,5 +19822,14 @@
     "https://mp.weixin.qq.com/s/neobyUOjW4Rd0PQ6kxTPyQ": "漏洞预警 | parsl SQL注入漏洞",
     "https://mp.weixin.qq.com/s/qKVZPPXZ4WIIDJw0Q0rvrw": "【登录背后的秘密-第六章第二节】什么！Stay-logged-in Cookie没加盐？还有XSS漏洞？那我就不客气了",
     "https://mp.weixin.qq.com/s/svM2fKlM7TXAItPEKSA27w": "打破K8s命名空间隔离：CVE-2026-4789 Kyverno漏洞详解",
-    "https://mp.weixin.qq.com/s/6YlCwWoHclWGzu_tIpvEZQ": "Fortinet FortiClientEMS 访问控制不当漏洞CVE-2026-35616利用分析及历史漏洞总结"
+    "https://mp.weixin.qq.com/s/6YlCwWoHclWGzu_tIpvEZQ": "Fortinet FortiClientEMS 访问控制不当漏洞CVE-2026-35616利用分析及历史漏洞总结",
+    "https://mp.weixin.qq.com/s/BZ9DwQ17qxK-h9JBqcXM0g": "EarthEmbeddingExplorer：零门槛、多模态，像搜图一样探索全球卫星影像",
+    "https://mp.weixin.qq.com/s/3o_hUBVkb_WqKeB_mvtFdQ": "0day--JeecgBoot v3.9.1 多漏洞审计过程",
+    "https://mp.weixin.qq.com/s/oCXmFaAqmbL-Esk_dXJ3jA": "TP-Link路由器一次曝出5个漏洞，家庭和小办公网关再次站上风口",
+    "https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg": "【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告",
+    "https://mp.weixin.qq.com/s/mN3CDNEWSATcRTUp0SF5FQ": "Claude Code源码泄露：一个低危漏洞，暴露了一个大问题",
+    "https://mp.weixin.qq.com/s/ALRmxBvIKyttLJqYM7jBOA": "【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告",
+    "https://mp.weixin.qq.com/s/ifEiawLaPusWlyOuvio-iA": "【自研工具】Zack-AI-Scanner AI智能Web漏洞扫描BurpSuite插件",
+    "https://mp.weixin.qq.com/s/QuaQeQJXu7sOpBHAGYS1aA": "Nginx文件解析漏洞",
+    "https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g": "文件上传漏洞总结"
 }
