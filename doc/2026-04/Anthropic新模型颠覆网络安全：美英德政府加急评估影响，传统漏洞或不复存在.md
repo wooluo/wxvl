@@ -1,14 +1,11 @@
 #  Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在  
-安全内参编译
-                    安全内参编译  安全内参   2026-04-13 09:50  
+安全内参
+                    安全内参  安在   2026-04-13 11:34  
   
-**关注我们**  
-  
-  
-**带你读懂网络安全**  
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/5eH7xATwT3icpLmjpDSQkXx16oAygiaJncke0vYYJvIkuzECibrQJcUW4oAedTuib1G9m372rleJRDNXNs54fBEVicg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/wT9KAyOic0NAE4MhcqUUibgYdpH3H4gm6bGYt8ovkQj1ssvAo8Zvt5ILS7T2WMxE2Jos44RrTOchtonyslNnqdicJxVsLWkw1vxK8JkTbRFwC8/640?wx_fmt=webp&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/wT9KAyOic0NCSzsickYn2eWYibMrkrTLTMhSwb1MZocFP6aicX2NU7M6pictzNljLPjFibOPSQ84H1b6Nl7NcVokSCm6SwaKHSYWD29AjO9jlBbcM/640?wx_fmt=webp&from=appmsg&watermark=1&tp=wxpic&wxfrom=13&wx_lazy=1#imgIndex=0 "")  
   
   
 Anthropic Mythos预览版模型发布以来在网络安全领域评价毁誉不一，有认为许多其他模型和智能体也具备类似能力，Mythos并不神奇；有认为Mythos将推动漏洞利用链的规模化发现，将极大降低类似间谍软件的复杂攻击门槛；还有认为，Mythos可能成为软件开发安全变革的起点，推动安全设计普及。  
@@ -125,22 +122,22 @@ Edera公司的Zenla强调，Mythos预览版并非一道能在一夜之间改变�
 **参考资料：安全内参综合**  
   
   
-**推荐阅读**  
-- [网安智库平台长期招聘兼职研究员](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247499450&idx=2&sn=2da3ca2e0b4d4f9f56ea7f7579afc378&chksm=ebfab99adc8d308c3ba6e7a74bd41beadf39f1b0e38a39f7235db4c305c06caa49ff63a0cc1d&scene=21#wechat_redirect)  
+文章来源微信公众号：安全内参  
   
-  
-- [欢迎加入“安全内参热点讨论群”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247501251&idx=1&sn=8b6ebecbe80c1c72317948494f87b489&chksm=ebfa82e3dc8d0bf595d039e75b446e14ab96bf63cf8ffc5d553b58248dde3424fb18e6947440&token=525430415&lang=zh_CN&scene=21#wechat_redirect)  
-  
-  
+****  
+**END**  
   
   
   
   
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/5eH7xATwT38j3Ndib8YhjyiaBQhdzUe1AAfIzicyojXwPTCxD0QGZHhyRcRicJAHhUv382sYFibICoxjzktlJwEEPag/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&tp=webp "")  
   
-点击下方卡片关注我们，  
+[](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247651222&idx=1&sn=0674c7e57249a57240b5ed0fcd6cdcf2&scene=21#wechat_redirect)  
   
-带你一起读懂网络安全 ↓  
+[](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247652102&idx=1&sn=8af8808f9055f99fa71020922d80058c&scene=21#wechat_redirect)  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/5eH7xATwT38HPkvxLkOy5rLCeVBtj8H9SUbVPNZbibc4N2knPCDFjTKduRLhiaAZVQShUa2IZqsBShI2GG2dpqBg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&tp=webp "")  
   
   
-  
+点击这里阅读原文  
   
