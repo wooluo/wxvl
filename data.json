@@ -19808,5 +19808,19 @@
     "https://mp.weixin.qq.com/s/UDf_TeEs0AhRbHzd2J6bDQ": "AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时",
     "https://mp.weixin.qq.com/s/7vwpX9F3fNcS8ux-JJ_cUA": "规模化 SAST & SCA 漏洞修复",
     "https://mp.weixin.qq.com/s/z-475KDrSnw4tS1-ev7IFA": "工具推荐 | 快速探测可能存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/PD2sUcj3NQytfBpAdC67aA": "又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵"
+    "https://mp.weixin.qq.com/s/PD2sUcj3NQytfBpAdC67aA": "又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵",
+    "https://mp.weixin.qq.com/s/2N-3lvaPig9eo9S73kVMeg": "与Claude共处的10分钟：深挖Apache ActiveMQ远程代码执行漏洞（CVE-2026-34197）",
+    "https://mp.weixin.qq.com/s/OJ9uotBEXlJnPf-oXx-UOg": "Claude Mythos找出27年前大漏洞，网安饭碗保不住了",
+    "https://mp.weixin.qq.com/s/95nd8n2RMWT6JsxcOCozNg": "CVE-2026-39987：Marimo 远程代码执行漏洞在披露后数小时内即遭利用",
+    "https://mp.weixin.qq.com/s/fdoYcbkkZH2jXQ2cjbatGQ": "java内存马之-Spring-Interceptor-手把手投喂内存马",
+    "https://mp.weixin.qq.com/s/6BpCnXURo5vinZqBkXt9pw": "漏洞预警 | LEAN MES系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/Q_2DOia4fxaVwEaP7Tmnfg": "Src--支付漏洞实战",
+    "https://mp.weixin.qq.com/s/PLOiAq8Nh2xBzmAHfFNR5A": "漏洞复现 | 中成科信综合管理平台 UploadFile 存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/eKJMYCThcMK-sgyhqIdQag": "Adobe 修复了正被积极利用的 Acrobat Reader 漏洞 CVE-2026-34621",
+    "https://mp.weixin.qq.com/s/-2BwwLCz-Sp1wbBaJaHPQQ": "【视频】React 服务器函数原型污染 (RCE)",
+    "https://mp.weixin.qq.com/s/TiOSLn-Et-hyzQ4-an8Kdg": "实战分析——一起0day附件邮件攻击真实案例的深度技术拆解",
+    "https://mp.weixin.qq.com/s/neobyUOjW4Rd0PQ6kxTPyQ": "漏洞预警 | parsl SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/qKVZPPXZ4WIIDJw0Q0rvrw": "【登录背后的秘密-第六章第二节】什么！Stay-logged-in Cookie没加盐？还有XSS漏洞？那我就不客气了",
+    "https://mp.weixin.qq.com/s/svM2fKlM7TXAItPEKSA27w": "打破K8s命名空间隔离：CVE-2026-4789 Kyverno漏洞详解",
+    "https://mp.weixin.qq.com/s/6YlCwWoHclWGzu_tIpvEZQ": "Fortinet FortiClientEMS 访问控制不当漏洞CVE-2026-35616利用分析及历史漏洞总结"
 }
