@@ -19836,5 +19836,12 @@
     "https://mp.weixin.qq.com/s/lniu2gT3XXDH0iuJCRCB6Q": "从漏洞到规则：安全知识自动提取的初步探索",
     "https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg": "【漏洞通告】Adobe Acrobat 远程代码执行漏洞(CVE-2026-34621)",
     "https://mp.weixin.qq.com/s/9kK56afE9x_PnFmRSx1odQ": "【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654",
-    "https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA": "Axios 双重危机：CVE-2026-40175 漏洞链与 UNC1069 供应链投毒"
+    "https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA": "Axios 双重危机：CVE-2026-40175 漏洞链与 UNC1069 供应链投毒",
+    "https://mp.weixin.qq.com/s/0MPD0zYdT43IM4GCw-7CRg": "“下一代Python笔记本”marimo曝高危漏洞：无需密码，连上WebSocket即可远程控制服务器 (CVE-2026-39987)",
+    "https://mp.weixin.qq.com/s/EWo9rapf7r-NAb9eVVYXnw": "Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在",
+    "https://mp.weixin.qq.com/s/OH0X9hHdRP-8djW-row_0w": "Adobe 紧急修复已遭利用的 0day",
+    "https://mp.weixin.qq.com/s/7PQtfrLnn01YqqNFjgzoHg": "筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖",
+    "https://mp.weixin.qq.com/s/5ML_O5M58UWCvKt8Vc9IGA": "Marimo 高危预认证 RCE 漏洞已遭活跃利用",
+    "https://mp.weixin.qq.com/s/ITrqweYv7yKYojiuDEXHhA": "筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖",
+    "https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ": "MyBatis框架SQL注入漏洞深度剖析"
 }
