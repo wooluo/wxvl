@@ -19831,5 +19831,10 @@
     "https://mp.weixin.qq.com/s/ALRmxBvIKyttLJqYM7jBOA": "【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告",
     "https://mp.weixin.qq.com/s/ifEiawLaPusWlyOuvio-iA": "【自研工具】Zack-AI-Scanner AI智能Web漏洞扫描BurpSuite插件",
     "https://mp.weixin.qq.com/s/QuaQeQJXu7sOpBHAGYS1aA": "Nginx文件解析漏洞",
-    "https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g": "文件上传漏洞总结"
+    "https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g": "文件上传漏洞总结",
+    "https://mp.weixin.qq.com/s/kBZ2X7eEmuTRjLIXkM43HQ": "【成功复现】Nginx溢出文件读写漏洞(CVE-2026-27654)",
+    "https://mp.weixin.qq.com/s/lniu2gT3XXDH0iuJCRCB6Q": "从漏洞到规则：安全知识自动提取的初步探索",
+    "https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg": "【漏洞通告】Adobe Acrobat 远程代码执行漏洞(CVE-2026-34621)",
+    "https://mp.weixin.qq.com/s/9kK56afE9x_PnFmRSx1odQ": "【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654",
+    "https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA": "Axios 双重危机：CVE-2026-40175 漏洞链与 UNC1069 供应链投毒"
 }
