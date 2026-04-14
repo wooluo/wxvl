@@ -19849,5 +19849,14 @@
     "https://mp.weixin.qq.com/s/mfrCvwyr2UigSC6vnjPTTw": "漏洞挖掘 | 一次数据库是Hive的SQL注入",
     "https://mp.weixin.qq.com/s/X_Dgl6iGIAZLdAE0x1GL-A": "关键的WordPress插件漏洞让攻击者绕过认证并获得管理员访问权限",
     "https://mp.weixin.qq.com/s/id7KduNRt00R00JnKT2eFg": "Apache Tomcat 漏洞使加密拦截器绕过成为可能",
-    "https://mp.weixin.qq.com/s/_g_yapCvMyC1KJm0JEhxWw": "Apache ActiveMQ存在远程代码执行漏洞(CVE-2026-34197) 附POC"
+    "https://mp.weixin.qq.com/s/_g_yapCvMyC1KJm0JEhxWw": "Apache ActiveMQ存在远程代码执行漏洞(CVE-2026-34197) 附POC",
+    "https://mp.weixin.qq.com/s/HYI90JMWnIstDQt_mF4lZg": "漏洞预警 | Apache ActiveMQ远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/xIYctO7IF1zAd2PcjLVFsQ": "【高危漏洞预警】Nginx ngx_http_dav_module堆缓冲区溢出漏洞(CVE-2026-27654)",
+    "https://mp.weixin.qq.com/s/KLXxKOaEru0s5VokBWPhIw": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/A1QkHjxR-txLHynisXDyiw": "第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”",
+    "https://mp.weixin.qq.com/s/RgY94mgqIf7PYnprJ91Wzg": "未修复的RAGFlow漏洞：低权限用户也能远程执行命令",
+    "https://mp.weixin.qq.com/s/fPp2xRmsS--Tg3JXgCk5Cw": "漏洞复现 | 畅捷通-畅捷CRM getsort 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/TBHmht4qTippf47eFNy3Ww": "Google Chrome WebGL 越界读∕写漏洞允许远程代码执行。",
+    "https://mp.weixin.qq.com/s/ZMZhdhNijO4NaMVWkxpEuQ": "LiteLLM 遭受攻击：三重威胁漏洞使 AI 网关面临全面接管风险",
+    "https://mp.weixin.qq.com/s/UQxqGB17wWM3ADscgrURGA": "第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”"
 }
