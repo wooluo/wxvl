@@ -19863,5 +19863,8 @@
     "https://mp.weixin.qq.com/s/RgqSevlBOIK-R3tLhqclow": "第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”",
     "https://mp.weixin.qq.com/s/bjFaonVAdBJY9ymUu9_lBA": "一次二进制RCE漏洞审计",
     "https://mp.weixin.qq.com/s/Y2WS-gBz2cTaOcDHbOGx1w": "当网站被黑时，应该怎么排查问题和漏洞",
-    "https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw": "代码审计 一次SQL注入漏洞挖掘"
+    "https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw": "代码审计 一次SQL注入漏洞挖掘",
+    "https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw": "“Jenny是我的朋友”——用MCP打造我的AI漏洞猎人",
+    "https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA": "[漏洞复现]某华ICC智能物联综合管理平台存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw": "Axios爆SSRF漏洞，特定条件下可导致RCE"
 }
