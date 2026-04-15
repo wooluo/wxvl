@@ -19880,5 +19880,18 @@
     "https://mp.weixin.qq.com/s/2tQ27h8o403qrzyeaDBRHQ": "美国网络安全和基础设施安全局 (CISA) 警告：Fortinet SQL 注入漏洞正被积极利用",
     "https://mp.weixin.qq.com/s/ljO0hWB4u-NMj25gcDihQA": "NCTF 2026-鸡爪流高手（游戏服务器程序逆向 下溢出漏洞）",
     "https://mp.weixin.qq.com/s/y0N3ebgcZeQZmMnoCBDLLg": "【安全圈】金山毒霸、360 安全卫士被曝存在内核驱动高危漏洞",
-    "https://mp.weixin.qq.com/s/FtQ_p2gxVHxHQ4Ibwfot-w": "【安全圈】开源监控平台 Grafana 曝漏洞，黑客可诱导 AI 助手泄露企业数据"
+    "https://mp.weixin.qq.com/s/FtQ_p2gxVHxHQ4Ibwfot-w": "【安全圈】开源监控平台 Grafana 曝漏洞，黑客可诱导 AI 助手泄露企业数据",
+    "https://mp.weixin.qq.com/s/usrLku0LKmxfO7nOgKKbYw": "【视频】CVE-2025-2563： WordPress 提权",
+    "https://mp.weixin.qq.com/s/Ngu9c1tNIfkCig65sWPLtg": "Claude Mythos预览版，具备强大0Day漏洞发现与利用能力",
+    "https://mp.weixin.qq.com/s/NM2vB3U30Lejhpgh3FZhYw": "漏洞预警 | LEAN MES系统任意文件上传∕删除漏洞",
+    "https://mp.weixin.qq.com/s/2b4AmQ9jeKGxnNsL731gMA": "CVE-2026-34197｜Apache ActiveMQ远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/0in0EwZm_iJg5Rg7HK4Jng": "明源地产ERP GetErpDept.ashx接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/smPgWehyPiWVbWG1G2ULmw": "严重——Orthanc DICOM 服务器中的 9 个漏洞威胁医疗数据完整性",
+    "https://mp.weixin.qq.com/s/zsnLoIP31MUWu3WH_olA-g": "【SRC实战】通过报错拿下高危漏洞",
+    "https://mp.weixin.qq.com/s/s78ZiqEKWkNvC__BdEJjGw": "Windows事件日志服务曝内核地址泄露漏洞，影响NVMe存储设备",
+    "https://mp.weixin.qq.com/s/jHtxeaXbEGVLcgGvQ8v8kg": "F5 安全公告：NGINX ngx_http_dav_module 漏洞 CVE-2026-27654",
+    "https://mp.weixin.qq.com/s/mXGZpxFyPhEwP5qY-I_qbQ": "攻击者利用CVE-2025-0520漏洞，攻击未打补丁的ShowDoc服务器",
+    "https://mp.weixin.qq.com/s/VKZgd1PZ7gxXktf4ttQ-GQ": "CVE-2026-33439｜OpenAM反序列化远程代码执行（POC）",
+    "https://mp.weixin.qq.com/s/6VJlmBRsmtQsTMzfFCGndQ": "Web应用漏洞自动化扫描工具 -- webjc（4月13日更新）",
+    "https://mp.weixin.qq.com/s/1eGd5UQC0_nxZGp1wJIMkQ": "漏洞预警 | OpenAM远程代码执行漏洞"
 }
