@@ -19893,5 +19893,15 @@
     "https://mp.weixin.qq.com/s/mXGZpxFyPhEwP5qY-I_qbQ": "攻击者利用CVE-2025-0520漏洞，攻击未打补丁的ShowDoc服务器",
     "https://mp.weixin.qq.com/s/VKZgd1PZ7gxXktf4ttQ-GQ": "CVE-2026-33439｜OpenAM反序列化远程代码执行（POC）",
     "https://mp.weixin.qq.com/s/6VJlmBRsmtQsTMzfFCGndQ": "Web应用漏洞自动化扫描工具 -- webjc（4月13日更新）",
-    "https://mp.weixin.qq.com/s/1eGd5UQC0_nxZGp1wJIMkQ": "漏洞预警 | OpenAM远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/1eGd5UQC0_nxZGp1wJIMkQ": "漏洞预警 | OpenAM远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/n8Ia5fxTfL4FxGERjJ0gtA": "“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞",
+    "https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA": "【高危漏洞预警】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)",
+    "https://mp.weixin.qq.com/s/hySfiGzFrxILRvabMCuPIQ": "API漏洞赏金大师班2026：寻找隐藏端点",
+    "https://mp.weixin.qq.com/s/8LFA2CjMBNquMHFSAblNgA": "微软 SharePoint Server 零日漏洞已被攻击者积极利用",
+    "https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA": "WebStack系统CVE-2026-1555漏洞，支持未授权任意文件上传——RCE POC遭贩卖",
+    "https://mp.weixin.qq.com/s/3jZJDoa-x6HVEOi197Dzdg": "月神SRC漏洞挖掘课程・第六期全新升级",
+    "https://mp.weixin.qq.com/s/D02Injn3oUbYLBze1i3_Tg": "月神 SRC 漏洞挖掘课程・第六期 全新升级",
+    "https://mp.weixin.qq.com/s/41grWGyEYxiV9gGt3byPcw": "0Day漏洞可禁用CrowdStrike EDR，签名驱动成攻击利器",
+    "https://mp.weixin.qq.com/s/nx_PGgKthCC5gmlAn70WuQ": "GraphQL RCE：通往云身份的攻击链",
+    "https://mp.weixin.qq.com/s/HJXBIP4ItdZAtWk1lQ2T2Q": "国内两大安全软件内核驱动高危漏洞研判"
 }
