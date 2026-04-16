@@ -19961,5 +19961,8 @@
     "https://mp.weixin.qq.com/s/xjweqVcLHF-Q7KXrUrFR0A": "libexif存在整数溢出漏洞漏洞(CVE-2026-40386)",
     "https://mp.weixin.qq.com/s/s4UCtqMKq57MZNtiksMjSA": "Codex 如何利用三星电视内核漏洞实现权限越狱",
     "https://mp.weixin.qq.com/s/UnI0lIQZOyxJ3Qg4ngcIxw": "EDR漏洞挖掘实战：从模糊测试到拒绝服务攻击框架",
-    "https://mp.weixin.qq.com/s/5PFLN_7bQvnkUzuFcdvZTw": "IoT僵尸网络发动2Tbps级DDoS攻击，金融科技行业成重点目标；CNNVD通报OpenClaw多个安全漏洞| 牛览"
+    "https://mp.weixin.qq.com/s/5PFLN_7bQvnkUzuFcdvZTw": "IoT僵尸网络发动2Tbps级DDoS攻击，金融科技行业成重点目标；CNNVD通报OpenClaw多个安全漏洞| 牛览",
+    "https://mp.weixin.qq.com/s/OIrouZiHOjYq2GzSkmuxCQ": "人工智能重要漏洞 | CNNVD通报新一批OpenClaw多个安全漏洞",
+    "https://mp.weixin.qq.com/s/Jj3nR1RbNa3vnKo9nETQaw": "微信小程序全自动捡洞工具，一键完成解包反编译与敏感信息泄露审计，可视化漏洞报告输出",
+    "https://mp.weixin.qq.com/s/kb8Yuz98NxW135hN3qnmdQ": "CNNVD | 关于微软多个安全漏洞的通报"
 }
