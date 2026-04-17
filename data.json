@@ -19989,5 +19989,9 @@
     "https://mp.weixin.qq.com/s/eplDjyND13nyXVufHCWeBA": "[漏洞复现]某科技 X2Modbus网关 GetConfig 信息泄露漏洞",
     "https://mp.weixin.qq.com/s/2gA8KuLUpHsivY9SI9X5DA": "免费AI代码漏洞扫描神器！MonkeyScan开放注册，限时速领3000积分",
     "https://mp.weixin.qq.com/s/cPULYIBBV9DyVd6x_QzZ3Q": "CVE复现之老洞新探CVE-2021-3156",
-    "https://mp.weixin.qq.com/s/GgKdQgtdR7g0_uzFZPeEzA": "CNNVD | 人工智能重要漏洞通报（2026年第五期）"
+    "https://mp.weixin.qq.com/s/GgKdQgtdR7g0_uzFZPeEzA": "CNNVD | 人工智能重要漏洞通报（2026年第五期）",
+    "https://mp.weixin.qq.com/s/TOFhVZjiVT9H5f3HsePOyQ": "Windows截图工具漏洞允许攻击者通过网络执行欺骗操作",
+    "https://mp.weixin.qq.com/s/vyvfLkl-NExwWLl78qVlxA": "针对Microsoft Defender零日漏洞的新概念验证利用代码发布",
+    "https://mp.weixin.qq.com/s/r4fBT0h-jzN8SxTfndggZg": "Chrome隐私漏洞：指纹识别与HTTP头泄露使用户面临风险",
+    "https://mp.weixin.qq.com/s/0yTOZmgF73e67DzwzdNHoA": "Azure Windows 管理中心的一键式远程代码执行漏洞允许攻击者执行任意命令"
 }
