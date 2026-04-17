@@ -1,6 +1,5 @@
 #  Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码  
-原创 已卸载Adobe的
-                    已卸载Adobe的  黑鸟   2026-04-11 15:30  
+ 白帽子   2026-04-16 20:29  
   
 Adobe 已为 Windows 和 macOS 平台的 Adobe Acrobat 和 Reader 发布安全更新。  
   
