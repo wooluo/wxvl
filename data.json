@@ -19970,5 +19970,14 @@
     "https://mp.weixin.qq.com/s/oWX5Xg6BxSDH3fp0DIgEVg": "漏洞预警 | Oracle Identity Manager远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/TyF6pnpDhE_Z7WHlF3aHRg": "天地伟业Easy7 uploadFile接口存在任意文件上传漏洞 附POC",
     "https://mp.weixin.qq.com/s/gg1KMQpuHQPWRng-nPxWBA": "Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码",
-    "https://mp.weixin.qq.com/s/WYhN-doMdXETDAuqoU6tpA": "抓紧打补丁！4月Patch Tuesday核心高危漏洞技术深度解析（内附高危漏洞速查清单）"
+    "https://mp.weixin.qq.com/s/WYhN-doMdXETDAuqoU6tpA": "抓紧打补丁！4月Patch Tuesday核心高危漏洞技术深度解析（内附高危漏洞速查清单）",
+    "https://mp.weixin.qq.com/s/7kHtjd2OqAtbTccOn_p7cg": "【漏洞通告】Nginx UI MCP接口绕过认证漏洞(CVE-2026-33032)",
+    "https://mp.weixin.qq.com/s/xIGtww7_iYyzlfBJOS44uw": "Apache Log4j2远程代码执行漏洞详解",
+    "https://mp.weixin.qq.com/s/UcKuAyZow6QhEhCbpX4JDw": "Zack-AI-Scanner 新一代基于AI大模型的Web漏洞扫描器 (文末福利)",
+    "https://mp.weixin.qq.com/s/cgFLiT2A8SpSV3dAySePdw": "UAC-0247 漏洞利用浏览器和 WhatsApp 数据窃取攻击医院和政府机构",
+    "https://mp.weixin.qq.com/s/DQTx5-O6hnzW0kJyE22fIw": "360发现全球高危漏洞，漏洞挖掘智能体首次披露",
+    "https://mp.weixin.qq.com/s/9z2bJp0oi-18ZjCF2M90qQ": "C-Lodop打印服务系统存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/3eQn8-mbJiio8NXepLKxow": "信息安全漏洞预警（2026年4月13日-4月17日）",
+    "https://mp.weixin.qq.com/s/CLXLNRn2xjPiuflugDhHjQ": "三星电子员工利用公司系统漏洞大规模收集个人信息 被起诉",
+    "https://mp.weixin.qq.com/s/eAkrurVXmoZY4IPjvlaoxQ": "告别盲审，用Agent skill代码审计定位高危漏洞"
 }
