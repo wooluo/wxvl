@@ -20003,5 +20003,21 @@
     "https://mp.weixin.qq.com/s/v7i_Gm983sMIqPjAO9I-Hw": "订单总额验证绕过漏洞",
     "https://mp.weixin.qq.com/s/T6LDO7qFp5SMUWItnV2bbA": "CNNVD通报OpenClaw多个安全漏洞",
     "https://mp.weixin.qq.com/s/OU34zpXkm4gmpuovd-XrUw": "连续三年！奇安盘古斩获OpenHarmony社区漏洞挖掘双项大奖",
-    "https://mp.weixin.qq.com/s/VxcGuiD0qYlRNxz6YE5V_Q": "一个登录框，我薅了5个高危漏洞——认证机制避坑指南（反向版）"
+    "https://mp.weixin.qq.com/s/VxcGuiD0qYlRNxz6YE5V_Q": "一个登录框，我薅了5个高危漏洞——认证机制避坑指南（反向版）",
+    "https://mp.weixin.qq.com/s/egGMRcqrD5pfReqQHS4cVQ": "NGINXDAV模块缓冲区溢出漏洞 | CVE-2026-27654原理分析&研究",
+    "https://mp.weixin.qq.com/s/0pF7fBHrMWDQNXe3vX8KSw": "榨干 Intego 的最后一滴油——Windows 本地提权漏洞分析",
+    "https://mp.weixin.qq.com/s/Ef_u1QqqbTLK4Yf6uRmhFg": "针对 FortiSandbox 漏洞的 PoC 攻击程序已发布，该漏洞允许攻击者执行命令",
+    "https://mp.weixin.qq.com/s/I1D9Y73nG3SxNnmWUTISbQ": "MetaCRM美特crm系统toviewspecial.jsp接口存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/u_LsN_S-oHdZzaoByjmwhA": "MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机",
+    "https://mp.weixin.qq.com/s/1mJfEnzqA908kuTntG0sww": "Windows Defender 漏洞 - RedSun EXP 详细分析",
+    "https://mp.weixin.qq.com/s/3YN32LgaECyQVeSM9eNTPA": "白宫拟开放Claude漏洞挖掘AI，军方禁令与民用部署冲突激化",
+    "https://mp.weixin.qq.com/s/KI1ABkbj9wUhHF-vsvrxoQ": "Nginx UI MCP接口绕过认证漏洞 | CVE-2026-33032复现&研究",
+    "https://mp.weixin.qq.com/s/rAdxu94oMra2_FQ2WqEvQw": "苹果AirTag定位系统曝漏洞，攻击者可伪造位置误导追踪",
+    "https://mp.weixin.qq.com/s/bDP4K7nxwbyxQD64sms51w": "微软Azure Windows Admin Center现一键式RCE漏洞，攻击者可执行任意命令",
+    "https://mp.weixin.qq.com/s/Ir6yTphzrscU0kFTBHfGEw": "编程助手安全漏洞全景：42种攻击技术详解",
+    "https://mp.weixin.qq.com/s/ui5r0PUueHitdpd3Q99e6w": "一份文档引发的连锁漏洞、从一个文档到全校三要素泄露和RCE",
+    "https://mp.weixin.qq.com/s/0L240Zrl3a8S4OxGA6gczQ": "某rce漏洞挖掘等案例分享",
+    "https://mp.weixin.qq.com/s/P_8Ku5eK2mbn3LIOt77Axw": "网络安全人士必知的20个漏洞库",
+    "https://mp.weixin.qq.com/s/DgB9WnuLxmbAxsu7UbVUsA": "“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞；OpenAI发布GPT-5.4-Cyber强化网安防御 | FreeBuf周报",
+    "https://mp.weixin.qq.com/s/g1Caz8sspvWYkGLYVWTaAg": "警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路"
 }
