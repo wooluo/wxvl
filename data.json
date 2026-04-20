@@ -20057,5 +20057,11 @@
     "https://mp.weixin.qq.com/s/DruBxIwIrlEtzFRNZxTw4A": "微软Defender零日漏洞深度分析：从BlueHammer到RedSun，安全工具的攻防博弈",
     "https://mp.weixin.qq.com/s/gKFTkjLNahOiw-JQ4DVzSQ": "Vercel 入侵溯源到 Context.ai 一个员工的 Roblox 外挂",
     "https://mp.weixin.qq.com/s/UCJ1kNJntBCG5sjs44b7AA": "主流网页部署平台Vercel遭黑客入侵 第三方AI工具成攻击突破口",
-    "https://mp.weixin.qq.com/s/9wp9Sj6kFtOHGLMxFGG8UQ": "9.8分！OpenAM爆严重反序列化漏洞，攻击者无需认证即可RCE"
+    "https://mp.weixin.qq.com/s/9wp9Sj6kFtOHGLMxFGG8UQ": "9.8分！OpenAM爆严重反序列化漏洞，攻击者无需认证即可RCE",
+    "https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA": "NIST放弃全面分析CVE，转向优先处理高危漏洞",
+    "https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w": "Flowise 中存在严重漏洞，可通过 MCP 适配器执行远程命令",
+    "https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg": "Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击",
+    "https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ": "【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口",
+    "https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw": "【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级",
+    "https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w": "攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令"
 }
