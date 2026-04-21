@@ -20101,5 +20101,7 @@
     "https://mp.weixin.qq.com/s/DSfFwDxQjRHEDO-3B7evdQ": "kernel heap exploit",
     "https://mp.weixin.qq.com/s/t6lUu7fR9YgGOqjWEwIqQQ": "CISA 提醒防御者注意思科 Catalyst SD-WAN 管理器的安全漏洞已被利用",
     "https://mp.weixin.qq.com/s/zvO7JA79mbOKJP8mtfPCuQ": "Claude Code、Gemini CLI 和 GitHub Copilot 存在通过 GitHub 评论注入的漏洞",
-    "https://mp.weixin.qq.com/s/0HD680654m8Grim_rh23dQ": "因第三方AI工具受陷，Vercel 内部系统遭未授权访问"
+    "https://mp.weixin.qq.com/s/0HD680654m8Grim_rh23dQ": "因第三方AI工具受陷，Vercel 内部系统遭未授权访问",
+    "https://mp.weixin.qq.com/s/21t2qeAnAaWbidwusbWYSg": "一次偶然的RCE",
+    "https://mp.weixin.qq.com/s/qtpfYT0r01BI-Ye-QPZGvg": "8.8分！Google紧急修复Chrome第4个0day漏洞，2026年已有4个在野利用"
 }
