@@ -20091,5 +20091,12 @@
     "https://mp.weixin.qq.com/s/wztV-EheR6yBeeN6aSNX-A": "雷神众测漏洞周报2026.4.13-2026.4.19",
     "https://mp.weixin.qq.com/s/IYQHW8VzC3JJCVOnXYYmeg": "【已复现】FortiClientEMS API 身份验证和授权绕过漏洞（CVE-2026-35616）",
     "https://mp.weixin.qq.com/s/e4oqf25-EklvillmpHpVnw": "Vite开发服务器任意文件读取漏洞复现",
-    "https://mp.weixin.qq.com/s/sJyzNUNNEGER9MjJA9FmXQ": "绕过WAF运行命令执行漏洞的方法"
+    "https://mp.weixin.qq.com/s/sJyzNUNNEGER9MjJA9FmXQ": "绕过WAF运行命令执行漏洞的方法",
+    "https://mp.weixin.qq.com/s/XUChESDyRuFnxGVBiu0_rw": "D-link的漏洞复现",
+    "https://mp.weixin.qq.com/s/ZrAjye39hq8Olut8hrh5rw": "Anthropic MCP 设计漏洞可导致 RCE，威胁 AI 供应链安全",
+    "https://mp.weixin.qq.com/s/yvwbaffXsytaE4d8fi3Q2g": "AI代码审计 | 通过补丁信息分析漏洞生成Poc",
+    "https://mp.weixin.qq.com/s/-NZ6V1Z2VzS2QjLyuUSJfQ": "攻击者持续一年攻击TP-Link路由器漏洞CVE-2023-33538仍未得逞",
+    "https://mp.weixin.qq.com/s/rFF93QyC4cpossGe9T2Cxw": "苹果正在开发修复程序以解决与缺失的捷克键盘字符相关的iPhone密码漏洞",
+    "https://mp.weixin.qq.com/s/svknIswjlxtMWle4-EcB1w": "Windows截图工具NTLM哈希泄露漏洞PoC利用代码发布",
+    "https://mp.weixin.qq.com/s/DSfFwDxQjRHEDO-3B7evdQ": "kernel heap exploit"
 }
