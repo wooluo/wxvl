@@ -20103,5 +20103,6 @@
     "https://mp.weixin.qq.com/s/zvO7JA79mbOKJP8mtfPCuQ": "Claude Code、Gemini CLI 和 GitHub Copilot 存在通过 GitHub 评论注入的漏洞",
     "https://mp.weixin.qq.com/s/0HD680654m8Grim_rh23dQ": "因第三方AI工具受陷，Vercel 内部系统遭未授权访问",
     "https://mp.weixin.qq.com/s/21t2qeAnAaWbidwusbWYSg": "一次偶然的RCE",
-    "https://mp.weixin.qq.com/s/qtpfYT0r01BI-Ye-QPZGvg": "8.8分！Google紧急修复Chrome第4个0day漏洞，2026年已有4个在野利用"
+    "https://mp.weixin.qq.com/s/qtpfYT0r01BI-Ye-QPZGvg": "8.8分！Google紧急修复Chrome第4个0day漏洞，2026年已有4个在野利用",
+    "https://mp.weixin.qq.com/s/1380q6UsW9uq9keXh3kp5w": "CVE-2024-2961 完整 RCE 链详解：1字节 glibc 溢出如何秒杀 PHP（Web手视角）"
 }
