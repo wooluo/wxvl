@@ -1,10 +1,9 @@
 #  警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路  
- FreeBuf   2026-04-19 04:14  
+ 黑白之道   2026-04-21 01:25  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
-##   
-##   
+![](https://mmbiz.qpic.cn/mmbiz_png/nGzNudUIJ6NE6mRVMVHmriaM2h4Ag3C6kRHCe2TZEcB1zDuWgyvmPUNA91x7JSic5p1Hc6aQLYBTZ3n0llk0vdZ7cqKvIhR1jqs4Tt9iaVKHOU/640?wx_fmt=png&from=appmsg "")  
   
 在 Anthropic 公司发布 Mythos 和 Project Glasswing 模型引发激烈争论之际，一位安全研究人员展示了前沿 AI 技术对网络安全的实际影响。该研究突破了理论警告的局限，成功利用 Claude Opus 构建出针对 Google Chrome 复杂 V8 JavaScript 引擎的完整漏洞利用链。  
   
@@ -26,10 +25,10 @@
 - **V8沙箱绕过漏洞**  
 ：WebAssembly代码指针表（WasmCPT）中的释放后使用（UAF）缺陷。通过破坏导入分派表并利用类型混淆，攻击代码完全逃逸了V8沙箱限制，获得对整个虚拟地址空间的读写权限。  
   
-利用这些串联的漏洞原子化能力 ，模型最终生成了可重定向执行流至系统dyld缓存的攻击载荷，从而在macOS目标上执行任意系统命令。  
+利用这些串联的漏洞原子化能力 ，模型最终生成了可重定向执行流至系统dyld缓存的攻击载荷，从而在macOS目标上执行任意系统命令。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/icBE3OpK1IX2WicMicE75uTuaRWfzDnoMQ8ibNGHDc5FmxECdJz8LDxw4NLzVRBvPaxq7Miboqut57QLXFYeiaYJCb4NbIaZR44dj3YE1AIZVq02E/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/icBE3OpK1IX2WicMicE75uTuaRWfzDnoMQ8ibNGHDc5FmxECdJz8LDxw4NLzVRBvPaxq7Miboqut57QLXFYeiaYJCb4NbIaZR44dj3YE1AIZVq02E/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
   
   
 **Part02**  
@@ -62,19 +61,15 @@ Researcher Uses Claude Opus to Build a Working Chrome Exploit Chain
 https://cybersecuritynews.com/claude-opus-to-build-a-working-chrome-exploit-chain/  
   
   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651337048&idx=1&sn=7238361cc36d8446dbd7c8ed85cb2f42&scene=21#wechat_redirect)  
+> **文章来源：freebuf**  
   
   
-### 电报讨论  
+  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibvNluUKZ6RPy7h2fbYibRbLQDHPFqj89KkFsXBRibx5YTLiaTUfFOy9PKicps3l56iazUPNQrwdhkZ7jA/640?wx_fmt=png&from=appmsg "")  
-  
-****  
-  
-  
+**END**  
   
   

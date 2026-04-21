@@ -20063,5 +20063,18 @@
     "https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg": "Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击",
     "https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ": "【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口",
     "https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw": "【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级",
-    "https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w": "攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令"
+    "https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w": "攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令",
+    "https://mp.weixin.qq.com/s/0TtAgeG8J2qoxf8N3nesGA": "警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路",
+    "https://mp.weixin.qq.com/s/80J8fPhGYKcEjVpBSjdK0g": "【高危AI漏洞预警】FlowiseAI远程代码执行漏洞(CVE-2026-41138)",
+    "https://mp.weixin.qq.com/s/tbhSTbvu2L-23453ehAxpQ": "Flowise 中的严重漏洞可通过 MCP 适配器实现远程命令执行",
+    "https://mp.weixin.qq.com/s/M1plPt2E4btU94vrs6yGkQ": "Anthropic MCP 架构曝“设计级”漏洞：影响超 20 万服务器，AI 供应链安全拉响警报",
+    "https://mp.weixin.qq.com/s/WjpV8xtkXyfIIIi0svzCfw": "Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口",
+    "https://mp.weixin.qq.com/s/ox9LQJrPESIInPILsE8vmA": "当AI学会自己找漏洞、写Exp：安全行业的\"奇点\"可能真的来了",
+    "https://mp.weixin.qq.com/s/uSyhYV6Sy3KkRRsAYPIp6Q": "ActiveMQ-EXPtools | Apache ActiveMQ全系列漏洞一键支持检测和利用工具",
+    "https://mp.weixin.qq.com/s/C-zcQJpZZFK1nTl71K78Ug": "CVE-2023-33538 已遭受持续一年的攻击，但漏洞利用仍未成功",
+    "https://mp.weixin.qq.com/s/1N2mTExs23pWHwnK-rI3FQ": "T0级漏洞",
+    "https://mp.weixin.qq.com/s/mQZl-a6PTBajVF52bLVFCw": "NocoBase AI 驱动型无代码平台SSRF漏洞 | CVE-2026-40346原理分析&研究",
+    "https://mp.weixin.qq.com/s/G_y44KNW3CafXOWG6o69Aw": "2026 SRC 捡漏洞刷分实战：我不会挖漏洞，但是我捡漏洞很6",
+    "https://mp.weixin.qq.com/s/yBYaxIj1vOptHpmSM6nkoQ": "EDU证书站边缘资产挖掘实战：从.map泄露到高危漏洞到手全流程",
+    "https://mp.weixin.qq.com/s/ZtpiJ1Oea5vJDXKm1o1CEw": "2025 “泉城杯” 济南市网络安全大赛 题目复现"
 }
