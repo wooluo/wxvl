@@ -20179,5 +20179,6 @@
     "https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ": "理想汽车SRC关于AI生成漏洞报告的处置公告",
     "https://mp.weixin.qq.com/s/LRjrEUoutKGQDj2loGBzxw": "全程云OA download.ashx接口存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s/CZmoztuvC2mYssA2VVtWgg": "edu漏洞之若依nday漏洞复现(一)",
-    "https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA": "小红书SRC发布《AI生成漏洞报告提交规范》"
+    "https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA": "小红书SRC发布《AI生成漏洞报告提交规范》",
+    "https://mp.weixin.qq.com/s/4cEKtpLcK3VbaZ3dv0JzOA": "全新开源 Burp AI 扫描插件、支持 17 类 Web 漏洞检测，自带 WAF 绕过，一键自动化挖掘并智能验证漏洞"
 }
