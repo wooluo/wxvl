@@ -20154,5 +20154,18 @@
     "https://mp.weixin.qq.com/s/bcDPXaqEcljjQT02qR5qkw": "静态网站中存在的 20 多个漏洞",
     "https://mp.weixin.qq.com/s/0W-CVjaF3xO7gjDyKI3nKg": "4月社区投稿活动 | 漏洞挖掘",
     "https://mp.weixin.qq.com/s/jXRvAWM5VDJKDZ25fOgdcA": "Flowise fetch-links ssrf漏洞",
-    "https://mp.weixin.qq.com/s/9XyhjeatydPrxFyor4VvGA": "【安全圈】Claude Mythos 发现 271 个火狐浏览器漏洞"
+    "https://mp.weixin.qq.com/s/9XyhjeatydPrxFyor4VvGA": "【安全圈】Claude Mythos 发现 271 个火狐浏览器漏洞",
+    "https://mp.weixin.qq.com/s/qu7PxNEr8iD2uDdiqcmq1w": "Claude Mythos发现271个Firefox漏洞，0Day时代或将终结",
+    "https://mp.weixin.qq.com/s/XNe2xRx_yVgJtwfMgDxolg": "某211高校从一个文档到全校三要素泄露&RCE",
+    "https://mp.weixin.qq.com/s/qKLGITV0_pYTfSC3j3RIWw": "ByteSRC发布《AI生成漏洞报告提交规范》",
+    "https://mp.weixin.qq.com/s/w1mRvwW2F6UAQHre6DMLwg": "中通SRC关于AI生成漏洞报告的处置公告",
+    "https://mp.weixin.qq.com/s/teTcVDS5iw-rwO4IgrJ3lQ": "记一次某大学的漏洞挖掘",
+    "https://mp.weixin.qq.com/s/HkcUWECi3nwUgglYoUoMhw": "GitHub评论可触发Claude Code、Gemini CLI和GitHub Copilot的提示注入漏洞",
+    "https://mp.weixin.qq.com/s/Vj28G9lP8hDJh7yexsZdkQ": "关于AI生成漏洞报告的处置公告",
+    "https://mp.weixin.qq.com/s/bGPbTDjnYyaB7bH9r0vA2w": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0323-0405）",
+    "https://mp.weixin.qq.com/s/3j9Q5oZlPOZWzYWKussXIg": "浅谈代码审计+漏洞批量一把梭哈思路",
+    "https://mp.weixin.qq.com/s/IOjGKzOG-WQDsZLWgcsI7A": "【公告】JSRC关于AI生成漏洞报告提交规范",
+    "https://mp.weixin.qq.com/s/cjUIX5GqnEFV4Oenl2-GnA": "苹果AI令牌漏洞曝光，窃取者可跨设备滥用服务",
+    "https://mp.weixin.qq.com/s/-iaA1fhpv4jx6_yRfg6O_Q": "小鹏汽车SRC发布《AI生成漏洞报告的处置公告》",
+    "https://mp.weixin.qq.com/s/7GZgED4pCSwGFicuaQo5xA": "微软紧急修复严重的 ASP.NET 漏洞"
 }
