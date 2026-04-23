@@ -20147,5 +20147,12 @@
     "https://mp.weixin.qq.com/s/V1TCgDNHIZtZRMUoC5KaIQ": "1day:可实现Nginx服务器完全控制",
     "https://mp.weixin.qq.com/s/fodvOn6B5H1xOsAEKhWcdQ": "Progress ShareFile 远程代码执行漏洞(CVE-2026-2701)",
     "https://mp.weixin.qq.com/s/ds0aLVLxUjtEO4yToA4tMw": "Pack2TheRoot (CVE-2026-41651)：跨发行版本地权限提升漏洞",
-    "https://mp.weixin.qq.com/s/K8fMT3gMMrGMuEJHirY5zg": "GHSA-xq3m-2v4x-88gg 的 PoC：通过代码注入在 protobuf.js 中实现严重远程代码执行 (CVSS 9.4)"
+    "https://mp.weixin.qq.com/s/K8fMT3gMMrGMuEJHirY5zg": "GHSA-xq3m-2v4x-88gg 的 PoC：通过代码注入在 protobuf.js 中实现严重远程代码执行 (CVSS 9.4)",
+    "https://mp.weixin.qq.com/s/i4KL0YoiOOP7c_s6hz4YJw": "2016年至2026年十大最常被利用的漏洞列表",
+    "https://mp.weixin.qq.com/s/xZGyvHv_Qh4MuxoAESrkaQ": "高危漏洞预警：Windows TCP∕IP 远程代码执行漏洞（CVE-2026-33827）",
+    "https://mp.weixin.qq.com/s/ZRSw0R8mH1tY_7jsYUswRA": "【已复现】FortiSandbox 身份验证绕过漏洞（CVE-2026-39813）",
+    "https://mp.weixin.qq.com/s/bcDPXaqEcljjQT02qR5qkw": "静态网站中存在的 20 多个漏洞",
+    "https://mp.weixin.qq.com/s/0W-CVjaF3xO7gjDyKI3nKg": "4月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/jXRvAWM5VDJKDZ25fOgdcA": "Flowise fetch-links ssrf漏洞",
+    "https://mp.weixin.qq.com/s/9XyhjeatydPrxFyor4VvGA": "【安全圈】Claude Mythos 发现 271 个火狐浏览器漏洞"
 }
