@@ -20180,5 +20180,15 @@
     "https://mp.weixin.qq.com/s/LRjrEUoutKGQDj2loGBzxw": "全程云OA download.ashx接口存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s/CZmoztuvC2mYssA2VVtWgg": "edu漏洞之若依nday漏洞复现(一)",
     "https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA": "小红书SRC发布《AI生成漏洞报告提交规范》",
-    "https://mp.weixin.qq.com/s/4cEKtpLcK3VbaZ3dv0JzOA": "全新开源 Burp AI 扫描插件、支持 17 类 Web 漏洞检测，自带 WAF 绕过，一键自动化挖掘并智能验证漏洞"
+    "https://mp.weixin.qq.com/s/4cEKtpLcK3VbaZ3dv0JzOA": "全新开源 Burp AI 扫描插件、支持 17 类 Web 漏洞检测，自带 WAF 绕过，一键自动化挖掘并智能验证漏洞",
+    "https://mp.weixin.qq.com/s/Qphhumd3O4HrcCyaixXcgw": "雨诺调度客户端 GetFile 存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/X4uYqXDWxev1JFGxBXWSeA": "CNNVD关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/BxNitlIlxzaPEhafOGcEew": "iOS 漏洞会导致已删除通知残留，苹果现已推出修复更新",
+    "https://mp.weixin.qq.com/s/QyLu2yTAiprgZwazDNlT_Q": "Bissa扫描器曝光：AI辅助的大规模漏洞利用与凭证窃取",
+    "https://mp.weixin.qq.com/s/CV6Kxvftd0s1RctEclZIWQ": "Apache HttpClient 5.6 中存在严重的身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/LbOtP2MxhS_1IuYqnvwMmQ": "商品价格篡改漏洞",
+    "https://mp.weixin.qq.com/s/FMJCUbT79b4Xbu6pQvx_Ww": "仅花1.5万元，就能把关键漏洞变成直接运行的网络武器",
+    "https://mp.weixin.qq.com/s/wpL4ZReyiP3IHdOYDMTeEA": "科大讯飞SRC关于AI生成漏洞报告的处置公告",
+    "https://mp.weixin.qq.com/s/7rgi1Poke9Oc076fZ71PhA": "国家人工智能安全漏洞库启动运行",
+    "https://mp.weixin.qq.com/s/gQk8l6ZAPlpFQlgNggh-mw": "网络安全可视化工具集 | FOFA 资产测绘爬取与 Nuclei 漏洞扫描"
 }
