@@ -20211,5 +20211,6 @@
     "https://mp.weixin.qq.com/s/ma2pPxXS-aRyGUpJVh531w": "漏洞综合利用工具 -- ActiveMQ-EXPtools（4月21日更新）",
     "https://mp.weixin.qq.com/s/tgFJ7dEiAtOCjkzoVVfHFg": "【火绒安全周报】Vercel遭黑客入侵∕黑客多次入侵美最高法院",
     "https://mp.weixin.qq.com/s/zm0TaGzw5QpXPXdkwbLPRQ": "【漏洞通告】Apache ActiveMQ 远程代码执行漏洞(CVE-2026-40466)",
-    "https://mp.weixin.qq.com/s/cOq-mjo7jXe6rtIB4y_zEQ": "一天渗透测试，后台RCE+SQL注入+信息泄露，收工"
+    "https://mp.weixin.qq.com/s/cOq-mjo7jXe6rtIB4y_zEQ": "一天渗透测试，后台RCE+SQL注入+信息泄露，收工",
+    "https://mp.weixin.qq.com/s/TDrkxeG2dCq-sAGDjsBHpQ": "CVE-2025-65857：雄迈XM530摄像头硬编码凭据漏洞，数十万监控设备直接裸奔"
 }
