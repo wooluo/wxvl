@@ -20253,5 +20253,11 @@
     "https://mp.weixin.qq.com/s/OcI0Mu9VQqVIa8ucaWH_eQ": "孚盟云 AjaxProductTemplateList.ashx SQL注入漏洞",
     "https://mp.weixin.qq.com/s/zyOHKhXdIL_xlmy8OOV2nA": "邀请次数限制绕过漏洞",
     "https://mp.weixin.qq.com/s/9N7PunFuq6yAsV40SKXloQ": "如何通过漏洞组合链为工控平台CODESYS植入后门",
-    "https://mp.weixin.qq.com/s/AYUZ6TtmGVtYWjHVk6745w": "记一次某大学的漏洞挖掘"
+    "https://mp.weixin.qq.com/s/AYUZ6TtmGVtYWjHVk6745w": "记一次某大学的漏洞挖掘",
+    "https://mp.weixin.qq.com/s/dSOYqzaeNhDCVlXfgAJOow": "如何骗过 PackageKit 拿到 Root（CVE-2026-41651）",
+    "https://mp.weixin.qq.com/s/D2ZgOupvuJC7GTe2F9R_HQ": "代码审计 某cms任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s/ppbocrTnhKgJIIVN4CoQWQ": "畅捷通T+ FormReportOperateAction 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/KqEoLc6qc6qKmbJIcrRkEw": "AI漏洞海啸来袭：五步构建Mythos-ready安全体系",
+    "https://mp.weixin.qq.com/s/vetr3EdxDiVH73EnCtWisw": "CVE-2026-34621 回顾：136天的检测谎言",
+    "https://mp.weixin.qq.com/s/3i8QzA17oITXTxiNjUiEAg": "国家人工智能安全漏洞库正式启动，AI漏洞治理开始进入“基础设施化”阶段"
 }
