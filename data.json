@@ -20292,5 +20292,10 @@
     "https://mp.weixin.qq.com/s/6hcanSlxurPwZfquPPKrDg": "密码重置令牌可预测漏洞",
     "https://mp.weixin.qq.com/s/6All2qBlo79FG8KTQCTrmA": "红队神器｜Vue 站点未授权漏洞一键挖掘，这款插件太好用了",
     "https://mp.weixin.qq.com/s/Qx_dOttjDfG9-OBh9-Og9w": "OpenClaw安全实战系列(四)：幽灵连通性 — 揭秘CVE-2026-32038沙箱网络隔离绕过与靶标实战",
-    "https://mp.weixin.qq.com/s/LxcaJcZh_ujFPE2rZEVSNw": "盲SSRF实战：用这招“投石问路”，无声漏洞照样拿赏金"
+    "https://mp.weixin.qq.com/s/LxcaJcZh_ujFPE2rZEVSNw": "盲SSRF实战：用这招“投石问路”，无声漏洞照样拿赏金",
+    "https://mp.weixin.qq.com/s/AkKjaEkdG5Va1ovA3D7HLw": "RedSun 本地权限提升漏洞分析：滥用 Defender 修复机制",
+    "https://mp.weixin.qq.com/s/_HIr5MhWIcgO6FHSt5o8WA": "4月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/gQpvJE8_--8CLXOOzTdSHw": "我在 API Explorer 中发现了一个存储型 XSS 漏洞——以下是我的具体操作步骤",
+    "https://mp.weixin.qq.com/s/vTNq9lFdysw-3Tj9THT2pQ": "[漏洞播报]紧急爆雷！蚁剑 v2.1.15 高危漏洞，XSS 秒变 RCE",
+    "https://mp.weixin.qq.com/s/ybpDMdvecw-bC289Wc1Tig": "CVE-2026–41505：一个两字母的导入如何破坏开源 LMS 的认证安全"
 }
