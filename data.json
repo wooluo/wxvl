@@ -20279,5 +20279,18 @@
     "https://mp.weixin.qq.com/s/EmFgFMIVXYfy5MFvS6PdLw": "OpenAI重金悬赏GPT-5.5生物漏洞，严防AI被滥用于危险科研",
     "https://mp.weixin.qq.com/s/ZOIw-ddU5YRUo9rm2Ahu9Q": "【高危漏洞预警】Notepad++字符串注入漏洞(CVE-2026-3008)",
     "https://mp.weixin.qq.com/s/X7RDgEZs6UiknLMJKM_GlQ": "Vvveb CMS 任意文件上传导致RCE | CVE-2026-6257原理分析&研究",
-    "https://mp.weixin.qq.com/s/2bRYPweh1tzlqV8JfDwnuA": "【AI安全】别只防输出！AI Agent 的中间流程漏洞百出"
+    "https://mp.weixin.qq.com/s/2bRYPweh1tzlqV8JfDwnuA": "【AI安全】别只防输出！AI Agent 的中间流程漏洞百出",
+    "https://mp.weixin.qq.com/s/VtS7CflCTMI9Lkk0y4_n4g": "一次案件前台RCE审计",
+    "https://mp.weixin.qq.com/s/Vww-RAutlBTjp4HaJakzUQ": "天地伟业Easy7 queryDataByTypeEx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/nUEiHeVYhn53cJdwnNH2vQ": "黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫",
+    "https://mp.weixin.qq.com/s/K536X2vV09_tmDLScP-mzQ": "漏洞预警 | Adobe Acrobat Reader远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/0k7hkyH8gNiaUK0FT9VfGg": "2025 “泉城杯” 济南市网络安全大赛 题目复现",
+    "https://mp.weixin.qq.com/s/d7xALBk9AkhG0Pl_uaAvIQ": "勒索软件与Mirai的狂欢：CISA最新KEV漏洞技术复盘与防护",
+    "https://mp.weixin.qq.com/s/UHsu_MTGV2-9xJObaoKG0A": "蚁剑v2.1.15曝致命漏洞！XSS可直接变RCE，点击即中招...",
+    "https://mp.weixin.qq.com/s/1YAvYFJ_ywbmsjjloGs-Vw": "【SRC实战】|并发漏洞新手的加油站！",
+    "https://mp.weixin.qq.com/s/GbC8KYAXswdfqRdL9gKIyA": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/6hcanSlxurPwZfquPPKrDg": "密码重置令牌可预测漏洞",
+    "https://mp.weixin.qq.com/s/6All2qBlo79FG8KTQCTrmA": "红队神器｜Vue 站点未授权漏洞一键挖掘，这款插件太好用了",
+    "https://mp.weixin.qq.com/s/Qx_dOttjDfG9-OBh9-Og9w": "OpenClaw安全实战系列(四)：幽灵连通性 — 揭秘CVE-2026-32038沙箱网络隔离绕过与靶标实战",
+    "https://mp.weixin.qq.com/s/LxcaJcZh_ujFPE2rZEVSNw": "盲SSRF实战：用这招“投石问路”，无声漏洞照样拿赏金"
 }

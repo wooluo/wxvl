@@ -1,10 +1,10 @@
 #  黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫  
- FreeBuf   2026-04-26 10:02  
+ 黑白之道   2026-04-28 01:35  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
-##   
-##   
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/nGzNudUIJ6MOHK214zuvACt0l5a5usm5ooLwUuIgaYiaCFy3Zzs3prlvywdpDB7licXia5t12ge4Kbn6zGSEqodrRjMlYgnH7DbMGib8zs8J2D8/640?wx_fmt=png&from=appmsg "")  
   
 **Part01**  
 ## 攻击行动曝光  
@@ -98,7 +98,7 @@ DFIR Report的分析师还发现，攻击者至少运行了两个独立的机器
 这种基础设施投入水平表明，攻击者并非新手，而是长期从事此类操作——存储阶段的命名痕迹甚至可追溯至2025年9月。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/icBE3OpK1IX2Qq6BXVdmAScG7t96IdSlfKHRSHA0SkXZKE7Su6qVHs2ibwhUllQUiblAmNNtf3kwddYSHqhf4YJZx7StxHolWgK1XKYZUTOla4/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/icBE3OpK1IX2Qq6BXVdmAScG7t96IdSlfKHRSHA0SkXZKE7Su6qVHs2ibwhUllQUiblAmNNtf3kwddYSHqhf4YJZx7StxHolWgK1XKYZUTOla4/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=2 "")  
   
   
 **Part07**  
@@ -125,19 +125,15 @@ Hackers Use Telegram Bots to Track 900+ Successful React2Shell Exploits
 https://cybersecuritynews.com/hackers-use-telegram-bots/  
   
   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651337140&idx=1&sn=134af642d92b85fc1076a8c83c09945c&scene=21#wechat_redirect)  
+> **文章来源：freebuf**  
   
   
-### 电报讨论  
+  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibvNluUKZ6RPy7h2fbYibRbLQDHPFqj89KkFsXBRibx5YTLiaTUfFOy9PKicps3l56iazUPNQrwdhkZ7jA/640?wx_fmt=png&from=appmsg "")  
-  
-****  
-  
-  
+**END**  
   
   
