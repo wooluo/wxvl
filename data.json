@@ -20302,5 +20302,21 @@
     "https://mp.weixin.qq.com/s/hgH1SOCfuetBs-F_aueixQ": "LLM 推理引擎 llama.cpp 零点击 RCE 漏洞：从 Null Buffer 到绕过 PIE∕Full RELRO∕NX 利用链(CVE-2026-34159)",
     "https://mp.weixin.qq.com/s/F5th9WC8nuRuo_vq9G1lxw": "被低估的数据泄密出口：网页上传场景的安全漏洞与防护破局",
     "https://mp.weixin.qq.com/s/K0CEuWrxspQdL6xNw4NivA": "OpenSSH 漏洞暗藏 15 年，可致完全 root 权限访问",
-    "https://mp.weixin.qq.com/s/AyNw7_yR_iOA32E-dlODYw": "紧急！蚁剑 v2.1.15 曝致命漏洞。网友：玩一辈子鹰，被鹰啄瞎了眼"
+    "https://mp.weixin.qq.com/s/AyNw7_yR_iOA32E-dlODYw": "紧急！蚁剑 v2.1.15 曝致命漏洞。网友：玩一辈子鹰，被鹰啄瞎了眼",
+    "https://mp.weixin.qq.com/s/Z1nYRTMC3YZBT5T6e12NKw": "CVE-2026-3854：GitHub 存在安全缺陷，攻击者可利用该漏洞发起远程代码执行攻击",
+    "https://mp.weixin.qq.com/s/wHj6IBCWz-v6MSIWToIZBw": "微软修复可导致权限提升的 Entra ID 漏洞",
+    "https://mp.weixin.qq.com/s/r2qc3-qowgHkqcDMBu-HWw": "漏洞预警 | Cockpit远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/NOrYKuv6TANitgwxoCUTYw": "【有免费靶场】Java“幽灵比特位” 漏洞原理+复现",
+    "https://mp.weixin.qq.com/s/Dml2Bs63K7PLAj1AEhFrqA": "某SRC不一样的Dify∕Next.js命令执行记录",
+    "https://mp.weixin.qq.com/s/ba0X89YKQLL8qaU26w1P_A": "[高危漏洞预警] LiteLLM 预认证SQL注入漏洞CVE-2026-42208",
+    "https://mp.weixin.qq.com/s/zi0YGUvyBmaKjiRHLSJItg": "Nginx UI的未授权远程代码执行",
+    "https://mp.weixin.qq.com/s/hVOmXE60RFSlTKsEWw2m3g": "【有免费靶场】Java“幽灵比特位” 漏洞原理+复现",
+    "https://mp.weixin.qq.com/s/pKGAY4LKq_FNOldhIscm-g": "【CVE-2026-22077】OPPO钱包可信域绕过导致敏感信息泄露漏洞的致谢公告",
+    "https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw": "【高危漏洞预警】llama.cpp无认证远程代码执行漏洞CVE-2026-34159",
+    "https://mp.weixin.qq.com/s/aSe-K12DmxPVCYURgrRb6g": "[工具推荐]AI自动化 Web 漏洞扫描Burp插件Zack-AI-Scanner",
+    "https://mp.weixin.qq.com/s/_8P7LXulq1k94qo11xzYdQ": "PhantomCore 利用 TrueConf 漏洞入侵俄罗斯网络",
+    "https://mp.weixin.qq.com/s/Il0b96xm7kl2sOL_V8eNYA": "安全企业发布iOS漏洞攻击风险检测工具",
+    "https://mp.weixin.qq.com/s/PEbh04GR873lOvayH9x39w": "打印服务也犯错！最新CUPS漏洞可攻陷操作系统",
+    "https://mp.weixin.qq.com/s/_GtsUO1Zw5PrXReh3PTW3A": "漏洞预警 | 天地伟业Easy7文件上传漏洞",
+    "https://mp.weixin.qq.com/s/egJBth9FPgK9RcYcO9RmPQ": "关键GitHub 漏洞（CVE-2026-3854）允许远程代码执行"
 }
