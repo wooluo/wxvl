@@ -20325,5 +20325,16 @@
     "https://mp.weixin.qq.com/s/hDtM54ZidCt3dUugHiyaIg": "直播更新 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
     "https://mp.weixin.qq.com/s/ET6QSQgcWUhEdsUWQHjjrA": "FortiWeb 针对 Java 幽灵比特位（Ghost Bits）漏洞防护策略",
     "https://mp.weixin.qq.com/s/W446pdxEzlFNJgAa4zfzqw": "Pipecat 语音代理可遭严重 RCE 漏洞利用劫持",
-    "https://mp.weixin.qq.com/s/X4L3vZe6Vk4qdMV15DT3zg": "Gemini CLI 严重漏洞可触发 RCE 攻击和软件供应链风险"
+    "https://mp.weixin.qq.com/s/X4L3vZe6Vk4qdMV15DT3zg": "Gemini CLI 严重漏洞可触发 RCE 攻击和软件供应链风险",
+    "https://mp.weixin.qq.com/s/P4dloFveiPI3jowz1YmLRg": "OpenClaw三大漏洞可致策略绕过与主机劫持",
+    "https://mp.weixin.qq.com/s/ZDPoeekcoHDUc-mltalnHg": "攻击者可通过漏洞链在CODESYS应用中植入后门",
+    "https://mp.weixin.qq.com/s/RAbn3W0NNbqbALHktf8U5Q": "分享一个渗透测试必备的POC速查网站",
+    "https://mp.weixin.qq.com/s/7HTN5GYNkrQkfFuL2gaVJw": "周三：资讯速递（OpenAI漏洞赏金、安全skills库、OpenClaw漏洞）",
+    "https://mp.weixin.qq.com/s/uKFJQnQ21x_42dzDrVTHAA": "CVE-2024-38812 深度分析：从堆风水到远程代码执行",
+    "https://mp.weixin.qq.com/s/eBnlFVk8Q4GQNP6keHuSjQ": "cPanel发布严重身份验证漏洞警告——紧急补丁已发布",
+    "https://mp.weixin.qq.com/s/igdNc0iIhwoStLeSDGHyMQ": "【论文速读】| 面向高成本效益代码漏洞检测的策略型异构多智能体架构",
+    "https://mp.weixin.qq.com/s/pli4tkFqDG7koTd2GennMA": "突发！一条命令 github.com 被黑！RCE Made By AI！",
+    "https://mp.weixin.qq.com/s/zaDOEbZr9XwJFTFg9RN0pg": "Bonitasoft 认证绕过及RCE漏洞分析及复现",
+    "https://mp.weixin.qq.com/s/3BgVRD3ap1MukW8C2kPS2w": "成功复现！一条 git push 即可接管 GitHub 服务器，任意拉取他人私有仓库 (CVE-2026-3854)",
+    "https://mp.weixin.qq.com/s/k10RyA8TGLrtO4tTa0vlGw": "cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！"
 }
