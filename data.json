@@ -20336,5 +20336,20 @@
     "https://mp.weixin.qq.com/s/pli4tkFqDG7koTd2GennMA": "突发！一条命令 github.com 被黑！RCE Made By AI！",
     "https://mp.weixin.qq.com/s/zaDOEbZr9XwJFTFg9RN0pg": "Bonitasoft 认证绕过及RCE漏洞分析及复现",
     "https://mp.weixin.qq.com/s/3BgVRD3ap1MukW8C2kPS2w": "成功复现！一条 git push 即可接管 GitHub 服务器，任意拉取他人私有仓库 (CVE-2026-3854)",
-    "https://mp.weixin.qq.com/s/k10RyA8TGLrtO4tTa0vlGw": "cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！"
+    "https://mp.weixin.qq.com/s/k10RyA8TGLrtO4tTa0vlGw": "cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！",
+    "https://mp.weixin.qq.com/s/JyA-1ZaIP3R-68bdWcG8pQ": "某园区0day代码审计",
+    "https://mp.weixin.qq.com/s/_3AuJPcKpfiuD7JrLlWg_A": "一条 git push 就能拿下 GitHub 服务器？CVE-2026-3854 详解",
+    "https://mp.weixin.qq.com/s/4l69yVBMxoHh8U7x98VwCQ": "CVE-2026-42208：LiteLLM 漏洞披露后仅 36 小时即遭利用",
+    "https://mp.weixin.qq.com/s/Q6SqplB6NUzs2_lc5WuQww": "GhostBits-WAF-Bypass-Toolkit——针对 Java 幽灵比特位漏洞的 WAF 绕过辅助脚本",
+    "https://mp.weixin.qq.com/s/mHwL-41--rUAczfSYaeo_w": "Linux提权漏洞！10行代码直接root",
+    "https://mp.weixin.qq.com/s/Z2dWGAwId9e7H5yXQVsxPA": "MajorDoMo admin.php接口存在远程代码执行漏洞CVE-2026-27174 附POC",
+    "https://mp.weixin.qq.com/s/rOY7WfINmemXlV70Rqc9mA": "CVE-2026-31431（Copy Fail）漏洞分析与车联网影响评估",
+    "https://mp.weixin.qq.com/s/Av99-_fZbaXjTiXy2fhOIg": "【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞",
+    "https://mp.weixin.qq.com/s/-8PO6l29GqRPVSYxR0vGig": "【已复现】cPanel&WHM 身份认证绕过漏洞(CVE-2026-41940)安全风险通告",
+    "https://mp.weixin.qq.com/s/tjO9uXE5mb-KU1IAT5yffg": "所有受支持的 cPanel 版本均受高危认证漏洞影响，目前已完成补丁修复",
+    "https://mp.weixin.qq.com/s/KHKIExChRMX6ewJk6dTgSw": "逆天 Linux 提权漏洞，大洞速修！！！！！",
+    "https://mp.weixin.qq.com/s/bWSo1ktSYgWQXCQZvY_DJw": "【漏洞通告】Github-Enterprise远程命令执行漏洞(CVE-2026-3854)",
+    "https://mp.weixin.qq.com/s/ruU7aGSsvZY24ILNi4zkrw": "【漏洞通告】LiteLLM SQL注入漏洞(CVE-2026-42208)",
+    "https://mp.weixin.qq.com/s/-5nohB52WQtD3lV7xInIKg": "【已复现】Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)安全风险通告",
+    "https://mp.weixin.qq.com/s/r47JuF0ybIxR98W_-qt6qw": "2026 年十大最佳 Linux 服务器漏洞扫描器"
 }
