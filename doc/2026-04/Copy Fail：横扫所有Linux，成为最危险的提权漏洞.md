@@ -1,5 +1,5 @@
-#  【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞  
- 乌雲安全   2026-04-30 04:24  
+#  Copy Fail：横扫所有Linux，成为最危险的提权漏洞  
+ 数世咨询   2026-04-30 05:33  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/EqS9GE77r0ObDuLNiaxW7q7ptG21ibM4LW3MzFiaOTdxicnTjRhnd6ibvaV7f3KZURx7NfFCfeD2CAsGczabOmfY35ZtwWYOnhiasXG28xKO9TeNE/640?wx_fmt=png&from=appmsg#imgIndex=0 "")  
   
@@ -140,6 +140,23 @@ grep -r "a664bf3d603d" /proc/version 2>/dev/null || uname -r 
 ## 临时缓解方案禁用 algif_aead内核模块可阻断漏洞利用路径：# 永久禁用（重启后生效）echo "install algif_aead /bin/false" > /etc/modprobe.d/disable-algif.conf# 立即卸载（当前会话生效）rmmod algif_aead 2>/dev/null || true禁用 algif_aead 的影响评估：不影响：dm-crypt/LUKS、kTLS、IPsec/XFRM、OpenSSL/GnuTLS/NSS 默认构建、SSH、内核密钥环加密——这些组件直接使用内核加密 API，不经过 AF_ALG。可能影响：显式启用了 afalg引擎的 OpenSSL、部分嵌入式加密卸载路径、直接绑定 aead/skcipher/hash 套接字的应用。可通过 lsof | grep AF_ALG或 ss -xa检查当前系统是否有进程使用 AF_ALG。漏洞复现Reproduction                                       04时间线 Timeline 05时间事件2026 年 3 月 23 日漏洞报告至 Linux 内核安全团队2026 年 3 月 24 日内核安全团队确认收到2026 年 3 月 25 日补丁提出并完成审查2026 年 4 月 1 日修复 commit a664bf3d603d合入 mainline2026 年 4 月 22 日CVE-2026-31431 正式分配2026 年 4 月 29 日公开披露，EXP 同步发布2026 年 4 月 30 日长亭安全应急响应中心发布通告参考资料：[1].https://copy.fail/[2].https://github.com/theori-io/copy-fail-CVE-2026-31431  
   
   
-文章转自长亭安全应急响应中心，侵权请联系我删除  
+**长亭应急响应服务**  
   
+  
+  
+  
+全力进行产品升级  
+  
+及时将风险提示预案发送给客户  
+  
+检测业务是否受到此次漏洞影响  
+  
+请联系长亭应急服务团队  
+  
+7*24小时，守护您的安全  
+  
+  
+第一时间找到我们：  
+  
+邮箱：support@chaitin.com  
   
