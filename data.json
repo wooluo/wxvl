@@ -20440,5 +20440,14 @@
     "https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig": "CVE-2026-31431 Copy Fail 通俗解析",
     "https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA": "CVE‑2026‑41940：cPanel∕WHM认证绕过可直接RCE，数百万服务器告急！！！",
     "https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g": "CVE-2026-31431：linux史诗级漏洞，732字节脚本一键拿root",
-    "https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q": "WebAssembly 规范类型索引与相对类型索引混淆导致远程代码执行"
+    "https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q": "WebAssembly 规范类型索引与相对类型索引混淆导致远程代码执行",
+    "https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q": "分享我在EDU实战挖到的XSS漏洞合集",
+    "https://mp.weixin.qq.com/s/L0mY8Y8BkhuLf5CR-LVN9A": "紧急预警｜Sandworm APT再出手！针对白俄罗斯军方发动攻击，LNK漏洞+Tor隐蔽后门，隐蔽性拉满",
+    "https://mp.weixin.qq.com/s/HRPMVRmwiqCBW7v9OXOFyg": "CNNVD | 关于cPanel访问控制错误漏洞的通报",
+    "https://mp.weixin.qq.com/s/0p44OC5GNHQir6NvdZZjpQ": "CNNVD | 关于Linux安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/LmGpBQH7k4z7FNnlSdlSgw": "今日（2026年5月1日）热点网络安全漏洞动态",
+    "https://mp.weixin.qq.com/s/NbaNU9h_mf9baX9KNcyuJw": "【CVE-2026-41940】核弹级漏洞 cPanel∕WHM 身份验证绕过 RCE",
+    "https://mp.weixin.qq.com/s/TW49tAeIDuqiA8bB4-8DcA": "EnOcean SmartServer漏洞：楼宇管理系统远程代码执行与ASLR绕过技术分析",
+    "https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg": "神级漏洞 CVE-2026-41940 cPanel∕WHM 身份验证绕过 RCE",
+    "https://mp.weixin.qq.com/s/4rLz5duXWLF06A5yPkALRQ": "金万维异速联平台未授权漏洞 附POC"
 }
