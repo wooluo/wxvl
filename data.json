@@ -20449,5 +20449,6 @@
     "https://mp.weixin.qq.com/s/NbaNU9h_mf9baX9KNcyuJw": "【CVE-2026-41940】核弹级漏洞 cPanel∕WHM 身份验证绕过 RCE",
     "https://mp.weixin.qq.com/s/TW49tAeIDuqiA8bB4-8DcA": "EnOcean SmartServer漏洞：楼宇管理系统远程代码执行与ASLR绕过技术分析",
     "https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg": "神级漏洞 CVE-2026-41940 cPanel∕WHM 身份验证绕过 RCE",
-    "https://mp.weixin.qq.com/s/4rLz5duXWLF06A5yPkALRQ": "金万维异速联平台未授权漏洞 附POC"
+    "https://mp.weixin.qq.com/s/4rLz5duXWLF06A5yPkALRQ": "金万维异速联平台未授权漏洞 附POC",
+    "https://mp.weixin.qq.com/s/Y8a1DRVghgg_G9CEqm5M-Q": "2017年至今的提权漏洞，Linux root 管理员权限 CVE-2026-31431"
 }
