@@ -20431,5 +20431,14 @@
     "https://mp.weixin.qq.com/s/yChwE7QVLGdrTCSi0-jSNg": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
     "https://mp.weixin.qq.com/s/eMCDye1A-LfO6gMsTTvNSQ": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
     "https://mp.weixin.qq.com/s/RJG_ZSZGDJj3v2HHPunfog": "WordPress WooCommerce Designer Pro存在任意文件读取CVE-2025-10897 附POC",
-    "https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA": "漏洞预警 | Copy Fail本地提权漏洞风险预警 CVE-2026-31431"
+    "https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA": "漏洞预警 | Copy Fail本地提权漏洞风险预警 CVE-2026-31431",
+    "https://mp.weixin.qq.com/s/7zxdconouGGdMJZgsgFqjg": "Copy Fail（CVE-2026-31431）：关于 Linux 内核权限提升漏洞的常见问题",
+    "https://mp.weixin.qq.com/s/319asU9Eoap0WqfAMGP78A": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
+    "https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ": "漏洞复现 | 泛微云桥 e-Bridge sendWxMsg 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/Q1O-3buHekCDgJZnhIYglg": "cPanel∕WHM 认证绕过漏洞 CVE-2026-41940 深度分析",
+    "https://mp.weixin.qq.com/s/7mVx3sKx4SFSXR28Q1fOrA": "人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC）",
+    "https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig": "CVE-2026-31431 Copy Fail 通俗解析",
+    "https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA": "CVE‑2026‑41940：cPanel∕WHM认证绕过可直接RCE，数百万服务器告急！！！",
+    "https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g": "CVE-2026-31431：linux史诗级漏洞，732字节脚本一键拿root",
+    "https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q": "WebAssembly 规范类型索引与相对类型索引混淆导致远程代码执行"
 }
