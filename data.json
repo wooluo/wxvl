@@ -20469,5 +20469,11 @@
     "https://mp.weixin.qq.com/s/_e332pf-qS04KPhu0O7Mcg": "模型不是全部：从 Mythos、Hacktron 与 oauth2-proxy 0-day 看自动化漏洞挖掘系统的真实瓶颈",
     "https://mp.weixin.qq.com/s/cEe6CNPqRg16OBPVUTuZgA": "警惕，最新LINUX漏洞",
     "https://mp.weixin.qq.com/s/TXhust1HL_dEtKZPltwyCQ": "【自研工具】Zack-Vulscan 指纹驱动精准匹配Poc的Web漏洞扫描器",
-    "https://mp.weixin.qq.com/s/sGMkfyyrOasfmthG0euNrg": "如何通过漏洞组合链为工控平台CODESYS植入后门"
+    "https://mp.weixin.qq.com/s/sGMkfyyrOasfmthG0euNrg": "如何通过漏洞组合链为工控平台CODESYS植入后门",
+    "https://mp.weixin.qq.com/s/rokSS7XTAgcr4J6VCbcICg": "【CVE-2026-31431】Linux提权漏洞原理详解",
+    "https://mp.weixin.qq.com/s/1saHZ_Bt_8z5qojaJ7qJFg": "记某SRC高危漏洞挖掘",
+    "https://mp.weixin.qq.com/s/oZ_19i9sRNdHvATN-X2trA": "深度安全研究报告：基于自动化挖掘引擎的全局漏洞态势与根因分析",
+    "https://mp.weixin.qq.com/s/GuO9857kVnqYoaVMzrY3-w": "AI 复现Copy Fail漏洞的一些思考？学了这么多年渗透∕代审，会被 AI 一波带走嘛？",
+    "https://mp.weixin.qq.com/s/fAek_68jgXUHaOFh0_harA": "5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破\"Copy Fail\"内核通杀漏洞",
+    "https://mp.weixin.qq.com/s/SE7TMFaU_3Tcsyc_83GqWg": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程"
 }
