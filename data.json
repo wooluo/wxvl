@@ -20478,5 +20478,8 @@
     "https://mp.weixin.qq.com/s/SE7TMFaU_3Tcsyc_83GqWg": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
     "https://mp.weixin.qq.com/s/wT5hFY9_7vIjWQHLPiMR-Q": "今日（2026年5月2日）热点网络安全漏洞动态",
     "https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA": "Vulfocus入门——命令执行漏洞",
-    "https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg": "Yakit Ghost Bits Fuzzing 漏洞插件"
+    "https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg": "Yakit Ghost Bits Fuzzing 漏洞插件",
+    "https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA": "JAVA反序列化漏洞与CC链",
+    "https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA": "linux史诗级安全漏洞copyfail cve-2026-31431，及修复方案",
+    "https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA": "Spring Boot 框架反序列化漏洞"
 }
