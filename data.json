@@ -20481,5 +20481,11 @@
     "https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg": "Yakit Ghost Bits Fuzzing 漏洞插件",
     "https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA": "JAVA反序列化漏洞与CC链",
     "https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA": "linux史诗级安全漏洞copyfail cve-2026-31431，及修复方案",
-    "https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA": "Spring Boot 框架反序列化漏洞"
+    "https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA": "Spring Boot 框架反序列化漏洞",
+    "https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ": "漏洞挖掘：众测src测试姿势总结",
+    "https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q": "影响Firefox与Tor浏览器的跨会话指纹跟踪漏洞",
+    "https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A": "黑客利用cPanel漏洞入侵亚洲政府和军方服务器",
+    "https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg": "PHP中潜伏21年的致命漏洞：MAD Bugs详解",
+    "https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
+    "https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ": "人与AI协同的漏洞分析新范式——Copy Fail发现过程解析"
 }
