@@ -20487,5 +20487,11 @@
     "https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A": "黑客利用cPanel漏洞入侵亚洲政府和军方服务器",
     "https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg": "PHP中潜伏21年的致命漏洞：MAD Bugs详解",
     "https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
-    "https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ": "人与AI协同的漏洞分析新范式——Copy Fail发现过程解析"
+    "https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ": "人与AI协同的漏洞分析新范式——Copy Fail发现过程解析",
+    "https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w": "xia_tan：基于BurpSuite的自动化漏洞探测插件",
+    "https://mp.weixin.qq.com/s/HSEs0UIFLReNbIFfPHJJcg": "Linux 内核史诗级本地提权漏洞 全网深度复现、原理完整分析( CVE-2026-31431)",
+    "https://mp.weixin.qq.com/s/u7sYV7-Em5KE8u_UZjXFcA": "Shiro 550 RememberMe 反序列化漏洞",
+    "https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g": "JAVA框架与组件 FastJSON 漏洞分析",
+    "https://mp.weixin.qq.com/s/LHcsmD1EnoDJoVmVkeDHyQ": "漏洞复现 | 全程云OA QCHMS.asmx 接口存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q": "AI大模型网关存在SQL注入漏洞、附 POC 复现、影响版本LiteLLM 1.81.16~1.83.7（CVE-2026-42208）"
 }
