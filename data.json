@@ -20493,5 +20493,18 @@
     "https://mp.weixin.qq.com/s/u7sYV7-Em5KE8u_UZjXFcA": "Shiro 550 RememberMe 反序列化漏洞",
     "https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g": "JAVA框架与组件 FastJSON 漏洞分析",
     "https://mp.weixin.qq.com/s/LHcsmD1EnoDJoVmVkeDHyQ": "漏洞复现 | 全程云OA QCHMS.asmx 接口存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q": "AI大模型网关存在SQL注入漏洞、附 POC 复现、影响版本LiteLLM 1.81.16~1.83.7（CVE-2026-42208）"
+    "https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q": "AI大模型网关存在SQL注入漏洞、附 POC 复现、影响版本LiteLLM 1.81.16~1.83.7（CVE-2026-42208）",
+    "https://mp.weixin.qq.com/s/37W5hblic-17zNxshjTDRA": "漏洞复现 | OpenCode 存在远程命令执行漏洞（CVE-2026-22812）",
+    "https://mp.weixin.qq.com/s/8YGRQb2Wy7SlxP5ZLRZMRw": "Bissa扫描器曝光：AI辅助的大规模漏洞利用与凭证窃取",
+    "https://mp.weixin.qq.com/s/O5a00ufMvqUZjXekKo2P3w": "【网安周报】：Linux 内核爆史诗级0-Day，cPanel满分漏洞威胁百万实例（4.26 - 5.03）",
+    "https://mp.weixin.qq.com/s/M5ja0hsBYRaECZiQqgNtxw": "漏洞赏金会消失吗？",
+    "https://mp.weixin.qq.com/s/oVkRDMGS7gR9ZazQQ88Nlw": "实战复现：公交系统未授权登录 + SQL 注入漏洞利用全解",
+    "https://mp.weixin.qq.com/s/mEpM48WrSDJ8vsIobtLLnQ": "CISA 将已被积极利用的 Linux Root 访问漏洞 CVE-2026-31431 添加到 KEV 中",
+    "https://mp.weixin.qq.com/s/Zn_l-GnWSbj8jIY2dumfnw": "Apache OpenNLP 曝出一组高危漏洞，包括XXE注入",
+    "https://mp.weixin.qq.com/s/Gq8qu_V26Q7Q4tjD-p11IQ": "今日（2026年5月3日）热点网络安全漏洞动态",
+    "https://mp.weixin.qq.com/s/msdwMk-QFmStSpWroE1Nhg": "java幽灵比特位(Ghost Bits)漏洞介绍&&相关测试工具推荐",
+    "https://mp.weixin.qq.com/s/T-iRx7D-OLzF9FVJVR7e7Q": "CVE-2026-31431 \"Copy Fail\" 漏洞深度分析",
+    "https://mp.weixin.qq.com/s/Y0pGV45K-COSrPL4DJ7CWA": "如何检测利用CVE-2026-31431漏洞的攻击",
+    "https://mp.weixin.qq.com/s/DuTi56EjgJxUpOeLBW1URA": "从信息收集到漏洞报告：一款好用的AI Agent 渗透测试skill",
+    "https://mp.weixin.qq.com/s/orGyVntLp8aM1_BH-R2eug": "【漏洞】RedSun复现"
 }
