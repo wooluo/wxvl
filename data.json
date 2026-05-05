@@ -20524,5 +20524,6 @@
     "https://mp.weixin.qq.com/s/IuTcWT46FYCUnKwlurt27w": "CISA 警报强调 cPanel 和 WHM 安全漏洞正被积极利用",
     "https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA": "CVE-2026-41940 深度分析影响7000万+量级的cPanel∕WHM认证绕过漏洞：从CRLF注入到匿名RCE",
     "https://mp.weixin.qq.com/s/cposzevwdV2rA5GSa6e4tA": "Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞",
-    "https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw": "Windows 11 24H2中近期被披露了一个高危本地权限提升漏洞"
+    "https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw": "Windows 11 24H2中近期被披露了一个高危本地权限提升漏洞",
+    "https://mp.weixin.qq.com/s/rjYURoSexFUq4FAkv4zB-w": "AI时代的代码审计：既要懂漏洞原理，又要会玩转 AI。关于103节课后，我把课程改名为「AI Java代码审计」这件事。"
 }
