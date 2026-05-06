@@ -20563,5 +20563,14 @@
     "https://mp.weixin.qq.com/s/cUHeCo207MEqWbuWEQQvfQ": "Milesight IP 摄像头漏洞：5 个关键 CVE 导致全球 14,706 台监控设备暴露于风险之中",
     "https://mp.weixin.qq.com/s/k27h7AAfms33bBqnFOkmsA": "某CMS最新版本前台RCE审计流程",
     "https://mp.weixin.qq.com/s/sAuN1ugzFNE_59cEwQ7NZw": "【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告",
-    "https://mp.weixin.qq.com/s/mITg4jM2D8IwByt9nUM9eg": "严重漏洞可能导致 30 万个 Ollama 部署面临信息泄露风险"
+    "https://mp.weixin.qq.com/s/mITg4jM2D8IwByt9nUM9eg": "严重漏洞可能导致 30 万个 Ollama 部署面临信息泄露风险",
+    "https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ": "同享人力资源管理系统 TXEHR V15 PeiXun.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw": "【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告",
+    "https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA": "【在野利用】Palo Alto Networks PAN-OS 缓冲区溢出漏洞(CVE-2026-0300)安全风险通告",
+    "https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow": "深度解析：OpenAI 的红队测试，如何在发布前找出模型漏洞",
+    "https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A": "【漏洞预警】核弹级提权漏洞 CVE-2026-31431已复现 含Poc",
+    "https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg": "【立即应急】cPanel & WHM 认证绕过漏洞（CVE-2026-41940）已被大规模自动化利用",
+    "https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg": "关键漏洞可致 30 万 Ollama 部署信息被盗",
+    "https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g": "台湾23岁学生用SDR和手持电台瘫痪四列高铁：TETRA无线电漏洞让19年安全体系形同虚设",
+    "https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA": "分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕"
 }
