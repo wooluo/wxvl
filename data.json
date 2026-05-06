@@ -20555,5 +20555,13 @@
     "https://mp.weixin.qq.com/s/5731YTo52q1vp7LrWzyoLg": "CVE-2026-42167｜ProFTPD允许绕过身份验证的远程代码执行漏洞（POC）",
     "https://mp.weixin.qq.com/s/3YT4rP7aJxxxd4sB-zELUg": "OpenCode content 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/asi9ZxTIPE4nugul7rmEFg": "漏洞预警 | 天地伟业Easy7 SSRF漏洞",
-    "https://mp.weixin.qq.com/s/WC4EA6rq5iKOqd1ulDehAg": "安卓系统存在严重零点击漏洞，无需交互即可获得远程 Shell 访问权限"
+    "https://mp.weixin.qq.com/s/WC4EA6rq5iKOqd1ulDehAg": "安卓系统存在严重零点击漏洞，无需交互即可获得远程 Shell 访问权限",
+    "https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og": "安卓零点击 RCE 漏洞（CVE-2026-0073）深度解析：同一 WiFi 下，手机放着不动也会被入侵",
+    "https://mp.weixin.qq.com/s/F_rC_eOsUvsuLqV9pcUu7g": "全球首例！美国州政府起诉 AI 聊天机器人非法冒充执业医师；CNNVD 发布 AI 漏洞通报：213 个漏洞集中爆发，超危 8 个高危 89 个| 牛览",
+    "https://mp.weixin.qq.com/s/ZVHFCzIBoD1i1QFtRA5aiA": "安全圈的“降维打击”！VulnPlus：AI驱动全自动漏洞挖掘（文末有福利）",
+    "https://mp.weixin.qq.com/s/gymd7aPTPHPkc1Xcu49diQ": "用Python自动化漏洞狩猎，打造专属工具，让狩猎速度提升10倍！",
+    "https://mp.weixin.qq.com/s/cUHeCo207MEqWbuWEQQvfQ": "Milesight IP 摄像头漏洞：5 个关键 CVE 导致全球 14,706 台监控设备暴露于风险之中",
+    "https://mp.weixin.qq.com/s/k27h7AAfms33bBqnFOkmsA": "某CMS最新版本前台RCE审计流程",
+    "https://mp.weixin.qq.com/s/sAuN1ugzFNE_59cEwQ7NZw": "【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告",
+    "https://mp.weixin.qq.com/s/mITg4jM2D8IwByt9nUM9eg": "严重漏洞可能导致 30 万个 Ollama 部署面临信息泄露风险"
 }
