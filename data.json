@@ -20572,5 +20572,14 @@
     "https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg": "【立即应急】cPanel & WHM 认证绕过漏洞（CVE-2026-41940）已被大规模自动化利用",
     "https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg": "关键漏洞可致 30 万 Ollama 部署信息被盗",
     "https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g": "台湾23岁学生用SDR和手持电台瘫痪四列高铁：TETRA无线电漏洞让19年安全体系形同虚设",
-    "https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA": "分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕"
+    "https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA": "分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕",
+    "https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng": "高危安卓零点击漏洞可远程获取Shell访问权限",
+    "https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag": "人工智能重要安全漏洞通报Ollama安全漏洞",
+    "https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw": "智能体驱动的漏洞挖掘实践",
+    "https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg": "【漏洞通告】Ollama 未授权内存泄露漏洞(CVE-2026-7482)",
+    "https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ": "Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/RUgtM6UMQxAxihbAu-oj2Q": "【论文速读】|生成漏洞验证测试以帮助增强复杂软件的安全性",
+    "https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w": "Palo Alto 提醒注意严重的 PAN-OS RCE漏洞",
+    "https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw": "MCP+BurpSuite 实现AI漏洞挖掘",
+    "https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA": "【漏洞通告】Android ADB 认证绕过漏洞(CVE-2026-0073)"
 }
