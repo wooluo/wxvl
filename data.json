@@ -20673,5 +20673,16 @@
     "https://mp.weixin.qq.com/s/_iGuAHVlA8WmHxjDzSnicQ": "Dirty Frag 漏洞曝光，影响所有主流 Linux 发行版",
     "https://mp.weixin.qq.com/s/XmuQn8oRJlFHokw9poKA7A": "页缓存篡改破防！Linux kernel Dirty Frag本地权限提升漏洞安全通告",
     "https://mp.weixin.qq.com/s/Temwf2rq8XDgnx2DImKPZw": "信息安全漏洞周报（2026年第18期）",
-    "https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ": "【漏洞复现】GitPython 存在命令注入漏洞（CVE-2026-42284）"
+    "https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ": "【漏洞复现】GitPython 存在命令注入漏洞（CVE-2026-42284）",
+    "https://mp.weixin.qq.com/s/12IovyzpSpSS3WFmsJw-PQ": "4 个字节，9 年技术债：CVE-2026-31431 ∕ Copy Fail 完整拆解",
+    "https://mp.weixin.qq.com/s/qsj_HjH8bcdrJEZB2av0BQ": "从 Vim Modeline 到 CVE-2026-44656：编辑器里的隐蔽攻击面",
+    "https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ": "征求意见稿丨国家标准《网络安全技术 网络安全漏洞分类分级指南》，附下载",
+    "https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg": "Dirty Frag：2026年严重的 Linux 本地提权漏洞深度分析",
+    "https://mp.weixin.qq.com/s/I5Fgf3Jy_vlp864XImL9tA": "【安全圈】Chrome 148 安全大更新127 个漏洞，立刻升级",
+    "https://mp.weixin.qq.com/s/35JeIrZM3E4BR_rLbO5hvA": "Mozilla如何用Claude Mythos修复Firefox 中271个潜伏漏洞",
+    "https://mp.weixin.qq.com/s/OVq7H4MiUBckIG_bHSDdEw": "【已复现】Linux Kernel Dirty Frag 本地权限提升漏洞",
+    "https://mp.weixin.qq.com/s/Hq3bBSJrBVHPqS6Zj-D1QA": "(2)漏洞复现-Tomcat-upload \"幽灵比特位\"",
+    "https://mp.weixin.qq.com/s/Uy5Pw0mMsXmEOkiu0uyRXg": "【立即修复】Dirty Frag 漏洞已公开 EXP！一条命令阻断攻击路径",
+    "https://mp.weixin.qq.com/s/NhDh5d8A4GWYKv-l8JEFrg": "【安全圈】思科修复高危漏洞，防范 SSRF 与代码执行攻击",
+    "https://mp.weixin.qq.com/s/LUshTdBaDa6NYmVWprrM2A": "【Linux+Web渗透】Silver Platter 新手打靶场的一些思路以及最新的CVE-2026-31431和DirtyFrag"
 }
