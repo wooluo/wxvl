@@ -20665,5 +20665,13 @@
     "https://mp.weixin.qq.com/s/kGt18bmQSVIXD2yri5fs-A": "Linux LPE通用提权 0day目前没有漏洞编号",
     "https://mp.weixin.qq.com/s/tCFASolhwwhPyByjk_sK2w": "全网紧急！Linux Dirty Frag漏洞POC已流出！",
     "https://mp.weixin.qq.com/s/ryA8VOmNrhdc9VX9AIvgyQ": "【漏洞通告】Linux内核权限提升漏洞（Dirty Frag）",
-    "https://mp.weixin.qq.com/s/hFRTMcbjYxNwqUe6VjFl9Q": "高危！新一代 “脏管道” 漏洞来袭，几乎所有 Linux 系统秒破 Root"
+    "https://mp.weixin.qq.com/s/hFRTMcbjYxNwqUe6VjFl9Q": "高危！新一代 “脏管道” 漏洞来袭，几乎所有 Linux 系统秒破 Root",
+    "https://mp.weixin.qq.com/s/JXsls0yGh9tyhSB_PG8jJQ": "高危预警｜DirtyFrag Linux内核提权漏洞公开！覆盖9年版本，信创系统也受影响",
+    "https://mp.weixin.qq.com/s/QtV5NWoPcwddMf5r5Vui7w": "【漏洞通告】Apache HTTP Server mod_http2 双重释放漏洞(CVE-2026-23918)",
+    "https://mp.weixin.qq.com/s/EnQmMo_UpF-NkZFGRFh8Xw": "信息安全漏洞月报（2026年04月）",
+    "https://mp.weixin.qq.com/s/cEqITgbvKNtvCWIagFEL9Q": "新的Linux漏洞732 字节通杀Linux内核",
+    "https://mp.weixin.qq.com/s/_iGuAHVlA8WmHxjDzSnicQ": "Dirty Frag 漏洞曝光，影响所有主流 Linux 发行版",
+    "https://mp.weixin.qq.com/s/XmuQn8oRJlFHokw9poKA7A": "页缓存篡改破防！Linux kernel Dirty Frag本地权限提升漏洞安全通告",
+    "https://mp.weixin.qq.com/s/Temwf2rq8XDgnx2DImKPZw": "信息安全漏洞周报（2026年第18期）",
+    "https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ": "【漏洞复现】GitPython 存在命令注入漏洞（CVE-2026-42284）"
 }
