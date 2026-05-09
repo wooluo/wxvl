@@ -20690,5 +20690,16 @@
     "https://mp.weixin.qq.com/s/qVYvfo0WHJ6RS3QUgX9mlQ": "攻防、SRC必备插件 | 前端资产采集、嗅探、指纹扫描、泄露扫描、漏洞审计与 Vue Router 分析",
     "https://mp.weixin.qq.com/s/iXD6k9US4xyMI8FQ5qcgvg": "如何使用MCP进行自动化漏洞挖掘",
     "https://mp.weixin.qq.com/s/oUtuT1Mb_fSL-mJSovKcMQ": "漏洞复现 | 深科特LEAN MES系统 SMTLoadingMaterial.ashx SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/6QG7eFavFLSKz6q70u_bgw": "国家级黑客利用Palo Alto零日漏洞长期潜伏，部署隧道工具窃取凭证"
+    "https://mp.weixin.qq.com/s/6QG7eFavFLSKz6q70u_bgw": "国家级黑客利用Palo Alto零日漏洞长期潜伏，部署隧道工具窃取凭证",
+    "https://mp.weixin.qq.com/s/lnArkSmsmEFe-Zj47MPlSQ": "Chromium项目史上最大规模：Chrome 148一次性修复127个漏洞",
+    "https://mp.weixin.qq.com/s/mBilZ4QDI28zGvEXHhxlug": "CNNVD | 重要安全漏洞通报（2026年第二期）",
+    "https://mp.weixin.qq.com/s/qbqw7TMWhH-z_laLUozvnw": "高危Linux内核漏洞Dirty Frag已遭利用，可稳定提权至root",
+    "https://mp.weixin.qq.com/s/pF287HNTEZRHoiwOw1wwHA": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0406-0419）",
+    "https://mp.weixin.qq.com/s/M7K5dxFQO5-F8FA7V3E8_Q": "130万次下载的神库爆严重漏洞！Node.js沙箱逃逸PoC已公开，你的代码还在裸奔？",
+    "https://mp.weixin.qq.com/s/PcRXhYSI8RNA9VUVV8R7zQ": "业余挖漏洞月入几千？普通人想靠副业搞钱，到底得练到啥段位？",
+    "https://mp.weixin.qq.com/s/wL3PL7pa5CiN3j7neSfB1g": "SRC实战 | RCE漏洞挖掘合集1",
+    "https://mp.weixin.qq.com/s/EJg9-fa6YaH_wiWXR6gwKg": "Claude Opus写了一个EXP 用了2283美元",
+    "https://mp.weixin.qq.com/s/JlczL70XFc28sWUKjjEDqg": "Blinko < 1.8.4 路径遍历漏洞存在任意文件读取漏洞CVE-2026-23482 附POC",
+    "https://mp.weixin.qq.com/s/gLTDPQFN15Eu0MTmkvAeJg": "AI无法给安全运营中心补漏洞，反而会造成漏洞",
+    "https://mp.weixin.qq.com/s/fQe8__x_maBLpSZoeu4dsQ": "富勒仓储管理系统 getDownloadFileAction 任意文件读取漏洞"
 }
