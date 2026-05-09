@@ -20701,5 +20701,6 @@
     "https://mp.weixin.qq.com/s/EJg9-fa6YaH_wiWXR6gwKg": "Claude Opus写了一个EXP 用了2283美元",
     "https://mp.weixin.qq.com/s/JlczL70XFc28sWUKjjEDqg": "Blinko < 1.8.4 路径遍历漏洞存在任意文件读取漏洞CVE-2026-23482 附POC",
     "https://mp.weixin.qq.com/s/gLTDPQFN15Eu0MTmkvAeJg": "AI无法给安全运营中心补漏洞，反而会造成漏洞",
-    "https://mp.weixin.qq.com/s/fQe8__x_maBLpSZoeu4dsQ": "富勒仓储管理系统 getDownloadFileAction 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s/fQe8__x_maBLpSZoeu4dsQ": "富勒仓储管理系统 getDownloadFileAction 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/l5VFszC-Shi8I3-NFtIjYA": "新型 Linux 内核提权漏洞 DirtyFrag，安芯神甲提供实时检测与防护能力"
 }
