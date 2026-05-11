@@ -20743,5 +20743,14 @@
     "https://mp.weixin.qq.com/s/w__uYCDzkNd9jOKgHlkYBg": "白泽成果分享：通过补丁语义分析让“依赖库漏洞传播”看得更准",
     "https://mp.weixin.qq.com/s/APFaBDWPmdEuc-G8cCA0DQ": "博硕BGM 系统存在默认口令漏洞复现",
     "https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ": "让 AI 用 IDA 去找 IDA 自己的漏洞：一次 clang 参数注入的逆向之旅",
-    "https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ": "荒诞！0day激增，Pwn2Own停止接收漏洞，部分落选者公开漏洞"
+    "https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ": "荒诞！0day激增，Pwn2Own停止接收漏洞，部分落选者公开漏洞",
+    "https://mp.weixin.qq.com/s/yDlveLAva4m2YJ-hL1FTEg": "CNVD漏洞周报2026年第18期",
+    "https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww": "CVE‑2026‑41940：cPanel∕WHM认证绕过可直接RCE，数百万服务器告急！！！",
+    "https://mp.weixin.qq.com/s/eb-wgbyPgFwafnOAwYSsUw": "CVE-2026-7458-UserVerificationByPickPlugins-认证绕过漏洞分析报告",
+    "https://mp.weixin.qq.com/s/vk5fU91FeZy9wnfnQUCEYA": "今日（2026年5月11日）热点网络安全漏洞动态",
+    "https://mp.weixin.qq.com/s/c30OU3STwWdvcLF0cbeUzA": "【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析",
+    "https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg": "雷神众测漏洞周报2026.4.27-2026.5.10",
+    "https://mp.weixin.qq.com/s/xGp_ssbM95m1TJ1JQShgVg": "上周关注度较高的产品安全漏洞(20260504-20260510)",
+    "https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ": "睡了个觉+花费2 元，AI挖出我的第一个 IOT RCE 漏洞",
+    "https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g": "天地伟业Easy7 ∕Easy7∕rest∕user∕getAuthorityByUserId SQL注入漏洞"
 }
