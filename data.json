@@ -20734,5 +20734,14 @@
     "https://mp.weixin.qq.com/s/LGirxeP97Yj2sXuMcC2W2g": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞",
     "https://mp.weixin.qq.com/s/PtGU9rZqhEgE0egOPtlAxQ": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
     "https://mp.weixin.qq.com/s/qQWaxz-geSHR5gVblgvYyg": "正在被利用：PAN-OS 缓冲区溢出漏洞（CVE-2026-0300）全解析",
-    "https://mp.weixin.qq.com/s/VMA1s57eeinU8kSVXuxKXw": "cPanel 新漏洞可造成文件读取与远程代码执行"
+    "https://mp.weixin.qq.com/s/VMA1s57eeinU8kSVXuxKXw": "cPanel 新漏洞可造成文件读取与远程代码执行",
+    "https://mp.weixin.qq.com/s/xZcnjxLwmHadjdgNzhLkng": "【漏洞复现】0day-雨诺调度客户端多项漏洞",
+    "https://mp.weixin.qq.com/s/-74SItKLMbSnjHR8YT3fhw": "一个存在21年没有CVE的漏洞：影响 PHP 自5.1至8.5.6全版本",
+    "https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA": "常见未授权访问漏洞总结",
+    "https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g": "React2Shell WAF 绕过实录：Vercel 花 100 万美元请黑客找漏洞",
+    "https://mp.weixin.qq.com/s/s73DOAsSfgpVJOzV_yIPXw": "SecLens：面向角色的大模型安全漏洞检测评估",
+    "https://mp.weixin.qq.com/s/w__uYCDzkNd9jOKgHlkYBg": "白泽成果分享：通过补丁语义分析让“依赖库漏洞传播”看得更准",
+    "https://mp.weixin.qq.com/s/APFaBDWPmdEuc-G8cCA0DQ": "博硕BGM 系统存在默认口令漏洞复现",
+    "https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ": "让 AI 用 IDA 去找 IDA 自己的漏洞：一次 clang 参数注入的逆向之旅",
+    "https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ": "荒诞！0day激增，Pwn2Own停止接收漏洞，部分落选者公开漏洞"
 }
