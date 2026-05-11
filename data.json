@@ -20754,5 +20754,8 @@
     "https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ": "睡了个觉+花费2 元，AI挖出我的第一个 IOT RCE 漏洞",
     "https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g": "天地伟业Easy7 ∕Easy7∕rest∕user∕getAuthorityByUserId SQL注入漏洞",
     "https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ": "cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险",
-    "https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A": "Next.js高危漏洞可致SSRF攻击、DoS瘫痪"
+    "https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A": "Next.js高危漏洞可致SSRF攻击、DoS瘫痪",
+    "https://mp.weixin.qq.com/s/G3nX_Sk5SNhT-JM_uCrEJQ": "Blinko plugins路径遍历漏洞存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/YufKn9BT3T5iHElqTptkdA": "PHP unserialize() 潜伏21年致命Use-After-Free漏洞",
+    "https://mp.weixin.qq.com/s/pERVXxNNWMjZq8glq0FW-g": "从嵌入式基础到真实漏洞挖掘"
 }
