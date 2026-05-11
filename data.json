@@ -20752,5 +20752,7 @@
     "https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg": "雷神众测漏洞周报2026.4.27-2026.5.10",
     "https://mp.weixin.qq.com/s/xGp_ssbM95m1TJ1JQShgVg": "上周关注度较高的产品安全漏洞(20260504-20260510)",
     "https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ": "睡了个觉+花费2 元，AI挖出我的第一个 IOT RCE 漏洞",
-    "https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g": "天地伟业Easy7 ∕Easy7∕rest∕user∕getAuthorityByUserId SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g": "天地伟业Easy7 ∕Easy7∕rest∕user∕getAuthorityByUserId SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ": "cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险",
+    "https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A": "Next.js高危漏洞可致SSRF攻击、DoS瘫痪"
 }
