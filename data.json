@@ -20722,5 +20722,17 @@
     "https://mp.weixin.qq.com/s/4inUlJkmdEk5GMVIJgGcmA": "【会员下载】人工智能赋能的漏洞发现正在重塑国家网络防御",
     "https://mp.weixin.qq.com/s/6tLHY_1blbJNFFsgFJCyYg": "12个CVE扎堆引爆：安全研究员一次性披露Next.js∕React全版本高危漏洞",
     "https://mp.weixin.qq.com/s/xieCsQaBoMu0NvvrUAl4nQ": "长用户名UI覆盖漏洞",
-    "https://mp.weixin.qq.com/s/Gom3KdLik0Kl5mrjPUaQ_g": "从客户端加密到签名伪造、支付一分钱买下 32 元服务|金额篡改漏洞完整挖掘实录"
+    "https://mp.weixin.qq.com/s/Gom3KdLik0Kl5mrjPUaQ_g": "从客户端加密到签名伪造、支付一分钱买下 32 元服务|金额篡改漏洞完整挖掘实录",
+    "https://mp.weixin.qq.com/s/sSKlxEEtUpGAv7mJsbxhhw": "漏洞预警 | Linux kernel权限提升漏洞",
+    "https://mp.weixin.qq.com/s/39gV9pWj-eW4TeEfre1AVA": "微服务场景下 RCE 和 SSRF 的⼀次组合利⽤",
+    "https://mp.weixin.qq.com/s/A2IdTyvZJqIfws-H2-5u0A": "百易云 task.create.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/3oQPKjOsD6y4ud8bNS4NVg": "漏洞复现 | 东胜物流软件 OpSailingDateListHtmlGridSource.aspx 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/KpmWR1xn7c_pS8-RmfdOUw": "Cloudflare如何应对“Copy Fail”Linux内核漏洞",
+    "https://mp.weixin.qq.com/s/Yp0tQFX5R7q8aH-48JTuAA": "Adobe Experience Manager (AEM) Dispatcher 绕过完全指南 ($10,000+ 赏金)",
+    "https://mp.weixin.qq.com/s/h2rifEOygRikkl8cI6CobQ": "数据破坏和内存中毒：Spring AI漏洞威胁LLM完整性",
+    "https://mp.weixin.qq.com/s/ykhIBfKNzNq2mqOQUTEpIA": "Apache HTTP∕2 爆 8.8 分高危漏洞！不仅能 DoS，竟然还能远程执行代码？",
+    "https://mp.weixin.qq.com/s/LGirxeP97Yj2sXuMcC2W2g": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/PtGU9rZqhEgE0egOPtlAxQ": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
+    "https://mp.weixin.qq.com/s/qQWaxz-geSHR5gVblgvYyg": "正在被利用：PAN-OS 缓冲区溢出漏洞（CVE-2026-0300）全解析",
+    "https://mp.weixin.qq.com/s/VMA1s57eeinU8kSVXuxKXw": "cPanel 新漏洞可造成文件读取与远程代码执行"
 }
