@@ -20758,5 +20758,20 @@
     "https://mp.weixin.qq.com/s/G3nX_Sk5SNhT-JM_uCrEJQ": "Blinko plugins路径遍历漏洞存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s/YufKn9BT3T5iHElqTptkdA": "PHP unserialize() 潜伏21年致命Use-After-Free漏洞",
     "https://mp.weixin.qq.com/s/pERVXxNNWMjZq8glq0FW-g": "从嵌入式基础到真实漏洞挖掘",
-    "https://mp.weixin.qq.com/s/AbwpUiNtK0Nv5wriDzw57A": "【紧急】Supsystic Contact Form 插件 CVE-2026-4257 漏洞：未经身份验证即可 RCE！"
+    "https://mp.weixin.qq.com/s/AbwpUiNtK0Nv5wriDzw57A": "【紧急】Supsystic Contact Form 插件 CVE-2026-4257 漏洞：未经身份验证即可 RCE！",
+    "https://mp.weixin.qq.com/s/zKolcCDj_yH4xs3pkwbYlw": "恒丰银行大模型安全系统建设需求POC测试供应商征集",
+    "https://mp.weixin.qq.com/s/FSgkK2IehfyHyso0O9buSA": "FastGPT NoSQL注入致管理员登录绕过：CVE-2026-40351深度剖析",
+    "https://mp.weixin.qq.com/s/KKgcaiYm3J2aScouaYKRtA": "漏洞预警 | Android ADB认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/CcP_QXQqww280C_lkJfQHQ": "普华PMS OfficeService.aspx 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/ouZvWPhrsENMXAlrjwjstw": "原型污染+DOM XSS完整利用链：那个多出来的“1”差点毁了我的漏洞",
+    "https://mp.weixin.qq.com/s/PkmZzctiOXq6PO2GKikklQ": "【SRC实战】|越权漏洞“默认你不会改参数”",
+    "https://mp.weixin.qq.com/s/f9IH0K1mGrR_2s6hAF1TMQ": "拿Shell只需后台权限？深度剖析 Ivanti EPMM 最新 RCE 漏洞 (CVE-2026-6973)",
+    "https://mp.weixin.qq.com/s/rWPjwlgoK2RFhIKpyTReWQ": "漏洞复现 | 大蚂蚁 (BigAnt) 即时通讯系统 moveDept 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/lo1rWyvGyORUMu5t73pDAQ": "漏洞预警 | 天地伟业Easy7命令执行漏洞",
+    "https://mp.weixin.qq.com/s/4lkaU8G4PchnMIAsKnru1w": "“两高一弱”为什么是最危险的网络安全漏洞？",
+    "https://mp.weixin.qq.com/s/uXSh1VzswG0xpc_XfSBAYw": "谷歌警告：人工智能正在加速网络攻击和0day漏洞利用",
+    "https://mp.weixin.qq.com/s/xGOq3_-dHbu2c1OZ9Iao2g": "新的“Dirty Frag”Linux漏洞可能在攻击中被利用",
+    "https://mp.weixin.qq.com/s/OAxcui92lTGTlFQmtLpq5Q": "谷歌首次确认：AI 生成的零日漏洞已被黑客实战利用",
+    "https://mp.weixin.qq.com/s/gETwnszuVVuKf5NIgWjAPA": "工具 | ActiveMQ-EXPtools",
+    "https://mp.weixin.qq.com/s/D-PMrvpJ0NXO7wRXf5gkow": "AI遭劫持：Claude Chrome扩展程序存在严重漏洞，恶意脚本可控制您的AI"
 }
