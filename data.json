@@ -20803,5 +20803,6 @@
     "https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA": "蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？",
     "https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw": "空密码后台 → SQLite 落地 Webshell → 内核 CVE-2026-31431 root",
     "https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg": "WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC",
-    "https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业"
+    "https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
+    "https://mp.weixin.qq.com/s/C6flk23xhsVfCu_zEVs-Ng": "cPanel 和 WHM 的新漏洞可导致代码执行和拒绝服务攻击"
 }
