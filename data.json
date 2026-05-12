@@ -20773,5 +20773,13 @@
     "https://mp.weixin.qq.com/s/xGOq3_-dHbu2c1OZ9Iao2g": "新的“Dirty Frag”Linux漏洞可能在攻击中被利用",
     "https://mp.weixin.qq.com/s/OAxcui92lTGTlFQmtLpq5Q": "谷歌首次确认：AI 生成的零日漏洞已被黑客实战利用",
     "https://mp.weixin.qq.com/s/gETwnszuVVuKf5NIgWjAPA": "工具 | ActiveMQ-EXPtools",
-    "https://mp.weixin.qq.com/s/D-PMrvpJ0NXO7wRXf5gkow": "AI遭劫持：Claude Chrome扩展程序存在严重漏洞，恶意脚本可控制您的AI"
+    "https://mp.weixin.qq.com/s/D-PMrvpJ0NXO7wRXf5gkow": "AI遭劫持：Claude Chrome扩展程序存在严重漏洞，恶意脚本可控制您的AI",
+    "https://mp.weixin.qq.com/s/v_DAPB9d0-_jHTEb2LZLAg": "漏洞挖掘-武器工程化-自动化渗透，AI全自动化攻击时代还是来了！",
+    "https://mp.weixin.qq.com/s/Taru2nAeqEjnQoFtbhFcfA": "越权漏洞挖掘新思路",
+    "https://mp.weixin.qq.com/s/NoruzlDrfMAu5klw4u-CxA": "OpenAI 发布 Daybreak，从发现漏洞到生成补丁",
+    "https://mp.weixin.qq.com/s/9TcFGZP7cqgvp4lfKJ_CcA": "注释写着\"需要认证\"，代码说\"不\"——CVE-2026-42864 未授权 SSRF 导致 AWS 凭据窃取",
+    "https://mp.weixin.qq.com/s/VfGLmrCmB8F0L77d5k4jIQ": "Apache Tomcat Tribes EncryptInterceptor 故障开放绕过，未经身份验证的远程代码执行 PoC",
+    "https://mp.weixin.qq.com/s/senxqy0qs7eXW3lne-d3jw": "漏洞太多，修不过来，厂商拒收漏洞--大模型挖洞带来的变革和规则重写",
+    "https://mp.weixin.qq.com/s/tUD-WT09FYuaxae7V3OrGg": "CVE-2026-43899 打了补丁，但只补了一半：DeepChat Electron RCE 与不完整修复的代价",
+    "https://mp.weixin.qq.com/s/5X_rZOZElBsVqgnltWWF6w": "同一个 URL，两种不同的理解——CVE-2026-42882 s3-proxy 认证绕过的三条路径"
 }
