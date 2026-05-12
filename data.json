@@ -20781,5 +20781,14 @@
     "https://mp.weixin.qq.com/s/VfGLmrCmB8F0L77d5k4jIQ": "Apache Tomcat Tribes EncryptInterceptor 故障开放绕过，未经身份验证的远程代码执行 PoC",
     "https://mp.weixin.qq.com/s/senxqy0qs7eXW3lne-d3jw": "漏洞太多，修不过来，厂商拒收漏洞--大模型挖洞带来的变革和规则重写",
     "https://mp.weixin.qq.com/s/tUD-WT09FYuaxae7V3OrGg": "CVE-2026-43899 打了补丁，但只补了一半：DeepChat Electron RCE 与不完整修复的代价",
-    "https://mp.weixin.qq.com/s/5X_rZOZElBsVqgnltWWF6w": "同一个 URL，两种不同的理解——CVE-2026-42882 s3-proxy 认证绕过的三条路径"
+    "https://mp.weixin.qq.com/s/5X_rZOZElBsVqgnltWWF6w": "同一个 URL，两种不同的理解——CVE-2026-42882 s3-proxy 认证绕过的三条路径",
+    "https://mp.weixin.qq.com/s/E186F3A-_hDMaO6OvRLPQQ": "通过不安全反序列化导致的远程代码执行：Wazuh XDR∕SIEM（CVE-2026–25769）",
+    "https://mp.weixin.qq.com/s/q6W0t4fsx_SStzcXlXCCKg": "Apache Tomcat Tribes EncryptInterceptor 加密绕过反序列化漏洞分析（CVE-2026-34486）",
+    "https://mp.weixin.qq.com/s/3riLTzU9cRgkB6sdpdKqvw": "今日（2026年5月12日）热点网络安全漏洞动态",
+    "https://mp.weixin.qq.com/s/mDp9EC-Pava5CappYuTDiQ": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
+    "https://mp.weixin.qq.com/s/WclheteS7Q_j7Pg2IJ5MYg": "谷歌首次发现利用AI开发“零日漏洞”攻击工具",
+    "https://mp.weixin.qq.com/s/gSvzPB-plzqc452CVoXuUg": "没有凭证？没问题。我们相信你-越权访问漏洞",
+    "https://mp.weixin.qq.com/s/GyAx7mJ6GeT1DhL4YbvZtA": "【高危漏洞预警】PHP SOAP扩展内存错误引用漏洞(CVE-2026-6722)",
+    "https://mp.weixin.qq.com/s/ODwNF6DABtS6sioP-OsL7g": "【漏洞复现】0day-迈普多业务融合网关逻辑缺陷导致登录绕过",
+    "https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew": "安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开"
 }
