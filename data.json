@@ -20790,5 +20790,16 @@
     "https://mp.weixin.qq.com/s/gSvzPB-plzqc452CVoXuUg": "没有凭证？没问题。我们相信你-越权访问漏洞",
     "https://mp.weixin.qq.com/s/GyAx7mJ6GeT1DhL4YbvZtA": "【高危漏洞预警】PHP SOAP扩展内存错误引用漏洞(CVE-2026-6722)",
     "https://mp.weixin.qq.com/s/ODwNF6DABtS6sioP-OsL7g": "【漏洞复现】0day-迈普多业务融合网关逻辑缺陷导致登录绕过",
-    "https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew": "安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开"
+    "https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew": "安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开",
+    "https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw": "一款功能强大的Web 漏洞扫描器(11种检测模块)",
+    "https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ": "Grav CMS 组合拳漏洞| CVE-2026-42613&CVE-2026-42607复现&研究",
+    "https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ": "黑客利用 CVE-2026-41940 漏洞控制 cPanel 和 WHM 服务器",
+    "https://mp.weixin.qq.com/s/2iUEEejnBxRdQWrwTisEPA": "威胁行为者Mr_Rot13积极利用CVE-2026-41940漏洞实施后门部署",
+    "https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg": "PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击",
+    "https://mp.weixin.qq.com/s/HbXkqDe0-vyHhKaNdHLY5Q": "Linux 内核新增紧急开关，填补 0Day 漏洞修复空窗",
+    "https://mp.weixin.qq.com/s/lHGi9W1fjnrqwgg4bmkXzA": "谷歌首次发现“AI自主开发”0Day漏洞攻击工具",
+    "https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g": "PHP SOAP扩展漏洞或致远程代码执行",
+    "https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw": "首次发现！AI生成零日漏洞利用工具并实施网络攻击",
+    "https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA": "蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？",
+    "https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw": "空密码后台 → SQLite 落地 Webshell → 内核 CVE-2026-31431 root"
 }
