@@ -20824,5 +20824,20 @@
     "https://mp.weixin.qq.com/s/NQ3pxcS6eVneDOKo4E_nOg": "Burp Suite平替 | 强大插件、集成云端虚拟手机，快速定位APP漏洞",
     "https://mp.weixin.qq.com/s/glIcbK_uxbaDckf3DSFltw": "西门子 ROS# 存在严重漏洞，可实现任意文件访问和主机接管",
     "https://mp.weixin.qq.com/s/2WMoV1V7Zp3VYtvTVL_WlQ": "针对安卓零点击漏洞的PoC漏洞利用程序已发布，该漏洞可实现远程Shell访问",
-    "https://mp.weixin.qq.com/s/2ErpPdqHXNjmqfCGROj2Cg": "微软5月补丁日多个产品安全漏洞风险通告：14个紧急漏洞、9个重要漏洞"
+    "https://mp.weixin.qq.com/s/2ErpPdqHXNjmqfCGROj2Cg": "微软5月补丁日多个产品安全漏洞风险通告：14个紧急漏洞、9个重要漏洞",
+    "https://mp.weixin.qq.com/s/hU4wszrJganRiAb2bW5haQ": "【安全更新】微软5月安全更新多个产品高危漏洞通告",
+    "https://mp.weixin.qq.com/s/kzKPhDINyxFQpvxwWSgLvQ": "AI安全爆发、酒店数据泄露、Adobe与Apple紧急修补高危漏洞",
+    "https://mp.weixin.qq.com/s/lZhiWbxa2avLPWeb9VMTjA": "十亿量级IoT设备面临威胁：arduino-esp32 VLA栈溢出漏洞（CVE-2026-42854）技术分析",
+    "https://mp.weixin.qq.com/s/PB6k-1EdM48BRdnHITe-dQ": "OpenClaw高风险历史漏洞专项分析报告（含POC∕EXP）",
+    "https://mp.weixin.qq.com/s/NQubWOmtdjp6fbj3mAInhQ": "整合分析 | Fortinet 双子星高危漏洞：未认证即可远程代码执行",
+    "https://mp.weixin.qq.com/s/ICFN0Usx_27YuQgfMqKrJw": "犯罪黑客已利用AI构建出可运行的零日漏洞利用程序",
+    "https://mp.weixin.qq.com/s/E1wcifKl3CcQ0HDpLFt4ew": "【漏洞复现】Apache HTTP Server mod_http2 双重释放漏洞（CVE-2026-23918）",
+    "https://mp.weixin.qq.com/s/WDqcEXO2Y_Soc855EyncqA": "漏洞预警｜天融信上网行为管理 PC 存在跨站脚本漏洞",
+    "https://mp.weixin.qq.com/s/tM_41sRvAiTVx_nZ_qmuxA": "通过备案的网络产品安全漏洞收集平台（第1批）",
+    "https://mp.weixin.qq.com/s/XT5xvFD4azFi5xwZiq9_oA": "观点丨从波兰能源袭击到工控漏洞暴增——2025攻防态势如何重塑2026安全逻辑",
+    "https://mp.weixin.qq.com/s/OEVmd5wqkQG_6vbuWch0Pw": "漏洞多到\"溢出\"！Pwn2Own 2026被迫\"闭门拒客\"",
+    "https://mp.weixin.qq.com/s/G9oSiIyDSGLYm91Su2EvSg": "神秘黑客组织利用Linux服务器运维组件漏洞大量安插后门",
+    "https://mp.weixin.qq.com/s/7AOjDNkDRfxquCJfKyh2Tw": "孚盟云CRM BusinessPriceReport.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/d6_TABC7VLtbymCstbBftw": "CVE-2026-42232-n8n原型污染",
+    "https://mp.weixin.qq.com/s/4GYmcw0HhImrm99Ka7tblA": "用友时空KSOA save_folder 存在sql注入漏洞"
 }
