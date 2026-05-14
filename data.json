@@ -20847,5 +20847,21 @@
     "https://mp.weixin.qq.com/s/pzRVNuZP6l7TxzPZV0Ta4g": "Microsoft Teams 漏洞可导致黑客实施欺骗攻击",
     "https://mp.weixin.qq.com/s/LghjpqnG00xbGXwXKbrXIw": "号称全球最“危险”的AI，Anthropic Mythos实测curl仅找到一个真实漏洞",
     "https://mp.weixin.qq.com/s/CazQkRAVpprC7DMsGx_crw": "【安全圈】苹果修复 macOS 和 iOS 系统数十个漏洞",
-    "https://mp.weixin.qq.com/s/Xzsm48B5vPw5t7NWQkdf6g": "Pwn2Own 2026爆满遭拒，黑客集体公开0day报复厂商"
+    "https://mp.weixin.qq.com/s/Xzsm48B5vPw5t7NWQkdf6g": "Pwn2Own 2026爆满遭拒，黑客集体公开0day报复厂商",
+    "https://mp.weixin.qq.com/s/Q4eugNKoZ7ZdDdmx1PuFZA": "【高危AI漏洞预警】CVE-2026-42203｜LiteLLM AI Gateway 服务端模板注入远程代码执行（RCE）",
+    "https://mp.weixin.qq.com/s/cs8GKRAk6IGzxEpmMs-Y5Q": "【已复现】Linux Kernel Fragnesia 本地权限提升漏洞(CVE-2026-46300)安全风险通告",
+    "https://mp.weixin.qq.com/s/OoW7oG-z7h8JeYvTddbCSQ": "逻辑漏洞渗透",
+    "https://mp.weixin.qq.com/s/tjX-8QPDglISqT-LTM6h7g": "Quest KACE SMA 漏洞 CVE-2025-32975：一个未修复工具漏洞，为 60 家机构敞开入侵大门",
+    "https://mp.weixin.qq.com/s/MUT_y00rR7l8gONL5Or1hw": "针对 FortiSandbox 和 FortiAuthenticator 的关键漏洞已修复",
+    "https://mp.weixin.qq.com/s/J4NqVdgzZYNId2I2-pUXuQ": "【严重】FlipperCode 插件曝出 CVE-2026-6433：未经身份验证即可通过 eval() 接管系统",
+    "https://mp.weixin.qq.com/s/SGXV8jxzWWUfZs9Y2CV9sQ": "Google检测到首个AI生成的Zero-Day漏洞利用链",
+    "https://mp.weixin.qq.com/s/fF7WsbsuLBIRVtNNH_p05g": "Pwn2Own被0day狂潮冲垮：一场暴露行业底层逻辑崩溃的安全危机",
+    "https://mp.weixin.qq.com/s/vn_ve-_IwNGcC3Zmy5ps8g": "Windows权限提升高级利用技术之任意文件读到SYSTEM权限代码执行",
+    "https://mp.weixin.qq.com/s/3fklcZ8Sx51BHn0CPFE4fQ": "首次发现！AI生成零日漏洞利用工具并实施网络攻击",
+    "https://mp.weixin.qq.com/s/G--7OVlmwJfe4d506K06sQ": "【已复现】漏洞通告 | Linux 内核 Fragnesia 权限提升漏洞(CVE-2026-46300)",
+    "https://mp.weixin.qq.com/s/jr-bJQ9S_iXJysjSuWURYA": "青之LIMS BatchDownloadPdf接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/J_ucAitcGtpQb7O2_oDeCw": "神秘的微软漏洞发现者持续公开Windows 0day",
+    "https://mp.weixin.qq.com/s/XWNHIKRs_uykWPtT3ekfyA": "Dirty Frag：无需漏洞触发条件的 Linux 本地提权，你的防御控制真的在工作吗？",
+    "https://mp.weixin.qq.com/s/yDz1UOysRV6zQ_qy7Gg7zg": "2026 年 5 月微软补丁星期二：修复 138 个漏洞，部分漏洞风险极高",
+    "https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww": "TurboMail mailmain 信息泄露漏洞"
 }
