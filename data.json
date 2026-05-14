@@ -20880,5 +20880,16 @@
     "https://mp.weixin.qq.com/s/x07Y0h6hukdgQcZdnuO_dw": "Ivanti 紧急修复暴露敏感数据的严重 Xtraction 漏洞",
     "https://mp.weixin.qq.com/s/8Q_GrV54Gt1fdBuNbLaWjg": "NGINX爆新漏洞，特定配置下可实现远程代码执行",
     "https://mp.weixin.qq.com/s/GDn4pBXhg-PvsLxKMYcEVg": "Exim BDAT 严重漏洞可导致内存损坏和代码执行攻击",
-    "https://mp.weixin.qq.com/s/04Nk2TcwRw3zv7djwnrW8A": "CVE-2026-8196-JeecgBoot-mLogin接口授权绕过漏洞报告"
+    "https://mp.weixin.qq.com/s/04Nk2TcwRw3zv7djwnrW8A": "CVE-2026-8196-JeecgBoot-mLogin接口授权绕过漏洞报告",
+    "https://mp.weixin.qq.com/s/mryh7svePY16KX5vsvXZ_g": "【已复现】deepseek疑似出现用户上下文内容泄露",
+    "https://mp.weixin.qq.com/s/hU6lMyw9jl_28hAdETz1KA": "福利 | 任意有效漏洞得货拉拉SRC限定端午礼盒！",
+    "https://mp.weixin.qq.com/s/yB6xDRqOxOVBojIQ0heBbQ": "Dirty Frag 漏洞曝光！影响所有主流 Linux 发行版",
+    "https://mp.weixin.qq.com/s/EDnXoN7psPhkHMamIw3NpQ": "【漏洞通告】LiteLLM模板注入漏洞(CVE-2026-42203)",
+    "https://mp.weixin.qq.com/s/auEaTJMGrZgLSls7Vv6ijA": "紧急预警！NGINX 曝 18 年老漏洞，CVSS 9.2 分，无需认证直接 RCE，全球数亿服务器受影响",
+    "https://mp.weixin.qq.com/s/aa3dru8viVfzXNaTzVlZyA": "【高危漏洞预警】NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
+    "https://mp.weixin.qq.com/s/5KnUW9vvlMtaeQABAYmgJg": "突发｜DeepSeek 现重大漏洞，输入特殊字符可直接泄露他人对话内容",
+    "https://mp.weixin.qq.com/s/S63NjdDpozz7sEyR5XtOKQ": "关于deepseek最近被“曝出”的用户信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/HEVTlkM3r7yBC80eRfJB8A": "【已复现】漏洞通告 | NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
+    "https://mp.weixin.qq.com/s/k0QCeZfPYCLkuww3z_Z0fA": "漏洞通告｜Linux Kernel Fragnesia 本地权限提升漏洞 CVE-2026-46300",
+    "https://mp.weixin.qq.com/s/XNh9mBd7nbPpyZdrwtaMdA": "NGINX Rift：利用18年前的漏洞实现NGINX远程代码执行（CVE-2026-42945）"
 }
