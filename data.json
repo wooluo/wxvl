@@ -20863,5 +20863,22 @@
     "https://mp.weixin.qq.com/s/J_ucAitcGtpQb7O2_oDeCw": "神秘的微软漏洞发现者持续公开Windows 0day",
     "https://mp.weixin.qq.com/s/XWNHIKRs_uykWPtT3ekfyA": "Dirty Frag：无需漏洞触发条件的 Linux 本地提权，你的防御控制真的在工作吗？",
     "https://mp.weixin.qq.com/s/yDz1UOysRV6zQ_qy7Gg7zg": "2026 年 5 月微软补丁星期二：修复 138 个漏洞，部分漏洞风险极高",
-    "https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww": "TurboMail mailmain 信息泄露漏洞"
+    "https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww": "TurboMail mailmain 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/h7YAlhZGWIZfJHWC4m0dyg": "CVE-2026-44381：MISP 威胁情报平台 ORDER BY 子句 SQL 注入",
+    "https://mp.weixin.qq.com/s/oTvDu7ct1hXG9ccPDZbgAQ": "【漏洞通告】泛微 E-cology10 invoke命令执行漏洞",
+    "https://mp.weixin.qq.com/s/u49Yf_ftvomVOQfY1N13ig": "【漏洞通告】OpenClaw 安全漏洞（CVE-2026-41365）",
+    "https://mp.weixin.qq.com/s/a1QEQ9CYZ9vt1tnTdWikOw": "nginx Rift（CVE-2026-42945）攻击者可触发 worker 崩溃，特定条件下可远程代码执行",
+    "https://mp.weixin.qq.com/s/BtkmHs3kCnSgnkVeAxq5ng": "CVE复现 | CVE-2025-58360漏洞复现",
+    "https://mp.weixin.qq.com/s/rosmbXuVUPRl4EkX3aXxZw": "Web安全之一文搞懂单端点条件竞争漏洞",
+    "https://mp.weixin.qq.com/s/eQj7H3iv-fq9gIfvQmXRmA": "【靶场开源】NGINX 远程代码执行高危漏洞（CVE-2026-42945）",
+    "https://mp.weixin.qq.com/s/9z4hqgJx3y6LwelzXnsaXg": "Dirty Frag的双漏洞组合",
+    "https://mp.weixin.qq.com/s/aLCyE4L7yucSkDmzidTeLQ": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/IdcRYetzS9u6gScivEry2g": "CVE-2026-44442：ERPNext 授权检查缺失漏洞",
+    "https://mp.weixin.qq.com/s/McJxlZgyHBXqcoGbLVNu-A": "Exim 高危漏洞 CVE-2026-45185",
+    "https://mp.weixin.qq.com/s/IgImXvqcmU-ItD8U346ETg": "速修复！Composer 漏洞可暴露 GitHub 密钥",
+    "https://mp.weixin.qq.com/s/DzBEQWostGd0rGg5vluKSA": "泛微ecology 历史漏洞浅析(二)",
+    "https://mp.weixin.qq.com/s/x07Y0h6hukdgQcZdnuO_dw": "Ivanti 紧急修复暴露敏感数据的严重 Xtraction 漏洞",
+    "https://mp.weixin.qq.com/s/8Q_GrV54Gt1fdBuNbLaWjg": "NGINX爆新漏洞，特定配置下可实现远程代码执行",
+    "https://mp.weixin.qq.com/s/GDn4pBXhg-PvsLxKMYcEVg": "Exim BDAT 严重漏洞可导致内存损坏和代码执行攻击",
+    "https://mp.weixin.qq.com/s/04Nk2TcwRw3zv7djwnrW8A": "CVE-2026-8196-JeecgBoot-mLogin接口授权绕过漏洞报告"
 }
