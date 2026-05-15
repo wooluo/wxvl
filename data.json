@@ -20933,5 +20933,12 @@
     "https://mp.weixin.qq.com/s/xzwFu7Khfq50FxnKMXme5Q": "【漏洞通告】NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
     "https://mp.weixin.qq.com/s/SIs8VZVo_vnjeVuBB7NGsA": "【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告",
     "https://mp.weixin.qq.com/s/7Tto5H7OxmpTQGkyyVfOuQ": "免杀分析 | PowerShell命令执行、检测与绕过",
-    "https://mp.weixin.qq.com/s/dxSq7GoaSDEWy5-6intj3Q": "【高危漏洞预警】Windows 存储空间控制器提权漏洞（CVE-2026-35415）"
+    "https://mp.weixin.qq.com/s/dxSq7GoaSDEWy5-6intj3Q": "【高危漏洞预警】Windows 存储空间控制器提权漏洞（CVE-2026-35415）",
+    "https://mp.weixin.qq.com/s/a0VH9NHrucR7MDvgLPVp8Q": "【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945)",
+    "https://mp.weixin.qq.com/s/8_gNFJoziWjWjkhD_KGESQ": "Anthropic Mythos AI再出手，发现可绕过苹果安全机制的macOS漏洞",
+    "https://mp.weixin.qq.com/s/r2FHhy43tRYoZlBt9OYgcw": "【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300)",
+    "https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw": "Windows DNS客户端漏洞可导致远程代码执行攻击",
+    "https://mp.weixin.qq.com/s/76y61eknc6G-oD9Qalm0wg": "282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业）",
+    "https://mp.weixin.qq.com/s/rrw4VgmXqxMZgUf8WBzFFw": "一个月内第三起！Linux内核再曝Fragnesia高危漏洞",
+    "https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w": "【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）"
 }
