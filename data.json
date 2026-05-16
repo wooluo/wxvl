@@ -20940,5 +20940,19 @@
     "https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw": "Windows DNS客户端漏洞可导致远程代码执行攻击",
     "https://mp.weixin.qq.com/s/76y61eknc6G-oD9Qalm0wg": "282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业）",
     "https://mp.weixin.qq.com/s/rrw4VgmXqxMZgUf8WBzFFw": "一个月内第三起！Linux内核再曝Fragnesia高危漏洞",
-    "https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w": "【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）"
+    "https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w": "【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）",
+    "https://mp.weixin.qq.com/s/CHHYlBXin8QlXJ0rwN_vGQ": "并发举报竞争条件漏洞",
+    "https://mp.weixin.qq.com/s/PdUpr8J3aW_kqYsQmRqj_w": "天锐绿盾审批系统findOnlineUserForPage.do接口存在信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/0Nn65decO4Tl9_TA34Dwzg": "恐怖如斯！Mythos搞定18个V8漏洞，AI漏洞利用比人类还稳?",
+    "https://mp.weixin.qq.com/s/UOqMD9_OByRHj504ghIzxg": "Mythos在漏洞发现方面表现出色，但是……",
+    "https://mp.weixin.qq.com/s/7XsBXsQAp7lHba8ycOgprQ": "18年潜伏Nginx RCE漏洞曝光 CVE-2026-42945",
+    "https://mp.weixin.qq.com/s/mw1m6iKZY1AL1rN31D1QXw": "Next.js曝出高危SSRF漏洞 CVE-2026-44578",
+    "https://mp.weixin.qq.com/s/Coxl5fLG-dGr9Qimlkc6MQ": "天塌了，全球互联网基础设施，nginx爆RCE，利用方式竟如此简单",
+    "https://mp.weixin.qq.com/s/mxYkNueI3x4KtDdxPWhvZQ": "微软2026年5月份于周二补丁日针对78个漏洞发布安全补丁",
+    "https://mp.weixin.qq.com/s/9pUyo4DPM4zPlpSml9Hx-w": "关键Exchange Server 0day漏洞在野外攻击中被积极利用",
+    "https://mp.weixin.qq.com/s/W9P1dFmFXHc9B4xTC9cqpg": "【2周年庆】致Nday Poc全体成员的一封信(第二天)抽奖规则变动",
+    "https://mp.weixin.qq.com/s/bdy4PrPmqG6DTBfPcaCUAw": "Hermes的应用（七）：分析DirtyFrag(CVE-2026-43284)高危漏洞Poc",
+    "https://mp.weixin.qq.com/s/8gGSgPpLkQ1xtlXvINSzDw": "红队神器｜Vue 站点未授权漏洞一键挖掘 -v2.0",
+    "https://mp.weixin.qq.com/s/qfELG3imPQpmkD8Cy6waMw": "SRC 每日漏洞复现学习系列（第 2 篇）垂直越权漏洞+漏洞报告模板",
+    "https://mp.weixin.qq.com/s/M58-s1GDTAjSJT1cSI8jeg": "AI 驱动的渗透测试 CLI 工具 — 说人话，打漏洞"
 }
