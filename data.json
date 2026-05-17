@@ -20975,5 +20975,9 @@
     "https://mp.weixin.qq.com/s/keJR9JUMn5_BEmn8Kcn81Q": "CVE-2025-48804｜BitUnlocker 把 BitLocker 的脸打了",
     "https://mp.weixin.qq.com/s/2_EOgvrcvSiOzHnhr-Flsg": "AI辅助挖洞翻车现场：Mythos改密码锁机，还邀功\"我拿到RCE了",
     "https://mp.weixin.qq.com/s/M-xCURHnR13DR-jajwYI9Q": "漏洞复现 | 朗速ERP ModuleAjaxApi.ashx 存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/Hsdo8b1x8O9Tbk4fIuxOaA": "一次一口吃掉大象：PHP中与JPEG相关的内存安全漏洞"
+    "https://mp.weixin.qq.com/s/Hsdo8b1x8O9Tbk4fIuxOaA": "一次一口吃掉大象：PHP中与JPEG相关的内存安全漏洞",
+    "https://mp.weixin.qq.com/s/BUzZBnN07Iqe_zyiDwsvtQ": "【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击",
+    "https://mp.weixin.qq.com/s/-JLMLlpVoEyUnV2jQ_s1Fw": "首个公开的针对苹果M5的macOS内核漏洞利用程序，使用Mythos Preview在五天内完成",
+    "https://mp.weixin.qq.com/s/KSaJfV_qU6iokXy4v8-jLg": "CVE-2015-1328 Overlayfs内核本地提权复现",
+    "https://mp.weixin.qq.com/s/wxXwtTn6epofgw0Cl-D-gA": "【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击"
 }
