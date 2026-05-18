@@ -21015,5 +21015,10 @@
     "https://mp.weixin.qq.com/s/cHkq06N8kdFjOHulTNvh6A": "[漏洞分析] Shiro RememberMe 反序列化深度分析",
     "https://mp.weixin.qq.com/s/grRRPmFUY6TLDIWEHeJdaA": "美国网络安全和基础设施安全局 (CISA) 警告：微软 Exchange 服务器漏洞已被攻击者利用",
     "https://mp.weixin.qq.com/s/x97x810gB4_vgAjnpQkKkg": "【漏洞通告】Linux Kernel ptrace 权限提升漏洞",
-    "https://mp.weixin.qq.com/s/Po35jvbH6lGfLRzwzcuH2w": "上周关注度较高的产品安全漏洞(20260511-20260517)"
+    "https://mp.weixin.qq.com/s/Po35jvbH6lGfLRzwzcuH2w": "上周关注度较高的产品安全漏洞(20260511-20260517)",
+    "https://mp.weixin.qq.com/s/u6d6fAUs_qncuAnW97-qug": "CVE-2026-34621：Adobe Acrobat 2026 原型污染和 JS 注入链 — 研究 PoC",
+    "https://mp.weixin.qq.com/s/mpjz1CQ5daPOfSgFkSzJUw": "东胜物流软件CrmProxyMailListGridSource.aspx接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/fssaYRWZnW5kJrw0kvJnvQ": "上邦 电子文档安全管理系统 skins 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/hADw9UEwBED_oGvooDT3mw": "Linus点名AI漏洞报告！Linux安全列表已被挤爆",
+    "https://mp.weixin.qq.com/s/YchTiKWTdScwT3TFTQLRIw": "为什么信任你的漏洞扫描器是个坏主意"
 }
