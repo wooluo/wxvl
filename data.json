@@ -21036,5 +21036,14 @@
     "https://mp.weixin.qq.com/s/NSFBeJYyoVP3niLc8WH1oQ": "CVE-2026-42945，Nginx高危漏洞 | 可致RCE或服务崩溃",
     "https://mp.weixin.qq.com/s/jg8kSb4afAnmS3-I1AKrnA": "内卷的风还是吹到了漏洞利用：ExploitGym 全自动漏洞利用Agent评估",
     "https://mp.weixin.qq.com/s/ykECLyXm582BOfJvzHVyfA": "CNVD漏洞周报2026年第19期",
-    "https://mp.weixin.qq.com/s/o53e2E3n_dZqRpU7qxAlKA": "白昼信安内部漏洞知识库开放注册"
+    "https://mp.weixin.qq.com/s/o53e2E3n_dZqRpU7qxAlKA": "白昼信安内部漏洞知识库开放注册",
+    "https://mp.weixin.qq.com/s/rQKZQmWL2-HTwtVfTxLjDQ": "DudeSuite 漏洞播报 全网漏洞早知道【20260519】",
+    "https://mp.weixin.qq.com/s/4otTvtAaqfQg68V0aaa-_A": "关于小程序逻辑漏洞挖掘测试",
+    "https://mp.weixin.qq.com/s/jCFVY_RUw6pC_Krb4mLQTw": "SRC每日漏洞复现学习系列（第4篇）目录遍历 ∕ 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/Sww5vEo2DJ2pNGvC6LsSjQ": "理解 Windows 内核漏洞利用中的整数溢出",
+    "https://mp.weixin.qq.com/s/H_lFDwkGF2K1v317VRUGnA": "AI金矿分化加剧：高额股权 vs 技能贬值，安全从业者面临新挑战；CNVD漏洞周报2026年第19期| 牛览",
+    "https://mp.weixin.qq.com/s/0zRquuwa7xBhKyOS-owhxw": "【src实战】| 业务逻辑漏洞",
+    "https://mp.weixin.qq.com/s/3UB4UrAb8rtEAkXxAKRZ5g": "微软AI安全新突破：MDASH多模型智能体扫描系统，以AI速度重塑漏洞防御格局",
+    "https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg": "n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点",
+    "https://mp.weixin.qq.com/s/fwDm_XiM1_3kmfP-Z1jKLQ": "XXE到Chrome RCE：一次完整的不出网利用实践"
 }
