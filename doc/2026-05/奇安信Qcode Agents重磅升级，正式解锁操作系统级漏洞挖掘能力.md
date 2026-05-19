@@ -1,12 +1,12 @@
 #  奇安信Qcode Agents重磅升级，正式解锁操作系统级漏洞挖掘能力  
- 奇安信集团   2026-05-18 10:44  
+ 代码卫士   2026-05-19 07:24  
   
 5月18日，奇安信人工智能公司自研代码安全智能体Qcode Agents完成重大能力升级，正式解锁操作系统级漏洞挖掘能力，凭借**多模异构分析、领域知识驱动、动态验证闭环**  
 三大核心突破，成为  
 真正具备全链路操作系统漏洞挖掘能力的AI安全产品  
 ，为政企用户构筑底层软件安全防线提供核心支撑。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/mSqhDgeKrPDy0yHGJWJlIibRWmUJ8MM6vnWeWvSElxxG4avb31slPa9LG2GtvkEOZsSOzebJXB2Bf3kB342iasibU2lqTqFtdgUJtukSPia89VY/640?from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/mSqhDgeKrPDy0yHGJWJlIibRWmUJ8MM6vnWeWvSElxxG4avb31slPa9LG2GtvkEOZsSOzebJXB2Bf3kB342iasibU2lqTqFtdgUJtukSPia89VY/640?from=appmsg#imgIndex=0 "")  
   
 奇安信代码安全专家表示，在AI驱动的自动化攻击迈入“工业化”时代的背景下，软件漏洞面临的威胁呈指数级上升,传统代码安全工具仅能识别潜在的安全隐患，对操作系统内核、驱动等复杂软件的深层漏洞挖掘及验证能力薄弱。本次升级，标志着Qcode Agents从应用层漏洞挖掘向操作系统内核级、驱动级漏洞挖掘的关键跨越。  
   
@@ -14,7 +14,7 @@
   
 此次升级的核心基石，是Qcode Agents全新搭载的多模异构分析引擎，彻底突破传统工具仅能分析源代码的局限，实现从源代码到二进制、从应用层到系统层的全形态代码分析能力全覆盖。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/mSqhDgeKrPAqM9o0r9zlSeW4GVTEvAw0arQs70T5soHAM5ynw1krYia5z3X6u96bgqCRpkkVfyXjcRxDDSNoXguN5EPr0KHHjRLVvJL1KRvI/640?from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/mSqhDgeKrPAqM9o0r9zlSeW4GVTEvAw0arQs70T5soHAM5ynw1krYia5z3X6u96bgqCRpkkVfyXjcRxDDSNoXguN5EPr0KHHjRLVvJL1KRvI/640?from=appmsg#imgIndex=1 "")  
   
 （一）新增二进制深度分析能力，破解底层代码“黑盒”难题  
   
@@ -32,7 +32,7 @@
   
 操作系统级漏洞具有逻辑复杂、专业壁垒深、隐匿性强的特点，依赖通用模型的原生推理难以进行高效的挖掘。Qcode Agents依托奇安信十余年漏洞挖掘实战积累，构建专属漏洞挖掘知识体系，以领域知识驱动漏洞挖掘，实现从“盲目扫描”到“精准靶向”的跨越。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/mSqhDgeKrPBDSynzx3HJOpXvANThKnbMXsAON4SrXv226ylvRgMicKqrlvAfBlhh29GsIiarftnEM9V1LRcjM3n6UH4GZtIvLnvVQKAlwHG94/640?from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/mSqhDgeKrPBDSynzx3HJOpXvANThKnbMXsAON4SrXv226ylvRgMicKqrlvAfBlhh29GsIiarftnEM9V1LRcjM3n6UH4GZtIvLnvVQKAlwHG94/640?from=appmsg#imgIndex=2 "")  
   
 （一）构建完备漏洞挖掘知识体系，复刻专家级攻防思维  
   
