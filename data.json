@@ -21086,5 +21086,11 @@
     "https://mp.weixin.qq.com/s/pTdl96d4YTMa1ZSjaPPjnQ": "CNNVD通报OpenClaw多个安全漏洞",
     "https://mp.weixin.qq.com/s/VMFea4ZUq2g2QF3EIvITAg": "DirtyDecrypt Linux内核漏洞PoC利用代码公开",
     "https://mp.weixin.qq.com/s/Xr6uVt8HMc4ShYDHnfn4qg": "安全419｜一周国际网安资讯：APT与0Day齐袭 AI代理漏洞显现",
-    "https://mp.weixin.qq.com/s/DsbWaOhcq46zcc2KVlFCtg": "【漏洞通告】Linux Kernel RDS零拷贝双重释放本地权限提升漏洞"
+    "https://mp.weixin.qq.com/s/DsbWaOhcq46zcc2KVlFCtg": "【漏洞通告】Linux Kernel RDS零拷贝双重释放本地权限提升漏洞",
+    "https://mp.weixin.qq.com/s/JH8A6DaH_09assgP6H2NBQ": "攻防渗透 | 难得的thinkphp5 rce记录",
+    "https://mp.weixin.qq.com/s/7MAAQ-I97Donlo72j85t9g": "【漏洞通告】Microsoft Exchange Server OWA跨站脚本漏洞(CVE-2026-42897)",
+    "https://mp.weixin.qq.com/s/yFVNnq-XYQUnX5imZWdiwQ": "【漏洞通告】Next.js 服务器端请求伪造漏洞(CVE-2026-44578)",
+    "https://mp.weixin.qq.com/s/xrX1vL9Tp3l1fxd1CoO_RQ": "关注丨通过备案的网络产品安全漏洞收集平台（第1批）",
+    "https://mp.weixin.qq.com/s/-6lxWZNaolzOMwBZrfmyaA": "【漏洞通告】n8n多个节点远程代码执行漏洞(CVE-2026-44789∕CVE-2026-44790∕CVE-2026-44791)",
+    "https://mp.weixin.qq.com/s/qJ6ifu-mjkMjSPpqUCLJEg": "微软发布针对 Windows BitLocker 安全绕过零日漏洞的缓解措施"
 }
