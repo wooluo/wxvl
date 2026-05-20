@@ -21069,5 +21069,14 @@
     "https://mp.weixin.qq.com/s/qWBz42_US3OBn5gHP41cTg": "CNNVD | 最新OpenClaw多个安全漏洞通报",
     "https://mp.weixin.qq.com/s/H_IorauDWKypM7Ec_QLRIA": "ShiroExploit：一款Shiro反序列化漏洞一站式综合测试工具",
     "https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ": "【提权漏洞】MiniPlasma-SYSTEM",
-    "https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA": "Android Pixel 10 零点击漏洞利用链"
+    "https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA": "Android Pixel 10 零点击漏洞利用链",
+    "https://mp.weixin.qq.com/s/LKIqXRTyAb6rpNhVHDhPMA": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/zPLuxI--B0ddmYm0Ml8PlQ": "【AI安全】5月攻防全景：从模型漏洞到全栈基建防护",
+    "https://mp.weixin.qq.com/s/QUiMkU6qL9kcIJ4hGTPEHA": "PostgreSQL JDBC Driver RCE（CVE-2022-21724）与任意文件写入漏洞利用与分析",
+    "https://mp.weixin.qq.com/s/Uo58p2CFnfqz8bj-7aZYaA": "漏洞预警 | MiroFish命令注入和路径遍历漏洞",
+    "https://mp.weixin.qq.com/s/9YcQUd1Pnlv8_YNdquxnpg": "数字类型解析绕过IDOR校验漏洞",
+    "https://mp.weixin.qq.com/s/8p4_PDk7TIoQjpl5U4n6lQ": "【SRC实战】|两个小程序之间的越权漏洞",
+    "https://mp.weixin.qq.com/s/wVtexuoSbtp2CNoMoGWOew": "加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告",
+    "https://mp.weixin.qq.com/s/BZPg_sQgv8NxG4Ll-i1jcw": "SRC每日漏洞复现学习系列（第5篇）业务逻辑绕过漏洞",
+    "https://mp.weixin.qq.com/s/H8HpOlnpiDGDmi1LZ2D2XQ": "VS命令执行与防御"
 }
