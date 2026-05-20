@@ -21083,5 +21083,8 @@
     "https://mp.weixin.qq.com/s/15jTRMNNSNdndbJc9gpsKA": "【已复现】Linux Kernel PinTheft 本地权限提升漏洞(QVD-2026-27616)安全风险通告",
     "https://mp.weixin.qq.com/s/o-LPSYdTDLjADaAAVOGSXg": "渗透测试人员针对毒性漏洞组合的方法",
     "https://mp.weixin.qq.com/s/MaYVSLqK_-I_AGqKcn68ag": "用友 NC 系统 IMsgCenterWebService SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/pTdl96d4YTMa1ZSjaPPjnQ": "CNNVD通报OpenClaw多个安全漏洞"
+    "https://mp.weixin.qq.com/s/pTdl96d4YTMa1ZSjaPPjnQ": "CNNVD通报OpenClaw多个安全漏洞",
+    "https://mp.weixin.qq.com/s/VMFea4ZUq2g2QF3EIvITAg": "DirtyDecrypt Linux内核漏洞PoC利用代码公开",
+    "https://mp.weixin.qq.com/s/Xr6uVt8HMc4ShYDHnfn4qg": "安全419｜一周国际网安资讯：APT与0Day齐袭 AI代理漏洞显现",
+    "https://mp.weixin.qq.com/s/DsbWaOhcq46zcc2KVlFCtg": "【漏洞通告】Linux Kernel RDS零拷贝双重释放本地权限提升漏洞"
 }
