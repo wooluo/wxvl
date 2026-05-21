@@ -21107,5 +21107,11 @@
     "https://mp.weixin.qq.com/s/btnA8llcm9oHLJ52WxLG1w": "无条件前台RCE ？影响最新版本 Nginx 漏洞！",
     "https://mp.weixin.qq.com/s/rSFhf-j9vEcZrUuMPqPfuQ": "平均每个漏洞约1万美元：DARPA 又发奖金",
     "https://mp.weixin.qq.com/s/r-3Mf7R3nKxg-PqXAfmnDg": "又双叒叕 CVE-2026-46333 Linux 内核潜伏6年漏洞：低权限用户一键窃取 SSH 密钥与 Shadow 密码",
-    "https://mp.weixin.qq.com/s/_glf1D-Kd7fiI_02lych0w": "【Next.js 服务器端请求伪造漏洞(CVE-2026-44578)】"
+    "https://mp.weixin.qq.com/s/_glf1D-Kd7fiI_02lych0w": "【Next.js 服务器端请求伪造漏洞(CVE-2026-44578)】",
+    "https://mp.weixin.qq.com/s/Jg4C4E4krDlg0bI1VTLMLA": "思科：速修复满分 Secure Workload 未授权 API 访问漏洞",
+    "https://mp.weixin.qq.com/s/KREBr3NjeQ_OQZu_pyhQBw": "疑似 Nginx 新 0day RCE，无补丁，无上下文",
+    "https://mp.weixin.qq.com/s/UyawPASH1AlJZfqabG7Huw": "[前沿技术] 智能合约常见漏洞审计",
+    "https://mp.weixin.qq.com/s/DJ41Rq86j3Lpyd62ddr1HA": "AI 不是让漏洞变多，而是让漏洞更难藏",
+    "https://mp.weixin.qq.com/s/qFXVV3_oZ51SPghQZ9hHVg": "疑似Coruna卷土重来：npm包art-template遭供应链攻击沦为iOS漏洞投送工具",
+    "https://mp.weixin.qq.com/s/MD-uP0L73S0wGu6OvhgE9w": "SRC每日漏洞复现学习系列（第6篇）信息泄露漏洞+ 漏洞报告模板"
 }
