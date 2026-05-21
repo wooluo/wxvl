@@ -21124,5 +21124,6 @@
     "https://mp.weixin.qq.com/s/CrdpvVzNKTNRj-1Y0r5RWA": "奇安信蝉联国家信息安全漏洞库CNNVD最高等级技术支撑单位",
     "https://mp.weixin.qq.com/s/e-6ptPnBm28L0jT4Ll7qAA": "什么？？还有人不会AI漏洞挖掘",
     "https://mp.weixin.qq.com/s/rdsK-2f8_bZiY2Kqcs2JUA": "Gitea存在敏感信息泄露漏洞（用户名枚举） 附POC",
-    "https://mp.weixin.qq.com/s/zR6hzGnnLan76IIw6AQa8g": "1day CVE-2026-5118 Divi 表单构建器 <= 5.1.2 | 通过角色注入进行未经身份验证的权限提升"
+    "https://mp.weixin.qq.com/s/zR6hzGnnLan76IIw6AQa8g": "1day CVE-2026-5118 Divi 表单构建器 <= 5.1.2 | 通过角色注入进行未经身份验证的权限提升",
+    "https://mp.weixin.qq.com/s/0aU9fIxjJLzIBESNPv5z8Q": "Android Pixel 10 零点击漏洞利用链"
 }

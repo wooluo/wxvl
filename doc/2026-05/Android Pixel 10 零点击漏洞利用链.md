@@ -1,6 +1,5 @@
 #  Android Pixel 10 零点击漏洞利用链  
-原创 Noname
-                    Noname  黑鸟   2026-05-19 15:47  
+ 白帽子   2026-05-21 22:28  
   
 2026 年 5 月 13 日，Google Project Zero 安全研究员 Seth Jenkins 发布了针对 Google Pixel 10 的完整零点击漏洞链研究报告。该研究展示了攻击者如何在无需用户任何交互的情况下，仅通过两个漏洞就能从远程直接获取 Android 设备的 root 权限。  
   
@@ -58,6 +57,7 @@ Project Zero 团队与 Jann Horn 合作，仅用了两个小时审计这个 VPU 
 相反，它直接将芯片的硬件接口暴露给用户空间，包括允许用户空间映射芯片的 MMIO 寄存器接口。该驱动的主要功能是建立设备内存映射、进行电源管理以及允许用户空间等待芯片的中断信号。  
   
 这个 VPU 驱动中的漏洞异常简单且极易利用。问题出在驱动的 mmap 处理函数中。  
+  
 ```
 static int vpu_mmap(struct file *fp, struct vm_area_struct *vm)
 {
@@ -71,6 +71,7 @@ struct vpu_core *core =
 return remap_pfn_range(vm, vm->vm_start, pfn, vm->vm_end-vm->vm_start, vm->vm_page_prot) ? -EAGAIN : 0;
 }
 ```  
+  
   
 该函数的设计目的是将 VPU 硬件的 MMIO 寄存器区域映射到用户空间的虚拟地址空间。这个寄存器区域位于特定的物理内存地址范围内。然而，函数在调用 remap_pfn_range 时，完全基于用户提供的 VMA 大小进行映射，而没有对映射范围进行任何边界检查。  
   
