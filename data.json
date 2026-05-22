@@ -21125,5 +21125,7 @@
     "https://mp.weixin.qq.com/s/e-6ptPnBm28L0jT4Ll7qAA": "什么？？还有人不会AI漏洞挖掘",
     "https://mp.weixin.qq.com/s/rdsK-2f8_bZiY2Kqcs2JUA": "Gitea存在敏感信息泄露漏洞（用户名枚举） 附POC",
     "https://mp.weixin.qq.com/s/zR6hzGnnLan76IIw6AQa8g": "1day CVE-2026-5118 Divi 表单构建器 <= 5.1.2 | 通过角色注入进行未经身份验证的权限提升",
-    "https://mp.weixin.qq.com/s/0aU9fIxjJLzIBESNPv5z8Q": "Android Pixel 10 零点击漏洞利用链"
+    "https://mp.weixin.qq.com/s/0aU9fIxjJLzIBESNPv5z8Q": "Android Pixel 10 零点击漏洞利用链",
+    "https://mp.weixin.qq.com/s/WAmdll1HwytOICUo5iILWA": "SmartBi后台远程代码执行漏洞简单分析",
+    "https://mp.weixin.qq.com/s/70EqPfIriYX_z36CvaplOQ": "顶级大厂也成“草台班子”？谷歌误将未修复漏洞公之于众，数百万浏览器面临劫持风险"
 }
