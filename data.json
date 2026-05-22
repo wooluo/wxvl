@@ -21127,5 +21127,10 @@
     "https://mp.weixin.qq.com/s/zR6hzGnnLan76IIw6AQa8g": "1day CVE-2026-5118 Divi 表单构建器 <= 5.1.2 | 通过角色注入进行未经身份验证的权限提升",
     "https://mp.weixin.qq.com/s/0aU9fIxjJLzIBESNPv5z8Q": "Android Pixel 10 零点击漏洞利用链",
     "https://mp.weixin.qq.com/s/WAmdll1HwytOICUo5iILWA": "SmartBi后台远程代码执行漏洞简单分析",
-    "https://mp.weixin.qq.com/s/70EqPfIriYX_z36CvaplOQ": "顶级大厂也成“草台班子”？谷歌误将未修复漏洞公之于众，数百万浏览器面临劫持风险"
+    "https://mp.weixin.qq.com/s/70EqPfIriYX_z36CvaplOQ": "顶级大厂也成“草台班子”？谷歌误将未修复漏洞公之于众，数百万浏览器面临劫持风险",
+    "https://mp.weixin.qq.com/s/s4mWHy1z-130O-cr_EXGWw": "潜伏九年的Linux内核漏洞可致攻击者窃取SSH私钥",
+    "https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw": "【漏洞预警】 cPanel∕WP2 高危任意文件读取CVE-2026-29205",
+    "https://mp.weixin.qq.com/s/-T4cC7Vx3yeYvifFaDmFIg": "Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7",
+    "https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg": "【高危漏洞预警】Drupal Core PostgreSQL数据库抽象API SQL注入漏洞CVE-2026-9082",
+    "https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w": "Apache Flink 高危漏洞可导致远程代码执行攻击"
 }
