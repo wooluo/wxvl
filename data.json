@@ -21135,5 +21135,12 @@
     "https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w": "Apache Flink 高危漏洞可导致远程代码执行攻击",
     "https://mp.weixin.qq.com/s/a9veyIqOekhg4g-aTZYkgg": "漏洞报告泛滥！ProjectDiscovery发布Triage自动验证漏洞",
     "https://mp.weixin.qq.com/s/hncIeoim1rJ3szto2eFcVg": "Cisco修复CVSS 10.0严重漏洞，影响Secure Workload",
-    "https://mp.weixin.qq.com/s/yQhU6JcXX6NLGVx7X9pfGg": "安全圈的狼来了：那些\"高危\"漏洞为何最终用不上"
+    "https://mp.weixin.qq.com/s/yQhU6JcXX6NLGVx7X9pfGg": "安全圈的狼来了：那些\"高危\"漏洞为何最终用不上",
+    "https://mp.weixin.qq.com/s/6wzPutc6oLROtttQJBsSvA": "【漏洞通告】FreeBSD setcred(2) 栈缓冲区溢出漏洞(CVE-2026-45250)",
+    "https://mp.weixin.qq.com/s/8EmKtZsBbKTpkeE4OWZmyw": "StubZero：谷歌云生产环境中的RCE漏洞",
+    "https://mp.weixin.qq.com/s/Te8I6NOLjSfa7p1rPc15wA": "一周安全回顾：AI推动漏洞攻防失衡，国际大厂频遭供应链投毒",
+    "https://mp.weixin.qq.com/s/ZQwt43XOwi5RVr9VUa_oFA": "SRC 每日漏洞复现学习系列（第 8 篇）：反射型 XSS 漏洞详解与报告模板",
+    "https://mp.weixin.qq.com/s/HslC1JtRrrHdsPuu48achw": "cPanel&WHM高危任意文件读取漏洞（CVE‑2026‑29205）",
+    "https://mp.weixin.qq.com/s/WbVDivZkzkQUdncwApaozg": "[SRC]漏洞显现",
+    "https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w": "CVSS 10.0 【严重】CVE-2026-45829 ChromaDB 爆出未授权 RCE：ChromaToast 横扫 AI 基础设施"
 }
