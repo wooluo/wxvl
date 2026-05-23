@@ -21142,5 +21142,9 @@
     "https://mp.weixin.qq.com/s/ZQwt43XOwi5RVr9VUa_oFA": "SRC 每日漏洞复现学习系列（第 8 篇）：反射型 XSS 漏洞详解与报告模板",
     "https://mp.weixin.qq.com/s/HslC1JtRrrHdsPuu48achw": "cPanel&WHM高危任意文件读取漏洞（CVE‑2026‑29205）",
     "https://mp.weixin.qq.com/s/WbVDivZkzkQUdncwApaozg": "[SRC]漏洞显现",
-    "https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w": "CVSS 10.0 【严重】CVE-2026-45829 ChromaDB 爆出未授权 RCE：ChromaToast 横扫 AI 基础设施"
+    "https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w": "CVSS 10.0 【严重】CVE-2026-45829 ChromaDB 爆出未授权 RCE：ChromaToast 横扫 AI 基础设施",
+    "https://mp.weixin.qq.com/s/2vlzln_L0sEBs-sH66rzSw": "Claude Mythos Preview首月发现超万个0Day漏洞",
+    "https://mp.weixin.qq.com/s/mzawD-_crDMa0Awmk-i8eQ": "Microsoft Defender零日漏洞已在野外遭积极利用",
+    "https://mp.weixin.qq.com/s/z4wthxePisDjY6eYFtHmZg": "Chrome安全漏洞或使攻击者能够远程执行代码",
+    "https://mp.weixin.qq.com/s/js1AYhWtrLBCmo7CJGADKw": "GitHub 4000个私有仓库被窃取；Claude Code深度链接解析漏洞可被武器化 | FreeBuf周报"
 }
