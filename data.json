@@ -21134,5 +21134,6 @@
     "https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg": "【高危漏洞预警】Drupal Core PostgreSQL数据库抽象API SQL注入漏洞CVE-2026-9082",
     "https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w": "Apache Flink 高危漏洞可导致远程代码执行攻击",
     "https://mp.weixin.qq.com/s/a9veyIqOekhg4g-aTZYkgg": "漏洞报告泛滥！ProjectDiscovery发布Triage自动验证漏洞",
-    "https://mp.weixin.qq.com/s/hncIeoim1rJ3szto2eFcVg": "Cisco修复CVSS 10.0严重漏洞，影响Secure Workload"
+    "https://mp.weixin.qq.com/s/hncIeoim1rJ3szto2eFcVg": "Cisco修复CVSS 10.0严重漏洞，影响Secure Workload",
+    "https://mp.weixin.qq.com/s/yQhU6JcXX6NLGVx7X9pfGg": "安全圈的狼来了：那些\"高危\"漏洞为何最终用不上"
 }
