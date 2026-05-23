@@ -21151,5 +21151,6 @@
     "https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w": "PLC逻辑代码漏洞的严重性及隐蔽性分析",
     "https://mp.weixin.qq.com/s/MI13YFhgSKTDnU9Mutc_Tw": "异步投毒、fork触发的赏金杀招：服务端原型污染RCE拆解",
     "https://mp.weixin.qq.com/s/-X-mwyVc108HBSOsZwM0Dw": "BYOVD攻击面从漏洞驱动到合法证书的范式转移",
-    "https://mp.weixin.qq.com/s/OcmRLBdXEMh0Js1TEa3cHA": "CVSS 9.1 【严重】CVE-2026-46376 FreePBX userman 模块硬编码凭证漏洞：企业电话系统门户全网裸奔"
+    "https://mp.weixin.qq.com/s/OcmRLBdXEMh0Js1TEa3cHA": "CVSS 9.1 【严重】CVE-2026-46376 FreePBX userman 模块硬编码凭证漏洞：企业电话系统门户全网裸奔",
+    "https://mp.weixin.qq.com/s/3MfkVTRU-hoPeihidpROJg": "不用迷信Mythos ，开源AI以更低的成本发现漏洞"
 }
