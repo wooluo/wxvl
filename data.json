@@ -21152,5 +21152,9 @@
     "https://mp.weixin.qq.com/s/MI13YFhgSKTDnU9Mutc_Tw": "异步投毒、fork触发的赏金杀招：服务端原型污染RCE拆解",
     "https://mp.weixin.qq.com/s/-X-mwyVc108HBSOsZwM0Dw": "BYOVD攻击面从漏洞驱动到合法证书的范式转移",
     "https://mp.weixin.qq.com/s/OcmRLBdXEMh0Js1TEa3cHA": "CVSS 9.1 【严重】CVE-2026-46376 FreePBX userman 模块硬编码凭证漏洞：企业电话系统门户全网裸奔",
-    "https://mp.weixin.qq.com/s/3MfkVTRU-hoPeihidpROJg": "不用迷信Mythos ，开源AI以更低的成本发现漏洞"
+    "https://mp.weixin.qq.com/s/3MfkVTRU-hoPeihidpROJg": "不用迷信Mythos ，开源AI以更低的成本发现漏洞",
+    "https://mp.weixin.qq.com/s/JCk4EoK4E2wkt-h2yKgEkQ": "我算了三遍才敢信：Anthropic让AI当黑客，首月1万漏洞修比找更难",
+    "https://mp.weixin.qq.com/s/H26-1SAykG70kUoHHtW1Iw": "Google意外公开未修复Chromium漏洞PoC：你的浏览器可能正在被黑客\"征兵\"",
+    "https://mp.weixin.qq.com/s/YiDOhYU80igYUju5gNKD5A": "邮箱密码重置流程的IDOR漏洞",
+    "https://mp.weixin.qq.com/s/_V98j54Vts2evnV-5HU3wQ": "CVE-2026-9082：Drupal的高危SQL注入漏洞已遭活跃攻击"
 }
