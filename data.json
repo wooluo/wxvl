@@ -21158,5 +21158,6 @@
     "https://mp.weixin.qq.com/s/YiDOhYU80igYUju5gNKD5A": "邮箱密码重置流程的IDOR漏洞",
     "https://mp.weixin.qq.com/s/_V98j54Vts2evnV-5HU3wQ": "CVE-2026-9082：Drupal的高危SQL注入漏洞已遭活跃攻击",
     "https://mp.weixin.qq.com/s/RXkL8sIL15oX-xjS2pHUNw": "StubZero：在 Google Cloud 生产环境中造成 148,337 美元的远程代码执行损失",
-    "https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA": "Nginx-poolslip 漏洞可导致拒绝服务攻击和代码执行攻击——立即修复！"
+    "https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA": "Nginx-poolslip 漏洞可导致拒绝服务攻击和代码执行攻击——立即修复！",
+    "https://mp.weixin.qq.com/s/98KYAIFyMCgIAdKj_Olffw": "万级漏洞AI：Anthropic秘密\"Mythos\"模型如何重塑网络韧性"
 }
