@@ -1,8 +1,10 @@
 #  发现超10000个高危和严重漏洞：Anthropic“玻璃之翼”项目揭示AI网络安全新挑战  
 奇安侦察兵
-                    奇安侦察兵  奇安网情局   2026-05-25 04:15  
+                    奇安侦察兵  内生安全联盟   2026-05-25 09:15  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhVaNRkMd972TzWaflukvfBU6MNH3TfGjKPCHceo1wibz0UZspOmKgFEXK1GBA8xgOsY9zAuwO5SpibhWyNowcRFNTxwYsibAL8H8Q/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/2ZmL5d0ic88XOM5gUfSc2Ziayzrh22fyU1ncJSj5HVYM24drOJGBBbT9MEcqbY5u3h3BYpThz8rbBhSyJwMiaepxxI6wM3h0Ncuop6su5IkpHk/640?wx_fmt=gif&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhXwvLN5Ja5Eppm8s5hHX9MAS5q3mFS5MuiaTqO4ul83fgwXXb0OHiamiaa0d8CiaCfZh5GPylpsPZXdMChF05pAQib4ELJz76XKskL4/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0 "")  
   
 编者按  
   
@@ -24,7 +26,7 @@ Anthropic公司强调，与修复漏洞的难度相比，发现漏洞相对容�
 奇安网情局编译有关情况，供读者参考。  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhXDiateaPTQAafqdBsUW1Z6eSGOZ5Ywt4EdOb7bJmsSL8fFprtj5Fy2THia6jDvO7JzZOIdd3P9ISvgSTOT0RGpxuUEQB3DLtAGM/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhUUOjk2VLibq8nSxvzEKXRczNDoJVcOmuxKj3R3iahC5PocaicWJ0HvkPgknYHBqCYJBFUXricsYibxvb2CpYkLD2bW55UhrAoPL7uw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1 "")  
   
   
   
@@ -110,7 +112,7 @@ Mythos预览版模型检测到的一个开源漏洞示例是wolfSSL，这是一�
 正如前面所提，修复这类漏洞的瓶颈在于人工能力，即能否对漏洞进行分类、报告、设计和部署补丁。而Mythos预览版模型的出现，使得漏洞的发现变得更加直接。Anthropic公司在下方创建了一个开源漏洞扫描仪表板，展示了披露流程的各个步骤，并将跟踪随时间的进展。该仪表板显示了所有级别的漏洞，而不仅仅是Mythos预览版最初评估为高危或严重级别的漏洞子集。请注意每个阶段漏洞数量的急剧下降，这反映了验证和修复每个漏洞所需的人工投入。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhUMC4FcibbbXhALGrKHNTOOT1wS22UBe1ibPicLoL2KlJyqDJ8AvuMreRKu5EaaXLzibjp7t1h3UKL6T6ZXfBC5xPU6l7z9k9fjpicw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhVWktchibvq5UaDOnaGFvpyU50icAF4CRO04Dw1RUEfyZcyuZGRlh5onwsHqU0A3W81JyCCWwNwjRXHQt5sTWXK3V43he66uv3Lk/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2 "")  
   
   
 Anthropic公司的漏洞分级流程非常严谨。首先，Anthropic公司或与Anthropic公司合作的外部安全公司会重现Mythos发现的问题，并重新评估其严重性。一旦确认漏洞真实存在，会检查是否已有修复方案，并向软件维护者提交一份详细的报告。Anthropic公司在此环节格外谨慎：除了维护开源软件本身的挑战之外，维护者还面临着大量低质量的、由人工智能生成的错误报告。事实上，一些维护者告诉Anthropic公司，他们目前严重缺乏资源，甚至有些维护者要求Anthropic公司放慢漏洞披露的速度，因为他们需要更多时间来设计补丁。（平均而言，Mythos预览版模型发现的高危或严重漏洞需要2周时间才能修复。）  
@@ -217,42 +219,73 @@ Anthropic公司还支持了ExploitBench和ExploitGym的开发，这两个新的�
 克服这些风险之后，将迎来一个令人鼓舞的未来：一个重要代码的安全性远胜于今日，黑客攻击也远不那么普遍的未来。尽管困难重重，但Anthropic公司仍然坚信，“玻璃之翼”项目能够帮助实现这一目标。  
   
   
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhWPLJ0ukFthjZ1Gv8dIfIvOBk8K1CxKC0Bd4ulic7BE6eyYt8uSZTw1oX0UAg5smLs2y6lUAmexiapL4iaDibHUDicUjE3u7Oibk2c6I/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhWB5QqSPVqE4Lp7IE9I7yF2mqR383woB2bPb0MZmK47CfGAykLVGZIVOWVgft5siammvsbyR3nVic8NE5VjH7iclzSkicOpooamO8Y/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhUd5s7spxlhCYaBd6j1fHurHsUf2oB4xgyQYJOjgZ4hHgB0xuSvRktHP3ct1O4O1hqP5BwG9rCnnfTSyM1k48PUsx7m5WAh4FQ/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhUvRTkpXsRDqNAShiabvlxJsiaiaSapy24hMUU5ibFBVVdDPRYqia9OFk28tbNqFXpRGq0UHpthqFib2ygBzLu9fyvHUNBYvrjQmia1xY/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhWyvr6VXgQ0MUa8hEtAfuL5MRvy71GdCm9I9IqthIG0G7iaX3nwSZ28qIzxHXsGNSb4ufrCvH6fd1I6JHpf7gmlNAmfElic37rXk/640?wx_fmt=png&from=appmsg "")  
+转载自：  
+“奇安网情局”微信公众号  
   
   
-未经本公众号主体允许，  
-不得利用本公众号原创内容开展商业营利行为  
+  
+[](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247537006&idx=1&sn=47b4fd64c51fd886882eba9f2755bd0a&scene=21#wechat_redirect)  
+  
+[安测促发展，积聚创未来——2026网络通信安全融合生态创新发展大会在宁举行](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247537006&idx=1&sn=47b4fd64c51fd886882eba9f2755bd0a&scene=21#wechat_redirect)  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhXh89c2H6hJ1uSqIxicSacFlJ8AwPb4uPZr6aplQqhibWfHBe8QCNspe3AfUfAfkTT0dHmeYZMOZQNoZXJYgy6EdJibs7YqQdaLAo/640?wx_fmt=png&from=appmsg "")  
+[](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247537051&idx=1&sn=cd6f6b480f3b1cafb714df95f3132ae1&scene=21#wechat_redirect)  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhU6zicAEyuebA9wu1NWC1q6djhXSgojs84UdTlGLNXBOEszk86Vib94vVJickfrJYPc3rylA6EVFy7Ibv3WHbV57Eic70ygm10Daxc/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhUUl1E4kxZUhteibhAMRiaBvZlGDmibd2Ezz8Cn2tPnkxnVgSaeC0pc7AzBMK9wVVBJsiahpAQ1l79KTia0GXziameQkggTsNqchqXgE/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhXp0aMdIMq0yO8x9e7frTh6vljTpmyibEamZXCESFib0YslZdpENYNgUgiczrCm9D5ze6CJJb4ibbxtw7ib1rPBjJrrRx7t9zA3L3dI/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhUAWXkHA4PBuUfhLF8aAbmeA4KMu1QPzw6RibKxpN2EBBCSLJNwFMEK6SicBlqF8naTbIHZqDoehicriagZ7fc9vUiccCtC4IVEyXics/640?wx_fmt=png&from=appmsg "")  
+[征集标准参编单位！关于征集《消费级无人机检验检测通用要求》认证认可行业标准参编单位的通知](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247537051&idx=1&sn=cd6f6b480f3b1cafb714df95f3132ae1&scene=21#wechat_redirect)  
   
   
-网络国防知识库  
   
-产业发展前哨站  
+**热点聚焦**  
   
-开源情报信息源  
+**HOT！！**  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/0SLhkeQQqhXWKc4pFlTwZxJvN8tOtic8qvwU8icA2s4KPNx1eDO98LNSbWQfukjO3c94cbx4fQWAjPxpUq5d7iba6F7jWb6W7NctbVo1VrVJrI/640?wx_fmt=jpeg&from=appmsg "")  
+**邬江兴院士：AI内生安全问题及可信应用系统研究**  
+  
+**征稿启事 | 16个热点问题，欢迎来稿！**  
+  
+**新书出版 | 邬江兴院士发布最新英文著作**  
+  
+**可信内生安全、变结构拟态计算技术等入选“新一代信息工程科技新质生产力技术备选清单（2024）”**  
+  
+**持续赋能内生安全！第五届网络空间内生安全学术大会暨第八届“强网”拟态防御国际精英挑战赛完美收官**  
+  
+[蓝皮书下载 | 第五届网络空间内生安全学术大会，四本蓝皮书重磅发布](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535240&idx=2&sn=da33dc8d3ad64e3c161538e0d3a14494&scene=21#wechat_redirect)  
   
   
-奇安网情局  
+**正式发布！网络空间内生安全理论和标准体系入选信息通信领域十大科技进展（附手册）**  
   
+**递交2025网信生态高质量发展“开年答卷”  网络通信安全融合生态创新发展大会在宁举行**  
+  
+**邬江兴院士为五色石先导班学生授课**  
+  
+**邬江兴院士——AI时代内生安全自主知识体系建设的思考**  
+  
+**出版啦！南京市网络空间内生安全协会5项团体标准在中国标准出版社正式出版**  
+  
+**邬江兴院士 | 破击美欧网络弹性铁幕——基于自主知识技术体系的数字生态系统底层驱动范式变革**  
+  
+**喜报！南京市网络空间内生安全协会获评为AAAA等级社会组织！**  
+  
+**邬江兴院士提出“时空协同复杂度”理论——揭秘介观尺度智能涌现机理引领AI架构革新**  
+  
+**南京市网络空间内生安全协会第二届会员大会暨换届选举大会圆满举行**  
+  
+**| 往期回顾**  
+  
+**AI4E如何重构数字生态系统网络发展范式？**  
+  
+**资料下载 | 十五五规划建议全文及说明**  
+  
+**《科技日报》整版访谈邬江兴院士：将“安全基因”植入人工智能系统**  
+  
+[算力设施安全丨国家发改委等四部门：促进人工智能与能源双向赋能](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247537949&idx=1&sn=cbe045426d0bbb94a2fbc382642043bf&scene=21#wechat_redirect)  
+  
+  
+[6G通信技术：相较于5G的改进点与技术实现](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247537970&idx=1&sn=fbc77249333d1c8ab8f273623ec190bb&scene=21#wechat_redirect)  
+  
+  
+[工信部、国家数据局：筑牢安全底座，护航“模数共振”](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247537971&idx=1&sn=659d824e604dd68cdff6f1683e053d2f&scene=21#wechat_redirect)  
+  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/jRRfTC292pXGqHBACsK1cVtpyTB5F8VFsEY3paWnfS3dichupP4OknoSrNN3c6YviaDsLwKnfHwj1OibB7lWFvbibQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=1 "")  
   
