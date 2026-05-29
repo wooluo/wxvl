@@ -56,18 +56,9 @@ def get_md_path(executable_path,url):
                 yield file_path
 
 def get_chainreactors_url():
-    '''获取今日url - 使用新的 today.md 格式'''
-    base_url = 'https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/today.md'
-    try:
-        response = requests.get(base_url, timeout=30)
-        if response.status_code != 200:
-            return []
-        # 使用更简单的正则表达式直接提取 mp.weixin.qq.com 链接
-        urls = re.findall(r'https://mp\.weixin\.qq\.com/s\?[^)\s]+', response.text)
-        # 可选：过滤与安全相关的文章（如果需要的话）
-        return urls
-    except:
-        return []
+    '''chainreactors/picker 已停止更新，返回空列表'''
+    # 该仓库的 today.md 停留在 2025-10-22，不再使用
+    return []
 
 def get_BruceFeIix_url():
     '''获取今日url - 使用新的 today.md 格式'''
