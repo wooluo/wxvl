@@ -48,27 +48,14 @@ def get_md_path(executable_path,url):
     '''获取md文件路径'''
     temp_directory = tempfile.mkdtemp()
     command = [executable_path, url, temp_directory, '--image=url']
-    print(f'[DEBUG] 运行: {executable_path} {url[:50]}...', file=sys.stderr)
     try:
-        output = subprocess.check_output(command, stderr=subprocess.STDOUT, timeout=120)
-        print(f'[DEBUG] 输出: {output[:100]}...', file=sys.stderr)
-    except subprocess.CalledProcessError as e:
-        err_msg = str(e.output[:200], 'utf-8', errors='ignore') if e.output else '无输出'
-        print(f'[ERROR] 下载失败: {err_msg}...', file=sys.stderr)
+        subprocess.check_output(command, stderr=subprocess.STDOUT, timeout=120)
+    except (subprocess.CalledProcessError, subprocess.TimeoutExpired):
         return
-    except subprocess.TimeoutExpired:
-        print(f'[ERROR] 下载超时: {url[:50]}...', file=sys.stderr)
-        return
-    file_count = 0
     for root, _, files in os.walk(temp_directory):
         for file in files:
             if file.endswith(".md"):
-                file_count += 1
-                file_path = os.path.join(root, file)
-                print(f'[DEBUG] 找到文件: {file}', file=sys.stderr)
-                yield file_path
-    if file_count == 0:
-        print(f'[ERROR] 没有找到 .md 文件', file=sys.stderr)
+                yield os.path.join(root, file)
 
 def get_chainreactors_url():
     '''chainreactors/picker 已停止更新，返回空列表'''
@@ -169,30 +156,22 @@ def main():
     if len(sys.argv) == 2:
         if sys.argv[1] == 'today':
             urls = list(set(get_chainreactors_url() + get_BruceFeIix_url() + get_doonsec_url()))
-            print(f'[DEBUG] 获取到 {len(urls)} 个链接', file=sys.stderr)
         else:
             urls = get_issue_url()
         new_count = 0
         for url in urls:
             if url in data:
                 continue
-            new_count += 1
-            print(f'[DEBUG] 新链接 {new_count}: {url[:50]}...', file=sys.stderr)
-            files_found = False
             for file_path in get_md_path(executable_path, url):
-                files_found = True
                 name = os.path.splitext(os.path.basename(file_path))[0]
                 # 如果文件名是空的或只是 .md，生成一个基于 URL 的文件名
                 if not name or name == '.md':
-                    # 从 URL 中提取参数生成文件名
                     import hashlib
                     name = hashlib.md5(url.encode()).hexdigest()[:12]
                 shutil.copy2(file_path,result_path)
                 data[url] = name
                 write_json(data_file,data)
                 print(name,end='、')
-            if not files_found:
-                print(f'[ERROR] 没有下载到文件: {url[:50]}...', file=sys.stderr)
     rep_filename(result_path)
 if __name__ == '__main__':
     main()
