@@ -163,7 +163,9 @@ def main():
                 continue
             new_count += 1
             print(f'[DEBUG] 新链接 {new_count}: {url[:50]}...', file=sys.stderr)
+            files_found = False
             for file_path in get_md_path(executable_path, url):
+                files_found = True
                 name = os.path.splitext(os.path.basename(file_path))[0]
                 if name == '.md':
                     continue
@@ -171,6 +173,8 @@ def main():
                 data[url] = name
                 write_json(data_file,data)
                 print(name,end='、')
+            if not files_found:
+                print(f'[ERROR] 没有下载到文件: {url[:50]}...', file=sys.stderr)
     rep_filename(result_path)
 if __name__ == '__main__':
     main()
