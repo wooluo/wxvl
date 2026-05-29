@@ -154,11 +154,15 @@ def main():
     if len(sys.argv) == 2:
         if sys.argv[1] == 'today':
             urls = list(set(get_chainreactors_url() + get_BruceFeIix_url() + get_doonsec_url()))
+            print(f'[DEBUG] 获取到 {len(urls)} 个链接', file=sys.stderr)
         else:
             urls = get_issue_url()
+        new_count = 0
         for url in urls:
             if url in data:
                 continue
+            new_count += 1
+            print(f'[DEBUG] 新链接 {new_count}: {url[:50]}...', file=sys.stderr)
             for file_path in get_md_path(executable_path, url):
                 name = os.path.splitext(os.path.basename(file_path))[0]
                 if name == '.md':
