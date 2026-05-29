@@ -182,8 +182,11 @@ def main():
             for file_path in get_md_path(executable_path, url):
                 files_found = True
                 name = os.path.splitext(os.path.basename(file_path))[0]
-                if name == '.md':
-                    continue
+                # 如果文件名是空的或只是 .md，生成一个基于 URL 的文件名
+                if not name or name == '.md':
+                    # 从 URL 中提取参数生成文件名
+                    import hashlib
+                    name = hashlib.md5(url.encode()).hexdigest()[:12]
                 shutil.copy2(file_path,result_path)
                 data[url] = name
                 write_json(data_file,data)
