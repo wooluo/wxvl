@@ -164,10 +164,24 @@ def main():
                 continue
             for file_path in get_md_path(executable_path, url):
                 name = os.path.splitext(os.path.basename(file_path))[0]
-                # 如果文件名是空的或只是 .md，生成一个基于 URL 的文件名
+                # 如果文件名是空的或只是 .md，从文件内容中提取标题
                 if not name or name == '.md':
-                    import hashlib
-                    name = hashlib.md5(url.encode()).hexdigest()[:12]
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            first_line = f.readline().strip()
+                            # 如果第一行是 markdown 标题格式
+                            if first_line.startswith('#'):
+                                title = first_line.lstrip('#').strip()
+                                # 清理标题中不能用于文件名的字符
+                                title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
+                                if title:
+                                    name = title
+                    except:
+                        pass
+                    # 如果还是没有名字，使用 MD5
+                    if not name or name == '.md':
+                        import hashlib
+                        name = hashlib.md5(url.encode()).hexdigest()[:12]
                 shutil.copy2(file_path,result_path)
                 data[url] = name
                 write_json(data_file,data)
