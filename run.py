@@ -48,12 +48,26 @@ def get_md_path(executable_path,url):
     '''获取md文件路径'''
     temp_directory = tempfile.mkdtemp()
     command = [executable_path, url, temp_directory, '--image=url']
-    subprocess.check_output(command)
+    print(f'[DEBUG] 运行: {executable_path} {url[:50]}...', file=sys.stderr)
+    try:
+        output = subprocess.check_output(command, stderr=subprocess.STDOUT, timeout=120)
+        print(f'[DEBUG] 输出: {output[:100]}...', file=sys.stderr)
+    except subprocess.CalledProcessError as e:
+        print(f'[ERROR] 下载失败: {e.output[:200] if e.output else \"无输出\"}...', file=sys.stderr)
+        return
+    except subprocess.TimeoutExpired:
+        print(f'[ERROR] 下载超时: {url[:50]}...', file=sys.stderr)
+        return
+    file_count = 0
     for root, _, files in os.walk(temp_directory):
         for file in files:
             if file.endswith(".md"):
+                file_count += 1
                 file_path = os.path.join(root, file)
+                print(f'[DEBUG] 找到文件: {file}', file=sys.stderr)
                 yield file_path
+    if file_count == 0:
+        print(f'[ERROR] 没有找到 .md 文件', file=sys.stderr)
 
 def get_chainreactors_url():
     '''chainreactors/picker 已停止更新，返回空列表'''
