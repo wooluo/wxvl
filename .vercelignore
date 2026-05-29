@@ -1,0 +1,18 @@
+# 排除 2025年6月之前的旧文章，减小部署包大小
+doc/2022-*/
+doc/2023-*/
+doc/2024-*/
+doc/2025-01/
+doc/2025-02/
+doc/2025-03/
+doc/2025-04/
+doc/2025-05/
+doc/__pycache__/
+doc/venv/
+doc/*.py
+doc/*.sh
+doc/*.txt
+doc/*.json
+doc/chroma_db/
+doc/demo_chroma_db/
+doc/demo_files/
