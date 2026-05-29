@@ -53,7 +53,8 @@ def get_md_path(executable_path,url):
         output = subprocess.check_output(command, stderr=subprocess.STDOUT, timeout=120)
         print(f'[DEBUG] 输出: {output[:100]}...', file=sys.stderr)
     except subprocess.CalledProcessError as e:
-        print(f'[ERROR] 下载失败: {e.output[:200] if e.output else \"无输出\"}...', file=sys.stderr)
+        err_msg = str(e.output[:200], 'utf-8', errors='ignore') if e.output else '无输出'
+        print(f'[ERROR] 下载失败: {err_msg}...', file=sys.stderr)
         return
     except subprocess.TimeoutExpired:
         print(f'[ERROR] 下载超时: {url[:50]}...', file=sys.stderr)
