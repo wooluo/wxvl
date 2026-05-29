@@ -751,9 +751,11 @@
                     `;
                     document.getElementById('articleContent').innerHTML = data.data.html;
                     // Apply syntax highlighting
-                    document.querySelectorAll('#articleContent pre code').forEach(block => {
-                        hljs.highlightElement(block);
-                    });
+                    if (typeof hljs !== 'undefined') {
+                        document.querySelectorAll('#articleContent pre code').forEach(block => {
+                            hljs.highlightElement(block);
+                        });
+                    }
                 }
             } catch (e) {
                 console.error('Failed to load article:', e);

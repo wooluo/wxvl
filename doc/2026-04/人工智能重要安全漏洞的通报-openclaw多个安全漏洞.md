@@ -1,6 +1,6 @@
-#  人工智能重要安全漏洞的通报-openclaw多个安全漏洞  
-原创 CNNVD
-                    CNNVD  CNNVD安全动态   2026-04-30 05:54  
+#  人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞  
+CNNVD
+                    CNNVD  CISP   2026-04-03 07:01  
   
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JjlMnGl5z2XiaAQGZdFulYs0vsE3icB8RUiawPqDSb5lvm8G0drb7iaw7sQ/640?wx_fmt=gif&from=appmsg "")  
   
@@ -13,20 +13,20 @@
   
 **漏洞情况**  
   
-根据国家信息安全漏洞库（CNNVD）统计，自2026年4月14日-2026年4月28日，共采集OpenClaw漏洞111个，其中超危漏洞2个、高危漏洞38个，中危漏洞65个、低危漏洞6个，包含了访问控制错误、代码问题、路径遍历等多个漏洞类型。OpenClaw多个版本受到漏洞影响。目前，OpenClaw官方已经发布了更新修复漏洞，建议用户及时确认是否受到漏洞影响，尽快采取修补措施。  
+根据国家信息安全漏洞库（CNNVD）统计，自2026年3月10日-2026年4月2日，共采集OpenClaw漏洞155个，其中超危漏洞11个、高危漏洞53个，中危漏洞80个、低危漏洞11个，包含了访问控制错误、代码问题、路径遍历等多个漏洞类型。OpenClaw多个版本受到漏洞影响。目前，OpenClaw官方已经发布了更新修复漏洞，建议用户及时确认是否受到漏洞影响，尽快采取修补措施。  
   
 ## 一漏洞介绍  
   
   
-OpenClaw是一个开源的智能人工助理，可运行在PC或服务器等多种终端设备上，能够直接通过微信、Telegram、Discord、Slack、iMessage等聊天平台接收指令并执行操作。OpenClaw拥有大量用户群体，影响范围涉及多个行业和领域，攻击者利用漏洞可在未授权状态下获取目标敏感数据，提升权限、或远程执行代码。OpenClaw 2026.4.27及之前多个版本均受到漏洞影响。  
+OpenClaw是一个开源的智能人工助理，可运行在PC或服务器等多种终端设备上，能够直接通过微信、Telegram、Discord、Slack、iMessage等聊天平台接收指令并执行操作。OpenClaw拥有大量用户群体，影响范围涉及多个行业和领域，攻击者利用漏洞可在未授权状态下获取目标敏感数据，提升权限、或远程执行代码。OpenClaw 2026.4.1之前多个版本均受到漏洞影响。  
   
   
 ## 二漏洞详情  
   
   
-自2026年4月14日-2026年4月28日，国家信息安全漏洞库（CNNVD）共采集OpenClaw漏洞111个，其中超危漏洞2个、高危漏洞38个、中危漏洞65个、低危漏洞6个。参考链接：https://github.com/openclaw/openclaw/releases  
+自2026年3月10日-2026年4月2日，国家信息安全漏洞库（CNNVD）共采集OpenClaw漏洞155个，其中超危漏洞11个、高危漏洞53个、中危漏洞80个、低危漏洞11个。参考链接：https://github.com/openclaw/openclaw/releases  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/uOZw5Efn8esIfOiaGiapsdruAQegt8wnpd6CVG9bZWJsoZx0VG4TAPa0qrK917mOOhBpUI1N4rJ69BoqGLAjdscDSsicljKiaG2AuibxPHdN76RM/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/uOZw5Efn8esARrKPPBjEwBdLtAVFlZN4U5HGrVib0vb0FibTDjpOzQXHyj5ZR3GUPYflX8cs46ykJGdL5NAcgmeUz47h9b11VGorFKuKfBN0A/640?wx_fmt=png&from=appmsg "")  
   
 ## 三修复建议  
   
@@ -39,4 +39,12 @@ CNNVD将继续跟踪上述漏洞的相关情况，及时发布相关信息。如
   
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JMd8aMOqNkic25xydKvYcCVEsHXvm506icfXiaFep4AfohjraUj3F2jMfg/640?wx_fmt=gif&from=appmsg "")  
   
+  
+**更多资讯信息**  
+  
+**长按二维码关注**  
+  
+**注册信息安全专业人员（CISP）官方公众账号**  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/W7ntkMUKVmOcIoYkdLbZChMGLacww8ZZ00ibYcibibRWpvFmhZMeU909QKEwT658LmXIXCKKsicyW26YJ1R5M7RnSA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp#imgIndex=0 "")  
   
