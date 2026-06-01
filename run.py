@@ -214,10 +214,11 @@ def main():
                     if not title_found or not name or name == '.md':
                         import hashlib
                         name = hashlib.md5(url.encode()).hexdigest()[:12]
-                shutil.copy2(file_path,result_path)
+                # 使用新的文件名复制文件
+                target_file = os.path.join(result_path, name + '.md')
+                shutil.copy2(file_path, target_file)
                 data[url] = name
                 write_json(data_file,data)
                 print(name,end='、')
-    rep_filename(result_path)
 if __name__ == '__main__':
     main()
