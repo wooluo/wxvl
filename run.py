@@ -234,6 +234,21 @@ def main():
                 # 使用新的文件名复制文件
                 target_file = os.path.join(result_path, name + '.md')
                 shutil.copy2(file_path, target_file)
+
+                # 检查文件是否为空（只有 # 标题），如果为空则添加原文链接
+                try:
+                    with open(target_file, 'r', encoding='utf-8') as f:
+                        content = f.read().strip()
+                    # 如果内容只有 # 或 # 后面是空的，添加原文链接
+                    if content in ['#', '# ', '#\n', '# \n'] or len(content) < 10:
+                        display_title = title_from_source if title_from_source else name
+                        with open(target_file, 'w', encoding='utf-8') as f:
+                            f.write(f'# {display_title}\n\n')
+                            f.write(f'原文链接：{url}\n\n')
+                            f.write(f'> 注：由于微信反爬虫限制，无法获取完整内容。请点击上方链接阅读原文。\n')
+                except:
+                    pass
+
                 data[url] = name
                 write_json(data_file,data)
                 print(name,end='、')
