@@ -168,14 +168,24 @@ def main():
                 if not name or name == '.md':
                     try:
                         with open(file_path, 'r', encoding='utf-8') as f:
-                            first_line = f.readline().strip()
-                            # 如果第一行是 markdown 标题格式
-                            if first_line.startswith('#'):
-                                title = first_line.lstrip('#').strip()
-                                # 清理标题中不能用于文件名的字符
-                                title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
-                                if title:
-                                    name = title
+                            # 读取前10行，找到第一个非空且包含实际内容的行
+                            lines = []
+                            for _ in range(10):
+                                line = f.readline()
+                                if not line:
+                                    break
+                                line = line.strip()
+                                if line:
+                                    lines.append(line)
+                            # 查找标题格式的行
+                            for line in lines:
+                                if line.startswith('#'):
+                                    title = line.lstrip('#').strip()
+                                    # 清理标题中不能用于文件名的字符
+                                    title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
+                                    if title and title not in ['#', '##', '###']:
+                                        name = title
+                                        break
                     except:
                         pass
                     # 如果还是没有名字，使用 MD5
