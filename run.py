@@ -45,17 +45,25 @@ def get_executable_path():
     return executable_path
 
 def get_md_path(executable_path,url):
-    '''获取md文件路径'''
+    '''获取md文件路径和工具输出'''
     temp_directory = tempfile.mkdtemp()
     command = [executable_path, url, temp_directory, '--image=url']
+    output = b''
     try:
-        subprocess.check_output(command, stderr=subprocess.STDOUT, timeout=120)
+        output = subprocess.check_output(command, stderr=subprocess.STDOUT, timeout=120)
     except (subprocess.CalledProcessError, subprocess.TimeoutExpired):
-        return
+        pass
+    # 查找 .md 文件
+    md_path = None
     for root, _, files in os.walk(temp_directory):
         for file in files:
             if file.endswith(".md"):
-                yield os.path.join(root, file)
+                md_path = os.path.join(root, file)
+                break
+        if md_path:
+            break
+    # 返回文件路径和工具输出
+    yield md_path, output
 
 def get_chainreactors_url():
     '''chainreactors/picker 已停止更新，返回空列表'''
@@ -162,34 +170,48 @@ def main():
         for url in urls:
             if url in data:
                 continue
-            for file_path in get_md_path(executable_path, url):
+            for file_path, tool_output in get_md_path(executable_path, url):
+                if not file_path:
+                    continue
                 name = os.path.splitext(os.path.basename(file_path))[0]
-                # 如果文件名是空的或只是 .md，从文件内容中提取标题
+                # 如果文件名是空的或只是 .md，尝试提取标题
                 if not name or name == '.md':
+                    title_found = False
+                    # 首先尝试从工具输出中提取标题
                     try:
-                        with open(file_path, 'r', encoding='utf-8') as f:
-                            # 读取前10行，找到第一个非空且包含实际内容的行
-                            lines = []
-                            for _ in range(10):
-                                line = f.readline()
-                                if not line:
-                                    break
-                                line = line.strip()
-                                if line:
-                                    lines.append(line)
-                            # 查找标题格式的行
-                            for line in lines:
-                                if line.startswith('#'):
-                                    title = line.lstrip('#').strip()
-                                    # 清理标题中不能用于文件名的字符
-                                    title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
-                                    if title and title not in ['#', '##', '###']:
-                                        name = title
-                                        break
+                        output_str = tool_output.decode('utf-8', errors='ignore')
+                        # 查找 "title:" 格式的输出
+                        title_match = re.search(r'title:\s*(.+?)(?:\n|$)', output_str, re.I)
+                        if title_match:
+                            title = title_match.group(1).strip()
+                            title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
+                            if title:
+                                name = title
+                                title_found = True
                     except:
                         pass
+                    # 如果工具输出中没有标题，从文件内容中提取
+                    if not title_found:
+                        try:
+                            with open(file_path, 'r', encoding='utf-8') as f:
+                                # 读取前20行，找到第一个有实际内容的标题行
+                                for _ in range(20):
+                                    line = f.readline()
+                                    if not line:
+                                        break
+                                    line = line.strip()
+                                    if line and line.startswith('#'):
+                                        title = line.lstrip('#').strip()
+                                        # 清理标题中不能用于文件名的字符
+                                        title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
+                                        if title and title not in ['#', '##', '###']:
+                                            name = title
+                                            title_found = True
+                                            break
+                        except:
+                            pass
                     # 如果还是没有名字，使用 MD5
-                    if not name or name == '.md':
+                    if not title_found or not name or name == '.md':
                         import hashlib
                         name = hashlib.md5(url.encode()).hexdigest()[:12]
                 shutil.copy2(file_path,result_path)
