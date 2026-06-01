@@ -71,22 +71,24 @@ def get_chainreactors_url():
     return []
 
 def get_BruceFeIix_url():
-    '''获取今日url - 使用新的 today.md 格式'''
+    '''获取今日url和标题 - 使用新的 today.md 格式'''
     base_url = 'https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/today.md'
     try:
         response = requests.get(base_url, timeout=30)
         if response.status_code != 200:
-            return []
-        # 使用更简单的正则表达式直接提取 mp.weixin.qq.com 链接
-        urls = re.findall(r'https://mp\.weixin\.qq\.com/s\?[^)\s]+', response.text)
-        return urls
+            return {}
+        # 提取 [标题](URL) 格式
+        pattern = r'\[([^\]]+)\]\((https://mp\.weixin\.qq\.com/s\?[^)]+)\)'
+        matches = re.findall(pattern, response.text)
+        # 返回 {url: title} 字典
+        return {url: title for title, url in matches}
     except:
-        return []
+        return {}
 
 import xml.etree.ElementTree as ET
 
 def get_doonsec_url():
-    '''从 Doonsec RSS 获取今日URL，使用 XML 解析'''
+    '''从 Doonsec RSS 获取今日URL和标题，使用 XML 解析'''
     cookies = {
         'UM_follow': 'True',
         'UM_distinctids': 'fgmr',
@@ -114,19 +116,19 @@ def get_doonsec_url():
         response = requests.get('https://wechat.doonsec.com/rss.xml', cookies=cookies, headers=headers)
         response.encoding = response.apparent_encoding
 
-        # XML 解析
+        # XML 解析，返回 {url: title} 字典
         root = ET.fromstring(response.text)
-        urls = []
+        url_title_map = {}
         for item in root.findall('./channel/item'):
             title = item.findtext('title') or ''
             link = item.findtext('link') or ''
             if re.search(r'(复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行)', title, re.I) and link.startswith('https://mp.weixin.qq.com/'):
-                urls.append(link.rstrip(')'))
+                url_title_map[link.rstrip(')')] = title
 
-        return urls
+        return url_title_map
     except Exception as e:
         print("Error parsing Doonsec RSS:", e)
-        return []
+        return {}
 
 
 def get_issue_url():
@@ -163,13 +165,20 @@ def main():
     data = read_json(data_file, default_data=data)
     if len(sys.argv) == 2:
         if sys.argv[1] == 'today':
-            urls = list(set(get_chainreactors_url() + get_BruceFeIix_url() + get_doonsec_url()))
+            # 合并所有数据源的 {url: title} 字典
+            bruce_data = get_BruceFeIix_url()
+            doonsec_data = get_doonsec_url()
+            url_title_map = {**bruce_data, **doonsec_data}
+            urls = list(url_title_map.keys())
         else:
+            url_title_map = {}
             urls = get_issue_url()
         new_count = 0
         for url in urls:
             if url in data:
                 continue
+            # 获取标题（优先从数据源，其次从工具输出或文件内容）
+            title_from_source = url_title_map.get(url, '')
             for file_path, tool_output in get_md_path(executable_path, url):
                 if not file_path:
                     continue
@@ -177,19 +186,27 @@ def main():
                 # 如果文件名是空的或只是 .md，尝试提取标题
                 if not name or name == '.md':
                     title_found = False
-                    # 首先尝试从工具输出中提取标题
-                    try:
-                        output_str = tool_output.decode('utf-8', errors='ignore')
-                        # 查找 "title:" 格式的输出
-                        title_match = re.search(r'title:\s*(.+?)(?:\n|$)', output_str, re.I)
-                        if title_match:
-                            title = title_match.group(1).strip()
-                            title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
-                            if title:
-                                name = title
-                                title_found = True
-                    except:
-                        pass
+                    # 优先使用数据源提供的标题
+                    if title_from_source:
+                        title = title_from_source.strip()
+                        title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
+                        if title:
+                            name = title
+                            title_found = True
+                    # 如果数据源没有标题，尝试从工具输出中提取
+                    if not title_found:
+                        try:
+                            output_str = tool_output.decode('utf-8', errors='ignore')
+                            # 查找 "title:" 格式的输出
+                            title_match = re.search(r'title:\s*(.+?)(?:\n|$)', output_str, re.I)
+                            if title_match:
+                                title = title_match.group(1).strip()
+                                title = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', title)
+                                if title:
+                                    name = title
+                                    title_found = True
+                        except:
+                            pass
                     # 如果工具输出中没有标题，从文件内容中提取
                     if not title_found:
                         try:
