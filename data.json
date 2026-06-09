@@ -21618,5 +21618,18 @@
     "https://mp.weixin.qq.com/s/pQ_H9-Qbyl4eYosYgt8ygw": "登录框漏洞checklist（二）",
     "https://mp.weixin.qq.com/s/gB0xw_DrfNOI9jf-CgIx7A": "登录框漏洞checklist（一）",
     "https://mp.weixin.qq.com/s/yTPehTfk1ufv3RXq6gh1mA": "我用 Claude Code 造了一个代码审计 Skill，它在 20 万行项目中找到了 63 个漏洞",
-    "https://mp.weixin.qq.com/s/tuoxUVBGzoCOQVJcLkuhiA": "好靶场存在逻辑漏洞-导致评论区消失且用户无法评论"
+    "https://mp.weixin.qq.com/s/tuoxUVBGzoCOQVJcLkuhiA": "好靶场存在逻辑漏洞-导致评论区消失且用户无法评论",
+    "https://mp.weixin.qq.com/s/jeGUP4XOg6ROx_tnGz9Ikg": "0128.CVE-2025-68613 — n8n 工作流自动化平台中的已认证远程代码执行 (RCE) 漏洞",
+    "https://mp.weixin.qq.com/s/ClS6y2n8CKaR4C0HkUMo9w": "吃瓜！麒麟版wcht RCE？？",
+    "https://mp.weixin.qq.com/s/e1g_KQBU5iOFgRbyg1C94w": "【已复现】微信linux最新版RCE",
+    "https://mp.weixin.qq.com/s/CFVx_yQjr4x4oWzR_DLdmQ": "smartbi token回调获取登录凭证漏洞",
+    "https://mp.weixin.qq.com/s/HcHuxvYb1sZjFNJNAfyLtA": "【已复现】微信 Linux 版 1-Click 命令注入漏洞",
+    "https://mp.weixin.qq.com/s/637OW107MRrxMXAJ43RLNg": "某安全厂商DLL侧载漏洞",
+    "https://mp.weixin.qq.com/s/e-6rnzIMkEGA5wB8VmW_vw": "【靶场限免】【WeCh*t同款】文件上传导致的RCE",
+    "https://mp.weixin.qq.com/s/frG_iQeMOZsBeqalAwlN8A": "微信 linux最新版 1click RCE 已复现",
+    "https://mp.weixin.qq.com/s/aJbx0LDLyVkg6K3Hyhllsg": "Wechat for Linux 最新RCE漏洞成功复现",
+    "https://mp.weixin.qq.com/s/f9k9wCW4OErapjDdTMstOg": "OAuth常见漏洞总结",
+    "https://mp.weixin.qq.com/s/8w-sh6WbCYVyeePnLq_Mng": "【SRC实战】SSRF漏洞挖掘实战",
+    "https://mp.weixin.qq.com/s/RbAP7-w9hbVcWGgGLzqCRg": "【神器合集】漏洞挖掘效率狂飙！15款BurpSuite必装插件+工具链，告别无效扫扫扫！",
+    "https://mp.weixin.qq.com/s/0x0JVrzHPLQgusWrZACx4w": "短信验证码高危漏洞案例，不容错过！"
 }
