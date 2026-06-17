@@ -22045,5 +22045,18 @@
     "https://mp.weixin.qq.com/s/JXvEPZoY0YUHeJDMIwiKOA": "一个CRLF注入漏洞，竟能够进行密码重置邮件的操作？",
     "https://mp.weixin.qq.com/s/H6dno901WFOiBtu3A3kzHw": "EDU SRC漏洞挖掘通杀案例",
     "https://mp.weixin.qq.com/s/IpBDoYRxzuvmcayvmt_maw": "OpenBSD 修复已存在27年的 PPP 协议栈认证绕过漏洞",
-    "https://mp.weixin.qq.com/s/IICgVSFIHB0ULc0sOK5Upw": "豆包任务模式=无限肉鸡？豆包提示词RCE"
+    "https://mp.weixin.qq.com/s/IICgVSFIHB0ULc0sOK5Upw": "豆包任务模式=无限肉鸡？豆包提示词RCE",
+    "https://mp.weixin.qq.com/s/r_n49od3-Ts09Fcn0m6Geg": "大蚂蚁 (BigAnt) 即时通讯系统 admin∕secret∕edit SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/olHCQtG-TdKbjESZyf9rOA": "我用AI挖了隐藏N年的组合拳漏洞",
+    "https://mp.weixin.qq.com/s/PSwbuuwm-Z1HJ3DTVoqLPA": "我用AI挖了隐藏N年的组合拳漏洞",
+    "https://mp.weixin.qq.com/s/FWZmcFiKSRmFRrqNfWatlg": "美国网络安全和基础设施安全局 (CISA) 发布警报，称 Oracle PeopleSoft 漏洞已被勒索软件组织利用",
+    "https://mp.weixin.qq.com/s/Y7x2um1kBIPiLAPD75Y_Cw": "攻击者正利用FortiSandbox三大漏洞发起攻击，未认证即可获取root权限",
+    "https://mp.weixin.qq.com/s/rd9AN4jERTTy7Gok01YGZQ": "Kernel 新漏洞曝光！多款主流 Linux 发行版存在 Root 本地提权风险",
+    "https://mp.weixin.qq.com/s/zYfBVcxPBsiTW0kW3i1p-Q": "直播预约｜2026 火山引擎 Force 数据智能论坛 全新升级+核心能力抢先看",
+    "https://mp.weixin.qq.com/s/wgnYYjGmHUnkJcV7IEafvA": "NVIDIA NeMo曝安全漏洞，系统面临命令注入攻击风险",
+    "https://mp.weixin.qq.com/s/kxS_P0elGBsZtXYGnf4qKQ": "Google紧急发布Chrome安全更新，修复可致任意代码执行的关键漏洞",
+    "https://mp.weixin.qq.com/s/dz8Flgs4YnTj78ZFC3PgWQ": "2026攻防演练必修高危漏洞集合（1.0版）",
+    "https://mp.weixin.qq.com/s/lfF4dYWFoKIjl9ayOWBxVA": "一键即破防：M365 Copilot \"SearchLeak\" 漏洞链全解析（CVE-2026-42824）",
+    "https://mp.weixin.qq.com/s/1F_VKdktObwmbE8hlinRrA": "【漏洞通告】Splunk Enterprise 预认证远程代码执行漏洞(CVE-2026-20253)",
+    "https://mp.weixin.qq.com/s/d_K08FHmoCsLsNSJQ78nZA": "世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改"
 }
