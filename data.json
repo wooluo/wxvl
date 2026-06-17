@@ -22058,5 +22058,8 @@
     "https://mp.weixin.qq.com/s/dz8Flgs4YnTj78ZFC3PgWQ": "2026攻防演练必修高危漏洞集合（1.0版）",
     "https://mp.weixin.qq.com/s/lfF4dYWFoKIjl9ayOWBxVA": "一键即破防：M365 Copilot \"SearchLeak\" 漏洞链全解析（CVE-2026-42824）",
     "https://mp.weixin.qq.com/s/1F_VKdktObwmbE8hlinRrA": "【漏洞通告】Splunk Enterprise 预认证远程代码执行漏洞(CVE-2026-20253)",
-    "https://mp.weixin.qq.com/s/d_K08FHmoCsLsNSJQ78nZA": "世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改"
+    "https://mp.weixin.qq.com/s/d_K08FHmoCsLsNSJQ78nZA": "世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改",
+    "https://mp.weixin.qq.com/s/RUMEdzHbmk5uAOIkBqQ0LQ": "【漏洞通告】Linux Kernel net_sched act_pedit本地提权漏洞(CVE-2026-46331)",
+    "https://mp.weixin.qq.com/s/JYUMtjUJlhjnOHhjA0URAQ": "我用AI挖了隐藏N年的组合拳漏洞",
+    "https://mp.weixin.qq.com/s/sOwonojWvAkFVxdpa9UZsA": "【已复现】Linux Kernel net∕sched act_pedit 本地权限提升漏洞(CVE-2026-46331)安全风险通告"
 }
