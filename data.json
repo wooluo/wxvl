@@ -22061,5 +22061,6 @@
     "https://mp.weixin.qq.com/s/d_K08FHmoCsLsNSJQ78nZA": "世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改",
     "https://mp.weixin.qq.com/s/RUMEdzHbmk5uAOIkBqQ0LQ": "【漏洞通告】Linux Kernel net_sched act_pedit本地提权漏洞(CVE-2026-46331)",
     "https://mp.weixin.qq.com/s/JYUMtjUJlhjnOHhjA0URAQ": "我用AI挖了隐藏N年的组合拳漏洞",
-    "https://mp.weixin.qq.com/s/sOwonojWvAkFVxdpa9UZsA": "【已复现】Linux Kernel net∕sched act_pedit 本地权限提升漏洞(CVE-2026-46331)安全风险通告"
+    "https://mp.weixin.qq.com/s/sOwonojWvAkFVxdpa9UZsA": "【已复现】Linux Kernel net∕sched act_pedit 本地权限提升漏洞(CVE-2026-46331)安全风险通告",
+    "https://mp.weixin.qq.com/s/ijLCWBvroVkvtC_X0cdspg": "Apache CXF XXE 外部实体解析漏洞 | CVE-2026-49875复现&研究"
 }
