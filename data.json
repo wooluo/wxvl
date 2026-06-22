@@ -22275,5 +22275,9 @@
     "https://mp.weixin.qq.com/s/cqn_J1oFpsJD6NzG6Id2QA": "本周漏洞速递｜11个高危漏洞预警+漏洞复现",
     "https://mp.weixin.qq.com/s/keT_CAUl4KZw22uhBWviGA": "phpMyFAQ 权限漏洞提醒：后台账号不是“可信内网”，权限变更也要审计",
     "https://mp.weixin.qq.com/s/_oSYWilp7b4_fn1C5bN8YA": "漏洞复现 | 东胜物流管理软件 UserInfo.aspx SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/p6ofAy0btEooWr8G17HTSA": "TongWeb反序列化漏洞场景的图形化检测与利用工具"
+    "https://mp.weixin.qq.com/s/p6ofAy0btEooWr8G17HTSA": "TongWeb反序列化漏洞场景的图形化检测与利用工具",
+    "https://mp.weixin.qq.com/s/hsFCML3EoECqFgnhSighNw": "Chrome扩展程序存在严重漏洞，攻击者可轻松入侵数百万浏览器",
+    "https://mp.weixin.qq.com/s/Ao7jqzuTB3iUZG-ZHTfBbQ": "【高危漏洞预警】FreeBSD KTLS本地权限提升漏洞(CVE-2026-45257)",
+    "https://mp.weixin.qq.com/s/hKnSpfWIod-hnG4DQFm4lg": "豆包的xss漏洞复现(蹭热点版)",
+    "https://mp.weixin.qq.com/s/negrW-wvlejIt_LpjfKtkA": "NGINX Open Source 中存在两个可导致RCE的严重漏洞"
 }
