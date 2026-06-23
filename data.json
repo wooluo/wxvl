@@ -22348,5 +22348,14 @@
     "https://mp.weixin.qq.com/s/o4DAgKKx0jbaUuvhflOYgg": "AIScan多Agent分布式协同扫描，兼顾常规漏洞扫描与AI智能分析，自动复盘校验结果，全方位覆盖红队安全评估场景",
     "https://mp.weixin.qq.com/s/hvYkolfT2yWRd9a77HdV6g": "LiteLLM存在远程命令执行漏洞CVE-2026-42271 附POC",
     "https://mp.weixin.qq.com/s/9Brj5DXFKOcOfWmFajbwdg": "Cloudflare 如何搭建 AI 漏洞发现流水线",
-    "https://mp.weixin.qq.com/s/whv4LzJTiJt-i2zHzdG8Eg": "行之:我的大模型黑盒RCE挖掘之路"
+    "https://mp.weixin.qq.com/s/whv4LzJTiJt-i2zHzdG8Eg": "行之:我的大模型黑盒RCE挖掘之路",
+    "https://mp.weixin.qq.com/s/J92xTltFF_-WjjE_kDy9jg": "AI 安全三大核心赛道：赋能攻防、内生漏洞、自主系统失控风险详解",
+    "https://mp.weixin.qq.com/s/wXvrIb9uJhHC7NRmucG9Cw": "H5渗透实战：从复数金额漏洞到签名绕过",
+    "https://mp.weixin.qq.com/s/z79RMurKCSyQAIC0ouPKkA": "Groundsource：来自公开的全球洪水事件数据集",
+    "https://mp.weixin.qq.com/s/powo7Rvy0JX8IQevZ3O1dQ": "直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第八节开放预约",
+    "https://mp.weixin.qq.com/s/VmMBhvHaVHaf9g1WkkLvlw": "Joomla! 多个扩展存在未授权RCE漏洞",
+    "https://mp.weixin.qq.com/s/WmcKqoAe_SHdKu5cL7h6rQ": "“乌贼出血”漏洞：已存在29年，由 Mythos Preview 辅助发现",
+    "https://mp.weixin.qq.com/s/24CpFv66uSmVpZU-Kht9Nw": "谷歌拒修 Kubernetes 操作器满分漏洞并拒发赏金",
+    "https://mp.weixin.qq.com/s/KwAlhq-n4QE8RvF8i1n7gA": "14个开源项目、11个零权限RCE——这个AI审计系统开放公开挑战了",
+    "https://mp.weixin.qq.com/s/NAcZiXCM5XaktsoMzwaYpw": "14 个开源项目、11 个零权限 RCE——这个 AI 审计系统开放公开挑战了"
 }
