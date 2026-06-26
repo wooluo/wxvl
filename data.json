@@ -22557,5 +22557,10 @@
     "https://mp.weixin.qq.com/s/5psMTKFqTFdshtH_NIXyTw": "【已复现】漏洞通告 | Joomla Content Editor 未授权远程代码执行漏洞(CVE-2026-48907)",
     "https://mp.weixin.qq.com/s/DddGHEw39sExURlFcOx9Sw": "Cisco CUCM SSRF 漏洞 PoC 公开后遭利用，可通过文件写入提权至 Root",
     "https://mp.weixin.qq.com/s/4rLmpDaTPnegQYVkVhshOw": "Cisco SD-WAN 0day 被利用数月：边界控制面，不能只等补丁",
-    "https://mp.weixin.qq.com/s/rRYWzM8Q1hioHG-i7bH80A": "curl 修了 18 个漏洞：一个“低危”mTLS 问题，为什么也值得排查"
+    "https://mp.weixin.qq.com/s/rRYWzM8Q1hioHG-i7bH80A": "curl 修了 18 个漏洞：一个“低危”mTLS 问题，为什么也值得排查",
+    "https://mp.weixin.qq.com/s/Dg1QcxfykVhPNo5p3j8Mig": "信息安全漏洞预警（2026年6月22日-2026年6月26日）",
+    "https://mp.weixin.qq.com/s/yucaI3MZc8_WgobS1qT-cQ": "【漏洞通告】Gogs 目录遍历漏洞(CVE-2026-52813)",
+    "https://mp.weixin.qq.com/s/hRQs9wtmkgSWhGPSubHwkw": "Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA∕Hunter∕Shodan 资产测绘、AI 辅助分析、漏洞报告生成",
+    "https://mp.weixin.qq.com/s/t8uwBasBjx1E2W9VJsPMzQ": "手把手教你用 kali 进行渗透测试，含信息收集、漏洞利用、权限提升等",
+    "https://mp.weixin.qq.com/s/zZXEFpxBT8kBf806tmGbUA": "Android跨用户隔离批量漏洞挖掘与利用实践"
 }
