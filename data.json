@@ -22654,5 +22654,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485280&idx=1&sn=1fcdc3c1ef0b8299952a470ef99300d9": "最新Linux的本地提权漏洞分析",
     "https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w": "打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析",
     "https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA": "JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器",
-    "https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q": "自动化漏洞扫描器 -- hack_scanner"
+    "https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q": "自动化漏洞扫描器 -- hack_scanner",
+    "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹"
 }
