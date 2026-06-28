@@ -22655,5 +22655,8 @@
     "https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w": "打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析",
     "https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA": "JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器",
     "https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q": "自动化漏洞扫描器 -- hack_scanner",
-    "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹"
+    "https://mp.weixin.qq.com/s/Bx1GqMx-29RSjEtRtL_lCg": "DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹",
+    "https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg": "【安全圈】三星 Galaxy 手机被曝高危安全漏洞",
+    "https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ": "某34国语言综合GP交易所存在前台SQL注入漏洞 (Java)",
+    "https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw": "OAuth 2.0 身份验证漏洞--portswigger打靶"
 }
