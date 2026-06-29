@@ -22702,5 +22702,6 @@
     "https://mp.weixin.qq.com/s/s-zmVtTIsXPSsgu973fyrg": "Github上有大哥公开多个0day PoC",
     "https://mp.weixin.qq.com/s/voZerzkRD8Kp8JZQJKWR1g": "DirtyClone: Linux 内核新漏洞，通过克隆的数据包获得根权限",
     "https://mp.weixin.qq.com/s/czp0n7Dx3n5STdj2tZQz9g": "Amazon 的AI编程助手高危漏洞可导致代码执行和敏感云环境访问",
-    "https://mp.weixin.qq.com/s/n0_vQovyEs0cPGTG0MRKPA": "2026攻防演练必修高危漏洞集合（2.0版）"
+    "https://mp.weixin.qq.com/s/n0_vQovyEs0cPGTG0MRKPA": "2026攻防演练必修高危漏洞集合（2.0版）",
+    "https://mp.weixin.qq.com/s/5N6vkJckrlk8XLmAYvE0qA": "攻击面管理系统｜AI 驱动资产测绘 + 万条 Nuclei 漏洞库，自动生成漏洞 EXP，内网公网一键扫描利用"
 }
