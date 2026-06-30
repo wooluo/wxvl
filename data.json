@@ -22783,5 +22783,7 @@
     "https://mp.weixin.qq.com/s/Dj74mPIXJkatyg-w9Kxiyw": "【无问AI网安模型】二进制漏洞分析挖掘能力实战测评",
     "https://mp.weixin.qq.com/s/as_MxPI48uLJUHrU-_mq6Q": "第一个edusrc高危漏洞",
     "https://mp.weixin.qq.com/s/IqKKdvEZmZz_iQ9RX-Bo5g": "AutoCVE：7 天测试期挖出 30 个真实 CVE，国产 AI 漏洞挖掘平台拿出了硬战绩",
-    "https://mp.weixin.qq.com/s/NmqWMF5ALKzk9UJ0kq0D-A": "【已支持检测】预认证即可利用！Kemp LoadMaster 堆内存缺陷导致命令注入远程代码执行漏洞（CVE-2026-8037）"
+    "https://mp.weixin.qq.com/s/NmqWMF5ALKzk9UJ0kq0D-A": "【已支持检测】预认证即可利用！Kemp LoadMaster 堆内存缺陷导致命令注入远程代码执行漏洞（CVE-2026-8037）",
+    "https://mp.weixin.qq.com/s/xafOq2_btzgEL-cxht5haQ": "新版App应用漏洞扫描，企业级移动安全合规利器，多维检测隐私泄露、权限滥用、高危API调用等常见APP安全隐患",
+    "https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw": "【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE"
 }
