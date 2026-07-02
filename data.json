@@ -22919,5 +22919,9 @@
     "https://mp.weixin.qq.com/s/4gTnTHIgU8f4MuaLDNev2g": "Citrix(思杰)发布 NetScaler 六款漏洞补丁，漏洞可实现文件读取与拒绝服务攻击",
     "https://mp.weixin.qq.com/s/213u7JnGhDS6QeGNzqsMTw": "Adobe 发布补丁修复 ColdFusion 与 Campaign Classic 中 7 个 CVSS 满分 10.0 级高危漏洞",
     "https://mp.weixin.qq.com/s/cL3djMD7CyQc2_YQ8_HTLg": "Cursor 高危漏洞可通过提示注入突破沙箱并执行系统命令",
-    "https://mp.weixin.qq.com/s/0Kt_FKwk9Ud2BIfwCoLR6Q": "GuardFall 漏洞波及 11 款主流开源 AI 智能体中的 10 款"
+    "https://mp.weixin.qq.com/s/0Kt_FKwk9Ud2BIfwCoLR6Q": "GuardFall 漏洞波及 11 款主流开源 AI 智能体中的 10 款",
+    "https://mp.weixin.qq.com/s/kAasLoB6qnrhLmwd2BmCbg": "Anthropic Buffa Rust库0Day漏洞可引发拒绝服务攻击",
+    "https://mp.weixin.qq.com/s/rqIj9J1ORa8Ik6Zj0Hy_vA": "Cursor IDE曝两大高危RCE漏洞，可零点击攻破AI开发环境",
+    "https://mp.weixin.qq.com/s/X6rtcoH7fKOntR_XMblwcg": "关于 O+ Connect PC 端漏洞暂停收录的公告",
+    "https://mp.weixin.qq.com/s/XfPzzlWD2JCjq1X7iS3Gsg": "本周漏洞速递｜13个高危漏洞预警+漏洞复现"
 }
