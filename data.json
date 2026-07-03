@@ -22932,5 +22932,19 @@
     "https://mp.weixin.qq.com/s/abXzjO6CVpwnUdX51RpMaA": "工具推荐 | OSS存储桶遍历漏洞自动化利用工具",
     "https://mp.weixin.qq.com/s/LwQRoFuBViY0eHiFGxsOOQ": "SRC-Hunter SKILL AI挖洞技能库，适配SRC众测与漏洞赏金，复刻数千条HackerOne高危漏洞实战案",
     "https://mp.weixin.qq.com/s/zTvQ43QiGbaCuATj5xLrSg": "【AI复盘】Copilot三阶段提示注入漏洞链",
-    "https://mp.weixin.qq.com/s/AurYdQ7b9l7xOsFv5mS4ag": "安全工具丨AI驱动的CVE漏洞全自动挖掘平台，一键挖掘CVE漏洞、代码审计、漏洞验证、出报告，全流程自动化！"
+    "https://mp.weixin.qq.com/s/AurYdQ7b9l7xOsFv5mS4ag": "安全工具丨AI驱动的CVE漏洞全自动挖掘平台，一键挖掘CVE漏洞、代码审计、漏洞验证、出报告，全流程自动化！",
+    "https://mp.weixin.qq.com/s/98G_M8Gx5XVON6jkPmim0A": "StoneFly 存储集中器漏洞可导致未经身份验证的 root 访问",
+    "https://mp.weixin.qq.com/s/5iUwY0PIKMm6GMcVCu8J5g": "针对某老OA打了补丁之后再次前台RCE的审计流程",
+    "https://mp.weixin.qq.com/s/yB3Z_IjRBVu9AK8dSwhvEQ": "红队实战：本地AI如何发现其他工具都漏掉的漏洞",
+    "https://mp.weixin.qq.com/s/B_UzIVT-x2jPn5S7ok5_BA": "别再死磕漏洞了：你和顶尖黑客之间，可能只差了这一行API",
+    "https://mp.weixin.qq.com/s/YB9TwhsRxgkdYfbkh7k6mQ": "Citrix NetScaler再曝高危漏洞：SAML解析缺陷可泄露服务器内存",
+    "https://mp.weixin.qq.com/s/1uKl2lsWRe4zHS4_dvTuuQ": "2026漏洞赏金终极侦察清单【纯净版】",
+    "https://mp.weixin.qq.com/s/GUOaO_xcVYwsPPnPW4txXQ": "新的 ChocoPoC RAT 通过虚假 PoC 漏洞利用存储库瞄准漏洞研究人员",
+    "https://mp.weixin.qq.com/s/CBaMgBhHbSyT2t4na0k5uw": "攻防演练必备单品竟然是它：演练前审代码，演练中验漏洞",
+    "https://mp.weixin.qq.com/s/0PwoBTaZiTRMOoVpsIPK_w": "Adobe修复了ColdFusion和Campaign Classic中的多个最高严重性漏洞",
+    "https://mp.weixin.qq.com/s/TyLl7teQDW7MqJVYth-EKg": "ArgoCD未认证RCE漏洞剖析",
+    "https://mp.weixin.qq.com/s/hpnsi8q4ccelIoPZSu5CcQ": "目录遍历漏洞绕过指南：穿越防火墙，直通赏金",
+    "https://mp.weixin.qq.com/s/MaVeIBC4qbfbapW24punUQ": "漏洞预警 | Gogs路径遍历漏洞",
+    "https://mp.weixin.qq.com/s/GVZYA0egDSz3Y_q4mgrSew": "漏洞预警 | 大蚂蚁即时通讯系统文件上传漏洞",
+    "https://mp.weixin.qq.com/s/O3UIFV1CSORMGWKFW6pxEw": "若依 Vue 漏洞检测工具 | 支持若依(RuoYi-Vue)多种安全漏洞"
 }
