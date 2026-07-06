@@ -1,5 +1,5 @@
 # 【88vip高返助手使用攻略】购物返利机器人，支持淘宝、京东、拼多多、抖音、唯品会等平台领隐藏优惠~
 
-原文链接：https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486153&idx=1&sn=4944b9631acf13c5dedb908395303c43
+原文链接：https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486191&idx=1&sn=02a540655d06228020c8d65604156fa4
 
 > 注：由于微信反爬虫限制，无法获取完整内容。请点击上方链接阅读原文。
