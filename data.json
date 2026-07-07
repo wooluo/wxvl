@@ -23198,5 +23198,11 @@
     "https://mp.weixin.qq.com/s/Y5GARwtAlpPViAqYjO40iQ": "一个潜伏16年的KVM漏洞，如何让虚拟机「越狱」",
     "https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw": "微软Edge漏洞可致攻击者远程执行任意代码",
     "https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag": "【已复现】漏洞通告 | phpBB认证绕过漏洞(CVE-2026-48611)",
-    "https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw": "漏洞赏金猎人终极侦察清单"
+    "https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw": "漏洞赏金猎人终极侦察清单",
+    "https://mp.weixin.qq.com/s/uPtv1Tz2__9fB9P4-xjzYg": "【已复现】Linux FUSE page cache 本地权限提升漏洞(CVE-2026-31694)安全风险通告",
+    "https://mp.weixin.qq.com/s/D2m2ZOz9MNtRLIB35DMb7Q": "【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce",
+    "https://mp.weixin.qq.com/s/h__oS3_urFF3uKcCpj-W4Q": "BeyondTrust 修复了远程支持和 PRA 中的关键身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/XQhgWbZyhgpkKulRm6owzQ": "6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查",
+    "https://mp.weixin.qq.com/s/8z3EhwgnTyTj6Hkq8dDNCQ": "【已复现】Linux FUSE page cache 越界写本地提权漏洞",
+    "https://mp.weixin.qq.com/s/i3fP0yOiJ4_VwLOuWLc_CA": "工具 | ARL灯塔 二开重构版本 自动化资产发现和漏洞监控平台"
 }
