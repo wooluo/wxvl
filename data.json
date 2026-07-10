@@ -23327,5 +23327,15 @@
     "https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg": "【安全圈】严重漏洞暴露 GitHub Agentic Workflows 面临提示注入风险",
     "https://mp.weixin.qq.com/s/6OlwhUOOPQQjJcWvv_sUuQ": "工具推荐 | 重构 ARL 经典版：打造全自动资产侦察与漏洞监控平台，AI 二开友好",
     "https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ": "【高危漏洞预警】GhostLock (CVE-2026-43499)：Linux内核15年栈UAF漏洞，本地提权与容器逃逸风险通告",
-    "https://mp.weixin.qq.com/s/a90b7amdDn_rnyA5cor9Qg": "安全工具丨多功能Web漏洞扫描器，支持80项漏洞自动检测！"
+    "https://mp.weixin.qq.com/s/a90b7amdDn_rnyA5cor9Qg": "安全工具丨多功能Web漏洞扫描器，支持80项漏洞自动检测！",
+    "https://mp.weixin.qq.com/s/dfei6JgD1QkIjZ7TjTYPVQ": "锐明技术Crocus系统 DeviceFileUpload 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/2OBKAihOEfR0x59zx8GUcw": "西软云XMS download2 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/AIVaiUG0iVkSba7UB9rXpA": "【CVE-2026-46215】通过 DRM GEM change_handle 中的UAF功能获得ROOT权限",
+    "https://mp.weixin.qq.com/s/ddprXb52aj7Oc56ojj874g": "当漏洞猎人成了猎物：ChocoPoC 木马借假 PoC 仓库精准攻陷安全研究员",
+    "https://mp.weixin.qq.com/s/nkL1RyUnL0bkiFucu216Pw": "漏洞复现 | OpenCode content 接口任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA": "OPNsense Root RCE 漏洞(CVE-2026-57155，CVSS 9.9) PoC已公开，建议立即升级！",
+    "https://mp.weixin.qq.com/s/hRtyUrP23BiNQld_lqL5KQ": "微软修复 Windows Defender RoguePlanet 漏洞 CVE-2026-50656",
+    "https://mp.weixin.qq.com/s/FswjvqeJl3xL-uCWoHxRcA": "教育行业SRC供应商漏洞变化 (2026-07-10)",
+    "https://mp.weixin.qq.com/s/GSbyHVCqWu9c9fQJc1Kwmw": "CVE复现  CVE-2026-31816漏洞复现",
+    "https://mp.weixin.qq.com/s/kXLAXtk5kuVEbXSrnjptDg": "【热点安全风险】7月10日 |Google发布Chrome更新，修复27个安全漏洞，包含多个常用组件中的Critical级别漏洞"
 }
