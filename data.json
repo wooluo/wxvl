@@ -23461,5 +23461,10 @@
     "https://mp.weixin.qq.com/s/Cilus-EjTwI8jpKowSas8g": "CNNVD | 人工智能重要漏洞通报（2026年第十期）",
     "https://mp.weixin.qq.com/s/uirqC0lz2lQDIYiLHAjz8Q": "2026攻防演练必修高危漏洞集合（1.0版）",
     "https://mp.weixin.qq.com/s/N55sR2zR2NMDjgDNCwAWIQ": "2026攻防演练必修高危漏洞集合（2.0版）",
-    "https://mp.weixin.qq.com/s/PW_0zEt8AfcEsIKuNVWPhw": "红队内网渗透实战：CVE-2020-0796 SMBGhost 利用（附 EXP 工具）"
+    "https://mp.weixin.qq.com/s/PW_0zEt8AfcEsIKuNVWPhw": "红队内网渗透实战：CVE-2020-0796 SMBGhost 利用（附 EXP 工具）",
+    "https://mp.weixin.qq.com/s/EOMTqw6QBRkPBPILLjZEng": "Linux内核FUSE漏洞",
+    "https://mp.weixin.qq.com/s/_1JnI5G2U76_3h7RjDlyIA": "WordPress插件漏洞遭大规模武器化",
+    "https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA": "【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151)",
+    "https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ": "Linux内核FUSE漏洞可致攻击者获取Root权限",
+    "https://mp.weixin.qq.com/s/H-BZW4cvdDmvbtED7bk_CA": "ChatGPT漏洞可被利用访问系统文件；新型攻击可远程劫持AI编程Agent执行恶意代码 | FreeBuf周报"
 }
