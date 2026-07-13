@@ -23526,5 +23526,15 @@
     "https://mp.weixin.qq.com/s/jWN3eHJLb5tE9h-m61QG4Q": "原创—某AI xss漏洞",
     "https://mp.weixin.qq.com/s/9f_PN8IZuJ9PK3veKHsZKQ": "SharePoint又一个绕过：CVE-2026-33112从XmlValidator限制到低权限RCE",
     "https://mp.weixin.qq.com/s/m-UycOqcRINdxTPkyC58FA": "U-Boot 存在高危漏洞，数百万设备的安全启动机制遭到破坏",
-    "https://mp.weixin.qq.com/s/9IvhhudhTZGDZVR7jxTlcQ": "立即更新：Zimbra 经典版网页客户端存在高危漏洞，可能导致邮箱数据泄露"
+    "https://mp.weixin.qq.com/s/9IvhhudhTZGDZVR7jxTlcQ": "立即更新：Zimbra 经典版网页客户端存在高危漏洞，可能导致邮箱数据泄露",
+    "https://mp.weixin.qq.com/s/n4rsvHShD2e7a8n_zD78vQ": "FlowiseAI 任意文件写入漏洞 CVE-2025–26319",
+    "https://mp.weixin.qq.com/s/Zk0WrX1Kaucq8a_PSlrnFQ": "研究人员详细介绍了利用 OpenClaw 三个漏洞实现 WhatsApp 到主机攻击链的过程",
+    "https://mp.weixin.qq.com/s/aNwu1NP1vkLYk7YTkwVs-Q": "5步带你从0开局拿下漏洞赏金！1700讲透白帽src的所有核心基础和赏金思路！",
+    "https://mp.weixin.qq.com/s/yEj8oZe_sDhJBMkRRxK0og": "【高危AI漏洞预警】CVE-2026-56271 Flowise硬编码JWT密钥认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/h_ek2fHAQ_nkmmWvNsdRkQ": "白昼信安内部漏洞知识库注册邀请码",
+    "https://mp.weixin.qq.com/s/MZwCjvNEVPtGyLUKWpesOQ": "00Query 发布！基于00信安API的微信公众号∕小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！",
+    "https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ": "00Query 发布！基于00信安API的微信公众号∕小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！",
+    "https://mp.weixin.qq.com/s/7zNF8V4ZIAvNpGFi_-sCtw": "安全通告丨网络安全漏洞通告（2026年7月）",
+    "https://mp.weixin.qq.com/s/JaLsyFK2V7jzV8_bI0UM9w": "CNNVD | 最新OpenClaw多个安全漏洞通报",
+    "https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g": "Zimbra：速修复这个严重的 Web Client XSS 漏洞"
 }
