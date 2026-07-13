@@ -23536,5 +23536,7 @@
     "https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ": "00Query 发布！基于00信安API的微信公众号∕小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！",
     "https://mp.weixin.qq.com/s/7zNF8V4ZIAvNpGFi_-sCtw": "安全通告丨网络安全漏洞通告（2026年7月）",
     "https://mp.weixin.qq.com/s/JaLsyFK2V7jzV8_bI0UM9w": "CNNVD | 最新OpenClaw多个安全漏洞通报",
-    "https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g": "Zimbra：速修复这个严重的 Web Client XSS 漏洞"
+    "https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g": "Zimbra：速修复这个严重的 Web Client XSS 漏洞",
+    "https://mp.weixin.qq.com/s/nDiZgxmuTvQncJH95tlOEw": "【6月29日-7月5日】安全漏洞周报 | 523个高危漏洞急需关注",
+    "https://mp.weixin.qq.com/s/YnJ08eUTx1_v2_RxDu7VuA": "Apache su EXEC 日志目录可写导致的 SUID 提权漏洞"
 }
