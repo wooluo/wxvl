@@ -23603,5 +23603,6 @@
     "https://mp.weixin.qq.com/s/bHrmKYB38GkIO73jP9sGhw": "【漏洞通告】Apache Airflow Git provider SSH 主机密钥校验绕过漏洞(CVE-2026-58065)",
     "https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ": "【高危AI漏洞预警】n8n令牌验证绕过漏洞(CVE-2026-59208)",
     "https://mp.weixin.qq.com/s/VoyGVtkQDGZyGWRN1zAb0w": "本周漏洞速递｜9个高危漏洞预警+漏洞复现",
-    "https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg": "OSCP百日备考18｜Windows提权（上）：信息收集+内核漏洞+服务配置错误，从低权用户摸到SYSTEM"
+    "https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg": "OSCP百日备考18｜Windows提权（上）：信息收集+内核漏洞+服务配置错误，从低权用户摸到SYSTEM",
+    "https://mp.weixin.qq.com/s/9GljM5jXaRDKFCxHLyMGPA": "AI漏洞挖掘：我的一些感想"
 }
