@@ -23541,5 +23541,9 @@
     "https://mp.weixin.qq.com/s/YnJ08eUTx1_v2_RxDu7VuA": "Apache su EXEC 日志目录可写导致的 SUID 提权漏洞",
     "https://mp.weixin.qq.com/s/O9P_7xlC1zw9U4btItgCoQ": "紧急安全预警｜OpenWrt Samba被曝高危命令注入漏洞(CVE-2026-59260)，攻击者可远程获取Root权限",
     "https://mp.weixin.qq.com/s/zkHmkKy9VLn_XXe3FgGN0g": "AntiDebug Mcp、AI逆向绕过前端，Hook 加密接口，抓取 Vue 路由漏洞，接入 MCP 让 AI 自动化挖掘前端漏洞",
-    "https://mp.weixin.qq.com/s/nHc4nDwcxHSokkyxTrhhkQ": "Wireshark紧急修复12项漏洞，恶意数据包可致程序崩溃"
+    "https://mp.weixin.qq.com/s/nHc4nDwcxHSokkyxTrhhkQ": "Wireshark紧急修复12项漏洞，恶意数据包可致程序崩溃",
+    "https://mp.weixin.qq.com/s/JRfwNdzBd-gbW9tO-EkUFA": "0day | 企业信息发送平台 getLicenceDetail 存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/8ORo9qsEufkmeqZ4ddxceA": "教育行业SRC供应商漏洞变化 (2026-07-14)",
+    "https://mp.weixin.qq.com/s/nCVgM6J_aCcc3pHpTAD8aQ": "派拓CEO：当前安全攻防的关键是抢先发现并修复漏洞",
+    "https://mp.weixin.qq.com/s/VuGIzzxWTwwGBPHOdLzSbw": "赏金猎人的SameSite扫盲贴：别再因为看不懂Cookie错失漏洞"
 }
