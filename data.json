@@ -23989,5 +23989,8 @@
     "https://mp.weixin.qq.com/s/i69VBFscdZDVKoIshijNpQ": "Android AI Agent现漏洞，隐形文本可执行主机代码",
     "https://mp.weixin.qq.com/s/jFglwXUuGUwIxu-Olt7gRQ": "漏洞复现 | 雨诺调度客户端 UserList 存在未授权访问敏感信息泄露漏洞",
     "https://mp.weixin.qq.com/s/tDTxjxNGrtLpIxAdWpLmEw": "OpenAI安全测试中失控：批量0day入侵Hugging Face生产环境",
-    "https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw": "【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw": "【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/psdy-kk9b-Wx-OxdH_QNuw": "600,000个网站面临风险:Ninja Forms存储型XSS漏洞CVE-2026-65048,CVSS评分高达9.3",
+    "https://mp.weixin.qq.com/s/jRr9Ydz-9SOsYeyEXV-Z2w": "漏洞复现 | KodExplorer 存在弱口令漏洞",
+    "https://mp.weixin.qq.com/s/Td5558oH8-x7yMXesBTl-Q": "漏洞挖掘信息收集技巧"
 }
