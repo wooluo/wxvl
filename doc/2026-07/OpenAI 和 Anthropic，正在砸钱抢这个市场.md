@@ -1,0 +1,5 @@
+# OpenAI 和 Anthropic，正在砸钱抢这个市场
+
+原文链接：https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111244&idx=1&sn=87a7143660fdb0fdabddb066f237d479
+
+> 注：由于微信反爬虫限制，无法获取完整内容。请点击上方链接阅读原文。
