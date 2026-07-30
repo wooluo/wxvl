@@ -1,17 +1,5 @@
-#  倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛  
- 赛查查   2026-07-29 07:27  
-  
-**距第二届OpenHarmony CTF**  
-  
-**（Capture The Flaw）**  
-  
-**智能漏洞挖掘赛**  
-  
-**仅剩 3 天**  
-  
-2026年8月1日 至 8月21日  
-  
-**全新疆域，待君一战！**  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/PgdguOWib9Iy8uLAYM2aZUwlGpLhcZJqZu2nTaeghbzyxR7IJic7HUjXIjicjbZ0ovuibrDibK7o06Ap4RVlDwiaKcRWyUKAJCDNhicnOfCC1dpPas/640?wx_fmt=png&from=appmsg "")  
-  
+# 倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛
+
+原文链接：https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516616&idx=1&sn=8e356c728b7dec1f96753f0c92b3ddb7
+
+> 注：由于微信反爬虫限制，无法获取完整内容。请点击上方链接阅读原文。
