@@ -1,0 +1,5 @@
+# 原创漏洞 | JeecgBoot 积木报表远程代码执行漏洞
+
+原文链接：https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508861&idx=1&sn=2cf7864837777962955ea59ce173a1ce
+
+> 注：由于微信反爬虫限制，无法获取完整内容。请点击上方链接阅读原文。
