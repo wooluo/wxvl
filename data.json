@@ -26099,5 +26099,16 @@
     "https://mp.weixin.qq.com/s/-ibfrmodL5o3scrZjkouoA": "【安全圈】微软9月修复974个漏洞：2个在野0day且含蠕虫风险",
     "https://mp.weixin.qq.com/s/zMZjuqWQDeo-tNikswA-Vg": "ChatGPT漏洞：允许植入的提示信息将受害者的Gmail数据发送到另一个帐户",
     "https://mp.weixin.qq.com/s/vXBX2pqIg8dFgK2pcf8EDA": "山石安全能力中心｜微软2026年9月份漏洞补丁日安全通告",
-    "https://mp.weixin.qq.com/s/v0wHmfferwdEqNCyRZPAuA": "Jenkins Performance 插件反序列化 RCE（CVE-2026-84670）：一个\"假白名单\"，七年潜伏，一删了之"
+    "https://mp.weixin.qq.com/s/v0wHmfferwdEqNCyRZPAuA": "Jenkins Performance 插件反序列化 RCE（CVE-2026-84670）：一个\"假白名单\"，七年潜伏，一删了之",
+    "https://mp.weixin.qq.com/s/Pqb8nzX84X5R6OrZvCnqqA": "OnePlus会话劫持漏洞导致Android数据泄露",
+    "https://mp.weixin.qq.com/s/tcaAt4Jg_f3ff9Jx6TSZfQ": "亿赛通电子文档安全管理系统SecureUsbConnection存在反序列化漏洞",
+    "https://mp.weixin.qq.com/s/2BJIlsWq8idNksSwsY86DQ": "CISA 将 Cisco、Chromium V8、Fortinet 和 Citrix NetScaler 漏洞添加到其已知被利用漏洞目录中",
+    "https://mp.weixin.qq.com/s/9o9W4F3aJhO9vvRVTBBLTQ": "安全工具丨大模型驱动的自动化渗透测试系统：智能体自主规划「探测→资产枚举→漏洞检测→AI分析与报告」的完整测试流程",
+    "https://mp.weixin.qq.com/s/i-MZHG_Tr3gvI0pmseDukA": "宏景人力资源管理系统 XFireServlet SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/ISKAINAr_SMsnDsfG9ldfQ": "DeepSeek开源工具爆严重漏洞，AI编程代理可自破沙箱",
+    "https://mp.weixin.qq.com/s/MCFCFY41Y7URuzOhlJAvxQ": "价值图谱 | WEB漏洞扫描产品核心能力介绍",
+    "https://mp.weixin.qq.com/s/s4hgv3k6dc09klsKUPAYtw": "靠 Android 逆向挖漏洞赚了几十万的工具分享",
+    "https://mp.weixin.qq.com/s/Nsip3mfrydYirZEZ5kFs2g": "大华智慧园区综合管理平台queryById接口存在敏感信息泄露  附POC",
+    "https://mp.weixin.qq.com/s/uX9rXrbtnCmwdr_hFeRA6g": "管防火墙的系统，被三个团伙排队打穿：Cisco FMC CVE-2026-20079 全链拆解",
+    "https://mp.weixin.qq.com/s/azoyt805nHgrJXyV0qKY7g": "每日一学：若依（Ruoyi）框架，你必须知道的四个通用漏洞"
 }
