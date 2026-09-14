@@ -26322,5 +26322,8 @@
     "https://mp.weixin.qq.com/s/tCGV0NhDzFW1JJHbRDNYKA": "JeecgBoot 积木报表 v2.5.1 未授权 RCE & Aviator 沙箱逃逸",
     "https://mp.weixin.qq.com/s/hlm2wLHm2rjV1nkSE9XDEw": "CVE-2026-74997｜Roundcube Webmail插件可实现服务器远程代码执行",
     "https://mp.weixin.qq.com/s/bUnia_c25Pz72w1AkqRaZA": "CVE-2026-67276 | RouterOS SSH公钥认证绕过漏洞（POC）",
-    "https://mp.weixin.qq.com/s/4SxZ1gTgvcCe-cR5HQEvjQ": "2026年还能让Google掏出百万奖金的漏洞"
+    "https://mp.weixin.qq.com/s/4SxZ1gTgvcCe-cR5HQEvjQ": "2026年还能让Google掏出百万奖金的漏洞",
+    "https://mp.weixin.qq.com/s/RMXhuL_YettDO47vo6xhKg": "(9.9分) CVE-2026-90605：Totolink路由器formFilter缓冲区溢出",
+    "https://mp.weixin.qq.com/s/u2zemJyjxXBKOHwdcagcIA": "关于LYSRC暂停接收漏洞公告",
+    "https://mp.weixin.qq.com/s/oDP5XJ4KXyqjiOMM12XV4w": "VulnHunter 正式开源！AI 漏洞挖掘平台，重塑代码审计工作流"
 }
