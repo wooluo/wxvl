@@ -26437,5 +26437,13 @@
     "https://mp.weixin.qq.com/s/aYNGJ8fhElqgF8NDuVDVdg": "Marimo 漏洞把云凭据交到攻击者手里：从笔记本到堡垒机只需几秒",
     "https://mp.weixin.qq.com/s/eN7zn6kvuNzWR_tDz0SwVg": "Cisco邮件网关9.8分漏洞被在野利用：一封邮件直接拿root，没有任何绕过的余地",
     "https://mp.weixin.qq.com/s/rV5a1d74Y2545LxjTW5bEw": "收到欧盟CERT漏洞通知邮件怎么办？制造商必读的CRA合规应对指南",
-    "https://mp.weixin.qq.com/s/qPdkwy1Y9a_M3ZQ9cICt4A": "宇树暴跌！从4400亿到1900亿，制度漏洞还是估值泡沫？"
+    "https://mp.weixin.qq.com/s/qPdkwy1Y9a_M3ZQ9cICt4A": "宇树暴跌！从4400亿到1900亿，制度漏洞还是估值泡沫？",
+    "https://mp.weixin.qq.com/s/g7C_-SkNwavzz5K3kODpsg": "众测 30 分钟挖到鸿蒙App高危上传漏洞 | 从 APP 一条异常图片请求，发现被忽略的外围攻击面",
+    "https://mp.weixin.qq.com/s/A0h3oCFG6EB8TEomt5Pxbw": "已复现 | Langflow post-auth RCE",
+    "https://mp.weixin.qq.com/s/Hg5KbPZeA24zDtKcHWI9Pg": "cPanel：LiteSpeed Web Server 企业版严重漏洞可导致提权",
+    "https://mp.weixin.qq.com/s/dhG4uwa_zWI_Ng_7wmt-ZQ": "ThinkPHP框架：2.x-8.x全版本必须知道的10个通用漏洞（附实战getshell案例）",
+    "https://mp.weixin.qq.com/s/di-2_6CBcmYkiEy_lFw8dA": "搜狗输入法 Windows 版远程代码执行漏洞(CVE-2026-51990)",
+    "https://mp.weixin.qq.com/s/dmvcbKBWuy1bldoNOLSDaA": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability(CVE-2026-85893)",
+    "https://mp.weixin.qq.com/s/HfmWdQkKsppP8Y_4akp8Ww": "华顺信安荣获CNVD“2025年度漏洞应急工作突出贡献单位”",
+    "https://mp.weixin.qq.com/s/UAywPSxyEDaHD9XkWZ93QQ": "【漏洞通告】Oracle WebLogic Server未授权远程接管漏洞（CVE-2026-70756)"
 }
