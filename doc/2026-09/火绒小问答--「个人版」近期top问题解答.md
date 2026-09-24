@@ -1,5 +1,5 @@
 # 火绒小问答--「个人版」近期top问题解答
 
-原文链接：https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537497&idx=2&sn=eb449ffb68d51fa38e1df77bae588d5c
+原文链接：https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537960&idx=2&sn=4529a8807a479f7b403c31896894db0a
 
 > 注：由于微信反爬虫限制，无法获取完整内容。请点击上方链接阅读原文。
