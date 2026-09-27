@@ -27159,5 +27159,7 @@
     "https://mp.weixin.qq.com/s/t4MMjuBUnw9Oe9X7LJS2Xw": "首批！360入选国家人工智能安全漏洞库优秀技术支撑单位",
     "https://mp.weixin.qq.com/s/3uLerePsXTiulToPz1pf4g": "Coruna ios 漏洞C2系统存在前台敏感信息泄露漏洞",
     "https://mp.weixin.qq.com/s/68xjdiiM7vjATm3MSqyMxA": "(9.8分) CVE-2026-18143：WordPress报价插件未认证任意文件上传",
-    "https://mp.weixin.qq.com/s/d9HtO05B2nzS-lPxeRcQGQ": "从焊 UART 到浏览器打穿：TP-Link Tapo 摄像头 RCE 链（TAPOcalypse）"
+    "https://mp.weixin.qq.com/s/d9HtO05B2nzS-lPxeRcQGQ": "从焊 UART 到浏览器打穿：TP-Link Tapo 摄像头 RCE 链（TAPOcalypse）",
+    "https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q": "Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞",
+    "https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ": "【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310"
 }
