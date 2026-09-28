@@ -27206,5 +27206,10 @@
     "https://mp.weixin.qq.com/s/sd5rMBmeauewDfchfEl4AQ": "【代码审计】web漏洞之seacms13.6登录后文件写入缓存文件导致getshell",
     "https://mp.weixin.qq.com/s/qL1lNuMEug4O8FVYruvk7Q": "高危预警：CVE-2026-56782｜Gorse 开源推荐系统认证绕过漏洞，可无权限拖库 ∕ 覆盖全量数据",
     "https://mp.weixin.qq.com/s/S0nHip7G31hmeEFAgwtlDA": "【安全速报】9月28日高危漏洞紧急预警",
-    "https://mp.weixin.qq.com/s/pcj3HVsp61Yw1Ap5CDIY5A": "CVE-2026-43786:macOS CoreServices 漏洞概念验证(PoC)已公开披露"
+    "https://mp.weixin.qq.com/s/pcj3HVsp61Yw1Ap5CDIY5A": "CVE-2026-43786:macOS CoreServices 漏洞概念验证(PoC)已公开披露",
+    "https://mp.weixin.qq.com/s/9fZ9iseX1RcLHnTRq5gWrg": "漏洞挖掘和红队工作技能包 - Claude-BugHunter",
+    "https://mp.weixin.qq.com/s/-xlPD7Z7tKip_pY_GrS0jw": "(10分) CVE-2026-101001：Netcore路由器未鉴权命令注入",
+    "https://mp.weixin.qq.com/s/Kiw97NtqTjcjleTs_6jsvw": "【安全圈】Citrix曝双严重零日漏洞",
+    "https://mp.weixin.qq.com/s/WWEGmOhvdJFK54IXpsgErg": "【安全圈】Cloudflare容器曝隔离漏洞：残余数据可跨租户窃取",
+    "https://mp.weixin.qq.com/s/Xwndbk_hbU33TRLII6Jcrg": "基于Ai自主代码审计的红队Agent，真正做到审计出漏洞"
 }
