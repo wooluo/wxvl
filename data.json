@@ -27300,5 +27300,12 @@
     "https://mp.weixin.qq.com/s/TO0gEv_BH6YClzmZB1pdew": "【已复现】CVE-2026-88772 Citrix NetScaler内存溢出漏洞 CVE-2026-88771 NetScaler Gateway 预认证命令注入漏洞",
     "https://mp.weixin.qq.com/s/YsNHaZMT_RS3e6ETIj41CA": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0907-0920）",
     "https://mp.weixin.qq.com/s/fpRdlv-Gbg4o5y5L8gFI8A": "Cloudflare开源了一个一万星的挖洞Skill：我埋了7个洞，它全找出来了，但它最值钱的地方不是“找漏洞”",
-    "https://mp.weixin.qq.com/s/JYjkHi2DUEAmzAvZVkFi0g": "【已复现】 Citrix NetScaler 未认证 RCE 已在野利用，默认配置受影响(CVE-2026-88771)"
+    "https://mp.weixin.qq.com/s/JYjkHi2DUEAmzAvZVkFi0g": "【已复现】 Citrix NetScaler 未认证 RCE 已在野利用，默认配置受影响(CVE-2026-88771)",
+    "https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg": "路径遍历漏洞：一个下载接口引发的系统文件泄露",
+    "https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew": "【高危漏洞预警】Citrix NetScaler ADC ∕ NetScaler Gateway预认证命令注入远程代码执行漏洞CVE-2026-88771",
+    "https://mp.weixin.qq.com/s/Ll2JAkr35FbwNOc03QtQ8Q": "CVE-2026-101909 深度解析：Axios 不是漏洞入口，而是原型污染的「放大器」",
+    "https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA": "【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发",
+    "https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A": "【漏洞预警】Citrix NetScaler 命令注入漏洞",
+    "https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ": "54款大模型测出873个漏洞，网安生该学什么？",
+    "https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg": "iOS 26.7.1 发布了：一个已经被用过的漏洞"
 }
