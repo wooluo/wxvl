@@ -27307,5 +27307,14 @@
     "https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA": "【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发",
     "https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A": "【漏洞预警】Citrix NetScaler 命令注入漏洞",
     "https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ": "54款大模型测出873个漏洞，网安生该学什么？",
-    "https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg": "iOS 26.7.1 发布了：一个已经被用过的漏洞"
+    "https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg": "iOS 26.7.1 发布了：一个已经被用过的漏洞",
+    "https://mp.weixin.qq.com/s/zOGai1n1tTcCu_A5R_Oe4w": "苹果修复或已用于定向攻击的 CoreGraphics 漏洞",
+    "https://mp.weixin.qq.com/s/ycEetNgdOshlwOE4CCRDtQ": "Next.js ImageResponse RCE漏洞（附POC）",
+    "https://mp.weixin.qq.com/s/lP0Lx-LIkgvY_xJ7DFrl2g": "300+工具 + 7大AI引擎 + 6.8万漏洞库：这款安全工具箱太顶了！",
+    "https://mp.weixin.qq.com/s/DZiJD9--wf0yPRuc7GfWFg": "(10分) CVE-2026-53988：Dockhand Docker面板认证绕过",
+    "https://mp.weixin.qq.com/s/qbsogI0kBbzZaf9KxQOb_Q": "漏洞预警 | Notepad++栈缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s/Z1i5-bJrvrYbohcf7KzNxA": "漏洞预警 | WordPress编码绕过漏洞",
+    "https://mp.weixin.qq.com/s/U8Ic-qHbhXaxUo5QsOaqbA": "CNVD挖洞SKILL通用漏洞新思路 | 未授权漏洞批量挖掘方案，冷门产品线 + 端点字典，只读探测一键跑通全链路",
+    "https://mp.weixin.qq.com/s/_NWYy8Ur6cxBfK9dUlgqSQ": "【热点安全风险】9月30日｜Apple 修复已在野利用的零日漏洞，攻击者可用恶意文件执行任意代码（CVE-2026-86950）",
+    "https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ": "16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露"
 }
