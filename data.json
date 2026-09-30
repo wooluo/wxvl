@@ -27336,5 +27336,18 @@
     "https://mp.weixin.qq.com/s/wqsrriG6sd1HD5Yi_AJDDg": "斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效",
     "https://mp.weixin.qq.com/s/zFtuvbx23UY9APdf6fyl5A": "苹果修补疑遭定向利用的图形漏洞",
     "https://mp.weixin.qq.com/s/gbDHx7Z3vwo0oVpyF09vow": "Netcore NAP930 的免凭据 root 通道（CVE-2026-102240）",
-    "https://mp.weixin.qq.com/s/9GOF6ZkqLjadkeOFHPpWnQ": "集合循环引用导致拒绝服务漏洞"
+    "https://mp.weixin.qq.com/s/9GOF6ZkqLjadkeOFHPpWnQ": "集合循环引用导致拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/6bzWN9mP6wD5c0rwpGqA5A": "从一条审批API请求，挖掘严重漏洞",
+    "https://mp.weixin.qq.com/s/BJ6xcb874rx0okXA8LODEQ": "【安全圈】全新幽灵BTR漏洞曝光：绕过主流防御窃取Linux内核高权哈希",
+    "https://mp.weixin.qq.com/s/eqe3d6YPvHO8T7Orx3Z_dg": "【安全圈】OpenSSL修复DTLS高危漏洞：重传逻辑缺陷致未加密堆内存外泄",
+    "https://mp.weixin.qq.com/s/dbCopeejL_EwV4UQQCtFoA": "【高危漏洞预警】Next.js ImageResponseRCE漏洞CVE-2026-94545",
+    "https://mp.weixin.qq.com/s/srpFayIqThg95Pb6MJKzCg": "专题·原创 | 人工智能时代电信运营商漏洞安全治理体系重构与实践",
+    "https://mp.weixin.qq.com/s/dVPfaeLA9zvAtwbb6b9now": "【漏洞情报】2026年9月车联网漏洞态势综述",
+    "https://mp.weixin.qq.com/s/1ZdELz9p0u05bt-23nq2RQ": "【漏洞通告】Next.js next∕og未授权远程代码执行漏洞(CVE-2026-94545)",
+    "https://mp.weixin.qq.com/s/I7DV_PBZ0tO_c3TL_d6xVw": "Glasswing项目公布五月实测数据，AI漏洞误报率较高",
+    "https://mp.weixin.qq.com/s/3wGsbpxZc_tjL8u7RFalRw": "Bitget披露3.88亿美元被盗细节，第三方安全产品0Day成入侵入口",
+    "https://mp.weixin.qq.com/s/dot4IaTcv9aCrQtqNY_BAA": "MCP Python SDK 高危 OAuth 漏洞曝光，AI Agent 账号存在被劫持风险",
+    "https://mp.weixin.qq.com/s/RnIZ-x-WOgUxtwwokSornQ": "海量告警里揪出黑客诡计，360AI安全专家实锤0day RCE漏洞完整攻击链",
+    "https://mp.weixin.qq.com/s/DECfq5gZodGVi2c9DjtCVQ": "下载的python也可能是木马？pythonw.exe 木马全链路复现",
+    "https://mp.weixin.qq.com/s/MIBq2MiHVanuRC4em6gj0g": "【已复现】漏洞通告 | Next.js next∕og 未授权远程代码执行漏洞(CVE-2026-94545)"
 }
