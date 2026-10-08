@@ -27539,5 +27539,8 @@
     "https://mp.weixin.qq.com/s/Q34tmxXv697P8M1uhb_9Kw": "【漏洞通告】cjose JWE全零密钥漏洞(CVE-2026-53939)",
     "https://mp.weixin.qq.com/s/dX1AkFr0omAxrFWEI5Xydw": "BRuteLogic 披露：EJS < v6.0.0-alpha 原型污染可致 RCE",
     "https://mp.weixin.qq.com/s/YK6YHR2fivobuBKO2OgoUg": "MySQL 0DAY 漏洞 当客户端选择相信协议：mysqldump 的 SHOW TABLES 栈溢出",
-    "https://mp.weixin.qq.com/s/F7BPj_KDVKR8NpiE_rvf4g": "【高危通告】Fastjson 远程代码执行漏洞 CVE-2026-16723 安全通告"
+    "https://mp.weixin.qq.com/s/F7BPj_KDVKR8NpiE_rvf4g": "【高危通告】Fastjson 远程代码执行漏洞 CVE-2026-16723 安全通告",
+    "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本",
+    "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg": "【高危漏洞预警】Atlassian Data Center未认证任意文件读取漏洞CVE-2026-21589",
+    "https://mp.weixin.qq.com/s/LzMd-dkN9hPacFDZujpbKw": "大模型是怎么被攻破的？七类主流攻击手法与本地复现"
 }
