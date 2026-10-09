@@ -27542,5 +27542,6 @@
     "https://mp.weixin.qq.com/s/F7BPj_KDVKR8NpiE_rvf4g": "【高危通告】Fastjson 远程代码执行漏洞 CVE-2026-16723 安全通告",
     "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本",
     "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg": "【高危漏洞预警】Atlassian Data Center未认证任意文件读取漏洞CVE-2026-21589",
-    "https://mp.weixin.qq.com/s/LzMd-dkN9hPacFDZujpbKw": "大模型是怎么被攻破的？七类主流攻击手法与本地复现"
+    "https://mp.weixin.qq.com/s/LzMd-dkN9hPacFDZujpbKw": "大模型是怎么被攻破的？七类主流攻击手法与本地复现",
+    "https://mp.weixin.qq.com/s/7B2mTubNYV6v7BuPiaPNYw": "【热点安全风险】10月9日｜Cisco Catalyst SD-WAN Manager 认证绕过遭在野利用 ，攻击者可取得管理员权限（CVE-2026-76504）"
 }
