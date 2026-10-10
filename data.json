@@ -27725,5 +27725,11 @@
     "https://mp.weixin.qq.com/s/3ApdijmWEhxuPd_c93VuMA": "【成功复现】WordPress Visual Composer Website Builder任意本地文件包含漏洞(CVE-2026-12227)",
     "https://mp.weixin.qq.com/s/yKD_0v6Zl0oWqbC9i77yyA": "Anthropic 推出两项网络安全新举措：开源漏洞速报与 OT 关键基础设施防御计划落地；CNNVD发布人工智能重要安全漏洞的通报| 牛览",
     "https://mp.weixin.qq.com/s/Qs3XFDE_CgJrflmTyl4rOA": "凌晨三点半，我RCE了",
-    "https://mp.weixin.qq.com/s/6WztkNCmxPKKkriZVlj4qg": "【大洞速修】OnlyOffice 前台 RCE 漏洞！"
+    "https://mp.weixin.qq.com/s/6WztkNCmxPKKkriZVlj4qg": "【大洞速修】OnlyOffice 前台 RCE 漏洞！",
+    "https://mp.weixin.qq.com/s/9MBD7ISCeoD5ACDTpphoJw": "nginx-ui曝高危远程代码执行漏洞(CVE-2026-107806)，管理员认证后可执行任意命令",
+    "https://mp.weixin.qq.com/s/KMeV1o6pKw5Uw8rGsmCplg": "WorkBuddy 挂机开启自动挖漏洞，日入几千成本就一个电费",
+    "https://mp.weixin.qq.com/s/3xZ0f-1cLSQfarNIFYnI0w": "Linux KVM∕arm64 漏洞允许攻击者逃离虚拟机并获得主机访问权限",
+    "https://mp.weixin.qq.com/s/_I4nOHa1HC1B2n6-GHxhlw": "OnlyOffice 前台 RCE 代码分析：五年没修干净的路径穿越，撞上 v9 的热重载",
+    "https://mp.weixin.qq.com/s/CevIhXbSBpzmu2HGFr84kQ": "改个数字就能删别人数据？聊聊\"水平越权\"漏洞",
+    "https://mp.weixin.qq.com/s/z_a1HA1EI3HtgF-dyd5U0A": "漏洞复现 | 金和OA nextselectplan.aspx 存在SQL注入漏洞"
 }
