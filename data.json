@@ -27731,5 +27731,8 @@
     "https://mp.weixin.qq.com/s/3xZ0f-1cLSQfarNIFYnI0w": "Linux KVM∕arm64 漏洞允许攻击者逃离虚拟机并获得主机访问权限",
     "https://mp.weixin.qq.com/s/_I4nOHa1HC1B2n6-GHxhlw": "OnlyOffice 前台 RCE 代码分析：五年没修干净的路径穿越，撞上 v9 的热重载",
     "https://mp.weixin.qq.com/s/CevIhXbSBpzmu2HGFr84kQ": "改个数字就能删别人数据？聊聊\"水平越权\"漏洞",
-    "https://mp.weixin.qq.com/s/z_a1HA1EI3HtgF-dyd5U0A": "漏洞复现 | 金和OA nextselectplan.aspx 存在SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/z_a1HA1EI3HtgF-dyd5U0A": "漏洞复现 | 金和OA nextselectplan.aspx 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/EYmjVeqgd3fsQGizbcIPtg": "(9.1分) CVE-2026-97670：Avada表单未授权调用任意Hook，可永久删站内容",
+    "https://mp.weixin.qq.com/s/U5QocHhwnm_cLvwwalJiIA": "【热点安全风险】10月11日｜电力工控平台曝未认证远程代码执行漏洞，攻击者可直取电网监测系统（CVE-2026-100730）",
+    "https://mp.weixin.qq.com/s/KYlCKzU36llnmZsY5UaU8w": "微软发布紧急 Exchange Server 更新以修复 CVE-2026-96940"
 }
