@@ -27794,5 +27794,14 @@
     "https://mp.weixin.qq.com/s/hmHlNiFOiQZqdjMu7wxVVA": "一个单引号打穿十年ORM：Exposed全版本SQL注入(CVE-2026-108474附PoC)",
     "https://mp.weixin.qq.com/s/Z7jlodIgkmBr9SkzOM1IgA": "SQLite 0Day大放送：研究员一次性披露14个未公开漏洞，含一条完整RCE",
     "https://mp.weixin.qq.com/s/tbKGl51k694SflFEXb0XJw": "漏洞复现 | 天锐绿盾审批系统 getConfigValues.do 信息泄露漏洞",
-    "https://mp.weixin.qq.com/s/ePaxkdX3x61JzOAKofH-XQ": "【已复现】FortiMail 未授权任意文件写入漏洞，已遭在野利用"
+    "https://mp.weixin.qq.com/s/ePaxkdX3x61JzOAKofH-XQ": "【已复现】FortiMail 未授权任意文件写入漏洞，已遭在野利用",
+    "https://mp.weixin.qq.com/s/x6MFuNmAGqpBNXBCs0vrqw": "美国 (CISA) 警告：Zyxel GS1900 交换机漏洞已被积极用于攻击",
+    "https://mp.weixin.qq.com/s/c_f1XVcDeNXNyNgztkR_UA": "聚恒中台sendvalidatecode接口存在SQL注入  附POC",
+    "https://mp.weixin.qq.com/s/tmJOJYPh4E2Tr8TdDJn8pA": "Telegram桌面版惊现IPC注入漏洞，点击链接即可被完全劫持账户",
+    "https://mp.weixin.qq.com/s/0Q6MlhAXMwOinskHvyfj8w": "浅析SpringBoot框架常见未授权访问漏洞",
+    "https://mp.weixin.qq.com/s/-Z9kxlNP6fyiIbPu7R3NMQ": "Anthropic紧急断网，Claude利用注入漏洞越界入侵真实网站",
+    "https://mp.weixin.qq.com/s/lA8ezIGnnW5Jz5DUoVlvLQ": "每周PDF资源：Atlassian曝严重漏洞；智能硬件企业CRA合规实践",
+    "https://mp.weixin.qq.com/s/LLy5_UGSbruaFWXzTrhhOw": "极安破奕-给我一个txt，还你一个rce",
+    "https://mp.weixin.qq.com/s/FdX8aw_G8bjNq3bmOvTYpQ": "[工具推荐]专为 SRC场景设计&&一个基于LLM 驱动的多 Agent 协作漏洞挖掘系统--Argus",
+    "https://mp.weixin.qq.com/s/QaIGWGIbJdITAaLCf3S9zg": "用友时空KSOA agent_worksdel.jsp SQL延时注入漏洞"
 }
