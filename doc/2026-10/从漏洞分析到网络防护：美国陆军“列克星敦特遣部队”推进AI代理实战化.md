@@ -1,6 +1,5 @@
 #  从漏洞分析到网络防护：美国陆军“列克星敦特遣部队”推进AI代理实战化  
-原创 奇安侦察兵
-                    奇安侦察兵  奇安网情局   2026-10-13 01:58  
+ 安全内参   2026-10-13 09:39  
   
 编者按  
   
@@ -68,42 +67,25 @@
   
   
   
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhWb73nzR00zapibYBoeEpiaSFhdK0FAlsnXO2MvcQQm3dDwA7VGG4JMziadmLlLBEeNBSszdVQlPiaXYicElg3mOE7J4MCA5p1A7iaK0/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhXic76YbicDt4pqicibiabib3awqTan3eP15yOqhue3ZAL60m5nEIYUYO5xBBsjDjSuINc6wz2zutzhJcJmMtCrZOZicBpj6epm4P9r9Y/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhWgc54Q3ciaGb5EJaxRkJ9jrE8xLicqfPgTZicqql9wLcwta6wChM47fyKc038iamwJb5pLecxdyuZ4QFZHrXqq4dibQlufOIpo9CGU/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhU2FNTo4cbw2hNSCE9eKAHe37mOlsicRQJwPONoTxcIoQgwyWk3fFia75o6Q2VjCREnGqTia8syUMTF9NQiaWDQMNfgibA9BXl1aR0c/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhWpIQooZB0icWB7E8xkaIUd9gHwibWurvtuwaRYy2tkbic1eaZyKAib5Ler0oOR31uwXLEIMicNzQVazw2TdOS5Sc4HeCc7PJaIAVUM/640?wx_fmt=png&from=appmsg "")  
+**推荐阅读**  
+- [网安智库平台长期招聘兼职研究员](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247499450&idx=2&sn=2da3ca2e0b4d4f9f56ea7f7579afc378&chksm=ebfab99adc8d308c3ba6e7a74bd41beadf39f1b0e38a39f7235db4c305c06caa49ff63a0cc1d&scene=21#wechat_redirect)  
   
   
-未经本公众号主体允许，  
-不得利用本公众号原创内容开展商业营利行为  
+- [欢迎加入“安全内参热点讨论群”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247501251&idx=1&sn=8b6ebecbe80c1c72317948494f87b489&chksm=ebfa82e3dc8d0bf595d039e75b446e14ab96bf63cf8ffc5d553b58248dde3424fb18e6947440&token=525430415&lang=zh_CN&scene=21#wechat_redirect)  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhXWz32fiao32MAMFePyVtvlKfS0950scFRA2FqbvKsH1BqKrWUPZZGFnVm8oe49JN90Zp7vNLsqTqbB6QVfZauE38xjQ6oAXk7Q/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/0SLhkeQQqhV98vyBqXiccicXmG56sFX5W8GXZfsV1ygGAV4v1Qlh9S5pN8RHwX7O7pOR15MzAkzp9YM4oklhPKq0dHfYsHU2np0sXPrPgWCSk/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhWn8B5wGzq4c7Kf7icUP7ARqoaHQgaVhrnCwFasvmauicDlj6z8BZiatI5QrUT2MvYsnt1AvjXW3frWsw75Qvfm2bnsh072DQapkk/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhXwgJcGt7kEalNmudA8naBibrLOh5Dl5UMzreyJWa5CKWu3zfJvY5tBbdrWvEia6TREa0txqCksHZzB26ibYo5wxdzCsCW3cicFxWc/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/0SLhkeQQqhVvI2CDK2fibFQguPPSFc6CNScKT82FAgEQPpu8nqqIo9zjYf8ZmLO9rkNZl4kVVd8YMiaw1XibE7iaiayibeWtftodgznRUTEcwIvNA/640?wx_fmt=png&from=appmsg "")  
   
   
-网络国防知识库  
-  
-产业发展前哨站  
-  
-开源情报信息源  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/0SLhkeQQqhX15nbASlbmNxLKiaJYIq2j4pZZq02pqg9VAOTMWLibIrFlgYMKjaVWxTzricibEOK8x92SQevKhB25xJUFXXBLz9Cic7L4BfzSmSdg/640?wx_fmt=jpeg&from=appmsg "")  
   
   
+文章来源：  
 奇安网情局  
+  
+  
+点击下方卡片关注我们，  
+  
+带你一起读懂网络安全 ↓  
+  
+  
   
   
